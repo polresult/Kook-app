@@ -1,10 +1,12 @@
 
-const CACHE_NAME = 'kook-app-v3.2';
+const CACHE_NAME = 'kook-app-v3.3';
 
 const APP_SHELL = [
   './',
   './index.html',
-  './manifest.json'
+  './manifest.json',
+  './icons/icon.svg',
+  './icons/icon-192.png'
 ];
 
 self.addEventListener('install', event => {
