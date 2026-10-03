@@ -34,3 +34,5 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Kip caprese uit de oven: https://www.pexels.com/photo/13443376/
 - Tonijnpasta met citroen: https://www.pexels.com/photo/6896393/
 - Pompoenpasta met feta: https://www.pexels.com/photo/7262798/
+
+App-icoon (map icons/): uitsnede van de foto bij Kip kerrie met rijst, https://www.pexels.com/photo/4611425/
