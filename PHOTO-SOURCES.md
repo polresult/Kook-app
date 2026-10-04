@@ -34,32 +34,27 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Kip caprese uit de oven: https://www.pexels.com/photo/13443376/
 - Tonijnpasta met citroen: https://www.pexels.com/photo/6896393/
 - Pompoenpasta met feta: https://www.pexels.com/photo/7262798/
+- Geroosterde bloemkool met tahin en granaatappel: https://www.pexels.com/photo/6544494/
+- Miso-aubergine met sesamrijst: https://www.pexels.com/photo/37297760/
+- Gnocchi met gorgonzola, peer en walnoot: https://www.pexels.com/photo/3590401/
+- Halloumi met geroosterde druiven en tijm: https://www.pexels.com/photo/8753778/
+- Courgette-risotto van orzo met citroen: https://www.pexels.com/photo/15141365/
+- Miso-ramen met shiitake en zacht ei: https://www.pexels.com/photo/36511368/
+- Portobello met geitenkaas, honing en walnoot: https://www.pexels.com/photo/5950441/
+- Platgeslagen kip met geitenkaas en prosciutto: https://www.pexels.com/photo/28247014/
+- Krokante kippendijen met salie, gember en citroen: https://www.pexels.com/photo/4589138/
+- Lamsköfte met granaatappel en muntyoghurt: https://www.pexels.com/photo/15058850/
+- Varkenshaas met appel, mosterd en salie: https://www.pexels.com/photo/792027/
+- Thaise basilicumkip met gebakken ei: https://www.pexels.com/photo/26390890/
+- Chorizo met kikkererwten en gerookte paprika: https://www.pexels.com/photo/39224706/
+- Entrecote met chimichurri en zoete aardappel: https://www.pexels.com/photo/10115297/
+- Harissa-kip met abrikoos en amandel: https://www.pexels.com/photo/18363399/
+- Makreel met gremolata en geroosterde biet: https://www.pexels.com/photo/32722832/
+- Mosselen met venkel, knoflook en witte wijn: https://www.pexels.com/photo/4344545/
+- Zalm met miso-honingglazuur en paksoi: https://www.pexels.com/photo/39641634/
+- Linguine met garnalen en 'nduja: https://www.pexels.com/photo/27976900/
+- Ceviche van witvis met mango en limoen: https://www.pexels.com/photo/39320162/
+- Tonijnsteak met sesamkorst en wasabimayo: https://www.pexels.com/photo/18743148/
+- Dorade uit de oven met venkel, sinaasappel en olijven: https://www.pexels.com/photo/27294732/
 
 App-icoon (map icons/): uitsnede van de foto bij Kip kerrie met rijst, https://www.pexels.com/photo/4611425/
-
-## Nog zonder foto
-
-Deze recepten tonen voorlopig hun emoji. Voeg een foto toe als `photos/<pexels-id>.webp` en zet het id in de PHOTOS-tabel in index.html.
-
-- Geroosterde bloemkool met tahin en granaatappel
-- Miso-aubergine met sesamrijst
-- Gnocchi met gorgonzola, peer en walnoot
-- Halloumi met geroosterde druiven en tijm
-- Courgette-risotto van orzo met citroen
-- Miso-ramen met shiitake en zacht ei
-- Portobello met geitenkaas, honing en walnoot
-- Platgeslagen kip met geitenkaas en prosciutto
-- Krokante kippendijen met salie, gember en citroen
-- Lamsköfte met granaatappel en muntyoghurt
-- Varkenshaas met appel, mosterd en salie
-- Thaise basilicumkip met gebakken ei
-- Chorizo met kikkererwten en gerookte paprika
-- Entrecote met chimichurri en zoete aardappel
-- Harissa-kip met abrikoos en amandel
-- Makreel met gremolata en geroosterde biet
-- Mosselen met venkel, knoflook en witte wijn
-- Zalm met miso-honingglazuur en paksoi
-- Linguine met garnalen en 'nduja
-- Ceviche van witvis met mango en limoen
-- Tonijnsteak met sesamkorst en wasabimayo
-- Dorade uit de oven met venkel, sinaasappel en olijven
