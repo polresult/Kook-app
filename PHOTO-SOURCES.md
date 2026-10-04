@@ -114,12 +114,12 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Pasta alla norma met aubergine en ricotta: https://www.pexels.com/photo/29039066/
 - Cacio e pepe: https://www.pexels.com/photo/34797458/
 - Pasta puttanesca met olijven en kappertjes: https://www.pexels.com/photo/31769298/
-- Pasta met zalm, dille en doperwten: https://www.pexels.com/photo/38326962/
+- Pasta met gerookte forel, doperwten en dille: https://www.pexels.com/photo/3820638/
 - Pasta met worstjes, venkelzaad en tomaat: https://www.pexels.com/photo/16010637/
 - Rigatoni met paprikaroomsaus en geroosterde kikkererwten: https://www.pexels.com/photo/30076296/
 - Mac and cheese met krokant broodkruim: https://www.pexels.com/photo/9397238/
 - Pasta met kip, spinazie en zongedroogde tomaat: https://www.pexels.com/photo/4730662/
-- Spaghetti aglio e olio met garnalen: https://www.pexels.com/photo/5041500/
+- Spaghetti alle vongole: https://www.pexels.com/photo/9244891/
 - Pasta met pompoen, salie en hazelnoot: https://www.pexels.com/photo/16759481/
 - Risotto met groene asperges en citroen: https://www.pexels.com/photo/7491887/
 - Risotto met pompoen en salie: https://www.pexels.com/photo/26219974/
@@ -147,7 +147,7 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Aloo gobi met linzen en rijst: https://www.pexels.com/photo/2116093/
 - Kip korma met amandel en rozijnen: https://www.pexels.com/photo/10508208/
 - Viscurry met kokos en tamarinde: https://www.pexels.com/photo/35532828/
-- Tandoori-zalm met zoeteaardappelsalade: https://www.pexels.com/photo/31890213/
+- Tandoori-roodbaars met zoeteaardappelsalade: https://www.pexels.com/photo/29149761/
 - Tofu in zwartebonensaus met paprika: https://www.pexels.com/photo/37297770/
 - Mapo tofu met gehakt en Szechuanpeper: https://www.pexels.com/photo/20943933/
 - Gebakken rijst met ei, doperwten en bosui: https://www.pexels.com/photo/32845321/
@@ -201,11 +201,11 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Zeebaars met krieltjes en bimi: https://www.pexels.com/photo/15352337/
 - Forel uit de oven met citroen en amandel: https://www.pexels.com/photo/12932200/
 - Heek met bietjes en peterseliekruim: https://www.pexels.com/photo/15059689/
-- Kabeljauw in pakketjes met prei en witte wijn: https://www.pexels.com/photo/5722798/
-- Zalm in roomsaus met dille en rijst: https://www.pexels.com/photo/33674236/
-- Zalm met sesamkorst en noedels: https://www.pexels.com/photo/15895834/
+- Schelvis in pakketjes met prei en witte wijn: https://www.pexels.com/photo/7491914/
+- Schelvis in mosterdroomsaus met prei en rijst: https://www.pexels.com/photo/29203708/
+- Zeebaars met sesam, gember en noedels: https://www.pexels.com/photo/15387048/
 - Tonijnsteak met ingelegde ui en parelcouscous: https://www.pexels.com/photo/31779503/
-- Garnalensandwich met spinazie en zoete aardappelfriet: https://www.pexels.com/photo/16694957/
+- Coquilles met doperwtenpuree en krokante spek: https://www.pexels.com/photo/16922434/
 - Gamba's pil pil met brood: https://www.pexels.com/photo/16273763/
 - Paella met kip en garnalen: https://www.pexels.com/photo/16743489/
 - Inktvisringen met aioli en salade: https://www.pexels.com/photo/13677427/
@@ -227,11 +227,11 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Kipgehaktballetjes in romige kerriesaus: https://www.pexels.com/photo/38934831/
 - Biefstuk met pepersaus en friet: https://www.pexels.com/photo/37389036/
 - Biefstuk met kaassaus en bulgursalade: https://www.pexels.com/photo/37389033/
-- Zalm met knoflookboter en geroosterde groente: https://www.pexels.com/photo/14537684/
+- Sliptong in boter met citroen en krieltjes: https://www.pexels.com/photo/16273766/
 - Beef stroganoff met tagliatelle: https://www.pexels.com/photo/33944954/
 - Lomo saltado met friet en rijst: https://www.pexels.com/photo/28503590/
 - Gehaktballen met rodewijnjus en aardappel-selderijpuree: https://www.pexels.com/photo/22711494/
-- Zalmkoekjes met dille en aardappel-komkommersalade: https://www.pexels.com/photo/19993435/
+- Viskoekjes van schelvis met dille en aardappel-komkommersalade: https://www.pexels.com/photo/25315521/
 - Varkenshaas met champignonroomsaus: https://www.pexels.com/photo/1352269/
 - Varkenshaas met truffeltapenade en rucola: https://www.pexels.com/photo/39641642/
 - Speklapjes met ketjap en spitskool: https://www.pexels.com/photo/13774718/
