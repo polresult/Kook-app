@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'kook-app-v4.0.0';
+const CACHE_NAME = 'kook-app-v4.0.1';
 
 const APP_SHELL = [
   './',
