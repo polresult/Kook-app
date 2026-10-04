@@ -36,3 +36,30 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Pompoenpasta met feta: https://www.pexels.com/photo/7262798/
 
 App-icoon (map icons/): uitsnede van de foto bij Kip kerrie met rijst, https://www.pexels.com/photo/4611425/
+
+## Nog zonder foto
+
+Deze recepten tonen voorlopig hun emoji. Voeg een foto toe als `photos/<pexels-id>.webp` en zet het id in de PHOTOS-tabel in index.html.
+
+- Geroosterde bloemkool met tahin en granaatappel
+- Miso-aubergine met sesamrijst
+- Gnocchi met gorgonzola, peer en walnoot
+- Halloumi met geroosterde druiven en tijm
+- Courgette-risotto van orzo met citroen
+- Miso-ramen met shiitake en zacht ei
+- Portobello met geitenkaas, honing en walnoot
+- Platgeslagen kip met geitenkaas en prosciutto
+- Krokante kippendijen met salie, gember en citroen
+- Lamsköfte met granaatappel en muntyoghurt
+- Varkenshaas met appel, mosterd en salie
+- Thaise basilicumkip met gebakken ei
+- Chorizo met kikkererwten en gerookte paprika
+- Entrecote met chimichurri en zoete aardappel
+- Harissa-kip met abrikoos en amandel
+- Makreel met gremolata en geroosterde biet
+- Mosselen met venkel, knoflook en witte wijn
+- Zalm met miso-honingglazuur en paksoi
+- Linguine met garnalen en 'nduja
+- Ceviche van witvis met mango en limoen
+- Tonijnsteak met sesamkorst en wasabimayo
+- Dorade uit de oven met venkel, sinaasappel en olijven
