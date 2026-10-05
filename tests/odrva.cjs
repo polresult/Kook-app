@@ -16,8 +16,10 @@ if(!renderShop() && document.getElementById('shopping').innerHTML.includes('NaN'
 S.persons=4;if(shoppingTotals()['mosselen|g']!==1000)throw Error('4 persons must get 1000g');
 const pasta=R.find(r=>r.sourceUrl?.includes('DdBYSwpPALx'));
 S.week=[pasta.id,curry.id];
-if(shoppingTotals()['olijfolie|el']!==undefined)throw Error('unknown base servings should not be scaled');
-if(!missingShopping()['olijfolie|onbekend'].notes.some(n=>n.includes('8 el')))throw Error('source amount not preserved');
+if(shoppingTotals()['olijfolie|el']!==undefined||missingShopping()['olijfolie|onbekend'])throw Error('staple olijfolie should be off the shopping list');
+const staple=shoppingIngredients({ingredients:[['zout',null,''],['peper',null,''],['olijfolie',8,'el'],['chilipeper',1,'stuk']]});
+if(staple.some(i=>/^(zout|peper|olijfolie)$/.test(i[0])))throw Error('staple leaked onto shopping list');
+if(!staple.some(i=>i[0]==='chilipeper'))throw Error('chilipeper wrongly excluded as staple');
 if(!ingredientLabel(pasta,pasta.ingredients.find(i=>i[0]==='olijfolie')).includes('8 el'))throw Error('detail source amount');
 if(filtered('Snel').some(r=>r.time===null))throw Error('unknown times included as quick recipes');
 openR(pasta.id,'week');
