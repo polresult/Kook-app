@@ -290,6 +290,39 @@ Uit Pauline's Keuken (recepten 353 t/m 382, 5 oktober 2026): stockfoto's van Pex
 - Kabeljauw in pancetta met geroosterde cherrytomaten: https://www.pexels.com/photo/12653397/
 - Zalmfilet met dukkah en citroen: https://www.pexels.com/photo/30553179/
 
+Uit Pauline's Keuken, lente en zomer (recepten 383 t/m 412, 5 oktober 2026): stockfoto's van Pexels ter inspiratie, geen beelden van uitpaulineskeuken.nl.
+
+- Witte-aspergelasagne met citroen en pijnboompitten: https://www.pexels.com/photo/6608619/ (photos/6608619.webp)
+- Plaattaart met groene asperges, ricotta en doperwten: https://www.pexels.com/photo/36740665/ (photos/36740665.webp)
+- Green goddess salade met geroosterde broccoli en asperges: https://www.pexels.com/photo/30254790/ (photos/30254790.webp)
+- Artisjoksalade met linzen en geitenkaas: https://www.pexels.com/photo/9444055/ (photos/9444055.webp)
+- Fattoush met krokant platbrood, radijs en granaatappel: https://www.pexels.com/photo/37019701/ (photos/37019701.webp)
+- Aardappelsalade met sperziebonen, ei en kruidenmayonaise: https://www.pexels.com/photo/38728669/ (photos/38728669.webp)
+- Kisir: Turkse bulgursalade met granaatappelmelasse: https://www.pexels.com/photo/36673645/ (photos/36673645.webp)
+- Teriyaki-courgette met taugé en pinda's: https://www.pexels.com/photo/24738511/ (photos/24738511.webp)
+- Panzanella: Italiaanse broodsalade met tomaat en basilicum: https://www.pexels.com/photo/7239436/ (photos/7239436.webp)
+- Courgetterolletjes met spinazie en feta in tomatensaus: https://www.pexels.com/photo/35074092/ (photos/35074092.webp)
+- Salade Lyonnaise met krieltjes, spek en zachtgekookt ei: https://www.pexels.com/photo/3070970/ (photos/3070970.webp)
+- Carpaccio met basilicummayonaise, rucola en pijnboompitten: https://www.pexels.com/photo/26932238/ (photos/26932238.webp)
+- Kip tandoori spiesjes met naan en raita: https://www.pexels.com/photo/29173111/ (photos/29173111.webp)
+- Char siu: Chinese varkenshaasspiesjes met honing en hoisin: https://www.pexels.com/photo/29432175/ (photos/29432175.webp)
+- Kip in yoghurtmarinade met kikkererwtensalade en tahin: https://www.pexels.com/photo/18363400/ (photos/18363400.webp)
+- Spiesjes met chorizo, halloumi, krieltjes en paprika: https://www.pexels.com/photo/16716140/ (photos/16716140.webp)
+- Shaslick van de bbq met varkenshaas, spek en paprika: https://www.pexels.com/photo/8707683/ (photos/8707683.webp)
+- Merguez met couscous, granaatappel en pistache: https://www.pexels.com/photo/29594950/ (photos/29594950.webp)
+- Bavette van de bbq met bang bang saus: https://www.pexels.com/photo/31460002/ (photos/31460002.webp)
+- Flat iron steak spiesjes met champignons en maïsmole: https://www.pexels.com/photo/36983735/ (photos/36983735.webp)
+- Picanha uit de oven met paprikasalsa: https://www.pexels.com/photo/31224919/ (photos/31224919.webp)
+- Spareribs van de bbq met soja-honingmarinade: https://www.pexels.com/photo/38545816/ (photos/38545816.webp)
+- Plaattaart met witte asperges, gerookte zalm en ei: https://www.pexels.com/photo/15029064/ (photos/15029064.webp)
+- Asperge-zalmspiesjes met spinaziestamp: https://www.pexels.com/photo/5039342/ (photos/5039342.webp)
+- Salade met gerookte zalm, gegrilde asperges en ingelegde biet: https://www.pexels.com/photo/34759413/ (photos/34759413.webp)
+- Kabeljauw van de bbq met tomatentapenade en courgette: https://www.pexels.com/photo/19615784/ (photos/19615784.webp)
+- Langoustines van de bbq met kruidenolie: https://www.pexels.com/photo/39122801/ (photos/39122801.webp)
+- Pulpo met krieltjes, chorizo en citroenaioli: https://www.pexels.com/photo/26571194/ (photos/26571194.webp)
+- Grote garnalen met chermoula en harissadip: https://www.pexels.com/photo/17478675/ (photos/17478675.webp)
+- Gewokte garnalen met noedels, groene asperges en watermeloen: https://www.pexels.com/photo/17952224/ (photos/17952224.webp)
+
 App-icoon (map icons/): uitsnede van de foto bij Kip kerrie met rijst, https://www.pexels.com/photo/4611425/
 
 ## ODRVA — oorspronkelijke videoframes
