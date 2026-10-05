@@ -257,6 +257,39 @@ Bron: Pexels. Licentie: https://www.pexels.com/legal-pages/license/
 - Linzenstoof met rijst en spinazie: https://www.pexels.com/photo/6544376/
 - Spruitjesstamppot met geroosterde walnoot en mosterd: https://www.pexels.com/photo/3510155/
 
+Uit Pauline's Keuken (recepten 353 t/m 382, 5 oktober 2026): stockfoto's van Pexels ter inspiratie, geen beelden van uitpaulineskeuken.nl.
+
+- Käsespätzle met spitskool en gefrituurde ui: https://www.pexels.com/photo/31673751/
+- Linzenschotel met boerenkoolpesto en shiitake: https://www.pexels.com/photo/35763746/
+- Bietengalette met geitenkaas en tijm: https://www.pexels.com/photo/5502077/
+- Gevulde flespompoen met orzo, champignons en oude kaas: https://www.pexels.com/photo/28152657/
+- Rodewijnrisotto met paddenstoelen en krokante salie: https://www.pexels.com/photo/6406460/
+- Pasta met palmkool, bloemkoolroomsaus en pangrattato: https://www.pexels.com/photo/3621221/
+- Freekeh met geroosterde pompoen, spinazie en hüttenkäse: https://www.pexels.com/photo/18416900/
+- Bastilla met pompoen, gekarameliseerde ui en feta: https://www.pexels.com/photo/33709261/
+- Knolselderijsteak met waldorfsalade en aardappelpuree: https://www.pexels.com/photo/18027885/
+- Kumpir: Turkse gepofte aardappel met rode kool en olijven: https://www.pexels.com/photo/9213997/
+- Hertenstoof met ontbijtkoek en kruidnagel: https://www.pexels.com/photo/27819664/
+- Boeuf bourguignon met spek en champignons: https://www.pexels.com/photo/7239431/
+- Goulash met rundvlees, paprika en karwijzaad: https://www.pexels.com/photo/38441086/
+- Ossobuco met gremolata: https://www.pexels.com/photo/15186040/
+- Tartiflette met spitskool, spek en reblochon: https://www.pexels.com/photo/34985106/
+- Rendang van rundvlees met kokos en citroengras: https://www.pexels.com/photo/37090687/
+- Kipbiryani met saffraan en kardemom: https://www.pexels.com/photo/4224304/
+- Kip à la normande met cider, appel en knolselderijpuree: https://www.pexels.com/photo/31233887/
+- Tiroler Gröstl met spek, paprika en spiegelei: https://www.pexels.com/photo/27905915/
+- Limburgs zuurvlees met appel-perenstroop: https://www.pexels.com/photo/20271268/
+- Zoeteaardappelgratin met chorizo en paddenstoelen: https://www.pexels.com/photo/37226786/
+- Tagliatelle met boerenkool, pancetta en walnootkruim: https://www.pexels.com/photo/6223174/
+- Skrei met chermoula uit de oven: https://www.pexels.com/photo/37367757/
+- Spaanse mosselen met chorizo en tomaat: https://www.pexels.com/photo/17321113/
+- Gewokte mosselen met oestersaus en zeekraal: https://www.pexels.com/photo/8250719/
+- Vispastei met garnalen, zalm en bladerdeeg: https://www.pexels.com/photo/39070779/
+- Zalm en croûte met geitenkaas en kruiden: https://www.pexels.com/photo/35617863/
+- Venkelrisotto met gerookte zalm en kappertjes: https://www.pexels.com/photo/15112756/
+- Kabeljauw in pancetta met geroosterde cherrytomaten: https://www.pexels.com/photo/12653397/
+- Zalmfilet met dukkah en citroen: https://www.pexels.com/photo/30553179/
+
 App-icoon (map icons/): uitsnede van de foto bij Kip kerrie met rijst, https://www.pexels.com/photo/4611425/
 
 ## ODRVA — oorspronkelijke videoframes
