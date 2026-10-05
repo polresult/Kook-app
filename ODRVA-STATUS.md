@@ -13,3 +13,4 @@ Controle: bestaande regressiecontrole voor portieomrekening, onbekende hoeveelhe
 Publicatie: de GitHub-code is bijgewerkt; publicatie naar de bestaande Netlify-site is niet bevestigd.
 
 Extra batch: 25 nieuwe unieke recepten met oorspronkelijke Instagram-bijschriften en gerechtbeelden toegevoegd (ODRVA-BATCH-25.json). Totaal app: 351 recepten; totaal ODRVA-screenshots: 75. Geselecteerde beelden inhoudelijk bekeken; volledige videocontrole blijft open. Aanvullende zichtbare ingrediënten verwerkt. Cacheversie v4.3.3.
+Controle extra batch: beide regressiecontroles geslaagd; alle 25 nieuwe receptdetails geopend en gerechtbeelden succesvol geladen.
