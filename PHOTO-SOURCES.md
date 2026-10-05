@@ -1,6 +1,6 @@
 # Foto's
 
-ODRVA: 101 foto's tonen gerechten uit de oorspronkelijke video's. Daarvan zijn 73 videoframes geretoucheerd om vingers, handen, personen en/of overlaid video-tekst te verwijderen. Andere delen van het gerecht blijven gebaseerd op het oorspronkelijke frame. Een deel krijgt in de app een korte tekstoverlay; een deel blijft zonder tekst. Zie ODRVA-SCREENSHOTS.json voor bronnen en tijdstippen en ODRVA-PHOTO-AUDIT.json voor de controle. Bij vier beelden is een openbare LinkedIn-kopie van dezelfde oorspronkelijke kookvideo gebruikt; beide bronlinks zijn bewaard. Eén recept (268) heeft nog geen gecontroleerde videobron/foto.
+ODRVA: 101 foto's tonen gerechten uit de oorspronkelijke video's. Daarvan zijn 73 videoframes geretoucheerd om vingers, handen, personen en/of overlaid video-tekst te verwijderen. Andere delen van het gerecht blijven gebaseerd op het oorspronkelijke frame. Een deel krijgt in de app een korte tekstoverlay; een deel blijft zonder tekst. Zie ODRVA-SCREENSHOTS.json voor bronnen en tijdstippen en ODRVA-PHOTO-AUDIT.json voor de controle. Bij vier beelden is een openbare LinkedIn-kopie van dezelfde oorspronkelijke kookvideo gebruikt; beide bronlinks zijn bewaard. Het onbevestigde spaghetti-recept (268) is op verzoek verwijderd; alle 101 resterende ODRVA-recepten hebben een foto.
 
 Echte stockfoto's ter inspiratie. De beelden tonen vergelijkbare gerechten of ingrediënten, niet het exacte resultaat van elk recept.
 

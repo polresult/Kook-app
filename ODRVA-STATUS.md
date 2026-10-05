@@ -2,13 +2,13 @@
 
 ## Huidige foto- en boodschappencontrole — 5 oktober 2026
 
-De app bevat 351 recepten, waarvan 102 ODRVA-recepten. 101 hebben een gerechtfoto uit de oorspronkelijke video; 26 eerder ontbrekende beelden zijn toegevoegd. De oorspronkelijke Instagram-links zijn teruggevonden voor macaroni met ham en broccoli, burrata met tomaat en ansjovis, spelttagliatelle met herfsttruffel en groene asperges met roodbaars. De exacte bron van recept 268, spaghetti met olijven, kappertjes en witte wijn, blijft open. Een vergelijkbare Instagram-video met tomaat, ansjovis en chili is gecontroleerd en afgewezen als een ander recept.
+De app bevat 350 recepten, waarvan 101 ODRVA-recepten. Alle 101 hebben een gerechtfoto uit de oorspronkelijke video; 26 eerder ontbrekende beelden zijn toegevoegd. De oorspronkelijke Instagram-links zijn teruggevonden voor macaroni met ham en broccoli, burrata met tomaat en ansjovis, spelttagliatelle met herfsttruffel en groene asperges met roodbaars. Recept 268, spaghetti met olijven, kappertjes en witte wijn, is op verzoek verwijderd omdat de exacte bron niet kon worden bevestigd. Het recept wordt ook uit opgeslagen weekmenu's en favorieten gefilterd.
 
 Alle 101 beelden zijn visueel gecontroleerd op handen en vingers, inclusief beeldranden. 73 beelden zijn geretoucheerd om mensen/vingers en ongewenste video-ondertitels weg te halen. Het oorspronkelijke gerecht blijft de basis; het zijn bewerkte videoframes, geen ongewijzigde screenshots. De overige 28 beelden behouden hun oorspronkelijke opname. Op de opgeschoonde foto's wisselt een app-overlay tussen All organic., Naturally., Pure flavour., Made with love., Simple & fresh. en geen tekst. Bron, frametijd, eventuele LinkedIn-kopie als opnamebron en retoucheerstatus staan in ODRVA-SCREENSHOTS.json en ODRVA-PHOTO-AUDIT.json.
 
 De boodschappenlijst laat water, pastawater en overige kook-/uitlekvochten weg. Sap en rasp van citroen/limoen worden samengevoegd tot de benodigde vrucht, met naar boven afgeronde aantallen op de boodschappenlijst. Sap en rasp binnen één recept gebruiken hetzelfde fruit en worden niet dubbel geteld. Omrekening uit milliliters sap blijft expliciet geschat. Kruiden in grammen blijven grammen.
 
-Cache en zichtbare versie: 4.4.0. De oudere notities hieronder beschrijven eerdere batches.
+Cache en zichtbare versie: 4.4.1. De oudere notities hieronder beschrijven eerdere batches.
 
 De drie afgekeurde beelden (300, 266 en 271) zijn verder bewerkt tot close-ups van het gerecht met minder achtergrond en zonder storend bestek. Alle 101 foto-bestanden laden correct in de browser. De drie regressiecontroles slagen. Een product met zowel een bekende als een onbekende hoeveelheid krijgt één boodschappenregel met een melding voor het onbekende extra deel.
 
