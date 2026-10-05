@@ -3,7 +3,7 @@
   "profilePostCount": 340,
   "uniqueVideoLinks": 338,
   "complete": false,
-  "reviewedCaptions": 18,
+  "reviewedCaptions": 68,
   "videoDownloadIssue": "De browserdownload van de hamburgervideo liep twee keer vast. Volledige videocontrole is niet voltooid.",
   "videos": [
     {
@@ -1250,35 +1250,270 @@
     {
       "videoId": "DceBtogvs5s",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DceBtogvs5s/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 287,
+      "dish": "Citroendessert met lemon curd en boterkoekje",
+      "ingredients": [
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "suiker",
+          70,
+          "g"
+        ],
+        [
+          "citroensap",
+          40,
+          "ml"
+        ],
+        [
+          "citroenrasp",
+          0.5,
+          "citroen"
+        ],
+        [
+          "roomboter",
+          60,
+          "g"
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "bloem",
+          30,
+          "g"
+        ],
+        [
+          "eiwit",
+          1,
+          "stuk"
+        ],
+        [
+          "Griekse yoghurt",
+          null,
+          ""
+        ],
+        [
+          "slagroom",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Meng voor curd 1 ei, 40 g suiker, 40 ml citroensap en de rasp van een halve citroen. Roer 4–6 minuten op laag vuur zonder te koken.",
+        "Neem van het vuur, roer 30 g boter en zout erdoor en laat afkoelen.",
+        "Meng voor koekjes 30 g boter, 30 g suiker, 30 g bloem, 1 eiwit en zout. Smeer dunne cirkels op bakpapier en bak 7–9 minuten op 175°C. Laat afkoelen.",
+        "Maak laagjes yoghurt, curd en geklopte slagroom en leg het koekje erop."
+      ],
+      "time": "Curd 4–6 min; koekjes 7–9 min op 175°C; afkoeltijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "zout",
+          1,
+          "g"
+        ],
+        [
+          "Griekse yoghurt",
+          200,
+          "g"
+        ],
+        [
+          "slagroom",
+          200,
+          "ml"
+        ]
+      ],
+      "sourcePersons": 4,
+      "assumedPersons": null,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Dca5-MWPhRu",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dca5-MWPhRu/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 288,
+      "dish": "Parmezaankoekjes met sesam",
+      "ingredients": [
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "sesamzaad",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Vorm cirkels van geraspte parmezaan op een bakplaat.",
+        "Strooi geroosterd sesamzaad erop en bak 10 minuten op 200°C."
+      ],
+      "time": "Oven 10 min op 200°C; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "sesamzaad",
+          1,
+          "tl"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DcTTzHjvLjI",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcTTzHjvLjI/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 259,
+      "dish": "Gemarineerde tonijn met Parmezaankoek en wasabimayo",
+      "ingredients": [
+        [
+          "tonijn",
+          null,
+          ""
+        ],
+        [
+          "sushi-azijn",
+          2,
+          "lepel"
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ],
+        [
+          "sesamzaad",
+          null,
+          ""
+        ],
+        [
+          "sesamolie",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          1,
+          "teen"
+        ],
+        [
+          "citroenrasp",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "rucola",
+          null,
+          ""
+        ],
+        [
+          "wasabi",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Meng stukjes tonijn met sushi-azijn, sojasaus, sesamzaad, sesamolie, olijfolie, geraspte knoflook, citroenrasp en rode ui. Laat marineren.",
+        "Vorm met een ring cirkels parmezaan op bakpapier. Bak 12 minuten op 200°C en trek het papier voorzichtig los.",
+        "Meng rucola bij de tonijn en serveer met de koek en mayonaise met wasabi."
+      ],
+      "time": "Koek 12 min op 200°C; marineertijd en totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "tonijn",
+          250,
+          "g"
+        ],
+        [
+          "sojasaus",
+          1,
+          "el"
+        ],
+        [
+          "sesamzaad",
+          1,
+          "tl"
+        ],
+        [
+          "sesamolie",
+          1,
+          "el"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "citroenrasp",
+          0.5,
+          "citroen"
+        ],
+        [
+          "rode ui",
+          0.5,
+          "stuk"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "rucola",
+          30,
+          "g"
+        ],
+        [
+          "wasabi",
+          0.5,
+          "tl"
+        ],
+        [
+          "mayonaise",
+          2,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DcQ9jq9v8ai",
@@ -1305,57 +1540,572 @@
     {
       "videoId": "DcLxvCbPl73",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcLxvCbPl73/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 289,
+      "dish": "Tartaar van droge worst met kappertjes",
+      "ingredients": [
+        [
+          "droge lavendelworst",
+          null,
+          ""
+        ],
+        [
+          "mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "augurk",
+          null,
+          ""
+        ],
+        [
+          "mierikswortel",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          1,
+          "lepel"
+        ],
+        [
+          "eidooier",
+          null,
+          ""
+        ],
+        [
+          "kappertjes",
+          1,
+          "lepel"
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ],
+        [
+          "worcestersaus",
+          0.5,
+          "el"
+        ],
+        [
+          "wit brood",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Maal de gesneden worst met mosterd, sjalot, augurk, optionele mierikswortel, mayonaise, rauwe eidooier, kappertjes, citroen, peterselie en worcestersaus fijn.",
+        "Vorm met een ring, leg een rauwe eidooier erop en serveer met geroosterd wit brood."
+      ],
+      "time": "Totale tijd niet genoemd; bron noemt twee kleine tartaartjes.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "droge lavendelworst",
+          150,
+          "g"
+        ],
+        [
+          "sjalot",
+          1,
+          "stuk"
+        ],
+        [
+          "augurk",
+          1,
+          "stuk"
+        ],
+        [
+          "mierikswortel",
+          1,
+          "tl"
+        ],
+        [
+          "eidooier",
+          2,
+          "stuk"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "peterselie",
+          10,
+          "g"
+        ],
+        [
+          "wit brood",
+          2,
+          "snee"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DcJShmlvQbA",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcJShmlvQbA/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 290,
+      "dish": "Tomatencarpaccio met gefrituurde mozzarella",
+      "ingredients": [
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "mozzarella",
+          null,
+          ""
+        ],
+        [
+          "bloem",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "paneermeel",
+          null,
+          ""
+        ],
+        [
+          "frituurolie",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "rucola",
+          null,
+          ""
+        ],
+        [
+          "mozzarellavocht",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Haal dikke plakken mozzarella door bloem, ei en paneermeel. Bak circa 4 minuten in hete olie en keer halverwege.",
+        "Schaaf tomaten zeer dun.",
+        "Pureer basilicum, rucola, mozzarellavocht en olijfolie en serveer met de tomaat en mozzarella."
+      ],
+      "time": "Mozzarella circa 4 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "mozzarella",
+          125,
+          "g"
+        ],
+        [
+          "bloem",
+          40,
+          "g"
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "paneermeel",
+          60,
+          "g"
+        ],
+        [
+          "frituurolie",
+          300,
+          "ml"
+        ],
+        [
+          "basilicum",
+          10,
+          "g"
+        ],
+        [
+          "rucola",
+          30,
+          "g"
+        ],
+        [
+          "mozzarellavocht",
+          30,
+          "ml"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DcGxf8oPmBv",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcGxf8oPmBv/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 291,
+      "dish": "Bloemkoolsoep met guanciale en blauwe kaas",
+      "ingredients": [
+        [
+          "bloemkool",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "water",
+          null,
+          ""
+        ],
+        [
+          "guanciale",
+          null,
+          ""
+        ],
+        [
+          "witte ui",
+          null,
+          ""
+        ],
+        [
+          "blauwe kaas",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak bloemkoolstukken met knoflook circa 4 minuten in olijfolie. Voeg wijn en water tot net boven de bloemkool toe en laat 12 minuten sudderen.",
+        "Bak guanciale apart met halverwege de witte ui, circa 10 minuten totaal.",
+        "Meng bij de bloemkool, voeg zo nodig water toe en laat nog 10 minuten sudderen.",
+        "Pureer en zeef. Roer blauwe kaas en room erdoor en werk af met peterselie."
+      ],
+      "time": "Deelduur 4, 12 en 10 min; guanciale parallel 10 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "bloemkool",
+          400,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "water",
+          500,
+          "ml"
+        ],
+        [
+          "guanciale",
+          80,
+          "g"
+        ],
+        [
+          "witte ui",
+          1,
+          "stuk"
+        ],
+        [
+          "blauwe kaas",
+          50,
+          "g"
+        ],
+        [
+          "room",
+          100,
+          "ml"
+        ],
+        [
+          "peterselie",
+          10,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Db6Ffe_P52N",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db6Ffe_P52N/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 292,
+      "dish": "Hollandse pad kra pao met gehakt en basilicum",
+      "ingredients": [
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "olie",
+          null,
+          ""
+        ],
+        [
+          "rundergehakt",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "munt",
+          null,
+          ""
+        ],
+        [
+          "vissaus",
+          1,
+          "lepel"
+        ],
+        [
+          "sojasaus",
+          1,
+          "lepel"
+        ],
+        [
+          "oestersaus",
+          1,
+          "lepel"
+        ],
+        [
+          "rijst",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Stamp knoflook en chili grof en bak in hete olie. Bak het niet-magere gehakt goed bruin.",
+        "Zet laag, voeg basilicum en munt in circa verhouding 70/30 toe en meng de drie sauzen erdoor.",
+        "Laat enkele minuten zacht staan en serveer op rijst met een ei gebakken in boter en olie."
+      ],
+      "time": "Totale tijd niet genoemd; basilicum/munt circa 70/30.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "olie",
+          2,
+          "el"
+        ],
+        [
+          "rundergehakt",
+          250,
+          "g"
+        ],
+        [
+          "basilicum",
+          10,
+          "g"
+        ],
+        [
+          "munt",
+          5,
+          "g"
+        ],
+        [
+          "rijst",
+          150,
+          "g"
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Db3YLCBP_0a",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db3YLCBP_0a/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 293,
+      "dish": "Witte bonen met gele courgette en courgettepesto",
+      "ingredients": [
+        [
+          "gele courgette",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "witte bonen",
+          null,
+          ""
+        ],
+        [
+          "pijnboompitten",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak kleine courgettestukken circa 8 minuten in olijfolie; houd wat beet.",
+        "Pureer pijnboompitten, olijfolie, parmezaan, basilicum en courgettezaadjes circa 4 minuten.",
+        "Meng bonen en pesto bij de courgette en warm kort door."
+      ],
+      "time": "Courgette circa 8 min; pesto pureren circa 4 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "gele courgette",
+          1,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "witte bonen",
+          300,
+          "g"
+        ],
+        [
+          "pijnboompitten",
+          20,
+          "g"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "basilicum",
+          10,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Db1CblyvNp3",
@@ -1371,13 +2121,103 @@
     {
       "videoId": "DbxRw3OPRe6",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbxRw3OPRe6/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 294,
+      "dish": "Pasta met guanciale en twee blauwe kazen",
+      "ingredients": [
+        [
+          "guanciale",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ],
+        [
+          "pasta",
+          null,
+          ""
+        ],
+        [
+          "gorgonzola",
+          null,
+          ""
+        ],
+        [
+          "blauwe kaas",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "pastawater",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak guanciale zonder olie circa 10 minuten langzaam uit. Voeg knoflook toe voor nog 5 minuten en peterselie voor nog 2 minuten.",
+        "Kook pasta. Smelt gorgonzola en een tweede blauwe kaas zacht met olijfolie en pastawater.",
+        "Meng guanciale, pasta en zo nodig meer pastawater erdoor."
+      ],
+      "time": "Guanciale, knoflook en peterselie 10 + 5 + 2 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "guanciale",
+          80,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "peterselie",
+          10,
+          "g"
+        ],
+        [
+          "pasta",
+          180,
+          "g"
+        ],
+        [
+          "gorgonzola",
+          60,
+          "g"
+        ],
+        [
+          "blauwe kaas",
+          50,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "pastawater",
+          100,
+          "ml"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbtNXLKuraS",
@@ -1393,46 +2233,390 @@
     {
       "videoId": "DbqZArMP2hA",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbqZArMP2hA/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 295,
+      "dish": "Garnalen met taugé, mirin en sojasaus",
+      "ingredients": [
+        [
+          "garnalen",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "taugé",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "mirin",
+          1.5,
+          "el"
+        ],
+        [
+          "sojasaus",
+          1.5,
+          "el"
+        ],
+        [
+          "bosui",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak garnalen met knoflook en chili enkele minuten op een teppanyakiplaat of in een pan.",
+        "Voeg sojasaus en mirin toe, daarna bosui en taugé. Bak met taugé maximaal 1 minuut.",
+        "Citroen wordt als ingrediënt genoemd, zonder beschreven toevoegmoment."
+      ],
+      "time": "Taugé maximaal 1 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "garnalen",
+          300,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "taugé",
+          100,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "bosui",
+          1,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbntXUTPZFm",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbntXUTPZFm/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 296,
+      "dish": "Koude pastasalade met kip en avocado-pesto",
+      "ingredients": [
+        [
+          "pasta",
+          null,
+          ""
+        ],
+        [
+          "kippendij",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "cherrytomaten",
+          null,
+          ""
+        ],
+        [
+          "pesto",
+          null,
+          ""
+        ],
+        [
+          "avocado",
+          1,
+          "stuk"
+        ],
+        [
+          "rucola",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Kook pasta en spoel goed koud af.",
+        "Bak dunne kipreepjes kort met knoflook. Zet laag en verwarm gehalveerde tomaatjes kort mee.",
+        "Meng pesto met avocado tot mousse. Meng met pasta, kip en tomaat en werk af met rucola en parmezaan."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "pasta",
+          180,
+          "g"
+        ],
+        [
+          "kippendij",
+          300,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "cherrytomaten",
+          200,
+          "g"
+        ],
+        [
+          "pesto",
+          40,
+          "g"
+        ],
+        [
+          "rucola",
+          30,
+          "g"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbhtlqvPlI3",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbhtlqvPlI3/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 297,
+      "dish": "Toast met gerookte zalm en mierikswortelsaus",
+      "ingredients": [
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "gerookte zalm",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          2,
+          "lepel"
+        ],
+        [
+          "mierikswortel",
+          1,
+          "lepel"
+        ],
+        [
+          "mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "kappertjes",
+          null,
+          ""
+        ],
+        [
+          "dille",
+          null,
+          ""
+        ],
+        [
+          "citroenrasp",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "komkommer",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Kneus kappertjes en meng met mayonaise, mierikswortel en mosterd. Voeg dille en citroenrasp toe.",
+        "Beleg geroosterd brood met gerookte zalm en saus, rode ui en komkommer."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "brood",
+          4,
+          "snee"
+        ],
+        [
+          "gerookte zalm",
+          120,
+          "g"
+        ],
+        [
+          "kappertjes",
+          1,
+          "el"
+        ],
+        [
+          "dille",
+          5,
+          "g"
+        ],
+        [
+          "citroenrasp",
+          0.5,
+          "citroen"
+        ],
+        [
+          "rode ui",
+          0.5,
+          "stuk"
+        ],
+        [
+          "komkommer",
+          0.25,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbddxZwPDme",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbddxZwPDme/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 298,
+      "dish": "Scheermessen in madras-roomsaus",
+      "ingredients": [
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "madras currypasta",
+          1,
+          "el"
+        ],
+        [
+          "scheermessen",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "koriander",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Verwarm knoflook kort in olijfolie zonder bruin te laten worden. Voeg currypasta, scheermessen, witte wijn en citroen toe.",
+        "Haal de scheermessen na maximaal 2 minuten uit de pan.",
+        "Voeg room en koriander bij de saus en verwarm maximaal 8 minuten. Schenk over de scheermessen."
+      ],
+      "time": "Scheermessen maximaal 2 min; saus maximaal 8 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "scheermessen",
+          400,
+          "g"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "room",
+          100,
+          "ml"
+        ],
+        [
+          "koriander",
+          10,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Dbahc7lPoLC",
@@ -1448,46 +2632,454 @@
     {
       "videoId": "DbV4u2cPjt2",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbV4u2cPjt2/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 262,
+      "dish": "Kipfilet met warme tomaten-wijnsaus",
+      "ingredients": [
+        [
+          "kipfilet",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "rozemarijn",
+          null,
+          ""
+        ],
+        [
+          "ui",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "tijm",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "ijsbergsla",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak kipfilet 1,5 minuut per kant hard aan. Zet laag en bak circa 7 minuten per kant; voeg halverwege boter en rozemarijn toe.",
+        "Bak apart ui, tomaat, knoflook, tijm en citroensap kort aan. Voeg wijn toe en laat 10 minuten koken.",
+        "Meng kippenbakvocht door de saus en pureer. Serveer kip op ijsbergsla met de saus."
+      ],
+      "time": "Kip 1,5 + circa 7 min per kant; saus met wijn 10 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "kipfilet",
+          300,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "rozemarijn",
+          1,
+          "takje"
+        ],
+        [
+          "ui",
+          1,
+          "stuk"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "tijm",
+          2,
+          "takje"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "ijsbergsla",
+          0.25,
+          "krop"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbTKL7FPvFk",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbTKL7FPvFk/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 299,
+      "dish": "Tapenade met zwarte olijven en ansjovis",
+      "ingredients": [
+        [
+          "stokbrood",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          1,
+          "teen"
+        ],
+        [
+          "zwarte olijven",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "ansjovisolie",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "kappertjes",
+          1,
+          "lepel"
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Rooster dun stokbrood met olijfolie en knoflook.",
+        "Pureer olijven, ansjovis, wat ansjovisolie, een klein stukje citroen, kappertjes en peper glad en smeer op het brood."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "stokbrood",
+          0.5,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "zwarte olijven",
+          100,
+          "g"
+        ],
+        [
+          "ansjovis",
+          3,
+          "filet"
+        ],
+        [
+          "ansjovisolie",
+          1,
+          "el"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbQ6cPHPPQv",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbQ6cPHPPQv/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 300,
+      "dish": "Bruine bonen met gehakt op aardappelpuree",
+      "ingredients": [
+        [
+          "rundergehakt",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "cherrytomaten",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "bruine bonen",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "augurk",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "aardappelpuree",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak gehakt kort in olijfolie. Voeg achtereenvolgens tomaatjes, rode ui, boter, bonen, knoflook, augurk, room en mosterd toe.",
+        "Bereid circa 20 minuten in de pan. Maak intussen puree en serveer het bonenmengsel erop."
+      ],
+      "time": "Pan circa 20 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "rundergehakt",
+          250,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "cherrytomaten",
+          200,
+          "g"
+        ],
+        [
+          "rode ui",
+          0.5,
+          "stuk"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "bruine bonen",
+          300,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "augurk",
+          1,
+          "stuk"
+        ],
+        [
+          "room",
+          100,
+          "ml"
+        ],
+        [
+          "aardappelpuree",
+          400,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbLiisOvdFj",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbLiisOvdFj/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 301,
+      "dish": "Citroenpasta met little gem en chili",
+      "ingredients": [
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "pastawater",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          1,
+          "stuk"
+        ],
+        [
+          "pasta",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "little gem",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak fijngesneden chili en daarna knoflook kort in olijfolie zonder te laten bruinen.",
+        "Voeg pastawater, citroensap, pasta en parmezaan toe.",
+        "Meng little gem erdoor en verwarm maximaal 2 minuten tot hij slinkt. Serveer met extra parmezaan."
+      ],
+      "time": "Little gem maximaal 2 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "pastawater",
+          100,
+          "ml"
+        ],
+        [
+          "pasta",
+          180,
+          "g"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "little gem",
+          1,
+          "krop"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbIDAoEPxQW",
@@ -1503,24 +3095,183 @@
     {
       "videoId": "DbFdX8avHFO",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbFdX8avHFO/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 263,
+      "dish": "Bruschetta met gebakken abrikozen en Ibericoham",
+      "ingredients": [
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "abrikoos",
+          null,
+          ""
+        ],
+        [
+          "olie",
+          null,
+          ""
+        ],
+        [
+          "rozemarijn",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "jonge schapenkaas",
+          null,
+          ""
+        ],
+        [
+          "Ibericoham",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Verwarm olie met rozemarijn en knoflook. Bak gesneden abrikoos circa 10 minuten totaal.",
+        "Beleg brood met dunne schapenkaas, abrikoos en Ibericoham."
+      ],
+      "time": "Abrikozen circa 10 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "brood",
+          4,
+          "snee"
+        ],
+        [
+          "abrikoos",
+          4,
+          "stuk"
+        ],
+        [
+          "olie",
+          2,
+          "el"
+        ],
+        [
+          "rozemarijn",
+          1,
+          "takje"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "jonge schapenkaas",
+          60,
+          "g"
+        ],
+        [
+          "Ibericoham",
+          60,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DbBgByUPWCk",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbBgByUPWCk/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 264,
+      "dish": "Watermeloencarpaccio met chorizo en pistache",
+      "ingredients": [
+        [
+          "watermeloen",
+          null,
+          ""
+        ],
+        [
+          "Ibericochorizo",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "pistache",
+          null,
+          ""
+        ],
+        [
+          "schapenkaas",
+          null,
+          ""
+        ],
+        [
+          "citroenrasp",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Schaaf watermeloen zeer dun en spreid op een bord.",
+        "Voeg rode ui en gekneusde pistache toe, rasp schapenkaas en citroenschil erover en voeg olijfolie toe.",
+        "Chorizo staat in de bronbeschrijving; het bijschrift geeft geen afzonderlijke bereidingsstap ervoor."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "watermeloen",
+          300,
+          "g"
+        ],
+        [
+          "Ibericochorizo",
+          60,
+          "g"
+        ],
+        [
+          "rode ui",
+          0.5,
+          "stuk"
+        ],
+        [
+          "pistache",
+          20,
+          "g"
+        ],
+        [
+          "schapenkaas",
+          40,
+          "g"
+        ],
+        [
+          "citroenrasp",
+          0.5,
+          "citroen"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Da-zB9oPJ7n",
@@ -1536,24 +3287,173 @@
     {
       "videoId": "Da57_devx5x",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da57_devx5x/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 257,
+      "dish": "Garnalen met aardappel, tomaat en witte wijn",
+      "ingredients": [
+        [
+          "garnalen",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "aardappel",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "koriander",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd gepelde garnalen zoals in de video; de precieze snijwijze staat niet in het bijschrift. Bak 1–2 minuten kort aan beide kanten en haal uit de pan.",
+        "Laat tomaat zacht worden en voeg knoflook, wijn, aardappel en citroen toe. Laat circa 15 minuten sudderen.",
+        "Voeg garnalen en koriander toe en verwarm nog enkele minuten."
+      ],
+      "time": "Garnalen eerst 1–2 min; saus circa 15 min en nog enkele minuten; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "garnalen",
+          300,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "aardappel",
+          400,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "koriander",
+          10,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Da0q9k4PvAJ",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da0q9k4PvAJ/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 265,
+      "dish": "Bevroren perzikcarpaccio met jonge geitenkaas",
+      "ingredients": [
+        [
+          "perzik",
+          null,
+          ""
+        ],
+        [
+          "jonge geitenkaas",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "honing",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Vries perziken minstens 6 uur tot ze hard zijn.",
+        "Schaaf zeer dun en verdeel op een bord met geitenkaas, olijfolie, basilicum en honing."
+      ],
+      "time": "Vriezer minstens 6 uur; actieve tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "perzik",
+          2,
+          "stuk"
+        ],
+        [
+          "jonge geitenkaas",
+          60,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "basilicum",
+          10,
+          "g"
+        ],
+        [
+          "honing",
+          1,
+          "tl"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DatBfCYoFoZ",
@@ -1569,13 +3469,123 @@
     {
       "videoId": "Das9deMPXby",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Das9deMPXby/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 302,
+      "dish": "Aubergineburger met kaas en pancetta",
+      "ingredients": [
+        [
+          "aubergine",
+          null,
+          ""
+        ],
+        [
+          "bloem",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "paneermeel",
+          null,
+          ""
+        ],
+        [
+          "olie",
+          null,
+          ""
+        ],
+        [
+          "kaas",
+          null,
+          ""
+        ],
+        [
+          "ui",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "pancetta",
+          null,
+          ""
+        ],
+        [
+          "hamburgerbroodje",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd aubergine in ronde plakken van circa 1 cm en haal door bloem, ei en paneermeel.",
+        "Bak in olie en keer na 1–2 minuten zodra goudbruin. Zet op het laagste vuur en laat circa 20 minuten garen.",
+        "Voeg de laatste 5 minuten kaas, ui, tomaat en gebakken pancetta toe. Serveer op een geroosterd broodje."
+      ],
+      "time": "Aubergine circa 20 min na aanbraden; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "aubergine",
+          1,
+          "stuk"
+        ],
+        [
+          "bloem",
+          40,
+          "g"
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "paneermeel",
+          60,
+          "g"
+        ],
+        [
+          "olie",
+          2,
+          "el"
+        ],
+        [
+          "kaas",
+          50,
+          "g"
+        ],
+        [
+          "ui",
+          1,
+          "stuk"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "pancetta",
+          60,
+          "g"
+        ],
+        [
+          "hamburgerbroodje",
+          2,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "Dak2ChKP2H0",
@@ -1657,13 +3667,103 @@
     {
       "videoId": "DaN2F1fPQKi",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaN2F1fPQKi/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 303,
+      "dish": "Pasta met broccoli-guancialesaus",
+      "ingredients": [
+        [
+          "guanciale",
+          null,
+          ""
+        ],
+        [
+          "broccoli",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "rode wijn",
+          null,
+          ""
+        ],
+        [
+          "pastawater",
+          null,
+          ""
+        ],
+        [
+          "pasta",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak guanciale krokant en leg apart. Bak broccoli en knoflook kort in dezelfde pan.",
+        "Voeg wijn toe en laat circa 10 minuten sudderen. Voeg pastawater toe en pureer glad.",
+        "Meng met pasta en werk af met guanciale, parmezaan en olijfolie."
+      ],
+      "time": "Sudderen circa 10 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "guanciale",
+          80,
+          "g"
+        ],
+        [
+          "broccoli",
+          300,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "rode wijn",
+          100,
+          "ml"
+        ],
+        [
+          "pastawater",
+          100,
+          "ml"
+        ],
+        [
+          "pasta",
+          180,
+          "g"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DaLKrb3PNIp",
@@ -1712,13 +3812,93 @@
     {
       "videoId": "DZurHVlPjNH",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZurHVlPjNH/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 254,
+      "dish": "Butterfly kipdrumsticks met salie en citroen",
+      "ingredients": [
+        [
+          "kipdrumsticks",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "salie",
+          null,
+          ""
+        ],
+        [
+          "tijm",
+          null,
+          ""
+        ],
+        [
+          "gember",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd drumsticks open en plat.",
+        "Marineer circa 1 uur in sojasaus, olijfolie, salie, tijm, gember en citroen; schep af en toe om.",
+        "Grill circa 25 minuten en keer regelmatig tot goudbruin en gaar."
+      ],
+      "time": "Marineren circa 1 uur; grillen circa 25 min.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "kipdrumsticks",
+          4,
+          "stuk"
+        ],
+        [
+          "sojasaus",
+          1,
+          "el"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "salie",
+          4,
+          "blad"
+        ],
+        [
+          "tijm",
+          2,
+          "takje"
+        ],
+        [
+          "gember",
+          10,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DZp_r2ooDi-",
@@ -1756,24 +3936,219 @@
     {
       "videoId": "DZcmQG7vYVs",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZcmQG7vYVs/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 304,
+      "dish": "Kipschnitzel met romige courgettesalade",
+      "ingredients": [
+        [
+          "courgette",
+          1,
+          "stuk"
+        ],
+        [
+          "Griekse yoghurt",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "kipfilet",
+          null,
+          ""
+        ],
+        [
+          "bloem",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "paneermeel",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Rasp courgette en meng met yoghurt, zout, peper en citroen.",
+        "Haal kip door bloem, geklopt ei en paneermeel. Bak beide kanten goudbruin en vanbinnen gaar.",
+        "Serveer op de salade met tomaat; de bron beschrijft de tomaat niet verder."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "Griekse yoghurt",
+          100,
+          "g"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "kipfilet",
+          300,
+          "g"
+        ],
+        [
+          "bloem",
+          40,
+          "g"
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "paneermeel",
+          60,
+          "g"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DZZv5u_v_N0",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZZv5u_v_N0/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 305,
+      "dish": "Gemarineerde aubergine met rode ui en rijst",
+      "ingredients": [
+        [
+          "aubergine",
+          1,
+          "stuk"
+        ],
+        [
+          "sojasaus",
+          3,
+          "el"
+        ],
+        [
+          "sesamolie",
+          4,
+          "el"
+        ],
+        [
+          "vissaus",
+          1,
+          "tl"
+        ],
+        [
+          "mirin",
+          2,
+          "el"
+        ],
+        [
+          "sesamzaad",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "rijst",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Marineer auberginestukken minstens 15 minuten in sojasaus, sesamolie, vissaus, mirin en sesamzaad.",
+        "Bak rode ui circa 1 minuut in olijfolie en bak aubergine circa 15 minuten zacht en goudbruin.",
+        "Voeg knoflook en een ei toe en roer. Serveer op witte rijst met eventueel extra sojasaus."
+      ],
+      "time": "Marineren minstens 15 min; ui circa 1 min; aubergine circa 15 min.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "sesamzaad",
+          1,
+          "tl"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "rode ui",
+          0.5,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "rijst",
+          150,
+          "g"
+        ]
+      ],
+      "sourcePersons": 2,
+      "assumedPersons": null,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DZXjYvuvqc_",
@@ -1811,68 +4186,718 @@
     {
       "videoId": "DZK7xkPPpEu",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZK7xkPPpEu/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 306,
+      "dish": "Gochujang-buikspek in romainesla",
+      "ingredients": [
+        [
+          "buikspek",
+          null,
+          ""
+        ],
+        [
+          "gochujang",
+          1,
+          "tl"
+        ],
+        [
+          "sojasaus",
+          3,
+          "el"
+        ],
+        [
+          "sesamolie",
+          2,
+          "el"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "romainesla",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Marineer buikspek circa 30 minuten in gochujang, sojasaus, sesamolie, citroensap en gekneusde knoflook.",
+        "Bak circa 10 minuten in een hete pan tot gekaramelliseerd. Serveer met romainesla en rode-uiringen als hapjes."
+      ],
+      "time": "Marineren circa 30 min; bakken circa 10 min.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "buikspek",
+          250,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "romainesla",
+          1,
+          "krop"
+        ],
+        [
+          "rode ui",
+          0.5,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DZIGJZav0Rd",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZIGJZav0Rd/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 307,
+      "dish": "Vloeibare Caesarsalade met croutons",
+      "ingredients": [
+        [
+          "sla",
+          1,
+          "krop"
+        ],
+        [
+          "groentebouillon",
+          1000,
+          "ml"
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          1,
+          "teen"
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "croutons",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Fruit sjalot in boter en olie. Voeg knoflook en wijn toe, daarna sla en bouillon. De bronverhouding is circa 1 liter per krop sla.",
+        "Laat 10 minuten sudderen, voeg room toe en verwarm nog enkele minuten.",
+        "Pureer en zeef. Werk af met sla, croutons en parmezaan. Ansjovis staat in de beschrijving zonder toevoegmoment."
+      ],
+      "time": "Sudderen circa 10 min plus enkele minuten; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "sjalot",
+          1,
+          "stuk"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "ansjovis",
+          3,
+          "filet"
+        ],
+        [
+          "room",
+          100,
+          "ml"
+        ],
+        [
+          "croutons",
+          30,
+          "g"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DZC4IG8PyW-",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZC4IG8PyW-/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 273,
+      "dish": "Witte asperges met ham, kaassaus en puree",
+      "ingredients": [
+        [
+          "witte asperges",
+          null,
+          ""
+        ],
+        [
+          "aardappel",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "melk",
+          null,
+          ""
+        ],
+        [
+          "gekookte ham",
+          null,
+          ""
+        ],
+        [
+          "bloem",
+          null,
+          ""
+        ],
+        [
+          "jonge kaas",
+          null,
+          ""
+        ],
+        [
+          "zwarte peper",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Schil asperges en aardappels. Kook asperges circa 15 minuten. Maak puree met boter en melk.",
+        "Wikkel ham om de asperges en leg op de puree.",
+        "Smelt boter en roer bloem erdoor. Voeg geleidelijk melk en jonge kaas toe tot gladde saus en voeg peper toe.",
+        "Giet over de schaal en grill 5–8 minuten op 220°C tot goudbruin."
+      ],
+      "time": "Asperges circa 15 min; grill 5–8 min op 220°C; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "witte asperges",
+          500,
+          "g"
+        ],
+        [
+          "aardappel",
+          400,
+          "g"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "melk",
+          250,
+          "ml"
+        ],
+        [
+          "gekookte ham",
+          100,
+          "g"
+        ],
+        [
+          "bloem",
+          40,
+          "g"
+        ],
+        [
+          "jonge kaas",
+          80,
+          "g"
+        ],
+        [
+          "zwarte peper",
+          0.25,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DY9A83EPHNF",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY9A83EPHNF/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 308,
+      "dish": "Witte-aspergesoep met ham en ei",
+      "ingredients": [
+        [
+          "witte asperges",
+          null,
+          ""
+        ],
+        [
+          "aardappel",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "salie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "water",
+          null,
+          ""
+        ],
+        [
+          "munt",
+          null,
+          ""
+        ],
+        [
+          "gekookte ham",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "sesamolie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Gaar geschilde aspergestukjes zacht met boter, peper, zout, salie, knoflook en wijn. Voeg chili en water toe en sudder circa 20 minuten.",
+        "Pureer met munt en zeef. Werk af met ham, hardgekookt ei en sesamolie.",
+        "Aardappel staat in de gerechtnaam, zonder afzonderlijke toevoegstap."
+      ],
+      "time": "Asperges circa 20 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "witte asperges",
+          500,
+          "g"
+        ],
+        [
+          "aardappel",
+          400,
+          "g"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "salie",
+          4,
+          "blad"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "water",
+          500,
+          "ml"
+        ],
+        [
+          "munt",
+          5,
+          "g"
+        ],
+        [
+          "gekookte ham",
+          100,
+          "g"
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "sesamolie",
+          1,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DY6s5eIvTC3",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY6s5eIvTC3/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 309,
+      "dish": "Rauwe zalm met paksoi, radicchio en twee sauzen",
+      "ingredients": [
+        [
+          "zalm",
+          null,
+          ""
+        ],
+        [
+          "paksoi",
+          null,
+          ""
+        ],
+        [
+          "radicchio",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          2,
+          "el"
+        ],
+        [
+          "sesamolie",
+          2,
+          "el"
+        ],
+        [
+          "sesamzaad",
+          null,
+          ""
+        ],
+        [
+          "eidooier",
+          1,
+          "stuk"
+        ],
+        [
+          "witte wijnazijn",
+          null,
+          ""
+        ],
+        [
+          "mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "Griekse yoghurt",
+          2,
+          "lepel"
+        ]
+      ],
+      "steps": [
+        "Meng sojasaus, sesamolie en sesamzaad als zalmsaus en zet koud.",
+        "Meng eidooier, azijn en mosterd; voeg langzaam olie toe tot iets dikker. Meng yoghurt erdoor.",
+        "Meng saladesaus door paksoi en radicchio, leg zalm erbovenop en serveer met de zalmsaus."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "zalm",
+          250,
+          "g"
+        ],
+        [
+          "paksoi",
+          1,
+          "stuk"
+        ],
+        [
+          "radicchio",
+          0.5,
+          "stuk"
+        ],
+        [
+          "sesamzaad",
+          1,
+          "tl"
+        ],
+        [
+          "witte wijnazijn",
+          1,
+          "el"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DY2MNqDvR_5",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY2MNqDvR_5/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 310,
+      "dish": "Spaghetti met garnalen, ansjovis en witte wijn",
+      "ingredients": [
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "bleekselderij",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "garnalen",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "spaghetti",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "cherrytomaten",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak ansjovis in boter en olie tot deze uiteenvalt. Voeg sjalot, knoflook, bleekselderij en chili toe en gaar circa 10 minuten zacht.",
+        "Voeg garnalenstukjes en een klein glas wijn toe en laat circa 8 minuten sudderen.",
+        "Voeg spaghetti en peterselie toe en werk af met parmezaan. Tomaatjes staan in de beschrijving zonder toevoegmoment."
+      ],
+      "time": "Groenten circa 10 min; garnalen circa 8 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "ansjovis",
+          3,
+          "filet"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "sjalot",
+          1,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "bleekselderij",
+          1,
+          "stengel"
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "garnalen",
+          300,
+          "g"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "spaghetti",
+          180,
+          "g"
+        ],
+        [
+          "peterselie",
+          10,
+          "g"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "cherrytomaten",
+          200,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYtg4jWvkeS",
@@ -1888,57 +4913,542 @@
     {
       "videoId": "DYg_aVJvH9R",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYg_aVJvH9R/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 311,
+      "dish": "Conchiglie met gehakt en gorgonzolasaus",
+      "ingredients": [
+        [
+          "prei",
+          null,
+          ""
+        ],
+        [
+          "champignons",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "rundergehakt",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "pastawater",
+          null,
+          ""
+        ],
+        [
+          "crème fraîche",
+          null,
+          ""
+        ],
+        [
+          "gorgonzola",
+          null,
+          ""
+        ],
+        [
+          "conchiglie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak gesneden prei, champignons, sjalot, knoflook en tomaat kort. Voeg gehakt en wijn toe en laat circa 15 minuten sudderen; voeg zo nodig pastawater toe.",
+        "Smelt crème fraîche en gorgonzola in circa verhouding 70/30. Serveer met conchiglie en gehaktmengsel."
+      ],
+      "time": "Sudderen circa 15 min; totale tijd onbekend; sausverhouding circa 70/30.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "prei",
+          0.5,
+          "stuk"
+        ],
+        [
+          "champignons",
+          150,
+          "g"
+        ],
+        [
+          "sjalot",
+          1,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "rundergehakt",
+          250,
+          "g"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "pastawater",
+          100,
+          "ml"
+        ],
+        [
+          "crème fraîche",
+          140,
+          "g"
+        ],
+        [
+          "gorgonzola",
+          60,
+          "g"
+        ],
+        [
+          "conchiglie",
+          180,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYe5jbpPaYd",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYe5jbpPaYd/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 312,
+      "dish": "Wrap met kippendij, aubergine en yoghurtsaus",
+      "ingredients": [
+        [
+          "kippendij",
+          null,
+          ""
+        ],
+        [
+          "kipkruiden",
+          null,
+          ""
+        ],
+        [
+          "aubergine",
+          null,
+          ""
+        ],
+        [
+          "puntpaprika",
+          null,
+          ""
+        ],
+        [
+          "tomatenpuree",
+          1,
+          "el"
+        ],
+        [
+          "Griekse yoghurt",
+          4,
+          "el"
+        ],
+        [
+          "salie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ],
+        [
+          "ijsbergsla",
+          null,
+          ""
+        ],
+        [
+          "tortilla",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak kip kort hard aan met kip- of shoarmakruiden en haal uit de pan. Bak aubergine en paprika.",
+        "Voeg kip terug en meng tomatenpuree, yoghurt, salie, knoflook, zout en peper erdoor. Laat circa 10 minuten sudderen.",
+        "Vul tortilla met ijsbergsla en het mengsel en rol op."
+      ],
+      "time": "Sudderen circa 10 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "kippendij",
+          300,
+          "g"
+        ],
+        [
+          "kipkruiden",
+          1,
+          "tl"
+        ],
+        [
+          "aubergine",
+          1,
+          "stuk"
+        ],
+        [
+          "puntpaprika",
+          1,
+          "stuk"
+        ],
+        [
+          "salie",
+          4,
+          "blad"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ],
+        [
+          "ijsbergsla",
+          0.25,
+          "krop"
+        ],
+        [
+          "tortilla",
+          2,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYcLzuOPn9f",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYcLzuOPn9f/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 313,
+      "dish": "Burrata met gegrilde courgette en Parmezaancroutons",
+      "ingredients": [
+        [
+          "courgette",
+          null,
+          ""
+        ],
+        [
+          "oud brood",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "burrata",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Schaaf courgette dun en grill kort beide kanten.",
+        "Bak oud brood in olie, voeg parmezaan toe en laat circa 1 minuut om het brood smelten.",
+        "Serveer burrata met courgette, croutons, olie en optionele basilicum. De bron noemt ook optionele ansjovis; die is niet opgenomen in deze vegetarische versie."
+      ],
+      "time": "Kaas om brood circa 1 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "courgette",
+          1,
+          "stuk"
+        ],
+        [
+          "oud brood",
+          2,
+          "snee"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "burrata",
+          125,
+          "g"
+        ],
+        [
+          "basilicum",
+          10,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYZG7NLv3o-",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYZG7NLv3o-/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 314,
+      "dish": "Garnalenbisque met champagne en kokosmelk",
+      "ingredients": [
+        [
+          "garnalen",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "paprika",
+          null,
+          ""
+        ],
+        [
+          "jalapeño",
+          null,
+          ""
+        ],
+        [
+          "ui",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "champagne",
+          0.5,
+          "fles"
+        ],
+        [
+          "vissaus",
+          0.5,
+          "lepel"
+        ],
+        [
+          "kokosmelk",
+          5,
+          "lepel"
+        ],
+        [
+          "koriander",
+          null,
+          ""
+        ],
+        [
+          "rode chilipeper",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak garnalenkoppen in olie. Voeg tomaat, paprika, jalapeño, ui en knoflook toe.",
+        "Voeg champagne toe en sudder 30 minuten. Pureer inclusief de koppen en zeef.",
+        "Voeg vissaus en kokosmelk toe. Bak garnalen kort apart en serveer met koriander en de bisque.",
+        "Rode chili staat in de beschrijving zonder apart toevoegmoment."
+      ],
+      "time": "Sudderen 30 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "garnalen",
+          300,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "paprika",
+          1,
+          "stuk"
+        ],
+        [
+          "jalapeño",
+          0.5,
+          "stuk"
+        ],
+        [
+          "ui",
+          1,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "koriander",
+          10,
+          "g"
+        ],
+        [
+          "rode chilipeper",
+          0.5,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYT1OFpP_9G",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYT1OFpP_9G/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 315,
+      "dish": "Gegrilde sardines met citroen-knoflookdressing",
+      "ingredients": [
+        [
+          "sardines",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          12,
+          "teen"
+        ],
+        [
+          "citroen",
+          1,
+          "stuk"
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Grill sardines op hoog vuur maximaal 2 minuten per kant.",
+        "Meng 2 gekneusde knoflooktenen met het sap van een grote citroen, peterselie en chili.",
+        "Verwarm 10 tenen knoflook met olie en chili enkele minuten zacht. Zeef en meng de olie door de citroendressing. Giet over sardines."
+      ],
+      "time": "Sardines maximaal 2 min per kant; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "sardines",
+          6,
+          "stuk"
+        ],
+        [
+          "peterselie",
+          10,
+          "g"
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYRxfgFPC0r",
@@ -1965,24 +5475,235 @@
     {
       "videoId": "DYChisJv77f",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYChisJv77f/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 316,
+      "dish": "Garnalen met chorizo en witte asperges",
+      "ingredients": [
+        [
+          "chorizo",
+          null,
+          ""
+        ],
+        [
+          "garnalen",
+          null,
+          ""
+        ],
+        [
+          "witte asperges",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "stokbrood",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak chorizo en voeg garnalen toe voor enkele minuten. Haal garnalen eruit.",
+        "Voeg asperges, tomaat, knoflook en wijn toe en sudder 15–20 minuten.",
+        "Voeg garnalen terug en werk af met citroensap. Serveer met stokbrood."
+      ],
+      "time": "Sudderen 15–20 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "chorizo",
+          80,
+          "g"
+        ],
+        [
+          "garnalen",
+          300,
+          "g"
+        ],
+        [
+          "witte asperges",
+          500,
+          "g"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "stokbrood",
+          0.5,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DYAE4v-vFWu",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYAE4v-vFWu/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 317,
+      "dish": "Zeebaars met aspergepuree en aspergesaus",
+      "ingredients": [
+        [
+          "aardappelpuree",
+          null,
+          ""
+        ],
+        [
+          "witte asperges",
+          null,
+          ""
+        ],
+        [
+          "groene asperges",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "aspergebouillon",
+          null,
+          ""
+        ],
+        [
+          "bouillonblokje",
+          null,
+          ""
+        ],
+        [
+          "zeebaars",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Maak puree. Bak kleine stukken witte en groene asperges zacht in boter.",
+        "Maak bouillon van aspergeschillen, uiteindes en een bouillonblokje. Pureer asperges met bouillon en meng door de puree.",
+        "Bak zeebaars kort beide kanten. Maak in dezelfde pan saus met boter, sjalot, knoflook, citroensap en twee grote lepels bouillon; sudder circa 8 minuten.",
+        "Voeg room toe en zeef. Serveer puree, vis en saus."
+      ],
+      "time": "Saus circa 8 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "aardappelpuree",
+          400,
+          "g"
+        ],
+        [
+          "witte asperges",
+          500,
+          "g"
+        ],
+        [
+          "groene asperges",
+          150,
+          "g"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "aspergebouillon",
+          600,
+          "ml"
+        ],
+        [
+          "bouillonblokje",
+          1,
+          "stuk"
+        ],
+        [
+          "zeebaars",
+          2,
+          "filet"
+        ],
+        [
+          "sjalot",
+          1,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "room",
+          100,
+          "ml"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DX9fzsnvWPp",
@@ -2075,13 +5796,138 @@
     {
       "videoId": "DXExuDBj4J5",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXExuDBj4J5/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 318,
+      "dish": "Vegaworst met tuinbonensaus op puree",
+      "ingredients": [
+        [
+          "tuinbonen",
+          null,
+          ""
+        ],
+        [
+          "vegetarische worst",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "ui",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          2,
+          "stuk"
+        ],
+        [
+          "witte wijn",
+          0.5,
+          "glas"
+        ],
+        [
+          "groentebouillon",
+          2,
+          "glas"
+        ],
+        [
+          "mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "aardappelpuree",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Blancheer tuinbonen maximaal 5 minuten. Bak gesneden vegaworst circa 8 minuten rondom en haal uit de pan.",
+        "Fruit ui en ansjovis in olie en circa 25 g boter. Blus met wijn en voeg bouillon, mosterd, peterselie, zout, peper en citroen toe.",
+        "Pureer en verwarm met bonen en worst. Serveer op puree. Door ansjovis is het bronrecept niet vegetarisch."
+      ],
+      "time": "Tuinbonen maximaal 5 min; worst circa 8 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "tuinbonen",
+          250,
+          "g"
+        ],
+        [
+          "vegetarische worst",
+          2,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "ui",
+          1,
+          "stuk"
+        ],
+        [
+          "peterselie",
+          10,
+          "g"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "aardappelpuree",
+          400,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DXBaCRoDyOG",
@@ -2108,13 +5954,93 @@
     {
       "videoId": "DW6fghijzrU",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW6fghijzrU/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 319,
+      "dish": "Pasta op risottowijze met courgette",
+      "ingredients": [
+        [
+          "courgette",
+          null,
+          ""
+        ],
+        [
+          "pasta",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "groentebouillon",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak zeer dunne courgette kort en haal uit de pan.",
+        "Doe pasta in de pan, blus met wijn en voeg bouillon toe. Laat sudderen en voeg meer bouillon toe als nodig.",
+        "Meng courgette erdoor en werk af met parmezaan, zout en peper."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "courgette",
+          1,
+          "stuk"
+        ],
+        [
+          "pasta",
+          180,
+          "g"
+        ],
+        [
+          "witte wijn",
+          100,
+          "ml"
+        ],
+        [
+          "groentebouillon",
+          600,
+          "ml"
+        ],
+        [
+          "parmezaan",
+          30,
+          "g"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DW3-FVRj8wZ",
@@ -2240,13 +6166,98 @@
     {
       "videoId": "DWUCk0yD546",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DWUCk0yD546/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 320,
+      "dish": "Risotto met witte asperges en jonge geitenkaas",
+      "ingredients": [
+        [
+          "witte asperges",
+          null,
+          ""
+        ],
+        [
+          "water",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "risottorijst",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "aspergebouillon",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "jonge geitenkaas",
+          70,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Bak geschilde asperges licht aan met water en sudder circa 10 minuten. Haal eruit.",
+        "Fruit sjalot in dezelfde pan en voeg rijst en boter toe. Voeg geleidelijk bouillon van schillen en uiteindes en een klein glas wijn toe.",
+        "Laat de rijst circa 20 minuten het vocht opnemen. Roer de geitenkaas en asperges erdoor."
+      ],
+      "time": "Asperges circa 10 min; risotto circa 20 min; bron noemt 70 g geitenkaas voor 4 personen.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "witte asperges",
+          1000,
+          "g"
+        ],
+        [
+          "water",
+          1000,
+          "ml"
+        ],
+        [
+          "sjalot",
+          2,
+          "stuk"
+        ],
+        [
+          "risottorijst",
+          320,
+          "g"
+        ],
+        [
+          "roomboter",
+          50,
+          "g"
+        ],
+        [
+          "aspergebouillon",
+          1200,
+          "ml"
+        ],
+        [
+          "witte wijn",
+          200,
+          "ml"
+        ]
+      ],
+      "sourcePersons": 4,
+      "assumedPersons": null,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DWO9tpij2p-",
@@ -2339,35 +6350,245 @@
     {
       "videoId": "DVq4MICj2uF",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVq4MICj2uF/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 321,
+      "dish": "Kipfilet met citroenboter en basilicum",
+      "ingredients": [
+        [
+          "kipfilet",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "peper",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd kipfilet in dunne plakken, volgens de bron meestal 3–4.",
+        "Laat zacht garen in boter met citroenschil en -sap. Voeg basilicum toe en laat circa 8 minuten samen sudderen.",
+        "Werk af met zout en peper en schenk het bakvocht over de kip."
+      ],
+      "time": "Sudderen circa 8 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "kipfilet",
+          300,
+          "g"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "basilicum",
+          10,
+          "g"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "peper",
+          0.25,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DVnTWjFj0DD",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVnTWjFj0DD/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 322,
+      "dish": "Broodje mortadella, Comté en puntpaprika",
+      "ingredients": [
+        [
+          "puntpaprika",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          1,
+          "teen"
+        ],
+        [
+          "tijm",
+          null,
+          ""
+        ],
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "mortadella",
+          null,
+          ""
+        ],
+        [
+          "Comté",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Gaar paprika circa 20 minuten langzaam in olie met knoflook en tijm; keer halverwege.",
+        "Rooster brood in dezelfde pan en beleg in laagjes met mortadella, paprika en Comté. Werk af met citroen."
+      ],
+      "time": "Paprika circa 20 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "puntpaprika",
+          1,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "tijm",
+          2,
+          "takje"
+        ],
+        [
+          "brood",
+          4,
+          "snee"
+        ],
+        [
+          "mortadella",
+          100,
+          "g"
+        ],
+        [
+          "Comté",
+          60,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DVjZDCFj3rE",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVjZDCFj3rE/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 323,
+      "dish": "Doperwten in de peul op edamamewijze",
+      "ingredients": [
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          1,
+          "stuk"
+        ],
+        [
+          "doperwten in de peul",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          9,
+          "lepel"
+        ],
+        [
+          "suikerklontje",
+          1,
+          "stuk"
+        ]
+      ],
+      "steps": [
+        "Kook knoflook en hak fijn. Meng met een verse rode chili.",
+        "Kook erwten in de peul 5 minuten en koel direct.",
+        "Verwarm boter met knoflook en chili, voeg sojasaus en suiker toe en sudder 5 minuten.",
+        "Schep de peulen nog 2–3 minuten om op laag vuur. Eet de erwten eruit en laat de peul achter."
+      ],
+      "time": "Peulen 5 min; saus 5 min; omscheppen 2–3 min; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "doperwten in de peul",
+          400,
+          "g"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DVgrGicj8ul",
@@ -2438,24 +6659,229 @@
     {
       "videoId": "DVDS5-bj8kT",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVDS5-bj8kT/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 324,
+      "dish": "Pasta met prosciutto, tomaat en room",
+      "ingredients": [
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          2,
+          "lepel"
+        ],
+        [
+          "prosciutto",
+          null,
+          ""
+        ],
+        [
+          "gepelde tomaten uit blik",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "pastawater",
+          null,
+          ""
+        ],
+        [
+          "pasta",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Verwarm olie en boter. Bak dunne prosciutto maximaal 40 seconden en zet laag.",
+        "Voeg bliktomaten toe en druk fijn. Meng room, citroensap en pastawater erdoor en verwarm zacht.",
+        "Meng pasta erdoor en serveer."
+      ],
+      "time": "Prosciutto maximaal 40 sec; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "prosciutto",
+          80,
+          "g"
+        ],
+        [
+          "gepelde tomaten uit blik",
+          400,
+          "g"
+        ],
+        [
+          "room",
+          100,
+          "ml"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "pastawater",
+          100,
+          "ml"
+        ],
+        [
+          "pasta",
+          180,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DU-m0k5j6CE",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DU-m0k5j6CE/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 325,
+      "dish": "Verse rijstpapierrolletjes met kip en groenten",
+      "ingredients": [
+        [
+          "kippendij",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "wortel",
+          null,
+          ""
+        ],
+        [
+          "prei",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "gember",
+          null,
+          ""
+        ],
+        [
+          "roomboter",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "kipkruiden",
+          null,
+          ""
+        ],
+        [
+          "taugé",
+          null,
+          ""
+        ],
+        [
+          "rijstpapier",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak kip op laag vuur in olie. Voeg gesneden wortel, prei, knoflook, gember en boter toe.",
+        "Voeg citroen en kipkruiden toe en taugé als laatste.",
+        "Week rijstpapier 10 seconden in lauw water, vul met het mengsel en rol op."
+      ],
+      "time": "Rijstpapier 10 sec weken; totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "kippendij",
+          300,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "wortel",
+          1,
+          "stuk"
+        ],
+        [
+          "prei",
+          0.5,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "gember",
+          10,
+          "g"
+        ],
+        [
+          "roomboter",
+          25,
+          "g"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "kipkruiden",
+          1,
+          "tl"
+        ],
+        [
+          "taugé",
+          100,
+          "g"
+        ],
+        [
+          "rijstpapier",
+          6,
+          "vel"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DU74xc5jyPF",
@@ -2515,13 +6941,124 @@
     {
       "videoId": "DUqhailD9yL",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DUqhailD9yL/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 267,
+      "dish": "Rauwe courgettesalade met olijvendressing en spek",
+      "ingredients": [
+        [
+          "courgette",
+          null,
+          ""
+        ],
+        [
+          "zout",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "azijn",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "mosterd",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "olijven",
+          null,
+          ""
+        ],
+        [
+          "spek",
+          null,
+          ""
+        ],
+        [
+          "feta",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Schaaf courgette dun met schil, zout licht en laat vocht loskomen. Voeg zeer fijn gesneden rauwe knoflook toe.",
+        "Meng azijn, rauw ei en mosterd en voeg langzaam olie toe. Voeg fijngehakte olijven toe.",
+        "Bak spek krokant, laat hard worden en hak fijn.",
+        "Meng dressing door courgette en werk af met feta en spek."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "courgette",
+          1,
+          "stuk"
+        ],
+        [
+          "zout",
+          0.5,
+          "g"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "azijn",
+          1,
+          "el"
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "mosterd",
+          1,
+          "tl"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "olijven",
+          40,
+          "g"
+        ],
+        [
+          "spek",
+          60,
+          "g"
+        ],
+        [
+          "feta",
+          60,
+          "g"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DUiYB9LD_7N",
@@ -2559,13 +7096,103 @@
     {
       "videoId": "DUAbArhD1Vt",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DUAbArhD1Vt/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 326,
+      "dish": "Lamskoteletjes gestoofd met tomaat en wijn",
+      "ingredients": [
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "lamskotelet",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "ui",
+          null,
+          ""
+        ],
+        [
+          "rosé",
+          null,
+          ""
+        ],
+        [
+          "tijm",
+          null,
+          ""
+        ],
+        [
+          "stokbrood",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak lamskoteletjes 1 minuut per kant hard aan in olie.",
+        "Voeg hele tenen knoflook, tomaat, ui en rosé toe; rode wijn is een alternatief.",
+        "Zet laag en laat met tijm of rozemarijn zacht sudderen. Serveer met stokbrood."
+      ],
+      "time": "Aanbraden 1 min per kant; sudder- en totale tijd onbekend.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "lamskotelet",
+          4,
+          "stuk"
+        ],
+        [
+          "knoflook",
+          2,
+          "teen"
+        ],
+        [
+          "tomaat",
+          2,
+          "stuk"
+        ],
+        [
+          "ui",
+          1,
+          "stuk"
+        ],
+        [
+          "rosé",
+          150,
+          "ml"
+        ],
+        [
+          "tijm",
+          2,
+          "takje"
+        ],
+        [
+          "stokbrood",
+          0.5,
+          "stuk"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DT8dZtwD1yg",
@@ -2592,13 +7219,108 @@
     {
       "videoId": "DT2Suu1j3fY",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DT2Suu1j3fY/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
-      "time": null,
-      "videoReviewed": false
+      "status": "kookrecept uit bijschrift verwerkt; video en screenshot nog te controleren",
+      "recipeId": 327,
+      "dish": "Tonijntartaar met mosterddressing",
+      "ingredients": [
+        [
+          "tonijn",
+          null,
+          ""
+        ],
+        [
+          "eidooier",
+          2,
+          "stuk"
+        ],
+        [
+          "gladde mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "grove mosterd",
+          1,
+          "lepel"
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "kappertjes",
+          2,
+          "lepel"
+        ],
+        [
+          "augurk",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          1,
+          "stuk"
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "bosui",
+          null,
+          ""
+        ],
+        [
+          "brood",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd tonijn in blokjes. Meng eidooiers en beide mosterdsoorten en voeg olie toe tot de saus nog dik is.",
+        "Meng kappertjes, augurk, sjalot, citroen en bosui erdoor.",
+        "Meng met tonijn en serveer op toast of gegrild brood."
+      ],
+      "time": "Totale tijd niet genoemd.",
+      "videoReviewed": false,
+      "estimatedIngredients": [
+        [
+          "tonijn",
+          250,
+          "g"
+        ],
+        [
+          "olijfolie",
+          2,
+          "el"
+        ],
+        [
+          "augurk",
+          1,
+          "stuk"
+        ],
+        [
+          "citroen",
+          0.5,
+          "stuk"
+        ],
+        [
+          "bosui",
+          1,
+          "stuk"
+        ],
+        [
+          "brood",
+          4,
+          "snee"
+        ]
+      ],
+      "sourcePersons": null,
+      "assumedPersons": 2,
+      "screenshotStatus": "pending"
     },
     {
       "videoId": "DTs-sU2j2dX",
@@ -4646,5 +9368,13 @@
       "time": null,
       "videoReviewed": false
     }
-  ]
+  ],
+  "latestBatch": {
+    "count": 50,
+    "newRecipes": 41,
+    "updatedRecipes": 9,
+    "quantityEstimatesAllowed": true,
+    "videoReviewed": false,
+    "screenshotsPending": 50
+  }
 }
