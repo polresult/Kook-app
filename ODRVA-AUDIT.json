@@ -3,7 +3,7 @@
   "profilePostCount": 340,
   "uniqueVideoLinks": 338,
   "complete": false,
-  "reviewedCaptions": 68,
+  "reviewedCaptions": 93,
   "videoDownloadIssue": "De browserdownload van de hamburgervideo liep twee keer vast. Volledige videocontrole is niet voltooid.",
   "videos": [
     {
@@ -1035,24 +1035,91 @@
     {
       "videoId": "DctaQzoSNzI",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DctaQzoSNzI/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 328,
+      "dish": "Vijgencarpaccio met feta, basilicum en prosciutto",
+      "ingredients": [
+        [
+          "vijg",
+          null,
+          ""
+        ],
+        [
+          "feta",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "balsamico",
+          null,
+          ""
+        ],
+        [
+          "prosciutto",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd de rijpe vijgen en druk de plakjes met de voet van een glas plat op een bord.",
+        "Verdeel feta, basilicum en prosciutto erover. Werk af met olijfolie en balsamico."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Ripe figs, tasty feta, fresh basil, a balsamic drizzle and of course, quality control included.\nAll organic. Naturally.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-328.webp",
+      "screenshotTimeSeconds": 30.53
     },
     {
       "videoId": "DcqvUb9vi7Y",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcqvUb9vi7Y/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 329,
+      "dish": "Gegrilde little gem met romige witte bonen",
+      "ingredients": [
+        [
+          "little gem",
+          null,
+          ""
+        ],
+        [
+          "witte bonen",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Halveer little gem en bak de snijkant in een hete pan tot deze geblakerd is.",
+        "Pureer witte bonen met knoflook, peterselie en zo nodig wat bonenvocht tot een romige puree.",
+        "Verdeel de puree over de little gem en zet circa 10 minuten onder de grill."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Charred little gem, creamy white beans, garlic and a big handful of parsley- 10 minutes under the grill for the tastiest starter on the table.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-329.webp",
+      "screenshotTimeSeconds": 30.33
     },
     {
       "videoId": "DclGxpIPEOE",
@@ -1518,13 +1585,62 @@
     {
       "videoId": "DcQ9jq9v8ai",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcQ9jq9v8ai/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 330,
+      "dish": "Champagnecocktail met citroen, mango en perzik",
+      "ingredients": [
+        [
+          "citroen",
+          1,
+          "stuk"
+        ],
+        [
+          "mango",
+          1,
+          "stuk"
+        ],
+        [
+          "perzik",
+          1,
+          "stuk"
+        ],
+        [
+          "honing",
+          null,
+          ""
+        ],
+        [
+          "munt",
+          null,
+          ""
+        ],
+        [
+          "champagne",
+          null,
+          ""
+        ],
+        [
+          "water",
+          null,
+          ""
+        ],
+        [
+          "ijsblokjes",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd citroen, mango en perzik in stukken. Pureer met een glas water en zeef tot een glad mengsel.",
+        "Voeg honing naar smaak toe. Meng eerst een glas champagne erdoor, voeg ijsblokjes toe en daarna een tweede glas champagne.",
+        "Hak muntblaadjes fijn en roer erdoor. Verdeel over glazen."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A last summer cocktail... the tastiest, velvety smooth. Made with a whole lemon, a mango, a peach, honey, mint, and champagne!\nMy beautiful clothing from\nHow to make it:\nCut the lemon, mango, and peach into pieces. Add a glass of water and blend. Strain to get a beautifully smooth, velvety liquid. Add a glass of champagne, then some ice cubes, followed by another glass of champagne. Finely chop a few mint leaves and stir in. Enjoy!",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-330.webp",
+      "screenshotTimeSeconds": 46.75
     },
     {
       "videoId": "DcOnw-AorGU",
@@ -2110,13 +2226,57 @@
     {
       "videoId": "Db1CblyvNp3",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db1CblyvNp3/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 331,
+      "dish": "Toast met avocado-tomaatmousse en Parmezaanei",
+      "ingredients": [
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "avocado",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "chiliolie",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Kook de eieren hard en pel ze. Bak rode ui en rooster het brood.",
+        "Prak avocado met tomaat tot een grove mousse en verdeel met pittige olie over de toast.",
+        "Smelt geraspte parmezaan in een pan en haal de eieren erdoor. Leg op de toast en werk af met de gebakken ui en extra parmezaan."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "An ODRVA sandwich: toast topped with a chunky avocado and tomato mousse and spicy Belgian oil, then a hard-boiled egg dipped in melted Parmigiano Reggiano, topped with some fried red onions and a bit more Parmigiano Reggiano. One of the tastiest sandwiches around.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-331.webp",
+      "screenshotTimeSeconds": 50.43
     },
     {
       "videoId": "DbxRw3OPRe6",
@@ -3084,13 +3244,42 @@
     {
       "videoId": "DbIDAoEPxQW",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbIDAoEPxQW/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 332,
+      "dish": "Bevroren watermeloen met cava en Aperol",
+      "ingredients": [
+        [
+          "watermeloen",
+          null,
+          ""
+        ],
+        [
+          "cava",
+          null,
+          ""
+        ],
+        [
+          "Aperol",
+          null,
+          ""
+        ],
+        [
+          "citroensap",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Maak vóór het invriezen een kleine opening in de watermeloen. Vries de hele meloen circa 8 uur in tot hij hard is.",
+        "Giet cava, Aperol en een scheut citroensap in de opening. Laat de binnenkant langzaam smelten; schraap eventueel wat vruchtvlees los.",
+        "Schep of schenk het gekoelde mengsel in glazen."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Frozen watermelon meets cava, Aperol and lemon.\nThis might be the most fun (and most delicious) cocktail I have ever made; served straight from the melon itself.\nHow? Freeze a whole watermelon for about 8 hours until it's rock solid. Pro tip: before it goes in the freezer, cut a small hole where you'll later pour the drinks in - that's the real secret. Once frozen, fill it with cava, Aperol and a splash of lemon, then let it slowly melt from the inside out (a little scraping helps things along). The result? Pure summer in a glass - juicy, boozy, and ridiculously good.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-332.webp",
+      "screenshotTimeSeconds": 30.71
     },
     {
       "videoId": "DbFdX8avHFO",
@@ -3276,13 +3465,57 @@
     {
       "videoId": "Da-zB9oPJ7n",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da-zB9oPJ7n/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 333,
+      "dish": "Pan con tomate met Ibericoham en ansjovis",
+      "ingredients": [
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "Ibericoham",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "citroenschil",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Verwarm olijfolie zacht met een ansjovisfilet tot deze uiteenvalt. Voeg knoflook en citroenschil toe en laat circa 10 minuten zacht trekken. Zeef en laat afkoelen.",
+        "Rasp rijpe tomaten en meng met een deel van de geurige olie. Rooster het brood.",
+        "Verdeel tomaat over het brood, beleg met Ibericoham en ansjovis."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "This might be the best snack I've made all summer. Pan con tomate, topped with Iberico ham and anchovies, finished with an olive oil slowly infused with lemon peel, anchovies and garlic.\nHere's how: heat good olive oil in a pan, add an anchovy and let it melt in, then add garlic and lemon peel. Let it gently simmer for about 10 minutes, then strain and let it cool. Grate a ripe tomato and mix in part of that infused oil. Spread it onto toasted bread, layer on the Iberico ham, top with anchovies, and enjoy.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-333.webp",
+      "screenshotTimeSeconds": 49.36
     },
     {
       "videoId": "Da57_devx5x",
@@ -3590,57 +3823,338 @@
     {
       "videoId": "Dak2ChKP2H0",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dak2ChKP2H0/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 334,
+      "dish": "Pasta met groenteroomsaus en zalm",
+      "ingredients": [
+        [
+          "pasta",
+          null,
+          ""
+        ],
+        [
+          "courgette",
+          0.5,
+          "stuk"
+        ],
+        [
+          "aubergine",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          0.5,
+          "stuk"
+        ],
+        [
+          "spinazie",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "paprika",
+          null,
+          ""
+        ],
+        [
+          "little gem",
+          null,
+          ""
+        ],
+        [
+          "zalm",
+          null,
+          ""
+        ],
+        [
+          "rode wijn",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd de groenten, knoflook, sjalot en chili. Laat met ansjovis, zalm, citroen en rode wijn zacht garen tot de groenten en zalm gaar zijn.",
+        "Pureer, zeef en laat de saus inkoken. Werk af met een scheut room.",
+        "Kook pasta volgens de verpakking, meng met de saus en serveer met parmezaan en basilicum."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Fridge cleanout pasta. Soo good!\nHalf a zucchini, an old eggplant, a leftover chunk of parmesan, some garlic, a shallot, half a \"fresh\" chili, half a bag of baby spinach, a few anchovies, an old lemon, a bell pepper, some little gem lettuce, and a few pieces of raw salmon - all simmered down in red wine.\nBlend it, strain it, let it reduce, finish with a splash of cream.\nToss with pasta, more parmesan, fresh basil on top.\nOutfit from Hoogenboom, Nijmegen.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-334.webp",
+      "screenshotTimeSeconds": 56.33
     },
     {
       "videoId": "DaiBkwXPnKH",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaiBkwXPnKH/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 335,
+      "dish": "Zalmcarpaccio met mierikswortel-sojadressing",
+      "ingredients": [
+        [
+          "zalm",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "bosui",
+          null,
+          ""
+        ],
+        [
+          "chilipeper",
+          null,
+          ""
+        ],
+        [
+          "mierikswortel",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Leg zalm kort in de vriezer tot hij stevig genoeg is om zeer dun te schaven.",
+        "Verdeel de dunne zalmplakjes met tomaat, bosui en verse chili over een schaal.",
+        "Meng mierikswortel, sojasaus, olijfolie en citroensap tot een dressing en verdeel erover."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "The secret to super thin salmon carpaccio: Put the salmon in the freezer for some time until it firms up. Then you can shave it, very thin.\nComes with tomatoes, spring onions and fresh chili. Topped with a sauce of horseradish, soy sauce, olive oil and lemon. Trust me, this one's a game changer...!\nAll organic ingredients.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-335.webp",
+      "screenshotTimeSeconds": 43.77
     },
     {
       "videoId": "DafNf7uvjhR",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DafNf7uvjhR/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 336,
+      "dish": "Gestoomde zalm op prei en spinazie",
+      "ingredients": [
+        [
+          "zalm",
+          null,
+          ""
+        ],
+        [
+          "prei",
+          null,
+          ""
+        ],
+        [
+          "bosui",
+          null,
+          ""
+        ],
+        [
+          "spinazie",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "witte wijn",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ],
+        [
+          "bouillon",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd prei en bosui en leg met spinazie in een pan.",
+        "Voeg room, witte wijn, sojasaus en bouillon toe. Leg zalm op de groenten.",
+        "Gaar afgedekt op laag vuur tot de zalm gaar is en serveer met de groenten en saus."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Salmon, steamed in the pan on a bed of leek, spring onion and baby spinach. In a sauce of cream, white wine, soy sauce and stock.\nAll organic.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-336.webp",
+      "screenshotTimeSeconds": 46.17
     },
     {
       "videoId": "DadFUKmybLD",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DadFUKmybLD/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 337,
+      "dish": "Meloen-burratasalade met basilicumdressing",
+      "ingredients": [
+        [
+          "meloen",
+          null,
+          ""
+        ],
+        [
+          "burrata",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "balsamico",
+          null,
+          ""
+        ],
+        [
+          "prosciutto",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd de meloen in stukken en verdeel met burrata over een schaal.",
+        "Pureer een deel van de meloen met basilicum, olijfolie, citroensap en balsamico tot een dressing.",
+        "Verdeel de dressing over de salade.",
+        "Werk af met prosciutto en basilicum."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A fantastic melon/burrata salad with a sauce of basil, melon, olive oil, lemon and balsamico..\nAll organic ingredients.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-337.webp",
+      "screenshotTimeSeconds": 44.03
     },
     {
       "videoId": "Daa3tK-PG5s",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Daa3tK-PG5s/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 338,
+      "dish": "Toast met sardinemousse en rode ui",
+      "ingredients": [
+        [
+          "sardines",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "mierikswortel",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          null,
+          ""
+        ],
+        [
+          "mosterd",
+          null,
+          ""
+        ],
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Meng sardines met knoflook, mierikswortel, mayonaise en mosterd tot een mousse.",
+        "Rooster het brood en besmeer met de mousse.",
+        "Werk af met rauwe rode ui en peterselie."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A mousse of sardines with garlic, horseradish, mayonnaise and mustard. Spread it on a little toast with raw red onion and some parsley, and everyone's blown away.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-338.webp",
+      "screenshotTimeSeconds": 36.4
     },
     {
       "videoId": "DaTOhdTzOQ4",
@@ -3779,13 +4293,73 @@
     {
       "videoId": "DaJDgp7vcPK",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaJDgp7vcPK/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 339,
+      "dish": "Aardappelsalade met sardines en zomertruffel",
+      "ingredients": [
+        [
+          "aardappel",
+          null,
+          ""
+        ],
+        [
+          "sardines",
+          null,
+          ""
+        ],
+        [
+          "bieslook",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "zomertruffel",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "little gem",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Kook aardappelen gaar, laat wat afkoelen en snijd in stukken.",
+        "Meng met sardines, bieslook, rode ui, mayonaise, citroensap en tomaat.",
+        "Werk af met dun geschaafde zomertruffel.",
+        "Kook en pel de eieren, voeg ze toe en serveer de salade in slabladeren."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A lovely summery salad of sardines, boiled potatoes, chives, red onion, mayonnaise, lemon, tomato, and finished with summer truffle. Very tasty!",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-339.webp",
+      "screenshotTimeSeconds": 52.47
     },
     {
       "videoId": "DZ_JIAtvUrp",
@@ -3914,24 +4488,118 @@
     {
       "videoId": "DZnfNR_vPLb",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZnfNR_vPLb/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 340,
+      "dish": "Toast met paprika, ansjovis en olijven",
+      "ingredients": [
+        [
+          "brood",
+          null,
+          ""
+        ],
+        [
+          "paprika",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "peterselie",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "olijven",
+          null,
+          ""
+        ],
+        [
+          "citroen",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak gesneden paprika met knoflook zacht in een pan.",
+        "Meng met peterselie, ansjovis, geplette olijven en citroensap.",
+        "Verdeel over geroosterd brood en werk af met geraspte parmezaan."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A toast loaded with pan-fried peppers, garlic, fresh parsley, anchovies, crushed olives, and a squeeze of lemon.\nTopped with freshly grated Parmigiano Reggiano. Salty, fresh, and packed with Mediterranean flavours. Sometimes the simplest combinations create the biggest surprises.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-340.webp",
+      "screenshotTimeSeconds": 54.55
     },
     {
       "videoId": "DZiR7FXvXJy",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZiR7FXvXJy/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 341,
+      "dish": "Spaghetti met aubergine-tomatenroomsaus",
+      "ingredients": [
+        [
+          "spaghetti",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "aubergine",
+          null,
+          ""
+        ],
+        [
+          "rode wijn",
+          null,
+          ""
+        ],
+        [
+          "basilicum",
+          null,
+          ""
+        ],
+        [
+          "room",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd aubergine en tomaat en gaar in een pan met een scheut rode wijn tot een zachte saus.",
+        "Pureer de saus voordat je de spaghetti erdoor mengt.",
+        "Voeg room en basilicum toe en verwarm zacht.",
+        "Kook spaghetti volgens de verpakking en meng met de saus. Serveer met geraspte parmezaan."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Something different this time.\nI teamed up with LisaRaye McCoy to take my recipes across the ocean.\nLisaRaye will be cooking my recipes on her own channel. Stay tuned!\nFrom Los Angeles to Amsterdam, we're bringing people together through food, using organic ingredients whenever possible.\nFor this first episode: a creamy spaghetti sauce made with tomato, eggplant, a splash of Italian red wine, fresh basil, cream and freshly grated Parmigiano Reggiano. Simple ingredients, big flavours.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-341.webp",
+      "screenshotTimeSeconds": 53.01
     },
     {
       "videoId": "DZcmQG7vYVs",
@@ -4153,35 +4821,166 @@
     {
       "videoId": "DZXjYvuvqc_",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZXjYvuvqc_/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 342,
+      "dish": "Broodje knoflook-peterselieworst met burrata",
+      "ingredients": [
+        [
+          "broodje",
+          null,
+          ""
+        ],
+        [
+          "knoflook-peterselieworst",
+          null,
+          ""
+        ],
+        [
+          "burrata",
+          null,
+          ""
+        ],
+        [
+          "spinazie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak de worsten volledig gaar. Laat verse spinazie kort slinken.",
+        "Snijd de broodjes open en vul met worst, spinazie en burrata."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "An Amsterdam-style sausage roll with creamy burrata and fresh spinach straight from the field.\nThe sausages are from Brandt & Levie - their garlic and parsley variety, and absolutely worth it.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-342.webp",
+      "screenshotTimeSeconds": 31.56
     },
     {
       "videoId": "DZVJHPUPWna",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZVJHPUPWna/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 343,
+      "dish": "Watermeloensalade met tomaat, feta en prosciutto",
+      "ingredients": [
+        [
+          "watermeloen",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "feta",
+          null,
+          ""
+        ],
+        [
+          "komkommer",
+          null,
+          ""
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "munt",
+          null,
+          ""
+        ],
+        [
+          "prosciutto",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd watermeloen en komkommer in stukken en verdeel over een schaal.",
+        "Rasp de tomaten en meng met olijfolie. Verdeel over de salade.",
+        "Werk af met feta, verse munt en prosciutto."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Watermelon with grated tomato, feta, cucumber, liquid gold, fresh mint leaves and prosciutto.\nThe secret of this melon salad? The grated tomato. It makes everything a little creamier and adds even more flavour to the dish.\nEnjoy!",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-343.webp",
+      "screenshotTimeSeconds": 48.13
     },
     {
       "videoId": "DZNOCqty4lM",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZNOCqty4lM/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 344,
+      "dish": "Krokante aubergineburger met kaas en buikspek",
+      "ingredients": [
+        [
+          "aubergine",
+          null,
+          ""
+        ],
+        [
+          "bloem",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "paneermeel",
+          null,
+          ""
+        ],
+        [
+          "olie",
+          null,
+          ""
+        ],
+        [
+          "buikspek",
+          null,
+          ""
+        ],
+        [
+          "Goudse kaas",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "witte ui",
+          null,
+          ""
+        ],
+        [
+          "hamburgerbroodje",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Haal dikke plakken aubergine door bloem, ei en paneermeel. Bak in olie circa 15–20 minuten; keer regelmatig. Bak de optionele plakjes buikspek apart gaar.",
+        "Leg kaas op de gare aubergine en laat afgedekt 2–3 minuten op laag vuur smelten.",
+        "Rooster de broodjes en beleg met aubergine, tomaat, witte ui en buikspek."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "An eggplant burger with white onion, tomato, pork belly and Dutch cheese.\nHow do you make it?\nTo get that delicious crispy crust on the eggplant, coat it in flour first, then egg, and finally breadcrumbs.\nHeat some oil in a pan and fry the eggplant for about 15–20 minutes in total. Meanwhile, fry some pork belly slices (optional).\nWhen the eggplant is done, place a slice of Dutch cheese on top and cover the pan with a lid. Let it melt gently for 2–3 minutes over low heat.\nTop it with tomato, white onion and pork belly, place everything on a toasted bun and enjoy.\nAnd yes... my beautiful outfit is from HoogenBoom Mode, Nijmegen.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-344.webp",
+      "screenshotTimeSeconds": 48.62
     },
     {
       "videoId": "DZK7xkPPpEu",
@@ -5453,24 +6252,91 @@
     {
       "videoId": "DYRxfgFPC0r",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYRxfgFPC0r/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 345,
+      "dish": "Komkommersalade met lamsworst en gerookte feta",
+      "ingredients": [
+        [
+          "komkommer",
+          null,
+          ""
+        ],
+        [
+          "lamsworst",
+          null,
+          ""
+        ],
+        [
+          "gerookte feta",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "rode wijnazijn",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak de lamsworsten volledig gaar en snijd in stukken.",
+        "Halveer de komkommer en haal de zaadlijsten eruit. Snijd het vruchtvlees en de rode ui.",
+        "Pureer de komkommerzaadjes met rode wijnazijn tot een dressing. Meng met komkommer, worst, gerookte feta en rode ui."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A meal salad with some serious character.\nCucumber, lamb sausage, smoked feta and red onion. Finished with a vinaigrette made from the cucumber seeds themselves. Nothing wasted.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-345.webp",
+      "screenshotTimeSeconds": 47.52
     },
     {
       "videoId": "DYJb6-wvwsw",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYJb6-wvwsw/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 346,
+      "dish": "Spaans broodje met ansjovis, Ibericoham en pecorino",
+      "ingredients": [
+        [
+          "broodje",
+          null,
+          ""
+        ],
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "ansjovis",
+          null,
+          ""
+        ],
+        [
+          "Ibericoham",
+          null,
+          ""
+        ],
+        [
+          "pecorino",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Snijd of rasp rijpe tomaten en verdeel over de opengesneden broodjes.",
+        "Beleg met ansjovis, Ibericoham en dunne plakjes pecorino."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A Spanish sandwich… with a juice..\nTomatoes. Anchovies. Iberico ham. Pecorino.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-346.webp",
+      "screenshotTimeSeconds": 50.99
     },
     {
       "videoId": "DYChisJv77f",
@@ -5708,35 +6574,206 @@
     {
       "videoId": "DX9fzsnvWPp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DX9fzsnvWPp/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 347,
+      "dish": "Rijstnoedels met groenten en gemarineerd soja-ei",
+      "ingredients": [
+        [
+          "rijstnoedels",
+          null,
+          ""
+        ],
+        [
+          "wortel",
+          null,
+          ""
+        ],
+        [
+          "prei",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "gember",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ],
+        [
+          "mirin",
+          null,
+          ""
+        ],
+        [
+          "sesamolie",
+          null,
+          ""
+        ],
+        [
+          "chiliolie",
+          null,
+          ""
+        ],
+        [
+          "water",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Kook de eieren, pel en marineer circa 6 uur in sojasaus, mirin, sesamolie, chiliolie en een beetje water, in de koelkast.",
+        "Snijd wortel, prei, knoflook en gember fijn en gaar in een pan. Bereid rijstnoedels volgens de verpakking.",
+        "Meng noedels en groenten met de eimarinade en laat de saus opnemen. Serveer met het soja-ei."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Rice noodles with hand-cut carrots, leek, lots of garlic and finely chopped ginger.\nThe real magic is the sauce.\nI let the eggs sit in it for about 6 hours - soy sauce, mirin, sesame oil, homemade chili oil and a bit of water.\nThen I use that same sauce for the noodles. Let everything soak in.\nFinish it with the soy egg on top.\nNext level.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-347.webp",
+      "screenshotTimeSeconds": 52.71
     },
     {
       "videoId": "DX62E1SPpql",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DX62E1SPpql/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 348,
+      "dish": "Tomatencarpaccio met sardine-avocadomousse",
+      "ingredients": [
+        [
+          "tomaat",
+          null,
+          ""
+        ],
+        [
+          "sardines",
+          null,
+          ""
+        ],
+        [
+          "avocado",
+          null,
+          ""
+        ],
+        [
+          "parmezaan",
+          null,
+          ""
+        ],
+        [
+          "kappertjes",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          1,
+          "stuk"
+        ],
+        [
+          "eidooier",
+          1,
+          "stuk"
+        ],
+        [
+          "olijfolie",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "rijstwafel",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Schaaf of snijd tomaten zeer dun en verdeel over een schaal.",
+        "Pureer sardines en avocado met een ei, een eidooier en olijfolie tot een mousse en verdeel over de tomaat.",
+        "Werk af met rode ui, parmezaan, kappertjes en olijfolie. Serveer eventueel op rijstwafels."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Tomato carpaccio with a sardine & avocado mousse. Maurice style.\nFinished with Parmesan (PR) and capers.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-348.webp",
+      "screenshotTimeSeconds": 53.22
     },
     {
       "videoId": "DXqtLQ0D4cE",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXqtLQ0D4cE/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 349,
+      "dish": "Broodje Antibes met ham, Comté en Dijonmayo",
+      "ingredients": [
+        [
+          "broodje",
+          null,
+          ""
+        ],
+        [
+          "ham",
+          null,
+          ""
+        ],
+        [
+          "Comté",
+          null,
+          ""
+        ],
+        [
+          "oranje tomaat",
+          null,
+          ""
+        ],
+        [
+          "rucola",
+          null,
+          ""
+        ],
+        [
+          "bosui",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          null,
+          ""
+        ],
+        [
+          "Dijonmosterd",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Meng mayonaise met Dijonmosterd en besmeer de opengesneden broodjes.",
+        "Beleg met ham, Comté, oranje tomaat, rucola en bosui."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Ok.. I call this the Antibes sandwich.\nOrganic ham, organic Comté, orange tomato, arugula, spring onion, Dijon mayonnaise.\nAnd it tastes amazing.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-349.webp",
+      "screenshotTimeSeconds": 37.74
     },
     {
       "videoId": "DXll71Zj9BC",
@@ -5774,13 +6811,62 @@
     {
       "videoId": "DXQ0CtAD_sw",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXQ0CtAD_sw/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 350,
+      "dish": "Broodje kort gebakken tonijn met wasabimayo",
+      "ingredients": [
+        [
+          "tonijn",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "broodje",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          null,
+          ""
+        ],
+        [
+          "wasabi",
+          null,
+          ""
+        ],
+        [
+          "koriander",
+          null,
+          ""
+        ],
+        [
+          "avocado",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak de tonijn kort rondom aan zodat hij vanbinnen rood blijft. Bak of snijd de sjalot zoals gewenst.",
+        "Meng mayonaise met wasabi en sojasaus en besmeer de broodjes.",
+        "Beleg met tonijn, sjalot, avocado en verse koriander."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "One of the best sandwiches out there.\nSeared tuna (still red inside), a shallot, on a bun with wasabi mayo and fresh coriander… sooo good.\nInspired by a good friend of mine, Hans Pieter. I tweaked it slightly… but wow, this is next level.\nAll products from Ekoplaza Foodmarqt. 100% organic.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-350.webp",
+      "screenshotTimeSeconds": 39.54
     },
     {
       "videoId": "DXMii9YD8Rq",
@@ -5943,13 +7029,78 @@
     {
       "videoId": "DW9A-3uDw0H",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW9A-3uDw0H/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 351,
+      "dish": "Kippenpoten in miso-pindasaus",
+      "ingredients": [
+        [
+          "kippenpoot",
+          null,
+          ""
+        ],
+        [
+          "miso",
+          null,
+          ""
+        ],
+        [
+          "pindakaas",
+          null,
+          ""
+        ],
+        [
+          "kippenbouillon",
+          null,
+          ""
+        ],
+        [
+          "sjalot",
+          null,
+          ""
+        ],
+        [
+          "knoflook",
+          null,
+          ""
+        ],
+        [
+          "sojasaus",
+          null,
+          ""
+        ],
+        [
+          "vissaus",
+          null,
+          ""
+        ],
+        [
+          "kurkuma",
+          null,
+          ""
+        ],
+        [
+          "rijst",
+          null,
+          ""
+        ],
+        [
+          "spinazie",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Bak de kippenpoten rondom aan en voeg gesneden sjalot en knoflook toe.",
+        "Meng miso, pindakaas, kippenbouillon, sojasaus, vissaus en kurkuma en voeg toe.",
+        "Laat op laag vuur afgedekt stoven tot de kip volledig gaar is. Laat de saus indien nodig onafgedekt inkoken.",
+        "Kook rijst en laat spinazie slinken. Serveer bij de kip en saus."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "Juicy chicken legs with miso, peanut butter, chicken broth, shallot, garlic, soy sauce and fish sauce. All organic. Naturally.\nDo you want also this cool, high-quality pan like this from Bare Cookware? Head over to their website and use my code for a great discount: MAURICE10",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-351.webp",
+      "screenshotTimeSeconds": 51.2
     },
     {
       "videoId": "DW6fghijzrU",
@@ -6045,13 +7196,57 @@
     {
       "videoId": "DW3-FVRj8wZ",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW3-FVRj8wZ/",
-      "status": "nog inhoudelijk te controleren",
-      "recipeId": null,
-      "dish": null,
-      "ingredients": null,
-      "steps": null,
+      "status": "caption-reviewed",
+      "recipeId": 352,
+      "dish": "Broodje sardines met augurk en mosterdmayo",
+      "ingredients": [
+        [
+          "broodje",
+          null,
+          ""
+        ],
+        [
+          "sardines",
+          null,
+          ""
+        ],
+        [
+          "augurk",
+          null,
+          ""
+        ],
+        [
+          "ei",
+          null,
+          ""
+        ],
+        [
+          "rode ui",
+          null,
+          ""
+        ],
+        [
+          "mosterd",
+          null,
+          ""
+        ],
+        [
+          "mayonaise",
+          null,
+          ""
+        ]
+      ],
+      "steps": [
+        "Kook de eieren, pel en snijd in plakjes. Snijd augurk en rode ui.",
+        "Meng mosterd met mayonaise en besmeer de broodjes.",
+        "Beleg met sardines, augurk, ei en rode ui."
+      ],
       "time": null,
-      "videoReviewed": false
+      "videoReviewed": false,
+      "sourceCaption": "A delicious summer sandwich, Maurice style. Sardines, pickles, egg, red onion and a mustard-mayo sauce. Love it.\nAll organic. Naturally.",
+      "selectedFramesReviewed": true,
+      "screenshot": "photos/odrva-352.webp",
+      "screenshotTimeSeconds": 50.77
     },
     {
       "videoId": "DW1iuCNj-TS",

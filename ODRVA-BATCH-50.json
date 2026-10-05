@@ -1,7 +1,7 @@
 {
   "count": 50,
   "videoReviewed": false,
-  "screenshotsPending": true,
+  "screenshotsPending": false,
   "recipes": [
     {
       "id": 287,
@@ -133,7 +133,11 @@
       "timeNote": "Curd 4–6 min; koekjes 7–9 min op 175°C; afkoeltijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen genoemd in de bron.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-287.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DceBtogvs5s/",
+      "screenshotTimeSeconds": 56.98,
+      "screenshotReviewed": true
     },
     {
       "id": 288,
@@ -182,7 +186,11 @@
       "timeNote": "Oven 10 min op 200°C; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-288.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dca5-MWPhRu/",
+      "screenshotTimeSeconds": 24.78,
+      "screenshotReviewed": true
     },
     {
       "id": 259,
@@ -351,7 +359,11 @@
       ],
       "timeNote": "Koek 12 min op 200°C; marineertijd en totale tijd onbekend.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-259.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcTTzHjvLjI/",
+      "screenshotTimeSeconds": 51.52,
+      "screenshotReviewed": true
     },
     {
       "id": 289,
@@ -506,7 +518,11 @@
       "timeNote": "Totale tijd niet genoemd; bron noemt twee kleine tartaartjes.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-289.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcLxvCbPl73/",
+      "screenshotTimeSeconds": 50.96,
+      "screenshotReviewed": true
     },
     {
       "id": 290,
@@ -644,7 +660,11 @@
       "timeNote": "Mozzarella circa 4 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-290.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcJShmlvQbA/",
+      "screenshotTimeSeconds": 55.65,
+      "screenshotReviewed": true
     },
     {
       "id": 291,
@@ -783,7 +803,11 @@
       "timeNote": "Deelduur 4, 12 en 10 min; guanciale parallel 10 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-291.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcGxf8oPmBv/",
+      "screenshotTimeSeconds": 53.78,
+      "screenshotReviewed": true
     },
     {
       "id": 292,
@@ -940,7 +964,11 @@
       "timeNote": "Totale tijd niet genoemd; basilicum/munt circa 70/30.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-292.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db6Ffe_P52N/",
+      "screenshotTimeSeconds": 48.84,
+      "screenshotReviewed": true
     },
     {
       "id": 293,
@@ -1034,7 +1062,11 @@
       "timeNote": "Courgette circa 8 min; pesto pureren circa 4 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-293.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db3YLCBP_0a/",
+      "screenshotTimeSeconds": 49.08,
+      "screenshotReviewed": true
     },
     {
       "id": 294,
@@ -1150,7 +1182,11 @@
       "timeNote": "Guanciale, knoflook en peterselie 10 + 5 + 2 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-294.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbxRw3OPRe6/",
+      "screenshotTimeSeconds": 51.17,
+      "screenshotReviewed": true
     },
     {
       "id": 295,
@@ -1264,7 +1300,11 @@
       "timeNote": "Taugé maximaal 1 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-295.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbqZArMP2hA/",
+      "screenshotTimeSeconds": 38.22,
+      "screenshotReviewed": true
     },
     {
       "id": 296,
@@ -1379,7 +1419,11 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-296.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbntXUTPZFm/",
+      "screenshotTimeSeconds": 47.77,
+      "screenshotReviewed": true
     },
     {
       "id": 297,
@@ -1513,7 +1557,11 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-297.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbhtlqvPlI3/",
+      "screenshotTimeSeconds": 47.75,
+      "screenshotReviewed": true
     },
     {
       "id": 298,
@@ -1628,7 +1676,11 @@
       "timeNote": "Scheermessen maximaal 2 min; saus maximaal 8 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-298.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbddxZwPDme/",
+      "screenshotTimeSeconds": 39.97,
+      "screenshotReviewed": true
     },
     {
       "id": 262,
@@ -1777,7 +1829,11 @@
       ],
       "timeNote": "Kip 1,5 + circa 7 min per kant; saus met wijn 10 min; totale tijd onbekend.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-262.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbV4u2cPjt2/",
+      "screenshotTimeSeconds": 57.99,
+      "screenshotReviewed": true
     },
     {
       "id": 299,
@@ -1901,7 +1957,11 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-299.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbTKL7FPvFk/",
+      "screenshotTimeSeconds": 54.24,
+      "screenshotReviewed": true
     },
     {
       "id": 300,
@@ -2048,7 +2108,11 @@
       "timeNote": "Pan circa 20 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-300.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbQ6cPHPPQv/",
+      "screenshotTimeSeconds": 55.53,
+      "screenshotReviewed": true
     },
     {
       "id": 301,
@@ -2163,7 +2227,11 @@
       "timeNote": "Little gem maximaal 2 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-301.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbLiisOvdFj/",
+      "screenshotTimeSeconds": 52.0,
+      "screenshotReviewed": true
     },
     {
       "id": 263,
@@ -2267,7 +2335,11 @@
       ],
       "timeNote": "Abrikozen circa 10 min; totale tijd onbekend.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-263.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbFdX8avHFO/",
+      "screenshotTimeSeconds": 41.47,
+      "screenshotReviewed": true
     },
     {
       "id": 264,
@@ -2372,7 +2444,11 @@
       ],
       "timeNote": "Totale tijd niet genoemd.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-264.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbBgByUPWCk/",
+      "screenshotTimeSeconds": 54.27,
+      "screenshotReviewed": true
     },
     {
       "id": 257,
@@ -2488,7 +2564,11 @@
       ],
       "timeNote": "Garnalen eerst 1–2 min; saus circa 15 min en nog enkele minuten; totale tijd onbekend.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-257.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da57_devx5x/",
+      "screenshotTimeSeconds": 57.06,
+      "screenshotReviewed": true
     },
     {
       "id": 265,
@@ -2570,7 +2650,11 @@
       ],
       "timeNote": "Vriezer minstens 6 uur; actieve tijd onbekend.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-265.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da0q9k4PvAJ/",
+      "screenshotTimeSeconds": 35.62,
+      "screenshotReviewed": true
     },
     {
       "id": 302,
@@ -2708,7 +2792,11 @@
       "timeNote": "Aubergine circa 20 min na aanbraden; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-302.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Das9deMPXby/",
+      "screenshotTimeSeconds": 42.33,
+      "screenshotReviewed": true
     },
     {
       "id": 303,
@@ -2824,7 +2912,11 @@
       "timeNote": "Sudderen circa 10 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-303.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaN2F1fPQKi/",
+      "screenshotTimeSeconds": 53.22,
+      "screenshotReviewed": true
     },
     {
       "id": 254,
@@ -2929,7 +3021,11 @@
       ],
       "timeNote": "Marineren circa 1 uur; grillen circa 25 min.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-254.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZurHVlPjNH/",
+      "screenshotTimeSeconds": 44.26,
+      "screenshotReviewed": true
     },
     {
       "id": 304,
@@ -3066,7 +3162,11 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-304.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZcmQG7vYVs/",
+      "screenshotTimeSeconds": 39.43,
+      "screenshotReviewed": true
     },
     {
       "id": 305,
@@ -3209,7 +3309,11 @@
       "timeNote": "Marineren minstens 15 min; ui circa 1 min; aubergine circa 15 min.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen genoemd in de bron.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-305.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZZv5u_v_N0/",
+      "screenshotTimeSeconds": 42.27,
+      "screenshotReviewed": true
     },
     {
       "id": 306,
@@ -3320,7 +3424,11 @@
       "timeNote": "Marineren circa 30 min; bakken circa 10 min.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-306.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZK7xkPPpEu/",
+      "screenshotTimeSeconds": 45.34,
+      "screenshotReviewed": true
     },
     {
       "id": 307,
@@ -3466,7 +3574,11 @@
       "timeNote": "Sudderen circa 10 min plus enkele minuten; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-307.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZIGJZav0Rd/",
+      "screenshotTimeSeconds": 49.79,
+      "screenshotReviewed": true
     },
     {
       "id": 273,
@@ -3583,7 +3695,11 @@
       ],
       "timeNote": "Asperges circa 15 min; grill 5–8 min op 220°C; totale tijd onbekend.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-273.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZC4IG8PyW-/",
+      "screenshotTimeSeconds": 46.87,
+      "screenshotReviewed": true
     },
     {
       "id": 308,
@@ -3765,7 +3881,11 @@
       "timeNote": "Asperges circa 20 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-308.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY9A83EPHNF/",
+      "screenshotTimeSeconds": 52.43,
+      "screenshotReviewed": true
     },
     {
       "id": 309,
@@ -3909,7 +4029,11 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-309.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY6s5eIvTC3/",
+      "screenshotTimeSeconds": 49.63,
+      "screenshotReviewed": true
     },
     {
       "id": 310,
@@ -4080,7 +4204,11 @@
       "timeNote": "Groenten circa 10 min; garnalen circa 8 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-310.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY2MNqDvR_5/",
+      "screenshotTimeSeconds": 54.98,
+      "screenshotReviewed": true
     },
     {
       "id": 311,
@@ -4228,7 +4356,11 @@
       "timeNote": "Sudderen circa 15 min; totale tijd onbekend; sausverhouding circa 70/30.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-311.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYg_aVJvH9R/",
+      "screenshotTimeSeconds": 49.63,
+      "screenshotReviewed": true
     },
     {
       "id": 312,
@@ -4386,7 +4518,11 @@
       "timeNote": "Sudderen circa 10 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-312.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYe5jbpPaYd/",
+      "screenshotTimeSeconds": 55.23,
+      "screenshotReviewed": true
     },
     {
       "id": 313,
@@ -4480,7 +4616,11 @@
       "timeNote": "Kaas om brood circa 1 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-313.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYcLzuOPn9f/",
+      "screenshotTimeSeconds": 31.04,
+      "screenshotReviewed": true
     },
     {
       "id": 314,
@@ -4638,7 +4778,11 @@
       "timeNote": "Sudderen 30 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-314.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYZG7NLv3o-/",
+      "screenshotTimeSeconds": 54.4,
+      "screenshotReviewed": true
     },
     {
       "id": 315,
@@ -4730,7 +4874,11 @@
       "timeNote": "Sardines maximaal 2 min per kant; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-315.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYT1OFpP_9G/",
+      "screenshotTimeSeconds": 49.49,
+      "screenshotReviewed": true
     },
     {
       "id": 316,
@@ -4846,7 +4994,11 @@
       "timeNote": "Sudderen 15–20 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-316.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYChisJv77f/",
+      "screenshotTimeSeconds": 41.07,
+      "screenshotReviewed": true
     },
     {
       "id": 317,
@@ -4996,7 +5148,11 @@
       "timeNote": "Saus circa 8 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-317.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYAE4v-vFWu/",
+      "screenshotTimeSeconds": 56.45,
+      "screenshotReviewed": true
     },
     {
       "id": 318,
@@ -5173,7 +5329,11 @@
       "timeNote": "Tuinbonen maximaal 5 min; worst circa 8 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-318.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXExuDBj4J5/",
+      "screenshotTimeSeconds": 55.16,
+      "screenshotReviewed": true
     },
     {
       "id": 319,
@@ -5278,7 +5438,11 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-319.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW6fghijzrU/",
+      "screenshotTimeSeconds": 45.03,
+      "screenshotReviewed": true
     },
     {
       "id": 320,
@@ -5393,7 +5557,11 @@
       "timeNote": "Asperges circa 10 min; risotto circa 20 min; bron noemt 70 g geitenkaas voor 4 personen.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen genoemd in de bron.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-320.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DWUCk0yD546/",
+      "screenshotTimeSeconds": 49.91,
+      "screenshotReviewed": true
     },
     {
       "id": 321,
@@ -5487,7 +5655,11 @@
       "timeNote": "Sudderen circa 8 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-321.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVq4MICj2uF/",
+      "screenshotTimeSeconds": 44.84,
+      "screenshotReviewed": true
     },
     {
       "id": 322,
@@ -5601,7 +5773,11 @@
       "timeNote": "Paprika circa 20 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-322.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVnTWjFj0DD/",
+      "screenshotTimeSeconds": 53.06,
+      "screenshotReviewed": true
     },
     {
       "id": 323,
@@ -5693,7 +5869,11 @@
       "timeNote": "Peulen 5 min; saus 5 min; omscheppen 2–3 min; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-323.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVjZDCFj3rE/",
+      "screenshotTimeSeconds": 58.63,
+      "screenshotReviewed": true
     },
     {
       "id": 324,
@@ -5808,7 +5988,11 @@
       "timeNote": "Prosciutto maximaal 40 sec; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-324.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVDS5-bj8kT/",
+      "screenshotTimeSeconds": 55.36,
+      "screenshotReviewed": true
     },
     {
       "id": 325,
@@ -5957,7 +6141,11 @@
       "timeNote": "Rijstpapier 10 sec weken; totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-325.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DU-m0k5j6CE/",
+      "screenshotTimeSeconds": 50.16,
+      "screenshotReviewed": true
     },
     {
       "id": 267,
@@ -6096,7 +6284,11 @@
       ],
       "timeNote": "Totale tijd niet genoemd.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-267.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DUqhailD9yL/",
+      "screenshotTimeSeconds": 86.63,
+      "screenshotReviewed": true
     },
     {
       "id": 326,
@@ -6212,7 +6404,11 @@
       "timeNote": "Aanbraden 1 min per kant; sudder- en totale tijd onbekend.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-326.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DUAbArhD1Vt/",
+      "screenshotTimeSeconds": 66.3,
+      "screenshotReviewed": true
     },
     {
       "id": 327,
@@ -6356,7 +6552,12 @@
       "timeNote": "Totale tijd niet genoemd.",
       "note": "Gebaseerd op het Instagram-bijschrift; de volledige video is nog niet gecontroleerd. Ontbrekende hoeveelheden zijn praktisch geschat en gemarkeerd. Aantal personen niet genoemd: aangenomen 2 personen.",
       "sourceStatus": "caption-reviewed",
-      "videoReviewed": false
+      "videoReviewed": false,
+      "photo": "photos/odrva-327.webp",
+      "screenshotSourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DT2Suu1j3fY/",
+      "screenshotTimeSeconds": 59.28,
+      "screenshotReviewed": true
     }
-  ]
+  ],
+  "screenshotsAdded": 50
 }
