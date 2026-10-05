@@ -25,5 +25,19 @@ if(document.getElementById('detail').innerHTML.includes('null min'))throw Error(
 S.week=R.slice(0,9).map(r=>r.id);renderWeek();if(document.getElementById('weekList').innerHTML.includes('undefined'))throw Error('week longer than seven days');
 S.week=[1,curry.id];renderShop();if(document.getElementById('shopping').innerHTML.includes('NaN'))throw Error('mixed known/unknown list broken');
 if(new Set(R.map(r=>r.id)).size!==R.length)throw Error('duplicate ids');
+S.week=[287,276];renderShop();if((document.getElementById('shopping').innerHTML.split('<b>citroen</b>').length-1)!==1)throw Error('known and unknown lemon duplicated');if(!document.getElementById('shopping').innerHTML.includes('extra hoeveelheid niet vermeld'))throw Error('unknown lemon amount hidden');
+const groceries=shoppingIngredients({ingredients:[['pastawater',100,'ml'],['water',null,'ml'],['citroensap',40,'ml'],['citroenrasp',.5,'stuk'],['sap van halve limoen',null,'stuk'],['basilicum',20,'g']]});
+if(groceries.some(i=>/water|sap|rasp/.test(i[0])))throw Error('preparation ingredient leaked into products');
+if(groceries.find(i=>i[0]==='citroen')[1]!==1)throw Error('juice and zest double counted');
+if(groceries.find(i=>i[0]==='limoen')[1]!==.5)throw Error('half fruit in name lost');
+if(shoppingKey('basilicum','g')!=='basilicum|g')throw Error('grams of basil converted to bunches');
+if(!groceries.find(i=>i[0]==='citroen')[3])throw Error('juice conversion estimate not flagged');
+const lemonDessert=R.find(r=>r.id===287);S.week=[lemonDessert.id];S.persons=lemonDessert.basePersons;
+if(shoppingTotals()['citroensap|ml']||shoppingTotals()['citroenrasp|stuk'])throw Error('citrus not merged in real recipe');
+if(shoppingTotals()['citroen|stuk']!==1)throw Error('real lemon dessert should require one lemon');
+if(!estimatedShopping()['citroen|stuk'])throw Error('real fruit estimate missing');
+openR(210);if(document.getElementById('detail').innerHTML.includes('Pexels'))throw Error('original frame incorrectly credited as stock');
+openR(266);if(!document.getElementById('detail').innerHTML.includes('Bekijk originele video'))throw Error('video source label');
 `,ctx);
 console.log('PASS: scaling, unknown quantities, source amounts, quick filter, details, week navigation, mixed grocery list, unique IDs');
+

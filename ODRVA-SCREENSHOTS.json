@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 101,
   "capturedAt": "2026-10-05",
   "screenshots": [
     {
@@ -8,7 +8,9 @@
       "file": "photos/odrva-287.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DceBtogvs5s/",
       "timeSeconds": 56.98,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 288,
@@ -16,7 +18,14 @@
       "file": "photos/odrva-288.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dca5-MWPhRu/",
       "timeSeconds": 24.78,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 259,
@@ -24,7 +33,9 @@
       "file": "photos/odrva-259.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcTTzHjvLjI/",
       "timeSeconds": 51.52,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 289,
@@ -32,7 +43,9 @@
       "file": "photos/odrva-289.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcLxvCbPl73/",
       "timeSeconds": 50.96,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 290,
@@ -40,7 +53,14 @@
       "file": "photos/odrva-290.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcJShmlvQbA/",
       "timeSeconds": 55.65,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 291,
@@ -48,7 +68,9 @@
       "file": "photos/odrva-291.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcGxf8oPmBv/",
       "timeSeconds": 53.78,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 292,
@@ -56,7 +78,14 @@
       "file": "photos/odrva-292.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db6Ffe_P52N/",
       "timeSeconds": 48.84,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 293,
@@ -64,7 +93,9 @@
       "file": "photos/odrva-293.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db3YLCBP_0a/",
       "timeSeconds": 49.08,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 294,
@@ -72,7 +103,9 @@
       "file": "photos/odrva-294.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbxRw3OPRe6/",
       "timeSeconds": 51.17,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 295,
@@ -80,7 +113,14 @@
       "file": "photos/odrva-295.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbqZArMP2hA/",
       "timeSeconds": 38.22,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 296,
@@ -88,7 +128,14 @@
       "file": "photos/odrva-296.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbntXUTPZFm/",
       "timeSeconds": 47.77,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 297,
@@ -96,7 +143,14 @@
       "file": "photos/odrva-297.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbhtlqvPlI3/",
       "timeSeconds": 47.75,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 298,
@@ -104,7 +158,9 @@
       "file": "photos/odrva-298.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbddxZwPDme/",
       "timeSeconds": 39.97,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 262,
@@ -112,7 +168,9 @@
       "file": "photos/odrva-262.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbV4u2cPjt2/",
       "timeSeconds": 57.99,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 299,
@@ -120,7 +178,9 @@
       "file": "photos/odrva-299.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbTKL7FPvFk/",
       "timeSeconds": 54.24,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 300,
@@ -128,7 +188,16 @@
       "file": "photos/odrva-300.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbQ6cPHPPQv/",
       "timeSeconds": 55.53,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text",
+        "tight-food-closeup",
+        "remove-distracting-utensils-and-background"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 301,
@@ -136,7 +205,9 @@
       "file": "photos/odrva-301.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbLiisOvdFj/",
       "timeSeconds": 52,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 263,
@@ -144,7 +215,14 @@
       "file": "photos/odrva-263.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbFdX8avHFO/",
       "timeSeconds": 41.47,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 264,
@@ -152,7 +230,14 @@
       "file": "photos/odrva-264.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbBgByUPWCk/",
       "timeSeconds": 54.27,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 257,
@@ -160,7 +245,14 @@
       "file": "photos/odrva-257.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da57_devx5x/",
       "timeSeconds": 57.06,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 265,
@@ -168,7 +260,14 @@
       "file": "photos/odrva-265.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da0q9k4PvAJ/",
       "timeSeconds": 35.62,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 302,
@@ -176,7 +275,9 @@
       "file": "photos/odrva-302.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Das9deMPXby/",
       "timeSeconds": 42.33,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 303,
@@ -184,7 +285,14 @@
       "file": "photos/odrva-303.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaN2F1fPQKi/",
       "timeSeconds": 53.22,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 254,
@@ -192,7 +300,9 @@
       "file": "photos/odrva-254.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZurHVlPjNH/",
       "timeSeconds": 44.26,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 304,
@@ -200,7 +310,14 @@
       "file": "photos/odrva-304.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZcmQG7vYVs/",
       "timeSeconds": 39.43,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 305,
@@ -208,7 +325,14 @@
       "file": "photos/odrva-305.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZZv5u_v_N0/",
       "timeSeconds": 42.27,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 306,
@@ -216,7 +340,14 @@
       "file": "photos/odrva-306.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZK7xkPPpEu/",
       "timeSeconds": 45.34,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 307,
@@ -224,7 +355,14 @@
       "file": "photos/odrva-307.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZIGJZav0Rd/",
       "timeSeconds": 49.79,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 273,
@@ -232,7 +370,9 @@
       "file": "photos/odrva-273.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZC4IG8PyW-/",
       "timeSeconds": 46.87,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 308,
@@ -240,7 +380,14 @@
       "file": "photos/odrva-308.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY9A83EPHNF/",
       "timeSeconds": 52.43,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 309,
@@ -248,7 +395,9 @@
       "file": "photos/odrva-309.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY6s5eIvTC3/",
       "timeSeconds": 49.63,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 310,
@@ -256,7 +405,14 @@
       "file": "photos/odrva-310.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DY2MNqDvR_5/",
       "timeSeconds": 54.98,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 311,
@@ -264,7 +420,9 @@
       "file": "photos/odrva-311.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYg_aVJvH9R/",
       "timeSeconds": 49.63,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 312,
@@ -272,7 +430,14 @@
       "file": "photos/odrva-312.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYe5jbpPaYd/",
       "timeSeconds": 55.23,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 313,
@@ -280,7 +445,14 @@
       "file": "photos/odrva-313.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYcLzuOPn9f/",
       "timeSeconds": 31.04,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 314,
@@ -288,7 +460,14 @@
       "file": "photos/odrva-314.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYZG7NLv3o-/",
       "timeSeconds": 54.4,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 315,
@@ -296,7 +475,14 @@
       "file": "photos/odrva-315.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYT1OFpP_9G/",
       "timeSeconds": 49.49,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 316,
@@ -304,7 +490,9 @@
       "file": "photos/odrva-316.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYChisJv77f/",
       "timeSeconds": 41.07,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 317,
@@ -312,7 +500,9 @@
       "file": "photos/odrva-317.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYAE4v-vFWu/",
       "timeSeconds": 56.45,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 318,
@@ -320,7 +510,14 @@
       "file": "photos/odrva-318.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXExuDBj4J5/",
       "timeSeconds": 55.16,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 319,
@@ -328,7 +525,9 @@
       "file": "photos/odrva-319.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW6fghijzrU/",
       "timeSeconds": 45.03,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 320,
@@ -336,7 +535,14 @@
       "file": "photos/odrva-320.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DWUCk0yD546/",
       "timeSeconds": 49.91,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 321,
@@ -344,7 +550,9 @@
       "file": "photos/odrva-321.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVq4MICj2uF/",
       "timeSeconds": 44.84,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 322,
@@ -352,7 +560,14 @@
       "file": "photos/odrva-322.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVnTWjFj0DD/",
       "timeSeconds": 53.06,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 323,
@@ -360,7 +575,14 @@
       "file": "photos/odrva-323.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVjZDCFj3rE/",
       "timeSeconds": 58.63,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 324,
@@ -368,7 +590,9 @@
       "file": "photos/odrva-324.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DVDS5-bj8kT/",
       "timeSeconds": 55.36,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 325,
@@ -376,7 +600,14 @@
       "file": "photos/odrva-325.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DU-m0k5j6CE/",
       "timeSeconds": 50.16,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 267,
@@ -384,7 +615,14 @@
       "file": "photos/odrva-267.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DUqhailD9yL/",
       "timeSeconds": 86.63,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 326,
@@ -392,7 +630,14 @@
       "file": "photos/odrva-326.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DUAbArhD1Vt/",
       "timeSeconds": 66.3,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 327,
@@ -400,7 +645,14 @@
       "file": "photos/odrva-327.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DT2Suu1j3fY/",
       "timeSeconds": 59.28,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 328,
@@ -408,7 +660,14 @@
       "file": "photos/odrva-328.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DctaQzoSNzI/",
       "timeSeconds": 30.53,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 329,
@@ -416,7 +675,14 @@
       "file": "photos/odrva-329.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcqvUb9vi7Y/",
       "timeSeconds": 30.33,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 330,
@@ -424,7 +690,9 @@
       "file": "photos/odrva-330.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcQ9jq9v8ai/",
       "timeSeconds": 46.75,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 331,
@@ -432,7 +700,14 @@
       "file": "photos/odrva-331.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Db1CblyvNp3/",
       "timeSeconds": 50.43,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 332,
@@ -440,7 +715,14 @@
       "file": "photos/odrva-332.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DbIDAoEPxQW/",
       "timeSeconds": 30.71,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 333,
@@ -448,7 +730,14 @@
       "file": "photos/odrva-333.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Da-zB9oPJ7n/",
       "timeSeconds": 49.36,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 334,
@@ -456,7 +745,14 @@
       "file": "photos/odrva-334.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dak2ChKP2H0/",
       "timeSeconds": 56.33,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 335,
@@ -464,7 +760,14 @@
       "file": "photos/odrva-335.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaiBkwXPnKH/",
       "timeSeconds": 43.77,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 336,
@@ -472,7 +775,9 @@
       "file": "photos/odrva-336.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DafNf7uvjhR/",
       "timeSeconds": 46.17,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 337,
@@ -480,7 +785,14 @@
       "file": "photos/odrva-337.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DadFUKmybLD/",
       "timeSeconds": 44.03,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 338,
@@ -488,7 +800,14 @@
       "file": "photos/odrva-338.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Daa3tK-PG5s/",
       "timeSeconds": 36.4,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 339,
@@ -496,7 +815,14 @@
       "file": "photos/odrva-339.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DaJDgp7vcPK/",
       "timeSeconds": 52.47,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 340,
@@ -504,7 +830,9 @@
       "file": "photos/odrva-340.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZnfNR_vPLb/",
       "timeSeconds": 54.55,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 341,
@@ -512,7 +840,14 @@
       "file": "photos/odrva-341.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZiR7FXvXJy/",
       "timeSeconds": 53.01,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 342,
@@ -520,7 +855,14 @@
       "file": "photos/odrva-342.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZXjYvuvqc_/",
       "timeSeconds": 31.56,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 343,
@@ -528,7 +870,14 @@
       "file": "photos/odrva-343.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZVJHPUPWna/",
       "timeSeconds": 48.13,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 344,
@@ -536,7 +885,14 @@
       "file": "photos/odrva-344.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DZNOCqty4lM/",
       "timeSeconds": 48.62,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 345,
@@ -544,7 +900,9 @@
       "file": "photos/odrva-345.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYRxfgFPC0r/",
       "timeSeconds": 47.52,
-      "kind": "original-video-frame"
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 346,
@@ -552,7 +910,14 @@
       "file": "photos/odrva-346.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYJb6-wvwsw/",
       "timeSeconds": 50.99,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 347,
@@ -560,7 +925,14 @@
       "file": "photos/odrva-347.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DX9fzsnvWPp/",
       "timeSeconds": 52.71,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 348,
@@ -568,7 +940,14 @@
       "file": "photos/odrva-348.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DX62E1SPpql/",
       "timeSeconds": 53.22,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 349,
@@ -576,7 +955,14 @@
       "file": "photos/odrva-349.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXqtLQ0D4cE/",
       "timeSeconds": 37.74,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 350,
@@ -584,7 +970,14 @@
       "file": "photos/odrva-350.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DXQ0CtAD_sw/",
       "timeSeconds": 39.54,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 351,
@@ -592,7 +985,14 @@
       "file": "photos/odrva-351.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW9A-3uDw0H/",
       "timeSeconds": 51.2,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     },
     {
       "id": 352,
@@ -600,7 +1000,394 @@
       "file": "photos/odrva-352.webp",
       "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DW3-FVRj8wZ/",
       "timeSeconds": 50.77,
-      "kind": "original-video-frame"
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 210,
+      "name": "Mosselen in gele curry met rijst",
+      "file": "photos/odrva-210.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Ddwh1MVvL4a/",
+      "timeSeconds": 53.53,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 251,
+      "name": "Kabeljauw met bocconcini en sperziebonen",
+      "file": "photos/odrva-251.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdmMTjhPGE7/",
+      "timeSeconds": 53.47,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 252,
+      "name": "Witte bonen met tonijn, rode ui en geroosterd brood",
+      "file": "photos/odrva-252.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdrDqsoSeju/",
+      "timeSeconds": 49.45,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 253,
+      "name": "Rijst met gemarineerde zalm, edamame, ei en avocado",
+      "file": "photos/odrva-253.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DclGxpIPEOE/",
+      "timeSeconds": 44.91,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 258,
+      "name": "Tuna tonnato",
+      "file": "photos/odrva-258.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdJGnVfvOzu/",
+      "timeSeconds": 47.74,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 260,
+      "name": "Gamba-omelet met saus van koppen en schalen",
+      "file": "photos/odrva-260.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dci5ukcPTet/",
+      "timeSeconds": 56.54,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 261,
+      "name": "Gefrituurde garnalenspiesjes met pittige saus",
+      "file": "photos/odrva-261.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdGoInrvD8W/",
+      "timeSeconds": 55.37,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 275,
+      "name": "Broodje gesmolten camembert, tomaat en gerookte zalm",
+      "file": "photos/odrva-275.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dd9d5gqPojz/",
+      "timeSeconds": 35.1,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 276,
+      "name": "Shiitakepasta met room en citroen",
+      "file": "photos/odrva-276.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dd6qjRPPQK1/",
+      "timeSeconds": 53.76,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 277,
+      "name": "Rauwe zalm met kikkererwten en avocado",
+      "file": "photos/odrva-277.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dd33XkAvKAR/",
+      "timeSeconds": 46.72,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Made with love.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 278,
+      "name": "Dip van gerookte feta en geroosterde puntpaprika",
+      "file": "photos/odrva-278.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdzJMotyUdR/",
+      "timeSeconds": 42.29,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 280,
+      "name": "Gegrilde sardines op toast met gebakken wortel",
+      "file": "photos/odrva-280.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdtgeTLTzBC/",
+      "timeSeconds": 43.07,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 281,
+      "name": "Witte bonen met courgette en ansjovis",
+      "file": "photos/odrva-281.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DavN-auPojP/",
+      "timeSeconds": 51.33,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 283,
+      "name": "Ribeye met champignon-roomsaus en wodka",
+      "file": "photos/odrva-283.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdED2EJz1Y1/",
+      "timeSeconds": 52.29,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 284,
+      "name": "Pasta met tomaat, paddenstoelen en rode wijn",
+      "file": "photos/odrva-284.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DdBYSwpPALx/",
+      "timeSeconds": 53.32,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Pure flavour.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 286,
+      "name": "Hollandse worst op Aziatische wijze met rijst",
+      "file": "photos/odrva-286.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DcywxREPZWQ/",
+      "timeSeconds": 47.43,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 256,
+      "name": "Broodje pesto met gebakken tomaat, croutons en jonge kaas",
+      "file": "photos/odrva-256.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DN3KH253scU/",
+      "timeSeconds": 57.96,
+      "kind": "retouched-original-video-frame",
+      "captureSourceUrl": "https://nl.linkedin.com/posts/maurice-stoevenbeld-294ba010_biologischeten-onbewerkt-biovideo-activity-7368903212931641346--YRk",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 266,
+      "name": "Champagnerisotto met prei en Parmezaan",
+      "file": "photos/odrva-266.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DGbckzsv2MQ/",
+      "timeSeconds": 53.73,
+      "kind": "retouched-original-video-frame",
+      "captureSourceUrl": "https://nl.linkedin.com/posts/maurice-stoevenbeld-294ba010_onderderookvanamsterdam-biologischeproducten-activity-7305540172832473088-tx44",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text",
+        "tight-food-closeup",
+        "remove-distracting-utensils-and-background"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 271,
+      "name": "Wilde mosselen met heel veel citroen",
+      "file": "photos/odrva-271.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DTWFHLCj1N6/",
+      "timeSeconds": 43.93,
+      "kind": "retouched-original-video-frame",
+      "captureSourceUrl": "https://nl.linkedin.com/posts/maurice-stoevenbeld-294ba010_vandaag-in-de-biovideo-wilde-mosselen-met-activity-7429797708879540224-mP73",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text",
+        "tight-food-closeup",
+        "remove-distracting-utensils-and-background"
+      ],
+      "photoCaption": "Simple & fresh.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 274,
+      "name": "Ribeye met kingkrab",
+      "file": "photos/odrva-274.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DTaoqR4j1mv/",
+      "timeSeconds": 76.7,
+      "kind": "retouched-original-video-frame",
+      "captureSourceUrl": "https://nl.linkedin.com/posts/maurice-stoevenbeld-294ba010_vandaag-in-de-biovideo-ribeye-met-kingkrab-activity-7429441472250368000-kTrs",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 282,
+      "name": "Witte bonen met rode ui en ansjovissaus",
+      "file": "photos/odrva-282.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DYMu1N8P10N/",
+      "timeSeconds": 49.97,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "Naturally.",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 285,
+      "name": "Gekonfijte eendenpoten",
+      "file": "photos/odrva-285.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/Dc_UQxtPfTy/",
+      "timeSeconds": 50.82,
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 255,
+      "name": "Macaroni met ham, mosterd en boterige broccoli",
+      "file": "photos/odrva-255.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DNoNEIqPUkX/",
+      "timeSeconds": 59.06,
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 269,
+      "name": "Burrata met tomaat, ansjovis en rucola",
+      "file": "photos/odrva-269.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DP8MN9CDyt5/",
+      "timeSeconds": 54.29,
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 270,
+      "name": "Spelt tagliatelle met herfsttruffel",
+      "file": "photos/odrva-270.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DO0HvX5D_AP/",
+      "timeSeconds": 54.89,
+      "kind": "original-video-frame",
+      "fingersReviewed": true,
+      "fingersVisible": false
+    },
+    {
+      "id": 272,
+      "name": "Groene asperges met roodbaarsfilet en saus",
+      "file": "photos/odrva-272.webp",
+      "sourceUrl": "https://www.instagram.com/onderderookvanamsterdam/reel/DWBdVf2j1J_/",
+      "timeSeconds": 54.03,
+      "kind": "retouched-original-video-frame",
+      "edits": [
+        "remove-human-hands-and-fingers",
+        "remove-overlaid-video-text"
+      ],
+      "photoCaption": "All organic.",
+      "fingersReviewed": true,
+      "fingersVisible": false
     }
-  ]
+  ],
+  "retouchedCount": 73,
+  "reviewedAt": "2026-10-05"
 }
