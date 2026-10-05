@@ -1,15 +1,9 @@
 {
   "reviewedAt": "2026-10-05",
-  "totalRecipes": 102,
+  "totalRecipes": 101,
   "photoCount": 101,
   "retouchedCount": 73,
-  "missing": [
-    {
-      "id": 268,
-      "name": "Spaghetti met olijven, kappertjes en witte wijn",
-      "reason": "Exact original video not found in publicly accessible Instagram inventory; similar tomato/anchovy spaghetti rejected as a different recipe."
-    }
-  ],
+  "missing": [],
   "screenshots": [
     {
       "id": 287,
@@ -1020,6 +1014,13 @@
       "retouched": true,
       "fingersReviewed": true,
       "fingersVisible": false
+    }
+  ],
+  "removedRecipes": [
+    {
+      "id": 268,
+      "name": "Spaghetti met olijven, kappertjes en witte wijn",
+      "reason": "Removed at user request because the exact video source and photo could not be confirmed."
     }
   ]
 }

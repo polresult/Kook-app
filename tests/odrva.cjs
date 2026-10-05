@@ -1,9 +1,11 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
 const els={};const element=id=>els[id]??=({innerHTML:'',textContent:'',style:{},classList:{add(){},remove(){},toggle(){}},value:''});
-const ctx={console,localStorage:{getItem(){return null},setItem(){}},document:{getElementById:element,querySelectorAll(){return []},querySelector(){return null}},navigator:{},scrollTo(){},setTimeout(){},Math,Number,JSON};
+const ctx={console,localStorage:{getItem(){return JSON.stringify({week:[268,287],fav:[268,287],ratings:{268:'lekker'},checked:{},persons:2,pantry:{}})},setItem(){}},document:{getElementById:element,querySelectorAll(){return []},querySelector(){return null}},navigator:{},scrollTo(){},setTimeout(){},Math,Number,JSON};
 for(const id of ['suggest','cards','head','nav','filters','heading','subtitle'])ctx[id]=element(id);
 vm.createContext(ctx);vm.runInContext(fs.readFileSync(require('path').join(__dirname,'../index.html'),'utf8').match(/<script>([\s\S]*)<\/script>/)[1],ctx);
 vm.runInContext(`
+if(S.week.includes(268)||S.fav.includes(268)||S.ratings[268])throw Error('removed recipe survives saved preferences');
+renderWeek();renderShop();renderFav();
 S.week=[];S.persons=2;
 const curry=R.find(r=>r.sourceUrl?.includes('Ddwh1MVvL4a'));
 assertTest=()=>{};
