@@ -1,0 +1,12 @@
+{
+  "name": "kook",
+  "version": "3.5.1",
+  "private": true,
+  "description": "Kook: weekmenu, recepten en boodschappenlijst",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
