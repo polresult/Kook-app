@@ -40,4 +40,3 @@ openR(210);if(document.getElementById('detail').innerHTML.includes('Pexels'))thr
 openR(266);if(!document.getElementById('detail').innerHTML.includes('Bekijk originele video'))throw Error('video source label');
 `,ctx);
 console.log('PASS: scaling, unknown quantities, source amounts, quick filter, details, week navigation, mixed grocery list, unique IDs');
-
