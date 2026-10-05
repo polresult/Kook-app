@@ -11,3 +11,5 @@ De Instagram-bijschriften blijven de basis voor de recepttekst. Het bijschrift v
 Controle: bestaande regressiecontrole voor portieomrekening, onbekende hoeveelheden, bronhoeveelheden, filters, receptdetails, weeknavigatie, boodschappenlijst en unieke ID's geslaagd. Alle 50 screenshotbestanden en hun koppelingen gecontroleerd; alle geselecteerde beelden visueel bekeken. In de browser zijn alle 50 receptdetails geopend: elk screenshot laadt succesvol vanaf het juiste bestand. Toevoegen aan Mijn week is ook gecontroleerd. De serviceworker-cacheversie is verhoogd naar v4.3.2.
 
 Publicatie: de GitHub-code is bijgewerkt; publicatie naar de bestaande Netlify-site is niet bevestigd.
+
+Extra batch: 25 nieuwe unieke recepten met oorspronkelijke Instagram-bijschriften en gerechtbeelden toegevoegd (ODRVA-BATCH-25.json). Totaal app: 351 recepten; totaal ODRVA-screenshots: 75. Geselecteerde beelden inhoudelijk bekeken; volledige videocontrole blijft open. Aanvullende zichtbare ingrediënten verwerkt. Cacheversie v4.3.3.

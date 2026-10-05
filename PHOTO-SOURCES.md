@@ -311,3 +311,33 @@ De 50 ODRVA-beelden tonen het gerecht uit de gekoppelde Instagram-video van Onde
 - Rauwe courgettesalade met olijvendressing en spek: https://www.instagram.com/onderderookvanamsterdam/reel/DUqhailD9yL/ (frame 86.63 s; photos/odrva-267.webp)
 - Lamskoteletjes gestoofd met tomaat en wijn: https://www.instagram.com/onderderookvanamsterdam/reel/DUAbArhD1Vt/ (frame 66.3 s; photos/odrva-326.webp)
 - Tonijntartaar met mosterddressing: https://www.instagram.com/onderderookvanamsterdam/reel/DT2Suu1j3fY/ (frame 59.28 s; photos/odrva-327.webp)
+
+## 25 extra ODRVA-recepten (5 oktober 2026)
+
+Originele videoframes, visueel geselecteerd. Geen gegenereerde beelden.
+
+- photos/odrva-328.webp: [Vijgencarpaccio met feta, basilicum en prosciutto](https://www.instagram.com/onderderookvanamsterdam/reel/DctaQzoSNzI/), 30.53 s.
+- photos/odrva-329.webp: [Gegrilde little gem met romige witte bonen](https://www.instagram.com/onderderookvanamsterdam/reel/DcqvUb9vi7Y/), 30.33 s.
+- photos/odrva-330.webp: [Champagnecocktail met citroen, mango en perzik](https://www.instagram.com/onderderookvanamsterdam/reel/DcQ9jq9v8ai/), 46.75 s.
+- photos/odrva-331.webp: [Toast met avocado-tomaatmousse en Parmezaanei](https://www.instagram.com/onderderookvanamsterdam/reel/Db1CblyvNp3/), 50.43 s.
+- photos/odrva-332.webp: [Bevroren watermeloen met cava en Aperol](https://www.instagram.com/onderderookvanamsterdam/reel/DbIDAoEPxQW/), 30.71 s.
+- photos/odrva-333.webp: [Pan con tomate met Ibericoham en ansjovis](https://www.instagram.com/onderderookvanamsterdam/reel/Da-zB9oPJ7n/), 49.36 s.
+- photos/odrva-334.webp: [Pasta met groenteroomsaus en zalm](https://www.instagram.com/onderderookvanamsterdam/reel/Dak2ChKP2H0/), 56.33 s.
+- photos/odrva-335.webp: [Zalmcarpaccio met mierikswortel-sojadressing](https://www.instagram.com/onderderookvanamsterdam/reel/DaiBkwXPnKH/), 43.77 s.
+- photos/odrva-336.webp: [Gestoomde zalm op prei en spinazie](https://www.instagram.com/onderderookvanamsterdam/reel/DafNf7uvjhR/), 46.17 s.
+- photos/odrva-337.webp: [Meloen-burratasalade met basilicumdressing](https://www.instagram.com/onderderookvanamsterdam/reel/DadFUKmybLD/), 44.03 s.
+- photos/odrva-338.webp: [Toast met sardinemousse en rode ui](https://www.instagram.com/onderderookvanamsterdam/reel/Daa3tK-PG5s/), 36.4 s.
+- photos/odrva-339.webp: [Aardappelsalade met sardines en zomertruffel](https://www.instagram.com/onderderookvanamsterdam/reel/DaJDgp7vcPK/), 52.47 s.
+- photos/odrva-340.webp: [Toast met paprika, ansjovis en olijven](https://www.instagram.com/onderderookvanamsterdam/reel/DZnfNR_vPLb/), 54.55 s.
+- photos/odrva-341.webp: [Spaghetti met aubergine-tomatenroomsaus](https://www.instagram.com/onderderookvanamsterdam/reel/DZiR7FXvXJy/), 53.01 s.
+- photos/odrva-342.webp: [Broodje knoflook-peterselieworst met burrata](https://www.instagram.com/onderderookvanamsterdam/reel/DZXjYvuvqc_/), 31.56 s.
+- photos/odrva-343.webp: [Watermeloensalade met tomaat, feta en prosciutto](https://www.instagram.com/onderderookvanamsterdam/reel/DZVJHPUPWna/), 48.13 s.
+- photos/odrva-344.webp: [Krokante aubergineburger met kaas en buikspek](https://www.instagram.com/onderderookvanamsterdam/reel/DZNOCqty4lM/), 48.62 s.
+- photos/odrva-345.webp: [Komkommersalade met lamsworst en gerookte feta](https://www.instagram.com/onderderookvanamsterdam/reel/DYRxfgFPC0r/), 47.52 s.
+- photos/odrva-346.webp: [Spaans broodje met ansjovis, Ibericoham en pecorino](https://www.instagram.com/onderderookvanamsterdam/reel/DYJb6-wvwsw/), 50.99 s.
+- photos/odrva-347.webp: [Rijstnoedels met groenten en gemarineerd soja-ei](https://www.instagram.com/onderderookvanamsterdam/reel/DX9fzsnvWPp/), 52.71 s.
+- photos/odrva-348.webp: [Tomatencarpaccio met sardine-avocadomousse](https://www.instagram.com/onderderookvanamsterdam/reel/DX62E1SPpql/), 53.22 s.
+- photos/odrva-349.webp: [Broodje Antibes met ham, Comté en Dijonmayo](https://www.instagram.com/onderderookvanamsterdam/reel/DXqtLQ0D4cE/), 37.74 s.
+- photos/odrva-350.webp: [Broodje kort gebakken tonijn met wasabimayo](https://www.instagram.com/onderderookvanamsterdam/reel/DXQ0CtAD_sw/), 39.54 s.
+- photos/odrva-351.webp: [Kippenpoten in miso-pindasaus](https://www.instagram.com/onderderookvanamsterdam/reel/DW9A-3uDw0H/), 51.2 s.
+- photos/odrva-352.webp: [Broodje sardines met augurk en mosterdmayo](https://www.instagram.com/onderderookvanamsterdam/reel/DW3-FVRj8wZ/), 50.77 s.
