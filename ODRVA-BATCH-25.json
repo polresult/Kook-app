@@ -2795,6 +2795,11 @@
           "tl"
         ],
         [
+          "shiitake",
+          100,
+          "g"
+        ],
+        [
           "rijst",
           150,
           "g"
@@ -2852,6 +2857,11 @@
           ""
         ],
         [
+          "shiitake",
+          null,
+          ""
+        ],
+        [
           "rijst",
           null,
           ""
@@ -2872,11 +2882,12 @@
         "sojasaus",
         "vissaus",
         "kurkuma",
+        "shiitake",
         "rijst",
         "spinazie"
       ],
       "steps": [
-        "Bak de kippenpoten rondom aan en voeg gesneden sjalot en knoflook toe.",
+        "Bak de kippenpoten rondom aan, voeg gesneden sjalot, knoflook en de shiitake in plakjes toe en bak kort mee.",
         "Meng miso, pindakaas, kippenbouillon, sojasaus, vissaus en kurkuma en voeg toe.",
         "Laat op laag vuur afgedekt stoven tot de kip volledig gaar is. Laat de saus indien nodig onafgedekt inkoken.",
         "Kook rijst en laat spinazie slinken. Serveer bij de kip en saus."
