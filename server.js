@@ -45,7 +45,7 @@ function cleanState(s) {
     fav: Array.isArray(s.fav) ? s.fav.filter(Number.isInteger).slice(0, 500) : [],
     ratings: s.ratings && typeof s.ratings === 'object' ? s.ratings : {},
     checked: s.checked && typeof s.checked === 'object' ? s.checked : {},
-    persons: Math.max(1, Math.min(8, parseInt(s.persons) || 2)),
+    persons: Math.max(1, Math.min(16, parseInt(s.persons) || 2)),
     pantry: s.pantry && typeof s.pantry === 'object' ? s.pantry : {}
   };
 }
