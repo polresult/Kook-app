@@ -142,11 +142,21 @@ function serveStatic(req, res, urlPath) {
 }
 
 loadDb();
+// Keep the process alive: one bad request must never take the server down.
+process.on('uncaughtException', e => console.error('uncaughtException', e));
+process.on('unhandledRejection', e => console.error('unhandledRejection', e));
 http.createServer((req, res) => {
-  const urlPath = decodeURIComponent(req.url.split('?')[0]);
-  if (urlPath.startsWith('/api/')) {
-    api(req, res, urlPath).catch(() => send(res, 400, { error: 'Ongeldig verzoek.' }));
-  } else if (req.method === 'GET' || req.method === 'HEAD') {
-    serveStatic(req, res, urlPath);
-  } else { res.writeHead(405); res.end(); }
+  let urlPath;
+  try { urlPath = decodeURIComponent(req.url.split('?')[0]); }
+  catch (e) { res.writeHead(400); return res.end('Bad request'); }
+  try {
+    if (urlPath.startsWith('/api/')) {
+      api(req, res, urlPath).catch(() => send(res, 400, { error: 'Ongeldig verzoek.' }));
+    } else if (req.method === 'GET' || req.method === 'HEAD') {
+      serveStatic(req, res, urlPath);
+    } else { res.writeHead(405); res.end(); }
+  } catch (e) {
+    console.error('request error', e);
+    try { res.writeHead(500); res.end('Server error'); } catch (_) {}
+  }
 }).listen(PORT, () => console.log('Kook draait op poort ' + PORT + ', data in ' + DATA_DIR));
