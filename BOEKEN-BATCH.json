@@ -20,13 +20,19 @@
    "title": "Molto Gusto",
    "author": "Mario Batali en Mark Ladner",
    "basePersons": 6
+  },
+  "Chung": {
+   "title": "Korean Cooking",
+   "author": "Soon Young Chung",
+   "basePersons": "2 of 4 (zie sourceRef)"
   }
  },
  "skipped": {
   "Bekkari": "ontbijt, snacks, drankjes en desserts; Lenterolletjes (rijstpapierrolletjes bestaan al), Salade watermeloen-berloumi (343), Groentelasagne (243), Lamsköfte (40), Thaise mosselen (432), Pasta alla Norma (108), Nasi goreng (77), Japanse groentepannenkoek (okonomiyaki 155), Kipfilet rozemarijn-citroen (220), Oosterse zalm (48)",
   "24Kitchen": "bewerkelijke of lange gerechten (kreeft, hert, kwartel, bouillabaisse, konijn, ossobuco, rendang, bapao, spareribs, Latijns-Amerikaanse feestgerechten, desserts); Amatriciana (101), Puttanesca (110), Vongole (116), Caponata (415), Babi ketjap (79), Butter chicken (137), Kipsaté (80), Merluzzo in tomatensaus (23), Bolognese (99), Lasagne (102), Tomatensoep (83)",
   "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235)",
-  "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen"
+  "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
+  "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was"
  },
  "recipes": [
   {
@@ -5556,6 +5562,864 @@
     "Giet de warme pancetta met het bakvet over de salade, schep om en serveer direct."
    ],
    "photo": "photos/batali-557.webp"
+  },
+  {
+   "id": 558,
+   "name": "Japchae: glasnoedels met rundvlees, spinazie en wortel",
+   "type": "Vlees",
+   "time": 40,
+   "emoji": "🍜",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 48 (noedels verhoogd van 60 naar 200 g om er een hoofdgerecht van te maken)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "gedroogde shiitake",
+     "4",
+     "stuk"
+    ],
+    [
+     "biefstuk of runderhaas",
+     "125",
+     "g"
+    ],
+    [
+     "spinazie",
+     "125",
+     "g"
+    ],
+    [
+     "wortel",
+     "125",
+     "g"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "zoete-aardappelnoedels (dangmyeon)",
+     "200",
+     "g"
+    ],
+    [
+     "sojasaus",
+     "3",
+     "el"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "sesamolie",
+     "2.5",
+     "el"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "pijnboompitten",
+     "1",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Week de shiitake 30 minuten, knijp ze uit, verwijder de steeltjes en snijd de hoedjes in reepjes. Snijd het vlees in dunne reepjes van 4 cm.",
+    "Meng 2 eetlepels sojasaus, 1 eetlepel suiker, de helft van de fijngehakte lente-ui, 2 tenen knoflook en 2 theelepels sesamolie. Marineer vlees en shiitake hierin 20 minuten en roerbak ze daarna 3 tot 4 minuten in wat olie.",
+    "Blancheer de spinazie een paar seconden in kokend gezouten water, knijp uit en meng met de rest van de lente-ui en knoflook, 2 theelepels sesamolie en het sesamzaad. Roerbak de wortel in reepjes en apart de ui in dunne plakjes kort in wat olie, met peper en zout.",
+    "Bak het eiwit en het eigeel apart tot dunne omeletjes en snijd ze in reepjes. Kook de noedels ongeveer 5 minuten, spoel koud af, laat uitlekken en knip ze in stukken van 10 cm.",
+    "Meng de noedels met 1 eetlepel sojasaus, 1 eetlepel suiker en 1 eetlepel sesamolie. Schep vlees, paddenstoelen, spinazie, wortel en ui erdoor en werk af met eireepjes, pijnboompitten en sesamzaad."
+   ]
+  },
+  {
+   "id": 559,
+   "name": "Bibimmyeon: pittige gemengde noedels met rundvlees en komkommer",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🌶️",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 46",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "gedroogde shiitake",
+     "3",
+     "stuk"
+    ],
+    [
+     "biefstuk of runderhaas",
+     "125",
+     "g"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ],
+    [
+     "ei",
+     "2",
+     "stuk"
+    ],
+    [
+     "somen-noedels",
+     "300",
+     "g"
+    ],
+    [
+     "rode chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "gochujang",
+     "2",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "4",
+     "el"
+    ],
+    [
+     "suiker",
+     "2.5",
+     "el"
+    ],
+    [
+     "sesamolie",
+     "1.5",
+     "el"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1.5",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ]
+   ],
+   "steps": [
+    "Roer voor de saus de gochujang met 3 eetlepels sojasaus, 2 eetlepels suiker, 1 eetlepel sesamolie en 1 eetlepel sesamzaad.",
+    "Week de shiitake 30 minuten, knijp uit en snijd de hoedjes in reepjes. Meng 1 eetlepel sojasaus, de rest van de suiker, de fijngehakte lente-ui, de geperste knoflook en de rest van de sesamolie en het sesamzaad. Marineer het vlees in reepjes en de shiitake hierin 20 minuten en roerbak ze daarna 3 minuten op hoog vuur.",
+    "Halveer de komkommer, snijd schuin in dunne plakjes, bestrooi met zout en laat 10 minuten staan. Knijp uit en roerbak 2 minuten. Bak eiwit en eigeel apart tot dunne omeletjes en snijd in reepjes.",
+    "Kook de noedels ongeveer 3 minuten en spoel ze koud tot het water helder blijft. Laat goed uitlekken.",
+    "Meng de noedels met de saus, schep vlees, paddenstoelen en de meeste komkommer erdoor en werk af met eireepjes, de rest van de komkommer en reepjes chilipeper."
+   ]
+  },
+  {
+   "id": 560,
+   "name": "Nakji bokkeum: pittige roerbak van inktvis met somen-noedels",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🦑",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 51 (boek: 4 personen als onderdeel van een Koreaanse maaltijd; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "inktvis of octopus (schoongemaakt)",
+     "200",
+     "g"
+    ],
+    [
+     "champignons",
+     "90",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "6",
+     "stuk"
+    ],
+    [
+     "rode chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "somen-noedels",
+     "150",
+     "g"
+    ],
+    [
+     "gochujang",
+     "2",
+     "el"
+    ],
+    [
+     "gochugaru (Koreaans chilipoeder)",
+     "1",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "2",
+     "tl"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "suiker",
+     "1",
+     "tl"
+    ],
+    [
+     "sesamolie",
+     "2",
+     "el"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Snijd de inktvis in stukken van 6 cm en kook ze 2 tot 3 minuten in gezouten water tot ze beginnen te krullen. Laat uitlekken.",
+    "Halveer de champignons, snijd de lente-ui in stukken van 4 cm, de chilipepers zonder zaadjes in reepjes en de ui in hapklare stukken.",
+    "Meng de gochujang, het chilipoeder, de sojasaus, de geperste knoflook, de suiker, de sesamolie, het sesamzaad en een snuf peper tot een saus. Gochugaru is pittig: begin met minder als je het milder wilt.",
+    "Roerbak de groenten 2 minuten in een eetlepel olie. Voeg de inktvis en de saus toe en roerbak nog 2 tot 3 minuten.",
+    "Kook intussen de noedels 3 minuten, spoel ze koud af en laat uitlekken. Serveer de warme inktvis naast de koude noedels."
+   ],
+   "photo": "photos/chung-560.webp"
+  },
+  {
+   "id": 561,
+   "name": "Dubu kimchi: kimchi met buikspek en zachte tofu",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🥬",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 66 (boek: 4 personen als onderdeel van een Koreaanse maaltijd; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "kimchi (Chinese kool)",
+     "220",
+     "g"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "buikspek",
+     "150",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "el"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "stevige tofu",
+     "500",
+     "g"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Snijd de kimchi in stukken van 2 tot 4 cm, de ui in plakjes en het buikspek in dunne reepjes.",
+    "Roerbak kimchi, ui, buikspek, knoflook en fijngehakte lente-ui in een eetlepel olie tot het vlees gaar is, 3 tot 5 minuten. Zet het vuur uit en schep de sesamolie en het sesamzaad erdoor.",
+    "Leg de tofu een paar seconden in kokend water om hem op te warmen, laat uitlekken en snijd in plakken van 4 bij 2 cm en ruim een centimeter dik.",
+    "Schep de kimchi in het midden van een schaal, leg de tofu eromheen en serveer met rijst."
+   ],
+   "photo": "photos/chung-561.webp"
+  },
+  {
+   "id": 562,
+   "name": "Doenjang jjigae: tofu-groentestoof met Koreaanse sojabonenpasta",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍲",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 70 (boek: 4 personen naast andere gerechten; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "season": "winter",
+   "ingredients": [
+    [
+     "kombu (gedroogd zeewier)",
+     "1",
+     "vel"
+    ],
+    [
+     "gedroogde ansjovisjes",
+     "10",
+     "stuk"
+    ],
+    [
+     "stevige tofu",
+     "180",
+     "g"
+    ],
+    [
+     "lente-ui of prei",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "courgette",
+     "1",
+     "stuk"
+    ],
+    [
+     "doenjang (Koreaanse sojabonenpasta)",
+     "4",
+     "el"
+    ],
+    [
+     "gochujang",
+     "4",
+     "tl"
+    ],
+    [
+     "rundvlees (riblap of sukade)",
+     "30",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Breng 500 ml water aan de kook met de kombu en de ansjovisjes en trek er in 15 tot 20 minuten een bouillon van. Vis kombu en ansjovis eruit.",
+    "Snijd intussen de tofu in blokjes van 1 cm, de lente-ui en de pepers schuin in dunne ringetjes en de courgette in halve maantjes. Kook de rijst.",
+    "Roer de doenjang en de gochujang door de bouillon tot ze opgelost zijn. Voeg het vlees in dunne reepjes en de knoflook toe, daarna tofu, lente-ui en courgette.",
+    "Laat ongeveer 5 minuten zachtjes koken, voeg de pepers toe en serveer heet met rijst."
+   ],
+   "photo": "photos/chung-562.webp"
+  },
+  {
+   "id": 563,
+   "name": "Ojingeo bulgogi: gemarineerde inktvis met shiitake en paprika",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🦑",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 76 (boek: 4 personen naast andere gerechten; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "timeNote": "Inclusief 20 tot 30 min marineren",
+   "ingredients": [
+    [
+     "inktvistubes (schoongemaakt)",
+     "200",
+     "g"
+    ],
+    [
+     "shiitake",
+     "4",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "2",
+     "stuk"
+    ],
+    [
+     "slablaadjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "sojasaus",
+     "3",
+     "el"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse gember",
+     "2",
+     "cm"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "tl"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "tl"
+    ],
+    [
+     "rode chilipeper",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kerf de inktvis aan de binnenkant in een ruitjespatroon zodat hij niet te veel krult en snijd in hapklare stukken. Hak de shiitake grof en snijd de paprika in stukken.",
+    "Meng de sojasaus, suiker, geperste knoflook, fijngehakte lente-ui, het sap van de geraspte gember en de sesamolie. Marineer inktvis, shiitake en paprika hierin 20 tot 30 minuten. Kook intussen de rijst.",
+    "Verhit 2 eetlepels olie in een pan of grillpan tot hij heel heet is. Laat de inktvis en groenten uitlekken en bak ze op hoog vuur tot het vocht verdampt is en de marinade karamelliseert, ongeveer 5 minuten.",
+    "Schep op de slablaadjes, bestrooi met sesamzaad, zwarte peper en reepjes rode peper en serveer met rijst."
+   ],
+   "photo": "photos/chung-563.webp"
+  },
+  {
+   "id": 564,
+   "name": "Saengseon gui: gebakken platvis met gochujangglazuur",
+   "type": "Vis",
+   "time": 35,
+   "emoji": "🐟",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 85",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "schol of tong (heel, schoongemaakt)",
+     "2",
+     "stuk"
+    ],
+    [
+     "sesamolie",
+     "2",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "1",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "gochujang",
+     "2",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "1",
+     "cm"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kerf de vissen aan beide kanten om de centimeter in, zodat de smaak goed intrekt. Bestrijk ze met een mengsel van 1 eetlepel sesamolie en de sojasaus. Kook de rijst.",
+    "Roer voor het glazuur de gochujang met de fijngehakte lente-ui, de geperste knoflook, de geraspte gember, de rest van de sesamolie, het sesamzaad en een snuf peper.",
+    "Verhit de zonnebloemolie in een ruime koekenpan of grillpan tot hij heel heet is. Bak de vissen ongeveer 8 minuten per kant tot ze bijna gaar zijn.",
+    "Zet het vuur middelhoog, bestrijk de bovenkant met het glazuur en bak een paar minuten tot het donker kleurt. Keer om, bestrijk de andere kant en bak nog een paar minuten. Serveer met rijst."
+   ],
+   "photo": "photos/chung-564.webp"
+  },
+  {
+   "id": 565,
+   "name": "Dakgaseum gui: gemarineerde kipfilet uit de wok met sla",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🍗",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 91 (boek: 4 personen naast andere gerechten; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "timeNote": "Kip 2 tot 3 uur marineren; daarna 10 min bakken",
+   "ingredients": [
+    [
+     "kipfilet",
+     "300",
+     "g"
+    ],
+    [
+     "sojasaus",
+     "3",
+     "el"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "rijstwijn of mirin",
+     "2",
+     "el"
+    ],
+    [
+     "verse gember",
+     "1",
+     "cm"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "tl"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "tl"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "slablaadjes",
+     "6",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Snijd de kipfilet in hapklare stukken en kerf ze licht in zodat de marinade goed intrekt.",
+    "Meng de sojasaus, suiker, rijstwijn, het sap van de geraspte gember, de geperste knoflook, de fijngehakte lente-ui, het sesamzaad, peper en de sesamolie. Schep de kip erdoor, dek af en laat 2 tot 3 uur marineren in de koelkast. Hoe langer, hoe malser.",
+    "Kook de rijst. Verhit de olie in een wok of koekenpan tot hij heel heet is en roerbak de kip in 3 tot 5 minuten goudbruin en gaar.",
+    "Leg de kip op de slablaadjes en serveer met rijst. Wil je het pittig, vervang de sojasaus dan door 3 eetlepels gochujang en wat zout."
+   ]
+  },
+  {
+   "id": 566,
+   "name": "Dakdari gui: geglazuurde kippenpoten met gember en soja",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍗",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 92 (boek: 5 kippenpoten voor 4 personen; hier voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "kippenpoten",
+     "5",
+     "stuk"
+    ],
+    [
+     "verse gember",
+     "3",
+     "cm"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "2",
+     "el"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "honing of rijststroop",
+     "1",
+     "el"
+    ],
+    [
+     "rijstwijn of mirin",
+     "1",
+     "el"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kerf de kippenpoten rondom in. Rasp de gember, knijp het sap eruit over de poten en laat 15 minuten marineren; keer ze af en toe.",
+    "Kook de rijst. Verhit de olie in een koekenpan op middelhoog vuur en bak de poten rondom goudbruin. Leg het deksel op de pan en laat ze in ongeveer 20 minuten gaar worden; keer ze af en toe. Ze zijn gaar als het vocht bij het insteken helder is.",
+    "Haal de poten uit de pan. Voeg sojasaus, suiker, honing en rijstwijn toe aan het bakvet en laat op hoog vuur in ongeveer 5 minuten tot de helft inkoken.",
+    "Bestrijk de poten met de saus, leg ze terug en bak op hoog vuur nog een paar minuten tot het glazuur karamelliseert. Strooi er peterselie over en serveer met rijst."
+   ],
+   "photo": "photos/chung-566.webp"
+  },
+  {
+   "id": 567,
+   "name": "Jeyuk gui: varkenshaas in pittige gochujangmarinade",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🥩",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 100 (boek: 4 personen naast andere gerechten; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "timeNote": "Vlees 2 tot 3 uur marineren; daarna 10 min grillen",
+   "ingredients": [
+    [
+     "varkenshaas",
+     "300",
+     "g"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "gochujang",
+     "2",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "2",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "1",
+     "cm"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "el"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Snijd de varkenshaas in reepjes van ruim een halve centimeter dik en 4 cm lang en kerf ze licht in.",
+    "Meng de fijngehakte ui, gochujang, sojasaus, fijngehakte lente-ui, geperste knoflook, geraspte gember, sesamolie, sesamzaad en peper. Haal elk reepje vlees door de marinade, dek af en laat 2 tot 3 uur marineren in de koelkast.",
+    "Kook de rijst. Bak het vlees in een licht ingevette grillpan of koekenpan op hoog vuur in een paar minuten gaar en licht geblakerd, of gril het onder de grill van de oven.",
+    "Serveer direct met rijst."
+   ]
+  },
+  {
+   "id": 568,
+   "name": "Sogogi sanjeok: spiesjes van rundvlees, lente-ui en paprika",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍢",
+   "cuisine": "Koreaans",
+   "source": "Chung",
+   "sourceRef": "Korean Cooking, p. 102 (boek: 4 personen naast andere gerechten; hier als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "biefstuk of runderhaas",
+     "220",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "5",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "sojasaus",
+     "2",
+     "el"
+    ],
+    [
+     "suiker",
+     "2",
+     "tl"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "tl"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "tl"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "slablaadjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "satéprikkers",
+     "4",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Week de prikkers 30 minuten in water. Snijd het vlees in repen van 2 cm breed, ruim een halve centimeter dik en 6 cm lang en kerf ze licht in.",
+    "Meng de sojasaus, suiker, 1 fijngehakte lente-ui, het gemalen sesamzaad en de sesamolie. Marineer het vlees hierin 15 tot 20 minuten. Kook intussen de rijst.",
+    "Snijd de rest van de lente-ui en de paprika in stukken van 5 cm. Rijg vlees, lente-ui en paprika om en om aan de prikkers en laat aan één kant een stukje vrij om vast te houden.",
+    "Bak de spiesjes in de olie op hoog vuur 2 minuten per kant. Leg ze op de slablaadjes en serveer met rijst."
+   ],
+   "photo": "photos/chung-568.webp"
   }
  ]
 }

@@ -520,3 +520,12 @@ Het boek bevat geen foto's. Voorbeeldfoto's van een vergelijkbaar gerecht (licen
 ## Molto Gusto (Mario Batali)
 
 De 14 recepten met source "Batali" (id 544 t/m 557) tonen de gerechtfoto uit het boek als photos/batali-<id>.webp. Waar de foto twee of drie gerechten toont (544, 545, 549) is het juiste gerecht uitgesneden.
+
+## Korean Cooking (Soon Young Chung)
+
+Zeven recepten (560, 561, 562, 563, 564, 566, 568) tonen de gerechtfoto uit het boek als photos/chung-<id>.webp; bij 562 is een hand weggesneden. De boekfoto van japchae is beplakt en daarom niet gebruikt. Pexels-voorbeeldfoto's (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Japchae: glasnoedels met rundvlees, spinazie en wortel: https://www.pexels.com/photo/10398945/
+- Bibimmyeon: pittige gemengde noedels met rundvlees en komkommer: https://www.pexels.com/photo/8952543/
+- Dakgaseum gui: gemarineerde kipfilet uit de wok met sla: https://www.pexels.com/photo/24738520/
+- Jeyuk gui: varkenshaas in pittige gochujangmarinade: https://www.pexels.com/photo/5774151/
