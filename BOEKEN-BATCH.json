@@ -50,6 +50,11 @@
    "title": "The Complete Plant Based Cookbook for Beginners",
    "author": "Angela Taylor (Culinary Art School Europe)",
    "basePersons": "volgens het boek"
+  },
+  "Ghayour": {
+   "title": "Persiana Easy",
+   "author": "Sabrina Ghayour",
+   "basePersons": "volgens het boek (bij een bereik de laagste; bijgerechten omgerekend naar hoofdgerecht, zie sourceRef)"
   }
  },
  "skipped": {
@@ -62,7 +67,8 @@
   "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186)",
   "HayFresh": "desserts; recepten zonder leesbare tekst in de pdf (een deel van de variaties en enkele basisrecepten); varianten die een basisrecept hergebruiken; lijkt te veel op bestaande recepten: nasi goreng-omelet (12, 77), minestrone (89), zwarte-bonenbolognese (99), kikkererwtenburgers (bonenburger 173), gnocchi met tomaat (15), teriyakizalm (13), rijstbowl met rauwe zalm (pokébowl 19), tonijn-sobabowl (51, 189), pasta met knoflookkruim (577), Italiaanse bonen op toast (witte bonen op brood 209, 252), spinazie-souffléomelet (240), pompoensoep (87), dumplingsoep (96)",
   "Stephenson": "ontbijt- en bijgerechten, basisrecepten en sidebars; het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; lijkt te veel op bestaande recepten: okonomiyaki (155), shakshuka (18), uiensoep (478), tortillasoep (95), kippensoep (84), zwarte-bonensoep, wortel-gembersoep en zoete-aardappelsoep (87, 481), paella (204), koshari (594), bonen op toast, zwarte-bonenburgers (173), saag tofu (palak paneer 140), kimchi-aardappelkoekjes (616), pasta met broccoli en worst (107), tonijnpasta (29), kiptajine (490), traybake met kip (20), krokante kippendijen (39), kip parmezaan (583), linzen-cassoulet (te veel als de linzenstoof met worst), polenta met groente en tomatensaus (tweede polentagerecht)",
-  "Taylor": "salades, hapjes, dips, soepen die op bestaande lijken en desserts; Texas-pizza (gistdeeg van anderhalf uur, al genoeg pizza's); zoete-aardappelhash (bijgerecht); lijkt te veel op bestaande recepten: witte bonen met courgette (281, 293), pittige rode bonen (chili sin carne 162), vegan gehaktballetjes in tomatensaus (14), enchilada's (24), bloemkool-currysoep (86), aubergine-lasagne (243), pad thai (130), dahl (56, 518), gevulde paprika's (241), bonenburgers (173), falafel (178), pho (97), Thaise kokossoep (94), maissoep (464), one-pot pasta met kikkererwten (636)"
+  "Taylor": "salades, hapjes, dips, soepen die op bestaande lijken en desserts; Texas-pizza (gistdeeg van anderhalf uur, al genoeg pizza's); zoete-aardappelhash (bijgerecht); lijkt te veel op bestaande recepten: witte bonen met courgette (281, 293), pittige rode bonen (chili sin carne 162), vegan gehaktballetjes in tomatensaus (14), enchilada's (24), bloemkool-currysoep (86), aubergine-lasagne (243), pad thai (130), dahl (56, 518), gevulde paprika's (241), bonenburgers (173), falafel (178), pho (97), Thaise kokossoep (94), maissoep (464), one-pot pasta met kikkererwten (636)",
+  "Ghayour": "ontbijt, brood, bijgerechten, salades, dips en desserts; lang of bewerkelijk (rundvlees-noedelsoep 3 uur, lamskari 2 uur, raan, kleftiko, couscous royale, sinaasappel-varkensschouder, restjes-lamsgerecht met mango); lijkt te veel op bestaande recepten: lamskofta (40), lahmacun (66), garnalenorzo (10), kokosgarnalen (26), kiptajine (490), tikka masala (139), koshari (594), biryani (369), koftacurry (221), Turkse linzensoep (467), gehaktballen uit de oven met harissa en feta (14), harissabonen (655), kuku, kippenvleugels"
  },
  "recipes": [
   {
@@ -13696,6 +13702,2123 @@
     "Breng op smaak met zout en peper, bestrooi met koriander en serveer heet."
    ],
    "photo": "photos/taylor-662.webp"
+  },
+  {
+   "id": 663,
+   "name": "Taco's met pittige worst, paprika en groene kruidensalsa",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🌮",
+   "cuisine": "Mexicaans",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Spicy Sausage Tacos with Green Herb Salsa' (boek: 3 tot 4 personen)",
+   "basePersons": 3,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "rode paprika (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "varkensworst met veel vlees",
+     "400",
+     "g"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "kleine ui (voor de salsa)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse koriander",
+     "30",
+     "g"
+    ],
+    [
+     "verse munt",
+     "15",
+     "g"
+    ],
+    [
+     "tomaat",
+     "2",
+     "stuk"
+    ],
+    [
+     "rode chilipeper (lang)",
+     "1",
+     "stuk"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "kleine tortillawraps",
+     "8",
+     "stuk"
+    ],
+    [
+     "belegen of oude cheddar",
+     "75",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Maak de salsa: doe de grof gesneden kleine ui, knoflook, het grootste deel van de koriander en munt, de tomaten, de chilipeper, rasp en sap van de limoen en een scheutje olijfolie in een kleine blender. Breng op smaak met zout en peper en draai glad.",
+    "Verhit de olie in een grote koekenpan op middelhoog vuur en bak de uien in halve ringen een paar minuten. Voeg de paprika in reepjes toe.",
+    "Haal het vel van de worsten en knijp er kleine stukjes van hooguit 1 cm vanaf direct in de pan. Strooi het knoflookpoeder, paprikapoeder, de kurkuma, komijn, zout en peper erover.",
+    "Bak een paar minuten tot het worstvlees bruin en gaar is en de paprika zacht.",
+    "Warm de tortilla's op. Schep de vulling erop, druppel er salsa over en maak af met geraspte cheddar, lente-ui, de achtergehouden kruiden en eventueel wat plakjes chilipeper."
+   ],
+   "photo": "photos/ghayour-663.webp"
+  },
+  {
+   "id": 664,
+   "name": "Gebakken varkenslende met kokos-harissasaus en komkommersalade",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🥩",
+   "cuisine": "Aziatisch",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Pan-fried Pork with Coconut Harissa Sauce & Crunchy Cucumber Salad' (met jasmijnrijst zoals in het boek)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "varkenslendesteaks",
+     "600",
+     "g"
+    ],
+    [
+     "verse gember",
+     "5",
+     "cm"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "gemalen komijn",
+     "2",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "1",
+     "tl"
+    ],
+    [
+     "suiker",
+     "4",
+     "tl"
+    ],
+    [
+     "lichte sojasaus",
+     "2",
+     "el"
+    ],
+    [
+     "rijstazijn",
+     "4",
+     "tl"
+    ],
+    [
+     "rozenharissa",
+     "2",
+     "el"
+    ],
+    [
+     "kokosroom",
+     "250",
+     "ml"
+    ],
+    [
+     "komkommer",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "cherrytomaatjes",
+     "150",
+     "g"
+    ],
+    [
+     "rode ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "0.5",
+     "tl"
+    ],
+    [
+     "verse dille, koriander en munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "geroosterde gezouten pinda's",
+     "40",
+     "g"
+    ],
+    [
+     "jasmijnrijst",
+     "300",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Meng de steaks in een schaal met de geraspte gember, 2 tenen geperste knoflook, komijn, kaneel, 1 theelepel suiker, de sojasaus, 1 eetlepel rijstazijn en flink wat zwarte peper.",
+    "Breng de harissa, kokosroom en 2 theelepels suiker in een steelpannetje aan de kook en laat al roerend iets inkoken tot een romige saus. Breng op smaak met zout.",
+    "Verhit een droge koekenpan op middelhoog vuur en bak de steaks aan elke kant een paar minuten tot ze bruin en gaar zijn. Laat ze onder folie rusten.",
+    "Sla de komkommer met een deegroller een paar keer stuk, halveer hem in de lengte en snijd in stukken van 1 cm. Meng met de gehalveerde tomaatjes, de rode ui in dunne halve ringen, 1 teen geperste knoflook, 1 theelepel rijstazijn, 1 theelepel suiker, de chilivlokken en wat zout. Schep de gehakte kruiden en grof gehakte pinda's erdoor.",
+    "Snijd het vlees in reepjes, schenk de saus erover en serveer met de salade en de rijst."
+   ],
+   "photo": "photos/ghayour-664.webp"
+  },
+  {
+   "id": 665,
+   "name": "Zoete en pittige spaghetti met varkensgehakt en tomaat",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍝",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Sweet & Spicy Tomato & Minced Pork Spaghetti' (boek: 3 tot 4 personen)",
+   "basePersons": 3,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "spaghetti",
+     "300",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "varkensgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "rozenharissa",
+     "2",
+     "el"
+    ],
+    [
+     "tomatenpuree",
+     "3",
+     "el"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "el"
+    ],
+    [
+     "gemalen kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "bieslook",
+     "20",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "4",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de spaghetti volgens de verpakking.",
+    "Verhit intussen de olie in een grote koekenpan op hoog vuur en bak het gehakt, terwijl je het zo fijn mogelijk uit elkaar drukt.",
+    "Voeg nog voor het gehakt gaar is de harissa, tomatenpuree, het knoflookpoeder, de kurkuma, suiker, ruim zout en peper toe en roerbak 6 tot 8 minuten tot het vlees helemaal gaar is.",
+    "Roer de tomatenblokjes erdoor en bak door tot het gehakt al het vocht heeft opgenomen.",
+    "Giet de pasta af en bewaar wat kookvocht. Schep de bieslook in stukjes van een paar centimeter en de fijngesneden lente-ui door het gehakt, voeg de spaghetti toe en meng goed, eventueel met een scheutje kookvocht. Serveer meteen."
+   ],
+   "photo": "photos/ghayour-665.webp"
+  },
+  {
+   "id": 666,
+   "name": "Geurige kipkoftaburgertjes met yoghurt en peterselie-sumaksalade",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍗",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Fragrant Chicken Kofta Patties' (14 stuks; met de 'Parsley, Onion & Sumac Salad' uit het boek, rijst en flatbread)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kippendijgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "30",
+     "g"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "gemalen kurkuma",
+     "2",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "1",
+     "tl"
+    ],
+    [
+     "lente-ui",
+     "4",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "platte peterselie",
+     "30",
+     "g"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "sumak",
+     "1",
+     "tl"
+    ],
+    [
+     "citroensap",
+     "1",
+     "el"
+    ],
+    [
+     "Griekse yoghurt",
+     "250",
+     "g"
+    ],
+    [
+     "basmatirijst",
+     "250",
+     "g"
+    ],
+    [
+     "platbrood",
+     "4",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Doe het gehakt, de fijngehakte koriander, de limoenrasp (bewaar de limoen), kurkuma, komijn, chilivlokken, fijngesneden lente-ui, geperste knoflook en ruim zout en peper in een kom en kneed een paar minuten tot een gladde massa.",
+    "Verdeel in 14 porties, rol er balletjes van en druk ze plat tot burgertjes van 1 cm dik.",
+    "Verhit wat olie in een grote koekenpan op middelhoog vuur en bak de burgertjes in twee porties ongeveer 5 minuten per kant tot ze stevig en gaar zijn.",
+    "Meng intussen de grof gehakte peterselie met de rode ui in dunne halve ringen, de sumak, een scheutje olijfolie, het citroensap en wat zout.",
+    "Serveer de kofta's in warm platbrood met de rijst, yoghurt en de salade, met partjes van de geraspte limoen om erover te knijpen."
+   ],
+   "photo": "photos/ghayour-666.webp"
+  },
+  {
+   "id": 667,
+   "name": "Shish kebab van lamsbout met geblakerde tomaat en peper",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍢",
+   "cuisine": "Turks",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Shish Kebab' (met de peterselie-sumaksalade uit het recept)",
+   "basePersons": 4,
+   "season": "zomer",
+   "timeNote": "Marineren kan ook een nacht van tevoren",
+   "ingredients": [
+    [
+     "lamsbout-steaks (2,5 cm dik)",
+     "600",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "tomatenpuree",
+     "2",
+     "el"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "grote tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "lange lichtgroene puntpepers (Turkse peper)",
+     "4",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "30",
+     "g"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "sumak",
+     "1",
+     "tl"
+    ],
+    [
+     "dikke Griekse yoghurt",
+     "500",
+     "g"
+    ],
+    [
+     "platbrood",
+     "4",
+     "stuk"
+    ],
+    [
+     "ingelegde pepers en augurken",
+     "1",
+     "handvol"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Snijd het lamsvlees in blokjes van 2,5 cm en meng met de geperste knoflook, tomatenpuree, chilivlokken, komijn, paprikapoeder, oregano, het sap van een halve citroen, 1,5 eetlepel olijfolie en flink wat zout en peper.",
+    "Meng de grof gehakte peterselie met de rode ui in halve ringen, de sumak, een scheutje olie, een kneepje citroen en wat zout.",
+    "Verhit een grote koekenpan op hoog vuur. Wrijf de gehalveerde tomaten en de pepers in met olie en leg ze in de pan, tomaten met de snijkant naar beneden. Laat ongeveer 5 minuten blakeren, keer om en bak nog een paar minuten. Haal uit de pan.",
+    "Veeg de pan schoon en maak hem weer goed heet. Leg het vlees in één laag in de pan, bak 1 minuut tot het bruin is, keer en kleur de andere kanten. Schep nog even om en haal van het vuur.",
+    "Serveer het lamsvlees met yoghurt, de salade, de geblakerde tomaten en pepers, platbrood en ingelegde pepers en augurken."
+   ],
+   "photo": "photos/ghayour-667.webp"
+  },
+  {
+   "id": 668,
+   "name": "Tantuni: Turkse wrap met lamsgehakt en knoflookyoghurt",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🌯",
+   "cuisine": "Turks",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Tantuni'",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "lamsgehakt",
+     "250",
+     "g"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "knoflook",
+     "2.5",
+     "teen"
+    ],
+    [
+     "tomatenpuree",
+     "1",
+     "el"
+    ],
+    [
+     "kokend water",
+     "100",
+     "ml"
+    ],
+    [
+     "Griekse yoghurt",
+     "75",
+     "g"
+    ],
+    [
+     "tahin",
+     "1",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "grote tortillawraps",
+     "2",
+     "stuk"
+    ],
+    [
+     "kleine rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "1",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "sumak",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een koekenpan op middelhoog vuur. Bak het lamsgehakt met paprikapoeder, komijn, 2 tenen geperste knoflook, zout en peper en druk het zo fijn mogelijk uit elkaar.",
+    "Roer de tomatenpuree erdoor voordat het vlees helemaal gaar is en bak nog een paar minuten. Schenk het kokende water erbij; dat houdt het vlees zacht en geeft sappen die in het brood trekken.",
+    "Meng de yoghurt met de tahin, de halve teen geperste knoflook, een kneepje citroen, zout en peper.",
+    "Warm de wraps op. Verdeel het vlees met de sappen over de wraps tot aan de randen en schuif het daarna in een streep naar het midden.",
+    "Leg er een streep fijngesneden rode ui, tomaat en peterselie bij, bestrooi met sumak en knijp er citroen over. Rol op, snijd in vieren en eet met de knoflookyoghurt."
+   ],
+   "photo": "photos/ghayour-668.webp"
+  },
+  {
+   "id": 669,
+   "name": "Chapli kabab: pittige lamsburgertjes met gember en koriander",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍔",
+   "cuisine": "Indiaas",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Chapli Kabab' (8 stuks; boek: 2 tot 4 personen)",
+   "basePersons": 3,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "lamsgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "3",
+     "stuk"
+    ],
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "4",
+     "cm"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen koriander",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "verse koriander",
+     "30",
+     "g"
+    ],
+    [
+     "grote tomaat",
+     "1",
+     "stuk"
+    ],
+    [
+     "maizena",
+     "1",
+     "el"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "platbrood",
+     "4",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "dikke Griekse yoghurt",
+     "200",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwijder de zaadjes uit de tomaat, hak hem fijn en laat uitlekken.",
+    "Doe het gehakt met de fijngesneden lente-ui, de heel fijngehakte ui, geperste knoflook, geraspte gember, chilivlokken, gemalen koriander, komijn, het grootste deel van de gehakte koriander, de tomaat, maizena, het ei en flink wat zout en peper in een kom. Kneed een paar minuten tot een egale massa.",
+    "Verdeel in 8 porties, rol tot ballen en druk ze tussen twee vellen bakpapier plat tot dunne burgers.",
+    "Verhit een grote koekenpan op hoog vuur en bak de burgertjes 2 tot 3 minuten per kant tot ze mooi bruin en gaar zijn.",
+    "Serveer met warm platbrood, korianderblaadjes, dun gesneden rode ui en yoghurt."
+   ],
+   "photo": "photos/ghayour-669.webp"
+  },
+  {
+   "id": 670,
+   "name": "Lamskoteletjes met plakkerige tamarindeglazuur",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍖",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Tangy Tamarind Chops' (rijst toegevoegd als bijgerecht)",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "knoflookpoeder",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "0.5",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "5",
+     "tl"
+    ],
+    [
+     "lamskoteletjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "lichtbruine basterdsuiker",
+     "2",
+     "el"
+    ],
+    [
+     "maizena",
+     "1",
+     "tl"
+    ],
+    [
+     "tamarindepasta",
+     "1",
+     "el"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "1",
+     "tl"
+    ],
+    [
+     "lauw water",
+     "3",
+     "el"
+    ],
+    [
+     "lichte sojasaus",
+     "1",
+     "el"
+    ],
+    [
+     "rijstazijn",
+     "2",
+     "tl"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "basmatirijst",
+     "150",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Meng het knoflookpoeder, de komijn, kaneel, ruim zout en peper met 1 eetlepel olie tot een pasta en wrijf de koteletjes ermee in.",
+    "Verhit een scheutje olie in een koekenpan op middelhoog vuur en bak de koteletjes 2 tot 3 minuten per kant. Laat ze op een bord rusten.",
+    "Meng voor de saus de geperste knoflook, suiker, maizena, tamarindepasta, chilivlokken, het water, de sojasaus, rijstazijn, 2 theelepels olie en wat zout en peper.",
+    "Veeg de pan schoon, zet hem op laag vuur en verwarm de saus al roerend tot hij zo dik is als honing.",
+    "Leg de koteletjes met hun vleessap terug in de pan, zet het vuur hoger en laat ze een paar minuten glaceren tot ze rondom bedekt zijn. Bestrooi met sesamzaad en schuin gesneden lente-ui en serveer met de rijst."
+   ],
+   "photo": "photos/ghayour-670.webp"
+  },
+  {
+   "id": 671,
+   "name": "Pittige garnalen met spinazie en tomaat (kari fry)",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🦐",
+   "cuisine": "Indiaas",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Spicy Prawn & Spinach Kari Fry'",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "grote tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "jonge spinazie",
+     "100",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "15",
+     "g"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "kerriepoeder (medium)",
+     "1",
+     "tl"
+    ],
+    [
+     "rauwe gepelde garnalen (diepvries, ontdooid)",
+     "200",
+     "g"
+    ],
+    [
+     "boter",
+     "20",
+     "g"
+    ],
+    [
+     "basmatirijst",
+     "150",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Verhit de olie in een koekenpan op middelhoog vuur en bak de fijngesneden ui en knoflook gaar en aan de randen bruin.",
+    "Voeg de fijngehakte chilipeper en tomaten toe en bak 3 tot 4 minuten, regelmatig roerend.",
+    "Voeg de spinazie en koriander toe, breng op smaak met zout, peper en twee flinke kneepjes citroen en bak tot de spinazie helemaal geslonken is.",
+    "Roer de kerriepoeder erdoor en bak een paar minuten. Voeg de garnalen toe en bak 6 tot 8 minuten tot ze roze en gaar zijn.",
+    "Roer de boter erdoor, proef en serveer meteen met de rijst."
+   ],
+   "photo": "photos/ghayour-671.webp"
+  },
+  {
+   "id": 672,
+   "name": "Kabeljauw met muhammarakorst uit de oven",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Muhammara Cod' (rijst en een eenvoudige tomaat-komkommersalade toegevoegd, het boek noemt een mediterrane salade)",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kabeljauwhaasjes",
+     "300",
+     "g"
+    ],
+    [
+     "geroosterde rode paprika uit pot",
+     "1",
+     "stuk"
+    ],
+    [
+     "geroosterde walnoten",
+     "15",
+     "g"
+    ],
+    [
+     "brood zonder korst",
+     "10",
+     "g"
+    ],
+    [
+     "kleine teen knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "0.5",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "tl"
+    ],
+    [
+     "basmatirijst",
+     "150",
+     "g"
+    ],
+    [
+     "tomaat",
+     "2",
+     "stuk"
+    ],
+    [
+     "komkommer",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op de hoogste stand (met hetelucht als dat kan), bekleed een ovenschaal met bakpapier en kook de rijst.",
+    "Draai de uitgelekte paprika, walnoten, het brood in stukjes, de knoflook, chilivlokken, 2 theelepels olie en ruim zout en peper in een keukenmachine tot een grove pasta.",
+    "Leg de vis in de schaal en bedek hem rondom met de muhammara tot er geen wit meer te zien is.",
+    "Bak 12 tot 14 minuten, afhankelijk van hoe heet je oven wordt, tot de vis net gaar is.",
+    "Snijd intussen de tomaten en komkommer in blokjes en meng met een theelepel olie, een kneepje citroen en zout. Serveer de vis meteen met de rijst en de salade."
+   ],
+   "photo": "photos/ghayour-672.webp"
+  },
+  {
+   "id": 673,
+   "name": "Hashweh: Libanese rijst met gekruid lamsgehakt en noten",
+   "type": "Vlees",
+   "time": 95,
+   "emoji": "🍚",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Hashweh' (boek: 6 tot 8 personen)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "pijnboompitten",
+     "25",
+     "g"
+    ],
+    [
+     "amandelschaafsel",
+     "25",
+     "g"
+    ],
+    [
+     "basmatirijst",
+     "500",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "lamsgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "gemalen kaneel",
+     "2",
+     "tl"
+    ],
+    [
+     "gemalen gember",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen piment",
+     "0.25",
+     "tl"
+    ],
+    [
+     "gemalen nootmuskaat",
+     "0.25",
+     "tl"
+    ],
+    [
+     "gemalen kruidnagel",
+     "0.25",
+     "tl"
+    ],
+    [
+     "ghee of zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "boter",
+     "50",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C en rooster de pijnboompitten en amandelen 6 tot 7 minuten goudbruin.",
+    "Kook de rijst 6 tot 7 minuten in ruim kokend water tot de korrels helder wit worden. Spoel hem in een zeef koud af, schud goed uit en laat 10 minuten uitlekken. Spoel en droog de pan.",
+    "Verhit olie in een grote koekenpan op middelhoog vuur en fruit de fijngesneden uien zacht. Voeg de fijngehakte knoflook toe en dan het gehakt; druk het met een spatel goed uit elkaar. Voeg alle specerijen en royaal zout toe, want dit kruidt het hele gerecht, en bak tot het vlees bijna droog en knapperig is.",
+    "Zet de rijstpan op laag vuur met de ghee en strooi er net genoeg rijst in om de bodem te bedekken. Schep de rest van de rijst voorzichtig door het gehakt en verdeel dit in de pan. Prik met de steel van een houten lepel 6 tot 8 gaten tot op de bodem en leg de blokjes boter erop.",
+    "Wikkel de deksel in een schone theedoek en zet hem stevig op de pan. Laat op gas 45 minuten op het laagste vuur garen, op elektrisch of inductie 60 tot 75 minuten op zacht middelvuur. Schep op een schaal en bestrooi met de noten en peterselie."
+   ],
+   "photo": "photos/ghayour-673.webp"
+  },
+  {
+   "id": 674,
+   "name": "Perzische rijst met gekruid gehakt, tomaat en aardappelkorst (polow)",
+   "type": "Vlees",
+   "time": 100,
+   "emoji": "🍚",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Spiced Beef & Tomato Polow'",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "basmatirijst",
+     "500",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "5",
+     "teen"
+    ],
+    [
+     "rundergehakt",
+     "500",
+     "g"
+    ],
+    [
+     "gemalen kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "1",
+     "tl"
+    ],
+    [
+     "tomatenpuree",
+     "140",
+     "g"
+    ],
+    [
+     "boter",
+     "50",
+     "g"
+    ],
+    [
+     "aardappelen",
+     "400",
+     "g"
+    ],
+    [
+     "ghee of zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "Griekse yoghurt",
+     "3",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst 6 tot 7 minuten in ruim kokend water tot de korrels helder wit worden. Spoel koud af in een zeef, schud uit en laat 10 minuten uitlekken. Spoel en droog de pan. Maal de saffraan fijn en laat hem in 3 eetlepels kokend water trekken.",
+    "Verhit olie in een grote koekenpan op middelhoog vuur en bak de heel fijngehakte ui met de knoflook in plakjes glazig en aan de randen bruin.",
+    "Voeg het gehakt, de kurkuma, kaneel, tomatenpuree en ruim zout en peper toe en bak, terwijl je het gehakt uit elkaar drukt, tot het gaar is. Haal van het vuur, roer de boter erdoor tot hij gesmolten is, proef (dit kruidt het hele gerecht) en meng de aardappelplakken van 1 cm erdoor.",
+    "Zet de rijstpan op laag vuur met de ghee, het saffraanwater, de yoghurt en wat zout, roer en strooi er net genoeg rijst in om de bodem te bedekken. Schep de rest van de rijst voorzichtig door het gehaktmengsel, verdeel in de pan en prik met de steel van een houten lepel 6 tot 8 gaten tot op de bodem.",
+    "Wikkel de deksel in een schone theedoek en zet hem stevig op de pan. Garen: op gas 1 uur op het laagste vuur, op elektrisch of inductie 1 uur en 15 minuten op zacht middelvuur. Leg een grote schaal op de pan en keer hem om, zodat de krokante korst bovenop ligt."
+   ],
+   "photo": "photos/ghayour-674.webp"
+  },
+  {
+   "id": 675,
+   "name": "Macarona bechamel: Egyptische pastaschotel met gehakt",
+   "type": "Vlees",
+   "time": 80,
+   "emoji": "🍝",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Dr Youssef's Egyptian Macarona Bechamel' (boek: 4 tot 6 personen)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "boter",
+     "100",
+     "g"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "rundergehakt",
+     "500",
+     "g"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "0.5",
+     "tl"
+    ],
+    [
+     "grote tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "rigatoni",
+     "300",
+     "g"
+    ],
+    [
+     "bloem",
+     "4",
+     "el"
+    ],
+    [
+     "melk",
+     "500",
+     "ml"
+    ],
+    [
+     "kippen- of groentebouillonblokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "gemalen nootmuskaat",
+     "0.25",
+     "tl"
+    ],
+    [
+     "belegen cheddar",
+     "100",
+     "g"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Smelt de helft van de boter in een grote koekenpan op middelhoog vuur en bak de fijngesneden ui goudbruin. Voeg het gehakt, de komijn en kaneel toe en bak al roerend bruin. Breng ruim op smaak met zout en peper, voeg de grof gehakte tomaten toe en bak een paar minuten tot het vocht iets is ingekookt.",
+    "Kook de rigatoni volgens de verpakking, giet af, spoel kort en laat uitlekken. Verwarm de oven voor op 190 °C.",
+    "Smelt voor de bechamel de rest van de boter in een grote pan, roer de bloem erdoor en laat een paar minuten bakken tot het lichtgoud is. Voeg beetje bij beetje de melk toe, verkruimel het bouillonblokje erin en blijf roeren. Kruid met nootmuskaat en peper en laat binden. Roer de geraspte kaas erdoor en proef.",
+    "Schep een kwart van de saus door de pasta. Bedek de bodem van een grote ovenschaal met een dun laagje saus, dan de helft van de vleessaus en de helft van de pasta. Herhaal met saus, de rest van het vlees, de rest van de pasta en eindig met saus.",
+    "Bestrijk de bovenkant met het losgeklopte ei en bak 45 minuten tot de schotel goudbruin is."
+   ],
+   "photo": "photos/ghayour-675.webp"
+  },
+  {
+   "id": 676,
+   "name": "Gemberbouillon met kipgehaktballetjes, noedels en little gem",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🍜",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Ginger Broth with Chicken Koftas & Noodles' (verse kurkuma kan vervangen worden door 1 theelepel gemalen kurkuma)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "noedels of spaghetti",
+     "200",
+     "g"
+    ],
+    [
+     "little gem",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "verse gember",
+     "80",
+     "g"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "8",
+     "teen"
+    ],
+    [
+     "verse kurkuma",
+     "3",
+     "stuk"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "water",
+     "2250",
+     "ml"
+    ],
+    [
+     "kippendijgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "2",
+     "tl"
+    ],
+    [
+     "gemalen kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen witte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "verse dille",
+     "30",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "bosje"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout",
+     "2",
+     "tl"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een grote soeppan op middelhoog vuur en bak 50 g gember in dunne reepjes, de uien in halve ringen en 5 tenen knoflook in plakjes een paar minuten zacht.",
+    "Voeg de gehalveerde verse kurkuma en de zwarte peper toe, schenk het water erbij en breng flink aan de kook zodat de bouillon goudgeel kleurt. Breng ruim op smaak met zout en laat 10 minuten koken.",
+    "Kneed intussen het gehakt met 3 tenen geperste knoflook, 5 cm geraspte gember, de chilivlokken, gemalen kurkuma, witte peper, twee derde van de gehakte dille, de lente-ui (houd 2 of 3 stengels apart), het ei en wat zout tot een gladde, plakkerige massa. Rol er 20 tot 24 balletjes van ter grootte van een pingpongbal.",
+    "Laat de balletjes 15 tot 20 minuten in de bouillon garen. Kook intussen de noedels beetgaar en spoel ze koud af.",
+    "Doe de uitgelekte noedels en de gehalveerde little gem in de bouillon en laat een paar minuten meekoken. Roer de rest van de dille erdoor en serveer met de achtergehouden lente-ui en eventueel extra chilivlokken."
+   ],
+   "photo": "photos/ghayour-676.webp"
+  },
+  {
+   "id": 677,
+   "name": "Romige hummussoep met tahin en citroen",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🥣",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Hummus Soup' (vegan; boek: 3 tot 4 personen, met brood zoals het boek aanraadt)",
+   "basePersons": 3,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "kikkererwten uit blik met vocht",
+     "800",
+     "g"
+    ],
+    [
+     "tahin",
+     "2",
+     "el"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "water",
+     "800",
+     "ml"
+    ],
+    [
+     "Turks brood",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit een scheutje olie in een soeppan op middelhoog vuur en bak de fijngesneden ui en de gekneusde knoflook zacht en glazig, zonder dat ze kleuren.",
+    "Voeg de kikkererwten met hun vocht en de tahin toe. Vul de lege blikken met heet water en schenk dat erbij.",
+    "Breng ruim op smaak met zout, peper en het knoflookpoeder en laat ongeveer 20 minuten zachtjes koken. Roer regelmatig zodat de tahin oplost en niets aanbrandt.",
+    "Pureer de soep glad met een staafmixer, voeg het citroensap toe, proef en laat nog een paar minuten al roerend doorkoken.",
+    "Serveer met een draadje olijfolie, versgemalen peper, eventueel extra citroen en warm Turks brood."
+   ],
+   "photo": "photos/ghayour-677.webp"
+  },
+  {
+   "id": 678,
+   "name": "Kip met aardappel en tomaat uit de oven met baharat",
+   "type": "Vlees",
+   "time": 55,
+   "emoji": "🍗",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Baharat & Tomato Chicken Traybake' (boek: 4 tot 6 personen)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "aardappelen",
+     "750",
+     "g"
+    ],
+    [
+     "kippendijfilet",
+     "650",
+     "g"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "cherrytomaatjes",
+     "200",
+     "g"
+    ],
+    [
+     "groene paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "tomatenpuree",
+     "4",
+     "el"
+    ],
+    [
+     "kokend water",
+     "150",
+     "ml"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "baharat (kruidenmix)",
+     "1",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Schil de aardappelen en snijd ze in plakken van 5 mm, en snijd de uien in halve ringen van 5 mm.",
+    "Doe de aardappelen, kip, uien, gehalveerde tomaatjes en de paprika in reepjes in een grote ovenschaal en schenk de tomatenblokjes erover.",
+    "Los de tomatenpuree op in het kokende water en roer het citroensap, de baharat, olijfolie en ruim zout en peper erdoor. Giet over de schaal en schep alles goed om.",
+    "Bak 30 minuten en schep halverwege wat van het vocht over de kip.",
+    "Zet de oven op 220 °C en bak nog 15 minuten tot alles gaar is. Serveer meteen."
+   ],
+   "photo": "photos/ghayour-678.webp"
+  },
+  {
+   "id": 679,
+   "name": "Rode rijst met kip en doperwten uit één pan",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍛",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'One-pan Red Rice & Chicken' (boek: 4 tot 6 personen)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kippenbouillon",
+     "500",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "paprika",
+     "2",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "kerriepoeder (medium)",
+     "1",
+     "el"
+    ],
+    [
+     "chilivlokken",
+     "0.5",
+     "tl"
+    ],
+    [
+     "tomatenpuree",
+     "4",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "kippendijfilet",
+     "600",
+     "g"
+    ],
+    [
+     "basmatirijst",
+     "300",
+     "g"
+    ],
+    [
+     "boter",
+     "50",
+     "g"
+    ],
+    [
+     "diepvriesdoperwten",
+     "150",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Draai de helft van de bouillon met de knoflook, 1 ui en 1 paprika in kwarten, de laurier, kerriepoeder, chilivlokken en tomatenpuree in een blender helemaal glad.",
+    "Verhit de olie in een grote, diepe koekenpan op middelhoog vuur en bak de andere, fijngesneden ui tot de randen bruin worden.",
+    "Voeg de kip in 2 of 3 stukken per dij en de andere paprika in blokjes toe, schep om en breng ruim op smaak. Zet het vuur iets lager en bak 20 minuten, af en toe roerend.",
+    "Roer de rijst en de blokjes boter erdoor tot de boter gesmolten is. Schenk het gepureerde mengsel en de rest van de bouillon erbij, voeg de doperwten en nog wat zout en peper toe en roer door.",
+    "Leg een deksel op de pan en laat 30 minuten zachtjes garen zonder te roeren. Maak de rijst los met een vork en serveer."
+   ],
+   "photo": "photos/ghayour-679.webp"
+  },
+  {
+   "id": 680,
+   "name": "Saffraankipspiesjes met limoen en yoghurt",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍢",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Spiced Saffron Chicken Kebabs' (boek: 2 tot 4 personen; tomaat-komkommersalade toegevoegd)",
+   "basePersons": 3,
+   "season": "zomer",
+   "timeNote": "Kip minstens 1 uur (of een nacht) marineren; daarna 30 min",
+   "ingredients": [
+    [
+     "kippendijfilet",
+     "650",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "saffraan",
+     "2",
+     "snuf"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "el"
+    ],
+    [
+     "gemalen kurkuma",
+     "2",
+     "tl"
+    ],
+    [
+     "chilivlokken (pul biber)",
+     "1",
+     "tl"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "limoen",
+     "2",
+     "stuk"
+    ],
+    [
+     "dikke Griekse yoghurt",
+     "150",
+     "g"
+    ],
+    [
+     "platbrood",
+     "4",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "2",
+     "stuk"
+    ],
+    [
+     "komkommer",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Maal de saffraan fijn en laat hem in 2 tot 3 eetlepels kokend water trekken. Meng de ui in dunne halve ringen met de geperste knoflook en ruim zout en peper.",
+    "Voeg het saffraanwater, de oregano, kurkuma, chilivlokken, suiker, rasp en sap van de limoenen en de yoghurt toe. Schep de kip in hapklare stukken en een flinke scheut olijfolie erdoor, dek af en laat minstens 1 uur in de koelkast marineren.",
+    "Verwarm de oven voor op de hoogste stand en bekleed een bakplaat met bakpapier. Leg de kip erop, eventueel geregen aan spiesjes, en besprenkel met wat olie.",
+    "Bak 18 tot 20 minuten tot de kip mooi bruin en gaar is.",
+    "Snijd intussen de tomaten en komkommer in blokjes en breng op smaak met zout. Serveer de kip met warm platbrood en de salade."
+   ],
+   "photo": "photos/ghayour-680.webp"
+  },
+  {
+   "id": 681,
+   "name": "Harissa-lamskoteletjes van de bakplaat",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍖",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Tray-baked Harissa Lamb Chops' (boek: 4 tot 6 personen; platbrood en salade toegevoegd)",
+   "basePersons": 4,
+   "season": "altijd",
+   "timeNote": "Marineren is optioneel: 1 uur of een nacht",
+   "ingredients": [
+    [
+     "lamskoteletjes",
+     "10",
+     "stuk"
+    ],
+    [
+     "yoghurt",
+     "4",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "rozenharissa",
+     "2",
+     "el"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "el"
+    ],
+    [
+     "kerriepoeder (medium)",
+     "1",
+     "el"
+    ],
+    [
+     "suiker",
+     "1",
+     "tl"
+    ],
+    [
+     "limoen of citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "platbrood",
+     "4",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "3",
+     "stuk"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Meng de yoghurt, olie, harissa, het knoflookpoeder, de kerriepoeder, suiker, het limoensap en flink wat zout en peper in een brede, ondiepe schaal.",
+    "Wrijf de koteletjes rondom goed in met de marinade. Heb je tijd, laat ze dan afgedekt 1 uur buiten of een nacht in de koelkast marineren; direct bakken kan ook.",
+    "Verwarm de oven voor op de hoogste stand en bekleed een grote bakplaat met bakpapier. Leg de koteletjes erop en bak 16 minuten tot de randen mooi zwartgeblakerd zijn.",
+    "Dek ze losjes af met folie en laat 5 minuten rusten.",
+    "Maak intussen een salade van tomaat, komkommer en rode ui met wat zout en serveer met warm platbrood."
+   ],
+   "photo": "photos/ghayour-681.webp"
+  },
+  {
+   "id": 682,
+   "name": "Pilav met tomaat, komijn en geroosterde groenten",
+   "type": "Vegetarisch",
+   "time": 65,
+   "emoji": "🍚",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Tomato, Cumin & Roasted Vegetable Pilaf' (boek: bijgerecht voor 6; hier hoofdgerecht voor 4 met yoghurt)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "aubergine (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "courgette (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "gele paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "5",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "komijnzaad",
+     "2",
+     "tl"
+    ],
+    [
+     "gemalen kurkuma",
+     "2",
+     "tl"
+    ],
+    [
+     "tomatenpuree",
+     "4",
+     "el"
+    ],
+    [
+     "basmatirijst",
+     "300",
+     "g"
+    ],
+    [
+     "boter",
+     "50",
+     "g"
+    ],
+    [
+     "koud water",
+     "450",
+     "ml"
+    ],
+    [
+     "Griekse yoghurt",
+     "250",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C en bekleed een grote bakplaat met bakpapier. Snijd de aubergine en courgette in kwarten in de lengte en dan in stukken van 1 cm, en de paprika's in blokjes van 1 cm.",
+    "Leg de groenten op de plaat, bestrooi met oregano, zout en peper, besprenkel royaal met olie en meng met je handen. Spreid uit en rooster 30 minuten.",
+    "Verhit intussen olie in een grote pan op middelhoog vuur en bak de fijngesneden ui en knoflook glazig. Voeg het komijnzaad, de kurkuma en tomatenpuree toe en bak al roerend een paar minuten; voeg een scheutje water toe als het aanzet.",
+    "Roer de rijst, de boter en royaal zout en peper erdoor tot de rijst glanst. Schenk het koude water erbij, roer goed, doe de deksel op de pan en laat 30 minuten op zacht vuur garen zonder te roeren.",
+    "Maak de rijst los met een vork, schep de geroosterde groenten er voorzichtig door, warm een paar minuten mee en serveer met yoghurt."
+   ],
+   "photo": "photos/ghayour-682.webp"
+  },
+  {
+   "id": 683,
+   "name": "Gevulde minipaprika's met dadelcouscous en feta",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🫑",
+   "cuisine": "Midden-Oosters",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Stuffed Baby Peppers with Date Couscous & Feta' (boek: bijgerecht voor 4 tot 6; hier hoofdgerecht voor 2 met yoghurt en rucola)",
+   "basePersons": 2,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "minipaprika's",
+     "300",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "couscous",
+     "100",
+     "g"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen kurkuma",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kokend water",
+     "150",
+     "ml"
+    ],
+    [
+     "honing",
+     "1",
+     "el"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "dadels zonder pit",
+     "4",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "feta",
+     "100",
+     "g"
+    ],
+    [
+     "Griekse yoghurt",
+     "150",
+     "g"
+    ],
+    [
+     "rucola",
+     "60",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C en bekleed een bakplaat met bakpapier. Halveer de paprikaatjes, verwijder de zaadjes, leg ze met de snijkant naar boven op de plaat en besprenkel met wat olie.",
+    "Doe de couscous, het knoflookpoeder, de kaneel, kurkuma en ruim zout en peper in een hittebestendige kom. Giet het kokende water erover, roer, voeg een scheutje olie toe, dek af en laat 5 minuten staan.",
+    "Meng de honing met het citroensap en een beetje olie, giet over de couscous en schep de fijngehakte dadels, gehakte peterselie en verkruimelde feta erdoor. Proef op zout.",
+    "Vul de paprikahelften met de couscous; druk het met je handen stevig aan zodat het blijft zitten. Besprenkel met nog wat olie.",
+    "Bak 22 tot 25 minuten tot de randen bruin en licht geblakerd zijn. Serveer warm met yoghurt en rucola."
+   ],
+   "photo": "photos/ghayour-683.webp"
+  },
+  {
+   "id": 684,
+   "name": "Kuru fasulye: Turkse witte bonen in tomaat met rijst",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🫘",
+   "cuisine": "Turks",
+   "source": "Ghayour",
+   "sourceRef": "Persiana Easy, 'Kuru Fasulye' (boek: 4 tot 6 personen, met rijst en citroen zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "tomatenpuree",
+     "3",
+     "el"
+    ],
+    [
+     "grote tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "cannellinibonen uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "boter",
+     "50",
+     "g"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Verhit een flinke scheut olie in een pan op middelhoog vuur en bak de fijngesneden ui glazig.",
+    "Voeg de knoflook in plakjes, het paprikapoeder, de tomatenpuree, de grof gehakte tomaten en ruim zout en peper toe, meng goed en bak een paar minuten.",
+    "Voeg de bonen toe: één blik uitgelekt en één blik met vocht. Zet het vuur iets lager en laat 30 minuten zonder deksel zachtjes koken, af en toe roerend.",
+    "Roer de boter erdoor tot hij gesmolten is. Er moet net genoeg saus zijn om de bonen te bedekken; laat zo nodig nog wat inkoken. Proef en breng op smaak.",
+    "Serveer met partjes citroen om erover te knijpen en de rijst."
+   ],
+   "photo": "photos/ghayour-684.webp"
   }
  ]
 }

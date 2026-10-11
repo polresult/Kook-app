@@ -577,3 +577,7 @@ Het boek bevat alleen tekeningen, geen foto's. Alle 14 recepten (632 tot en met 
 ## The Complete Plant Based Cookbook for Beginners (Angela Taylor)
 
 Alle 17 recepten (646 tot en met 662) tonen de gerechtfoto uit het boek als photos/taylor-<id>.webp. De foto staat op de pagina vóór het recept; de bovenkant met het receptnummer is weggesneden. De recepttekst in deze pdf is een afbeelding en is met OCR (Tesseract) gelezen.
+
+## Persiana Easy (Sabrina Ghayour)
+
+Alle 22 recepten (663 tot en met 684) tonen de gerechtfoto uit het boek als photos/ghayour-<id>.webp. De foto staat in het boek een of twee pagina's na het begin van het recept.
