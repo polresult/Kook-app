@@ -55,6 +55,11 @@
    "title": "Persiana Easy",
    "author": "Sabrina Ghayour",
    "basePersons": "volgens het boek (bij een bereik de laagste; bijgerechten omgerekend naar hoofdgerecht, zie sourceRef)"
+  },
+  "Ramsay": {
+   "title": "Gordon Ramsay's Passion for Seafood",
+   "author": "Gordon Ramsay (met Roz Denny)",
+   "basePersons": "volgens het boek (zie sourceRef bij aanpassingen)"
   }
  },
  "skipped": {
@@ -68,7 +73,8 @@
   "HayFresh": "desserts; recepten zonder leesbare tekst in de pdf (een deel van de variaties en enkele basisrecepten); varianten die een basisrecept hergebruiken; lijkt te veel op bestaande recepten: nasi goreng-omelet (12, 77), minestrone (89), zwarte-bonenbolognese (99), kikkererwtenburgers (bonenburger 173), gnocchi met tomaat (15), teriyakizalm (13), rijstbowl met rauwe zalm (pokébowl 19), tonijn-sobabowl (51, 189), pasta met knoflookkruim (577), Italiaanse bonen op toast (witte bonen op brood 209, 252), spinazie-souffléomelet (240), pompoensoep (87), dumplingsoep (96)",
   "Stephenson": "ontbijt- en bijgerechten, basisrecepten en sidebars; het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; lijkt te veel op bestaande recepten: okonomiyaki (155), shakshuka (18), uiensoep (478), tortillasoep (95), kippensoep (84), zwarte-bonensoep, wortel-gembersoep en zoete-aardappelsoep (87, 481), paella (204), koshari (594), bonen op toast, zwarte-bonenburgers (173), saag tofu (palak paneer 140), kimchi-aardappelkoekjes (616), pasta met broccoli en worst (107), tonijnpasta (29), kiptajine (490), traybake met kip (20), krokante kippendijen (39), kip parmezaan (583), linzen-cassoulet (te veel als de linzenstoof met worst), polenta met groente en tomatensaus (tweede polentagerecht)",
   "Taylor": "salades, hapjes, dips, soepen die op bestaande lijken en desserts; Texas-pizza (gistdeeg van anderhalf uur, al genoeg pizza's); zoete-aardappelhash (bijgerecht); lijkt te veel op bestaande recepten: witte bonen met courgette (281, 293), pittige rode bonen (chili sin carne 162), vegan gehaktballetjes in tomatensaus (14), enchilada's (24), bloemkool-currysoep (86), aubergine-lasagne (243), pad thai (130), dahl (56, 518), gevulde paprika's (241), bonenburgers (173), falafel (178), pho (97), Thaise kokossoep (94), maissoep (464), one-pot pasta met kikkererwten (636)",
-  "Ghayour": "ontbijt, brood, bijgerechten, salades, dips en desserts; lang of bewerkelijk (rundvlees-noedelsoep 3 uur, lamskari 2 uur, raan, kleftiko, couscous royale, sinaasappel-varkensschouder, restjes-lamsgerecht met mango); lijkt te veel op bestaande recepten: lamskofta (40), lahmacun (66), garnalenorzo (10), kokosgarnalen (26), kiptajine (490), tikka masala (139), koshari (594), biryani (369), koftacurry (221), Turkse linzensoep (467), gehaktballen uit de oven met harissa en feta (14), harissabonen (655), kuku, kippenvleugels"
+  "Ghayour": "ontbijt, brood, bijgerechten, salades, dips en desserts; lang of bewerkelijk (rundvlees-noedelsoep 3 uur, lamskari 2 uur, raan, kleftiko, couscous royale, sinaasappel-varkensschouder, restjes-lamsgerecht met mango); lijkt te veel op bestaande recepten: lamskofta (40), lahmacun (66), garnalenorzo (10), kokosgarnalen (26), kiptajine (490), tikka masala (139), koshari (594), biryani (369), koftacurry (221), Turkse linzensoep (467), gehaktballen uit de oven met harissa en feta (14), harissabonen (655), kuku, kippenvleugels",
+  "Ramsay": "basisrecepten (fonds, sauzen, boters), voorgerechten, terrines, carpaccio en gravlax; bewerkelijk of restaurantniveau (zelfgemaakte pasta, ravioli, cannelloni, kreeft, soufflé, tulband van tarbot, brill in aardappelkorst, kabeljauw met kruidenkorst die 2 uur moet opstijven, gefrituurde inktvis in gistbeslag, Italiaanse vissoep met acht soorten vis, zeevruchtencassoulet, lasagne met fluweelsaus); lastig te krijgen (steur, mahi mahi); lijkt te veel op bestaande recepten: zalmkoekjes (213, 228), vispastei met bladerdeeg (378), paella (204), mosselen (47 en meer), risotto's (121, 380), pasta met gerookte zalm (63), chowder (93), zeeduivel in pancetta (381), gevulde zeebaars met venkel (52), gegrilde zalm met geroosterde paprika (606)"
  },
  "recipes": [
   {
@@ -15819,6 +15825,1112 @@
     "Serveer met partjes citroen om erover te knijpen en de rijst."
    ],
    "photo": "photos/ghayour-684.webp"
+  },
+  {
+   "id": 685,
+   "name": "Roerbak van zeeduivel met paprika, paksoi en jasmijnrijst",
+   "type": "Vis",
+   "time": 30,
+   "emoji": "🐟",
+   "cuisine": "Aziatisch",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Stir-fried monkfish with peppers and pak choi' (zelfgemaakte chilipasta vervangen door sambal, huisvinaigrette door olie met sherryazijn; jasmijnrijst zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zeeduivelfilet",
+     "500",
+     "g"
+    ],
+    [
+     "arachideolie",
+     "2",
+     "el"
+    ],
+    [
+     "rode paprika (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "gele paprika (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse gember",
+     "1",
+     "el"
+    ],
+    [
+     "courgette",
+     "1",
+     "stuk"
+    ],
+    [
+     "paksoi",
+     "200",
+     "g"
+    ],
+    [
+     "taugé",
+     "50",
+     "g"
+    ],
+    [
+     "lichte sojasaus",
+     "2",
+     "tl"
+    ],
+    [
+     "sambal oelek",
+     "1",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "sherryazijn",
+     "2",
+     "tl"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "tl"
+    ],
+    [
+     "jasmijnrijst",
+     "300",
+     "g"
+    ],
+    [
+     "geroosterd sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Verwijder het grijze vlies van de zeeduivel en snijd de vis in plakken van 1 cm. Snijd alle groenten vóór je begint: paprika en ui in dunne reepjes, gember fijn, courgette in plakjes en paksoi grof.",
+    "Maak een wok bijna rookheet, voeg de helft van de arachideolie toe en roerbak de vis ongeveer 3 minuten tot hij aan beide kanten bruin is. Laat uitlekken op keukenpapier en houd warm.",
+    "Verhit de rest van de olie en roerbak paprika, ui, gember en courgette ongeveer 2 minuten tot ze net gaar zijn en wat kleur hebben. Schep ze uit de wok.",
+    "Roerbak de paksoi en taugé 2 minuten tot ze net slinken. Roer de sojasaus en twee derde van de sambal erdoor. Klop de olijfolie met de sherryazijn, de rest van de sambal en een snuf zout tot een pittige dressing.",
+    "Doe de andere groenten terug in de wok met de sesamolie en maak alles goed heet. Proef op zout en peper, verdeel over de borden, leg de vis erop en druppel er wat dressing over. Serveer met de rijst bestrooid met sesamzaad."
+   ],
+   "photo": "photos/ramsay-685.webp"
+  },
+  {
+   "id": 686,
+   "name": "Dorade met kruidige couscous, appel en rozijnen",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Dorade royale with spicy couscous' (gekonfijte citroen vervangen door dunne citroenplakjes, zelfgemaakte chilipasta door harissa)",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "rozijnen",
+     "1",
+     "el"
+    ],
+    [
+     "couscous",
+     "100",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "harissa",
+     "1",
+     "tl"
+    ],
+    [
+     "Granny Smith-appel",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "tl"
+    ],
+    [
+     "doradefilets met vel",
+     "2",
+     "stuk"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse rozemarijn",
+     "1",
+     "tl"
+    ],
+    [
+     "sherryazijn",
+     "2",
+     "tl"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Week de rozijnen 10 minuten in warm water en laat uitlekken. Giet 200 ml kokend water over de couscous met een snuf zout en 2 theelepels olie, dek af en laat 5 minuten wellen. Maak los met een vork.",
+    "Schep de rozijnen, harissa, de geschilde appel in blokjes en de gehakte koriander door de couscous, breng op smaak en houd warm.",
+    "Verwarm de grill van de oven voor op de hoogste stand. Kerf het vel van de vis twee of drie keer in, wrijf in met olie, leg op elke filet twee dunne plakjes citroen en bestrooi met rozemarijn, zout en peper.",
+    "Gril de vis met het vel naar boven ongeveer 5 minuten tot hij knapperig en gaar is; omdraaien is niet nodig.",
+    "Klop 1 eetlepel olie met de sherryazijn, een halve theelepel citroenrasp en 2 theelepels citroensap. Schep de couscous op twee borden, druppel er de rest van de olie over, leg de vis erop en lepel de dressing erover."
+   ],
+   "photo": "photos/ramsay-686.webp"
+  },
+  {
+   "id": 687,
+   "name": "Gebakken dorade met citrus-basilicumsaus en peultjes",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🍊",
+   "cuisine": "Frans",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Pan-fried bream with a citrus and basil sauce' (groentebouillon in plaats van zelfgemaakte nage; peultjes en krieltjes zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "doradefilets met vel",
+     "8",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "sinaasappel (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "roze grapefruit",
+     "1",
+     "stuk"
+    ],
+    [
+     "groentebouillon",
+     "300",
+     "ml"
+    ],
+    [
+     "boter",
+     "15",
+     "g"
+    ],
+    [
+     "verse kervel",
+     "1",
+     "el"
+    ],
+    [
+     "basilicum",
+     "6",
+     "blad"
+    ],
+    [
+     "peultjes",
+     "300",
+     "g"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar. Haal met een dunschiller dunne reepjes schil van de sinaasappel, citroen, limoen en grapefruit, snijd ze in fijne sliertjes, blancheer 2 minuten, spoel koud af en dep droog.",
+    "Snijd schil en wit van alle vruchten. Snijd boven een kom van elke vrucht de helft van de partjes tussen de vliezen uit en pers de andere helften uit in dezelfde kom.",
+    "Kook de bouillon in tot de helft. Voeg de partjes en het sap toe en laat ongeveer 5 minuten zachtjes koken, al kloppend, tot de partjes uiteenvallen. Breng op smaak. Kook intussen de peultjes 2 minuten.",
+    "Verhit de olie in een grote antiaanbakpan en bak de vis eerst op het vel ongeveer 2 minuten tot het mooi bruin is. Keer om en bak nog ongeveer 2 minuten tot de vis net gaar is. Breng op smaak.",
+    "Roer de citrusreepjes door de saus, warm even op en klop de boter erdoor. Roer de kervel en de basilicum in reepjes erdoor. Verdeel de vis over de borden, schep de saus erover en serveer met de peultjes en krieltjes."
+   ],
+   "photo": "photos/ramsay-687.webp"
+  },
+  {
+   "id": 688,
+   "name": "Gegrilde tijgergarnalen met geroosterde tomaat en Thaise salade",
+   "type": "Vis",
+   "time": 30,
+   "emoji": "🦐",
+   "cuisine": "Thais",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Barbecued tiger prawns with marinated tomatoes and Thai-dressed salad' (stokbrood toegevoegd)",
+   "basePersons": 6,
+   "season": "zomer",
+   "timeNote": "Garnalen en dressing minstens 2 uur van tevoren marineren",
+   "ingredients": [
+    [
+     "rauwe tijgergarnalen",
+     "30",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "200",
+     "ml"
+    ],
+    [
+     "korianderzaad",
+     "1",
+     "el"
+    ],
+    [
+     "milde kerriepoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "pruimtomaten",
+     "6",
+     "stuk"
+    ],
+    [
+     "balsamicoazijn",
+     "2",
+     "el"
+    ],
+    [
+     "gemengde sla",
+     "300",
+     "g"
+    ],
+    [
+     "citroengras",
+     "1",
+     "stengel"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "el"
+    ],
+    [
+     "vissaus",
+     "2",
+     "el"
+    ],
+    [
+     "lichte sojasaus",
+     "1",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "150",
+     "ml"
+    ],
+    [
+     "witte wijnazijn of rijstazijn",
+     "4",
+     "el"
+    ],
+    [
+     "stokbrood",
+     "1",
+     "stuk"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pel de garnalen en verwijder het darmkanaal; laat het staartje zitten. Meng 150 ml olijfolie met het licht gekneusde korianderzaad en de kerriepoeder, schep de garnalen erdoor en laat minstens 2 uur in de koelkast marineren. Week houten satéprikkers 30 minuten in water.",
+    "Schud voor de dressing het fijngehakte citroengras (zonder de droge buitenbladeren), de koriander, vissaus, sojasaus, zonnebloemolie en azijn in een pot en zet minstens 2 uur koud.",
+    "Halveer de tomaten, leg ze met de snijkant naar boven in een ovenschaal, bestrooi met zout en bestrijk met de rest van de olijfolie en de balsamico.",
+    "Rijg de garnalen aan de prikkers. Verwarm de barbecue of de grill. Gril de tomaten 3 tot 5 minuten tot ze zacht en licht geblakerd zijn. Gril de garnalen 3 tot 4 minuten tot ze helemaal roze zijn en bestrijk ze tussendoor met wat marinade.",
+    "Schud de dressing nog eens, hussel de sla ermee en leg die op een grote schaal. Verdeel de tomaten en garnalen erover en serveer met stokbrood."
+   ],
+   "photo": "photos/ramsay-688.webp"
+  },
+  {
+   "id": 689,
+   "name": "Krokante makreel met lauwe mosterdaardappelen",
+   "type": "Vis",
+   "time": 35,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Crispy grilled mackerel with warm mustard and chive potatoes' (Engelse mosterd mag vervangen worden door Dijonmosterd)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "makreel, schoongemaakt (ca. 250 g per stuk)",
+     "4",
+     "stuk"
+    ],
+    [
+     "verse rozemarijn of tijm",
+     "1",
+     "handvol"
+    ],
+    [
+     "olijfolie",
+     "110",
+     "ml"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "sjalot",
+     "2",
+     "stuk"
+    ],
+    [
+     "witte wijnazijn",
+     "4",
+     "el"
+    ],
+    [
+     "Engelse mosterd of Dijonmosterd",
+     "1",
+     "el"
+    ],
+    [
+     "bieslook",
+     "3",
+     "el"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Spoel de makrelen goed schoon, ook de donkere bloedlijn aan de binnenkant. Kerf het vel aan beide kanten een paar keer in en steek er takjes kruiden in. Bestrooi licht met zout en bestrijk met 1 eetlepel olie.",
+    "Kook de krieltjes in licht gezouten water net gaar, giet af en snijd ze in dikke plakken zodra je ze kunt vastpakken.",
+    "Verwarm in dezelfde pan de rest van de olie met de fijngesneden sjalotten, azijn, mosterd en bieslook al kloppend tot alles lauw en gemengd is. Schep de aardappelplakken erdoor en laat ze op een warme plek de smaak opnemen.",
+    "Verwarm de grill van de oven voor op hoog. Gril de hele makrelen ongeveer 5 minuten per kant tot het vel krokant is en de vis gaar. Gebruik je filets, gril ze dan 5 minuten met het vel naar boven en 1 tot 2 minuten aan de andere kant.",
+    "Proef de aardappelen op zout en peper en serveer ze met de makreel."
+   ],
+   "photo": "photos/ramsay-689.webp"
+  },
+  {
+   "id": 690,
+   "name": "Tonijn met specerijenkorst en witlofsalade met bruine-boterdressing",
+   "type": "Vis",
+   "time": 30,
+   "emoji": "🐟",
+   "cuisine": "Europees",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Spice-crusted tuna with chicory salad' (boek: 6 kleinere porties; hier hoofdgerecht voor 4 met krieltjes; 'Chinese pepper mix' van mosterdzaad, piment en Sichuanpeper vers gemalen)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "tonijnsteak",
+     "600",
+     "g"
+    ],
+    [
+     "gele en zwarte mosterdzaadjes",
+     "2",
+     "el"
+    ],
+    [
+     "pimentkorrels",
+     "1",
+     "el"
+    ],
+    [
+     "Sichuanpeper",
+     "1",
+     "el"
+    ],
+    [
+     "rood en/of groen witlof",
+     "3",
+     "stuk"
+    ],
+    [
+     "arachideolie",
+     "4",
+     "el"
+    ],
+    [
+     "boter",
+     "100",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "sherryazijn",
+     "3",
+     "el"
+    ],
+    [
+     "vloeibare honing",
+     "1",
+     "el"
+    ],
+    [
+     "citroen (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar. Maal de mosterdzaadjes, piment en Sichuanpeper grof in een vijzel of pepermolen en verdeel over een bord. Druk beide kanten van de tonijnsteaks erin en zet koud. Snijd het witlof zonder harde kern in dunne reepjes.",
+    "Smelt de boter in een steelpannetje en laat hem op hoger vuur net bruin worden; haal direct van het vuur zodat hij niet verbrandt. Giet door een zeef met een vochtig doekje of keukenpapier.",
+    "Klop de bruine boter met 2 eetlepels arachideolie, de olijfolie, de sherryazijn, honing, het citroensap en zout en peper tot een dressing.",
+    "Maak een grillpan of koekenpan zeer heet. Bestrijk de tonijn met de rest van de arachideolie en bak ongeveer 3 minuten per kant, zodat hij vanbinnen nog rozig is. Bestrooi met zout en laat even rusten.",
+    "Hussel het witlof met de helft van de dressing en verdeel over de borden. Snijd de tonijn in dikke plakken, leg ze op de salade en druppel de rest van de dressing erover. Serveer lauwwarm met de krieltjes."
+   ],
+   "photo": "photos/ramsay-690.webp"
+  },
+  {
+   "id": 691,
+   "name": "Gestoofde hele dorade niçoise met saffraan en tomaat",
+   "type": "Vis",
+   "time": 50,
+   "emoji": "🐟",
+   "cuisine": "Frans",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Braised snapper niçoise' (dorade of zeebaars in plaats van snapper; groente- of visbouillon in plaats van zelfgemaakte fond)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "hele dorade of zeebaars, geschubd en schoongemaakt",
+     "1000",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "pancetta in plakjes (optioneel)",
+     "4",
+     "plak"
+    ],
+    [
+     "zwarte olijven zonder pit",
+     "10",
+     "stuk"
+    ],
+    [
+     "pruimtomaten (groot)",
+     "6",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "droge witte wijn",
+     "150",
+     "ml"
+    ],
+    [
+     "vis- of groentebouillon",
+     "300",
+     "ml"
+    ],
+    [
+     "verse salie, tijm en dragon",
+     "1",
+     "handvol"
+    ],
+    [
+     "stokbrood",
+     "1",
+     "stuk"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Knip vinnen en kieuwen van de vis, wrijf hem rondom in met 2 eetlepels olie en breng licht op smaak, ook vanbinnen. Wikkel eventueel de pancetta om het midden. Gebruik je twee kleinere vissen, verdeel dan alles over beide.",
+    "Ontvel de tomaten, verwijder de zaadjes en hak ze. Verhit 2 eetlepels olie en laat de tomaten met de geperste knoflook afgedekt 5 minuten zacht worden. Voeg de saffraan toe en laat nog 2 minuten pruttelen tot het moesachtig is.",
+    "Schenk de wijn erbij en laat tot de helft inkoken. Voeg de bouillon toe, breng aan de kook, breng op smaak en voeg een paar blaadjes salie, tijm en dragon toe. Laat 5 minuten zachtjes koken.",
+    "Verwarm de oven voor op 190 °C. Leg de vis in een ovenschaal, schep de saus erover en bak 25 tot 30 minuten; schep er elke 5 minuten wat saus over. De vis is gaar als het vlees bij de graat langs de rug loslaat.",
+    "Laat iets afkoelen, bestrooi met de gesneden olijven en de rest van de kruiden en serveer lauwwarm met de saus en stokbrood. Snijd de filets langs de graat los en til de graat er in één keer uit."
+   ],
+   "photo": "photos/ramsay-691.webp"
+  },
+  {
+   "id": 692,
+   "name": "Zalm op romige spitskool met verse kruiden",
+   "type": "Vis",
+   "time": 30,
+   "emoji": "🐟",
+   "cuisine": "Frans",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Pan-roasted salmon on creamy cabbage' (met krieltjes zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "lente",
+   "ingredients": [
+    [
+     "zalmfilet zonder vel",
+     "800",
+     "g"
+    ],
+    [
+     "spitskool",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "boter",
+     "40",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "tl"
+    ],
+    [
+     "sjalot",
+     "1",
+     "stuk"
+    ],
+    [
+     "sherryazijn",
+     "2",
+     "tl"
+    ],
+    [
+     "droge witte wijn",
+     "75",
+     "ml"
+    ],
+    [
+     "slagroom",
+     "90",
+     "ml"
+    ],
+    [
+     "bieslook",
+     "1",
+     "el"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "verse kervel",
+     "1",
+     "el"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar. Verwijder eventuele graatjes uit de zalm en snijd hem in 4 stukken.",
+    "Snijd de kool fijn, blancheer hem 30 seconden in kokend water, spoel koud af en laat goed uitlekken.",
+    "Smelt de boter in dezelfde pan en fruit de fijngesneden sjalot 3 minuten. Voeg de kool toe en bak 3 minuten al roerend. Blus af met de azijn en laat verdampen, schenk de wijn erbij en laat tot de helft inkoken. Roer de room erdoor, breng aan de kook, breng op smaak en houd warm onder een deksel.",
+    "Maak een grote antiaanbakpan goed heet, voeg de olie toe, zet het vuur middelhoog en bak de zalm ongeveer 3 minuten per kant tot hij nog licht verend aanvoelt. Breng op smaak.",
+    "Roer de gehakte kruiden door de kool, verdeel over de borden en leg de zalm erop. Serveer met de krieltjes."
+   ]
+  },
+  {
+   "id": 693,
+   "name": "Zwaardvis uit de stoofpan met courgette, tomaat en citroengras",
+   "type": "Vis",
+   "time": 50,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Summer braised swordfish' (kabeljauw kan ook, zoals het boek noemt; krieltjes zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "kleine sjalotten",
+     "12",
+     "stuk"
+    ],
+    [
+     "pruimtomaten",
+     "8",
+     "stuk"
+    ],
+    [
+     "courgette",
+     "3",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse tijm",
+     "1",
+     "takje"
+    ],
+    [
+     "citroengras",
+     "2",
+     "stengel"
+    ],
+    [
+     "droge witte wijn",
+     "400",
+     "ml"
+    ],
+    [
+     "zwaardvissteak",
+     "600",
+     "g"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C en zet een lege gietijzeren braadpan erin om heet te worden. Kook de krieltjes gaar.",
+    "Zet de hete pan op het vuur en voeg de olie toe. Voeg de uien in ringen, gehalveerde sjalotten, ontvelde en in vieren gesneden tomaten zonder zaadjes, courgette in dunne plakjes, laurier, tijm en het citroengras in drie stukken toe. Breng op smaak en bak onafgedekt ongeveer 15 minuten, af en toe roerend, tot de groenten beginnen te karamelliseren.",
+    "Schenk de wijn erbij en zet de pan ongeveer 10 minuten in de oven tot het vocht tot de helft is ingekookt.",
+    "Leg de zwaardvis op de groenten, schep er wat saus over, breng licht op smaak en zet nog 10 tot 12 minuten in de oven tot de vis net stevig aanvoelt.",
+    "Schep de groenten op de borden, leg de vis erop en druppel het kookvocht erover. Verwijder het citroengras en de laurier en serveer met de krieltjes."
+   ]
+  },
+  {
+   "id": 694,
+   "name": "Tongschar met vijgen en citroen uit de oven",
+   "type": "Vis",
+   "time": 55,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Sole with fig and lemon confit' (schol of wijting kan ook; couscous zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "verse vijgen",
+     "8",
+     "stuk"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "tongschar- of scholfilet",
+     "600",
+     "g"
+    ],
+    [
+     "couscous",
+     "250",
+     "g"
+    ],
+    [
+     "kokend water",
+     "300",
+     "ml"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 190 °C. Halveer de vijgen in de lengte, leg ze in een ondiepe ovenschaal, leg de citroen in dunne plakjes erop en besprenkel met 2 eetlepels olie.",
+    "Dek af met aluminiumfolie en bak ongeveer 30 minuten tot de vijgen zacht en sappig zijn. Zet apart.",
+    "Vet een tweede ondiepe ovenschaal in met 1 eetlepel olie, leg de visfilets erin in één laag en breng goed op smaak met zout en grof gemalen peper. Schep de vijgen en citroen met het sap erover en besprenkel eventueel met nog wat olie.",
+    "Bak onafgedekt ongeveer 15 minuten tot de vis net stevig aanvoelt.",
+    "Giet intussen het kokende water over de couscous met een snuf zout en de laatste eetlepel olie, laat 5 minuten wellen en maak los met een vork. Serveer de vis meteen met de couscous."
+   ]
+  },
+  {
+   "id": 695,
+   "name": "Mul met zuurkool, wortel en jeneverbessaus op puree",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🐟",
+   "cuisine": "Frans",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Red mullet with choucroute and juniper berry sauce' (meer zuurkool en aardappelpuree om er een hoofdgerecht van te maken; makreel kan ook, zoals het boek noemt; groentebouillon in plaats van zelfgemaakte nage)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "mulfilets met vel",
+     "8",
+     "stuk"
+    ],
+    [
+     "wortel",
+     "1",
+     "stuk"
+    ],
+    [
+     "zuurkool",
+     "200",
+     "g"
+    ],
+    [
+     "boter",
+     "55",
+     "g"
+    ],
+    [
+     "groentebouillon",
+     "500",
+     "ml"
+    ],
+    [
+     "jeneverbessen",
+     "12",
+     "stuk"
+    ],
+    [
+     "slagroom",
+     "3",
+     "el"
+    ],
+    [
+     "kruimige aardappelen",
+     "800",
+     "g"
+    ],
+    [
+     "melk",
+     "100",
+     "ml"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de aardappelen gaar, stamp ze met de warme melk en 25 g boter tot een gladde puree en breng op smaak. Verwijder intussen eventuele graatjes uit de vis.",
+    "Snijd de wortel in heel dunne reepjes en blancheer ze 2 minuten in kokend water met zout. Giet af, doe terug in de pan met de uitgeknepen zuurkool, 15 g boter en 2 eetlepels water en zet apart.",
+    "Breng de bouillon met de gekneusde jeneverbessen aan de kook in een brede pan en laat 2 minuten trekken. Leg de visfilets erin en pocheer ze ongeveer 5 minuten tot ze net stevig zijn. Haal ze eruit en houd warm.",
+    "Kook de bouillon in tot de helft, zeef en doe terug in de pan. Warm intussen de zuurkool met wortel goed door.",
+    "Klop de rest van de boter en de room door de saus. Schep puree en zuurkool in het midden van diepe borden, leg op elk bord twee filets en schep de saus erover. Garneer met peterselie."
+   ]
+  },
+  {
+   "id": 696,
+   "name": "Tonijn met piperade, snijbiet en sauce vierge",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🐟",
+   "cuisine": "Frans",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Tuna pipérade with Swiss chard' (met de 'Sauce vierge' uit het boek; spinazie kan in plaats van snijbiet; krieltjes toegevoegd)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "sjalot",
+     "3",
+     "stuk"
+    ],
+    [
+     "rode paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "gele paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "pruimtomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "basilicum",
+     "12",
+     "blad"
+    ],
+    [
+     "snijbiet of grote spinazie",
+     "200",
+     "g"
+    ],
+    [
+     "boter",
+     "15",
+     "g"
+    ],
+    [
+     "tonijnsteak",
+     "600",
+     "g"
+    ],
+    [
+     "extra vierge olijfolie",
+     "50",
+     "ml"
+    ],
+    [
+     "citroensap",
+     "2",
+     "el"
+    ],
+    [
+     "korianderzaad",
+     "6",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "6",
+     "blad"
+    ],
+    [
+     "balsamicoazijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar. Ontvel 2 tomaten, verwijder de zaadjes en snijd ze in blokjes. Verhit 2 eetlepels olie en fruit 2 fijngesneden sjalotten 5 minuten zonder kleur. Voeg de paprika's in kleine blokjes toe en bak 3 minuten. Roer de tomaat erdoor, breng op smaak, laat afkoelen tot lauw en roer 6 blaadjes basilicum in reepjes erdoor.",
+    "Maak de sauce vierge: fruit de laatste sjalot fijngesneden in 2 theelepels extra vierge olie 10 minuten zacht. Voeg de rest van de olie en het citroensap toe en verwarm zachtjes. Roer het gekneusde korianderzaad, de blokjes van de laatste tomaat, de rest van de basilicum en de koriander in reepjes en de balsamico erdoor. Breng op smaak.",
+    "Snijd de stelen van de snijbiet in stukken van 4 cm en hak de bladeren grof. Kook de stelen 2 minuten in gezouten water, voeg de bladeren toe, laat even opkoken, giet af en schep de boter erdoor.",
+    "Breng de tonijn op smaak. Maak een antiaanbakpan rookheet, voeg de laatste eetlepel olie toe en bak de tonijn 3 minuten tot hij mooi bruin is. Keer om en bak nog 2 tot 3 minuten; de vis moet nog wat veerkrachtig aanvoelen.",
+    "Leg de snijbiet in het midden van de borden, de tonijn erop en de piperade daarop. Lepel de sauce vierge eromheen, bestrooi met peterselie en serveer met de krieltjes."
+   ]
+  },
+  {
+   "id": 697,
+   "name": "Kabeljauw met puylinzen, prei, spek en mosterddressing",
+   "type": "Vis",
+   "time": 50,
+   "emoji": "🐟",
+   "cuisine": "Europees",
+   "source": "Ramsay",
+   "sourceRef": "Gordon Ramsay's Passion for Seafood, 'Baked cod with lentils, leeks and mustard dressing' (Puy-linzen zonder weken; schelvis of heek kan ook, zoals het boek noemt)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "puylinzen",
+     "200",
+     "g"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "wortel (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "kippen- of groentebouillon",
+     "500",
+     "ml"
+    ],
+    [
+     "boter",
+     "40",
+     "g"
+    ],
+    [
+     "prei (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "ontbijtspek in blokjes",
+     "125",
+     "g"
+    ],
+    [
+     "spinazie",
+     "400",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "170",
+     "ml"
+    ],
+    [
+     "kabeljauwfilet zonder vel",
+     "900",
+     "g"
+    ],
+    [
+     "bloem",
+     "2",
+     "el"
+    ],
+    [
+     "witte wijnazijn",
+     "50",
+     "ml"
+    ],
+    [
+     "grove mosterd",
+     "2",
+     "tl"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Spoel de linzen en breng ze met de laurier, een paar plakjes ui, de wortel en de bouillon aan de kook. Kook 10 minuten op middelhoog vuur en laat daarna afgedekt ongeveer 15 minuten zachtjes garen tot ze zacht zijn en het vocht is opgenomen. Verwijder laurier, ui en wortel, giet eventueel restvocht af en breng op smaak.",
+    "Smelt twee derde van de boter met 2 tot 3 eetlepels water en stoof de prei in kleine blokjes 5 minuten zacht. Bak het spek in een droge pan knapperig. Schep prei en spek door de linzen en breng ruim op smaak met peper.",
+    "Blancheer de spinazie 1 minuut, spoel koud af, knijp goed uit, hak grof, breng op smaak en leg de rest van de boter erop. Schud voor de dressing de azijn, 150 ml olie, de mosterd en zout en peper in een pot.",
+    "Verwarm de oven voor op 190 °C. Verhit 2 eetlepels olie in een brede ovenvaste pan. Haal de vis door de gekruide bloem, bak hem 2 minuten zonder te bewegen, keer voorzichtig om en zet de pan 5 tot 7 minuten in de oven tot de vis net gaar is.",
+    "Warm de linzen en de spinazie op. Leg de spinazie op een warme schaal, de vis erop en schep de linzen erover. Schud de dressing nog eens en druppel hem over het geheel."
+   ]
   }
  ]
 }

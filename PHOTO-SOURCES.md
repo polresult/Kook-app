@@ -581,3 +581,16 @@ Alle 17 recepten (646 tot en met 662) tonen de gerechtfoto uit het boek als phot
 ## Persiana Easy (Sabrina Ghayour)
 
 Alle 22 recepten (663 tot en met 684) tonen de gerechtfoto uit het boek als photos/ghayour-<id>.webp. De foto staat in het boek een of twee pagina's na het begin van het recept.
+
+## Gordon Ramsay's Passion for Seafood (Gordon Ramsay)
+
+Zeven recepten (685 tot en met 691) tonen de gerechtfoto uit het boek als photos/ramsay-<id>.webp. Het boek is gescand; de foto's zijn de hele fotopagina naast het recept, met wat meer contrast. Bij 687 is de bovenrand weggesneden.
+
+Zes recepten zonder gerechtfoto in het boek hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Zalm op romige spitskool met verse kruiden: https://www.pexels.com/photo/20505438/
+- Zwaardvis uit de stoofpan met courgette, tomaat en citroengras: https://www.pexels.com/photo/12127425/
+- Tongschar met vijgen en citroen uit de oven: https://www.pexels.com/photo/15146204/
+- Mul met zuurkool, wortel en jeneverbessaus op puree: https://www.pexels.com/photo/33329219/
+- Tonijn met piperade, snijbiet en sauce vierge: https://www.pexels.com/photo/18437699/
+- Kabeljauw met puylinzen, prei, spek en mosterddressing: https://www.pexels.com/photo/12653398/
