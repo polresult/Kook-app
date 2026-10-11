@@ -45,6 +45,11 @@
    "title": "Pantry to Plate: Kitchen Staples for Simple Meals",
    "author": "Emily Stephenson",
    "basePersons": "volgens het boek"
+  },
+  "Taylor": {
+   "title": "The Complete Plant Based Cookbook for Beginners",
+   "author": "Angela Taylor (Culinary Art School Europe)",
+   "basePersons": "volgens het boek"
   }
  },
  "skipped": {
@@ -56,7 +61,8 @@
   "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen",
   "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186)",
   "HayFresh": "desserts; recepten zonder leesbare tekst in de pdf (een deel van de variaties en enkele basisrecepten); varianten die een basisrecept hergebruiken; lijkt te veel op bestaande recepten: nasi goreng-omelet (12, 77), minestrone (89), zwarte-bonenbolognese (99), kikkererwtenburgers (bonenburger 173), gnocchi met tomaat (15), teriyakizalm (13), rijstbowl met rauwe zalm (pokébowl 19), tonijn-sobabowl (51, 189), pasta met knoflookkruim (577), Italiaanse bonen op toast (witte bonen op brood 209, 252), spinazie-souffléomelet (240), pompoensoep (87), dumplingsoep (96)",
-  "Stephenson": "ontbijt- en bijgerechten, basisrecepten en sidebars; het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; lijkt te veel op bestaande recepten: okonomiyaki (155), shakshuka (18), uiensoep (478), tortillasoep (95), kippensoep (84), zwarte-bonensoep, wortel-gembersoep en zoete-aardappelsoep (87, 481), paella (204), koshari (594), bonen op toast, zwarte-bonenburgers (173), saag tofu (palak paneer 140), kimchi-aardappelkoekjes (616), pasta met broccoli en worst (107), tonijnpasta (29), kiptajine (490), traybake met kip (20), krokante kippendijen (39), kip parmezaan (583), linzen-cassoulet (te veel als de linzenstoof met worst), polenta met groente en tomatensaus (tweede polentagerecht)"
+  "Stephenson": "ontbijt- en bijgerechten, basisrecepten en sidebars; het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; lijkt te veel op bestaande recepten: okonomiyaki (155), shakshuka (18), uiensoep (478), tortillasoep (95), kippensoep (84), zwarte-bonensoep, wortel-gembersoep en zoete-aardappelsoep (87, 481), paella (204), koshari (594), bonen op toast, zwarte-bonenburgers (173), saag tofu (palak paneer 140), kimchi-aardappelkoekjes (616), pasta met broccoli en worst (107), tonijnpasta (29), kiptajine (490), traybake met kip (20), krokante kippendijen (39), kip parmezaan (583), linzen-cassoulet (te veel als de linzenstoof met worst), polenta met groente en tomatensaus (tweede polentagerecht)",
+  "Taylor": "salades, hapjes, dips, soepen die op bestaande lijken en desserts; Texas-pizza (gistdeeg van anderhalf uur, al genoeg pizza's); zoete-aardappelhash (bijgerecht); lijkt te veel op bestaande recepten: witte bonen met courgette (281, 293), pittige rode bonen (chili sin carne 162), vegan gehaktballetjes in tomatensaus (14), enchilada's (24), bloemkool-currysoep (86), aubergine-lasagne (243), pad thai (130), dahl (56, 518), gevulde paprika's (241), bonenburgers (173), falafel (178), pho (97), Thaise kokossoep (94), maissoep (464), one-pot pasta met kikkererwten (636)"
  },
  "recipes": [
   {
@@ -12316,6 +12322,1380 @@
     "Bak de ui in halve ringen in het vet 8 tot 10 minuten zacht en goudbruin en schraap het aanbaksel los. Bestrooi met de rest van het zout.",
     "Haal de polenta van het vuur en roer de boter en parmezaan erdoor. Schep de polenta op een schaal of borden, leg de worstjes erop en schep de ui met het vocht erover."
    ]
+  },
+  {
+   "id": 646,
+   "name": "Indiase aardappelkoekjes met doperwten en groene korianderchutney",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🥔",
+   "cuisine": "Indiaas",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 32 (boek: 10 koekjes)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "aardappelen",
+     "900",
+     "g"
+    ],
+    [
+     "plantaardige boter of margarine",
+     "2",
+     "el"
+    ],
+    [
+     "kerriepoeder",
+     "2",
+     "tl"
+    ],
+    [
+     "gemalen kardemom",
+     "1",
+     "snuf"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "doperwten (diepvries)",
+     "100",
+     "g"
+    ],
+    [
+     "panko",
+     "45",
+     "g"
+    ],
+    [
+     "zonnebloemolie om te bakken",
+     "4",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "water",
+     "2",
+     "el"
+    ],
+    [
+     "avocado",
+     "0.5",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Maak de chutney: draai de koriander, knoflook, het limoensap, de suiker, het water en de avocado in een kleine keukenmachine tot een gladde, romige saus. Voeg wat water toe als hij te dik is en breng op smaak met zout en eventueel extra limoensap.",
+    "Schil en halveer de aardappels, zet ze onder water en kook ze in 25 tot 30 minuten gaar. Giet af en laat iets afkoelen.",
+    "Prak de aardappels met de boter, de kerriepoeder, de kardemom, het zout en de peper. Proef en voeg eventueel meer kruiden toe. Meng de ontdooide doperwten erdoor.",
+    "Verdeel het mengsel in tien porties, rol er balletjes van en druk ze plat tot koekjes. Haal ze door de panko.",
+    "Bak de koekjes in de olie op middelhoog vuur 4 tot 5 minuten per kant goudbruin en krokant. Serveer met de groene chutney."
+   ],
+   "photo": "photos/taylor-646.webp"
+  },
+  {
+   "id": 647,
+   "name": "Wraps met groene tofu-scramble, shiitake en spinazie",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🌯",
+   "cuisine": "Amerikaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 39 (boek: 6 wraps; hier 4 personen met 6 wraps)",
+   "basePersons": 4,
+   "timeNote": "Inclusief 30 min tofu persen",
+   "ingredients": [
+    [
+     "stevige tofu",
+     "400",
+     "g"
+    ],
+    [
+     "edelgistvlokken",
+     "1",
+     "el"
+    ],
+    [
+     "kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "ui (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "shiitake",
+     "115",
+     "g"
+    ],
+    [
+     "spinazie",
+     "90",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "volkoren tortillawraps",
+     "6",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Wikkel de tofu in een schone theedoek, leg er iets zwaars op en laat 30 minuten uitlekken. Verkruimel de tofu daarna.",
+    "Meng de tofu met de gistvlokken, kurkuma en knoflookpoeder.",
+    "Verhit de olie in een koekenpan en bak de gesnipperde ui en de shiitake in plakjes zonder steeltjes 5 minuten tot de ui glazig is.",
+    "Voeg het tofumengsel, de spinazie, zout en peper toe en bak nog 5 minuten.",
+    "Verdeel de vulling over de tortilla's en rol ze op."
+   ],
+   "photo": "photos/taylor-647.webp"
+  },
+  {
+   "id": 648,
+   "name": "Vegan jambalaya met rijst, bonen en kikkererwten",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🍚",
+   "cuisine": "Amerikaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 43 (boek: 8 kleine porties; hier 4 hoofdgerechten)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "rode paprika",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "wortel",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "sojasaus",
+     "2",
+     "el"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "el"
+    ],
+    [
+     "knoflookpoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "cayennepeper",
+     "0.25",
+     "tl"
+    ],
+    [
+     "rijst",
+     "200",
+     "g"
+    ],
+    [
+     "water of groentebouillon",
+     "720",
+     "ml"
+    ],
+    [
+     "kikkererwten uit blik (uitgelekt)",
+     "165",
+     "g"
+    ],
+    [
+     "kidneybonen uit blik (uitgelekt)",
+     "180",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een diepe koekenpan. Bak de gesnipperde ui, de knoflook, beide paprika's en de wortel in stukjes 5 tot 7 minuten op middelhoog vuur tot de ui glazig is.",
+    "Voeg de tomaten toe en laat 5 minuten koken.",
+    "Voeg de rijst, sojasaus, alle kruiden en het water toe. Leg het deksel op de pan en laat 15 minuten op laag vuur garen tot de rijst gaar is. Is er nog vocht over, kook dan nog even zonder deksel door.",
+    "Roer de kikkererwten en bonen erdoor en verwarm 2 minuten met het deksel op de pan. Bestrooi met peterselie en serveer heet."
+   ],
+   "photo": "photos/taylor-648.webp"
+  },
+  {
+   "id": 649,
+   "name": "Burrito met zwarte bonen, rijst, maïs en avocado",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🌯",
+   "cuisine": "Mexicaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 44 (boek: 6 burrito's; hier 4 personen)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "zwarte bonen uit blik",
+     "425",
+     "g"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "gedroogde tijm",
+     "1",
+     "tl"
+    ],
+    [
+     "knoflookpoeder",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.125",
+     "tl"
+    ],
+    [
+     "grote tortillawraps",
+     "6",
+     "stuk"
+    ],
+    [
+     "gekookte rijst (ca. 100 g droog)",
+     "280",
+     "g"
+    ],
+    [
+     "maïskorrels",
+     "80",
+     "g"
+    ],
+    [
+     "romainesla",
+     "1",
+     "handvol"
+    ],
+    [
+     "tomaat",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een koekenpan en bak de afgespoelde bonen met de komijn, tijm, knoflookpoeder, zout en peper 4 tot 5 minuten op middelhoog vuur, af en toe roeren. Zet apart.",
+    "Prak de avocado met een vork. Verdeel rijst, bonen, sla, maïs, tomaat in plakjes, koriander en avocado over het midden van de tortilla's en druppel er citroensap over.",
+    "Vouw de linker- en rechterkant naar binnen en rol de burrito's stevig op, zodat de vulling erin blijft.",
+    "Wikkel de burrito's in aluminiumfolie, zodat ze niet openvallen, en bak ze in een droge koekenpan op middelhoog vuur 5 tot 6 minuten per kant. Serveer heet."
+   ],
+   "photo": "photos/taylor-649.webp"
+  },
+  {
+   "id": 650,
+   "name": "Quinoabowl met gebakken paprika, zwarte bonen, maïs en avocado",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🥗",
+   "cuisine": "Mexicaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 47",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "quinoa",
+     "170",
+     "g"
+    ],
+    [
+     "zwarte bonen uit blik",
+     "425",
+     "g"
+    ],
+    [
+     "maïs uit blik",
+     "425",
+     "g"
+    ],
+    [
+     "grote paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "paprikapoeder",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Kook de quinoa volgens de verpakking en verdeel over twee kommen.",
+    "Verwarm de uitgelekte maïs 2 tot 3 minuten in een pannetje met het paprikapoeder, zout en peper.",
+    "Verwarm in een ander pannetje de afgespoelde bonen met de komijn en 1 geperste teen knoflook.",
+    "Verhit de olie in een grote koekenpan en bak de paprika in reepjes, de ui in ringen, de rest van de knoflook, zout en peper 4 tot 5 minuten op hoog vuur tot de paprika zacht is.",
+    "Schik de maïs, bonen en paprika op de quinoa, bestrooi met koriander, leg er plakjes avocado bij en serveer met een partje limoen."
+   ],
+   "photo": "photos/taylor-650.webp"
+  },
+  {
+   "id": 651,
+   "name": "Bladerdeegtaart met drie soorten tomaat en kaas",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🍅",
+   "cuisine": "Italiaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 50 (boek: 8 stukken; hier met salade voor 4)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "bladerdeeg (rol)",
+     "400",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "pruimtomaten",
+     "300",
+     "g"
+    ],
+    [
+     "zongedroogde tomaatjes",
+     "40",
+     "g"
+    ],
+    [
+     "gedroogde basilicum",
+     "1",
+     "el"
+    ],
+    [
+     "zout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "geraspte belegen kaas (Asiago of Parmezaan)",
+     "100",
+     "g"
+    ],
+    [
+     "rode en gele cherrytomaatjes",
+     "300",
+     "g"
+    ],
+    [
+     "groene salade",
+     "100",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Rol het bladerdeeg uit op een met olie ingevette bakplaat.",
+    "Meng de fijngehakte pruimtomaten met de gehakte zongedroogde tomaatjes, het zout, de peper en de basilicum.",
+    "Verdeel het tomatenmengsel over het deeg, bestrooi met kaas en leg de gehalveerde cherrytomaatjes erop. Besprenkel met olijfolie.",
+    "Bak 20 tot 25 minuten tot het deeg goudbruin is. Laat iets afkoelen en serveer met een groene salade."
+   ],
+   "photo": "photos/taylor-651.webp"
+  },
+  {
+   "id": 652,
+   "name": "Zoete chilinoedels met tofu, paprika en ananas",
+   "type": "Vegetarisch",
+   "time": 25,
+   "emoji": "🍜",
+   "cuisine": "Aziatisch",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 53",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "rijstnoedels",
+     "280",
+     "g"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "el"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "stevige tofu",
+     "225",
+     "g"
+    ],
+    [
+     "zoete chilisaus",
+     "120",
+     "ml"
+    ],
+    [
+     "ananas in stukjes",
+     "80",
+     "g"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "lente-ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de noedels volgens de verpakking en laat uitlekken.",
+    "Verhit de sesamolie in een wok of grote koekenpan en bak de ui in ringen 2 tot 3 minuten op hoog vuur. Voeg de paprika in reepjes toe en bak 1 minuut.",
+    "Voeg de noedels, de chilisaus, de verkruimelde tofu, de ananas, chilivlokken, zout en peper toe en bak 5 minuten op middelhoog vuur tot de noedels gelijkmatig met saus bedekt zijn.",
+    "Schep de lente-ui en koriander erdoor en serveer heet."
+   ],
+   "photo": "photos/taylor-652.webp"
+  },
+  {
+   "id": 653,
+   "name": "Stoofpot van kikkererwten, orzo en tomaat met feta",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🍲",
+   "cuisine": "Mediterraan",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 57",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "chilivlokken",
+     "0.5",
+     "tl"
+    ],
+    [
+     "mosterdzaad",
+     "1.5",
+     "tl"
+    ],
+    [
+     "orzo",
+     "200",
+     "g"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "450",
+     "g"
+    ],
+    [
+     "groentebouillon",
+     "720",
+     "ml"
+    ],
+    [
+     "kikkererwten uit blik (uitgelekt)",
+     "280",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "feta",
+     "115",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een diepe koekenpan en bak de gesnipperde ui en knoflook 4 tot 5 minuten op middelhoog vuur tot de ui glazig is maar niet kleurt.",
+    "Voeg de chilivlokken en het mosterdzaad toe en bak 2 tot 3 minuten tot de zaadjes beginnen te springen.",
+    "Voeg de orzo, tomaten, bouillon en kikkererwten toe en laat 15 tot 20 minuten op laag vuur garen tot de orzo gaar is; roer af en toe.",
+    "Roer de gehakte peterselie en zout erdoor, verkruimel de feta erover en serveer."
+   ],
+   "photo": "photos/taylor-653.webp"
+  },
+  {
+   "id": 654,
+   "name": "Portobellosteaks met brandy-roomsaus en boterspinazie",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🍄",
+   "cuisine": "Frans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 59 (Worcestershiresaus uit de ingrediëntenlijst weggelaten omdat die meestal ansjovis bevat)",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "grote portobello's",
+     "6",
+     "stuk"
+    ],
+    [
+     "boter",
+     "3",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "sjalot",
+     "1",
+     "stuk"
+    ],
+    [
+     "brandy",
+     "90",
+     "ml"
+    ],
+    [
+     "slagroom",
+     "240",
+     "ml"
+    ],
+    [
+     "platte peterselie",
+     "4",
+     "el"
+    ],
+    [
+     "verse spinazie",
+     "280",
+     "g"
+    ],
+    [
+     "citroensap",
+     "1",
+     "el"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ]
+   ],
+   "steps": [
+    "Verwijder de steeltjes van de portobello's en bestrooi ze aan beide kanten met zout en peper. Bak ze in de verhitte olie op middelhoog vuur 3 minuten per kant tot ze zacht zijn en haal ze uit de pan.",
+    "Smelt 2 eetlepels boter in dezelfde pan en bak de fijngesnipperde sjalot 2 minuten.",
+    "Voeg de brandy toe en laat op hoog vuur tot de helft inkoken.",
+    "Voeg de room en zout naar smaak toe, breng aan de kook, roer de peterselie erdoor en zet het vuur uit.",
+    "Smelt de rest van de boter in een tweede pan en bak de spinazie met wat zout ongeveer 4 minuten tot hij geslonken is. Druppel er citroensap over.",
+    "Verdeel de spinazie over de borden, leg de portobello's in plakken van 2,5 cm erop en schenk de saus erover. Serveer direct."
+   ],
+   "photo": "photos/taylor-654.webp"
+  },
+  {
+   "id": 655,
+   "name": "Harissabonen met paprika, olijven en feta",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🫘",
+   "cuisine": "Midden-Oosters",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 60 (brood toegevoegd als bijgerecht)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "grote tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "groentebouillon",
+     "360",
+     "ml"
+    ],
+    [
+     "paprika's in verschillende kleuren",
+     "3",
+     "stuk"
+    ],
+    [
+     "witte bonen of boterbonen uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "rozenharissa",
+     "2",
+     "tl"
+    ],
+    [
+     "olijven",
+     "60",
+     "g"
+    ],
+    [
+     "wijnazijn",
+     "1",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "el"
+    ],
+    [
+     "feta",
+     "85",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "brood",
+     "4",
+     "snee"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een diepe koekenpan en bak de ui in ringen 3 tot 4 minuten op hoog vuur tot hij bruin kleurt.",
+    "Voeg de knoflook, de paprika in stukken en de tomaten in blokjes toe en bak 5 minuten op middelhoog vuur. Schenk de bouillon erbij.",
+    "Voeg de afgespoelde bonen, de harissa, de gehakte olijven, de azijn en zout toe en laat 10 minuten op laag vuur pruttelen.",
+    "Bestrooi met peterselie en verkruimelde feta en serveer met brood."
+   ],
+   "photo": "photos/taylor-655.webp"
+  },
+  {
+   "id": 656,
+   "name": "Linzengumbo met okra, paprika en cajunkruiden",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🍲",
+   "cuisine": "Amerikaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 61",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "rode paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1.5",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "2",
+     "stengel"
+    ],
+    [
+     "verse tijm",
+     "1",
+     "el"
+    ],
+    [
+     "verse oregano",
+     "2",
+     "el"
+    ],
+    [
+     "cajunkruiden",
+     "1",
+     "el"
+    ],
+    [
+     "cayennepeper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "linzen (groen of bruin)",
+     "200",
+     "g"
+    ],
+    [
+     "groentebouillon",
+     "720",
+     "ml"
+    ],
+    [
+     "okra (diepvries)",
+     "250",
+     "g"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "370",
+     "g"
+    ],
+    [
+     "appelciderazijn",
+     "2",
+     "el"
+    ],
+    [
+     "tomatensaus (passata)",
+     "120",
+     "ml"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "jalapeñopeper",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een diepe koekenpan of braadpan. Bak de knoflook, ui, paprika en bleekselderij in stukjes 5 minuten op middelhoog vuur.",
+    "Voeg de tijm, oregano, cajunkruiden, cayennepeper, de gespoelde linzen, bouillon, okra in stukjes, tomaten, azijn en passata toe. Leg het deksel op de pan en laat 15 tot 20 minuten op laag vuur garen tot de linzen gaar zijn.",
+    "Breng pas op smaak met zout en peper als de linzen gaar zijn, anders worden ze niet mooi zacht. Serveer heet met plakjes jalapeño."
+   ],
+   "photo": "photos/taylor-656.webp"
+  },
+  {
+   "id": 657,
+   "name": "Gevulde pastaschelpen met ricotta, champignons en spinazie in tomatensaus",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 65",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "grote pastaschelpen (conchiglioni)",
+     "18",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "kastanjechampignons",
+     "225",
+     "g"
+    ],
+    [
+     "droge witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "verse spinazie",
+     "140",
+     "g"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "marinarasaus (tomatensaus)",
+     "720",
+     "ml"
+    ],
+    [
+     "chilivlokken",
+     "0.5",
+     "tl"
+    ],
+    [
+     "ricotta",
+     "500",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "85",
+     "g"
+    ],
+    [
+     "verse oregano",
+     "3",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de pastaschelpen volgens de verpakking en laat uitlekken.",
+    "Verhit de olie in een koekenpan en bak de knoflook en de champignons in plakjes op middelhoog vuur 7 tot 8 minuten tot al het vocht verdampt is.",
+    "Voeg de wijn en de spinazie toe en laat 7 tot 8 minuten koken tot de helft van de wijn verdampt is.",
+    "Schep de champignons in een kom en meng met de ricotta, zout, peper en gehakte oregano.",
+    "Vul de schelpen met het mengsel en zet ze in een diepe koekenpan of hapjespan. Giet de tomatensaus erover, bestrooi met chilivlokken en laat 5 tot 7 minuten zachtjes doorwarmen. Bestrooi met parmezaan voor het serveren."
+   ],
+   "photo": "photos/taylor-657.webp"
+  },
+  {
+   "id": 658,
+   "name": "Kerriebloemkool met kikkererwten en spinazie op rijst uit de oven",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🥦",
+   "cuisine": "Indiaas",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 66",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "kikkererwten uit blik",
+     "425",
+     "g"
+    ],
+    [
+     "bloemkoolroosjes",
+     "400",
+     "g"
+    ],
+    [
+     "kerriepoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "knoflookpoeder",
+     "0.5",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "gekookte rijst (ca. 250 g droog)",
+     "750",
+     "g"
+    ],
+    [
+     "diepvriesspinazie, ontdooid",
+     "250",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 180 °C.",
+    "Meng de afgespoelde kikkererwten met de bloemkool, kerriepoeder, knoflookpoeder, 2 eetlepels olie, zout en peper.",
+    "Vet een bakplaat of grote ovenschaal in met de rest van de olie en verdeel de rijst er in één laag over.",
+    "Verdeel het bloemkoolmengsel over de rijst en leg de uitgeknepen spinazie erop. Bak 25 tot 30 minuten en serveer heet."
+   ],
+   "photo": "photos/taylor-658.webp"
+  },
+  {
+   "id": 659,
+   "name": "Hasselback zoete aardappel met avocado-aioli en granaatappel",
+   "type": "Vegetarisch",
+   "time": 75,
+   "emoji": "🍠",
+   "cuisine": "Amerikaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 67",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "zoete aardappel",
+     "4",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "granaatappelpitjes",
+     "170",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "lente-ui",
+     "3",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Snijd de gewassen zoete aardappels om de paar millimeter in, maar niet helemaal door: stop op driekwart. Leg ze tussen twee houten lepels, dan snijd je er niet doorheen.",
+    "Leg ze op een bakplaat, besprenkel met olie en bestrooi met zout. Bak 45 tot 60 minuten, afhankelijk van de grootte, tot alle plakjes zacht zijn.",
+    "Pureer het vruchtvlees van de avocado met de knoflook en zout in een kleine keukenmachine tot een gladde aioli.",
+    "Leg de aardappels op een schaal, schep de aioli erover en bestrooi met granaatappelpitjes, koriander en lente-ui. Serveer warm."
+   ],
+   "photo": "photos/taylor-659.webp"
+  },
+  {
+   "id": 660,
+   "name": "Pittige chilitofu met rijst en groente",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🌶️",
+   "cuisine": "Aziatisch",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 68 (rijst en groente toegevoegd als bijgerecht)",
+   "basePersons": 2,
+   "timeNote": "Inclusief 30 min tofu persen",
+   "ingredients": [
+    [
+     "stevige tofu",
+     "400",
+     "g"
+    ],
+    [
+     "chilisaus",
+     "3",
+     "el"
+    ],
+    [
+     "ahornsiroop",
+     "2",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "2",
+     "el"
+    ],
+    [
+     "wijnazijn",
+     "2",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ],
+    [
+     "broccoli of paksoi",
+     "250",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Wikkel de tofu in een schone theedoek, leg hem op een bord met een zware pan erop en laat 30 minuten uitlekken. Kook intussen de rijst.",
+    "Meng de chilisaus, ahornsiroop, sojasaus en azijn in een kommetje.",
+    "Snijd de tofu in kleine plakjes en bak ze in twee porties in de olie goudbruin.",
+    "Doe alle tofu terug in de pan, giet de saus erover en laat 2 tot 3 minuten inkoken tot de saus dikker is. Serveer met de rijst en gestoomde groente."
+   ],
+   "photo": "photos/taylor-660.webp"
+  },
+  {
+   "id": 661,
+   "name": "Auberginerolletjes met ricotta en spinazie uit de oven",
+   "type": "Vegetarisch",
+   "time": 90,
+   "emoji": "🍆",
+   "cuisine": "Italiaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 69",
+   "basePersons": 5,
+   "ingredients": [
+    [
+     "aubergine",
+     "2",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "marinarasaus (tomatensaus)",
+     "360",
+     "ml"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "ricotta",
+     "120",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "50",
+     "g"
+    ],
+    [
+     "diepvriesspinazie, ontdooid en uitgeknepen",
+     "225",
+     "g"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "geraspte mozzarella",
+     "115",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Snijd de aubergines in de lengte in tien plakken van ongeveer een halve centimeter. Bestrooi ze met zout, laat 15 minuten staan en dep droog.",
+    "Verwarm de oven voor op 200 °C. Leg de plakken op een bakplaat met bakpapier, bestrooi met wat zout en bak 10 minuten. Laat afkoelen.",
+    "Meng het ei, de ricotta, de parmezaan, de geperste knoflook en de spinazie.",
+    "Smeer het mengsel over de aubergineplakken en rol ze op.",
+    "Zet de rolletjes in een ovenschaal, giet de tomatensaus erover en bestrooi met mozzarella. Dek af met aluminiumfolie en bak 40 minuten op 200 °C. Serveer heet."
+   ],
+   "photo": "photos/taylor-661.webp"
+  },
+  {
+   "id": 662,
+   "name": "Mexicaanse quinoastoof met rode bonen en jalapeño",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Taylor",
+   "sourceRef": "The Complete Plant Based Cookbook for Beginners, recept 27",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "2",
+     "stengel"
+    ],
+    [
+     "wortel",
+     "3",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "jalapeñopeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "water",
+     "840",
+     "ml"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "kidneybonen uit blik",
+     "425",
+     "g"
+    ],
+    [
+     "gemalen komijn",
+     "1.5",
+     "tl"
+    ],
+    [
+     "quinoa",
+     "85",
+     "g"
+    ],
+    [
+     "cayennepeper",
+     "0.125",
+     "tl"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een soeppan. Bak de fijngesnipperde ui, bleekselderij, geraspte wortel, knoflook en jalapeño zonder zaadjes op middelhoog vuur tot de ui glazig is.",
+    "Voeg het water, de tomaten, de afgespoelde bonen, de komijn, de cayennepeper en de gespoelde quinoa toe. Leg het deksel op de pan en laat 15 tot 20 minuten op laag vuur koken tot de quinoa zacht is.",
+    "Breng op smaak met zout en peper, bestrooi met koriander en serveer heet."
+   ],
+   "photo": "photos/taylor-662.webp"
   }
  ]
 }

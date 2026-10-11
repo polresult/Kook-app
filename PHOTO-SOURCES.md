@@ -573,3 +573,7 @@ Het boek bevat alleen tekeningen, geen foto's. Alle 14 recepten (632 tot en met 
 - Kippendijen gestoofd in kokosmelk met gember en kurkuma: https://www.pexels.com/photo/23897672/
 - Griekse kip met tomaat, kalamata-olijven en feta: https://www.pexels.com/photo/33683051/
 - Italiaanse worstjes op romige polenta met gebakken ui: https://www.pexels.com/photo/38085035/
+
+## The Complete Plant Based Cookbook for Beginners (Angela Taylor)
+
+Alle 17 recepten (646 tot en met 662) tonen de gerechtfoto uit het boek als photos/taylor-<id>.webp. De foto staat op de pagina vóór het recept; de bovenkant met het receptnummer is weggesneden. De recepttekst in deze pdf is een afbeelding en is met OCR (Tesseract) gelezen.
