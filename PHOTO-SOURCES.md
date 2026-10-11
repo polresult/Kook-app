@@ -502,3 +502,17 @@ Voorbeeldfoto's van een vergelijkbaar gerecht (licentie: https://www.pexels.com/
 - Gado gado met zelfgemaakte pindasaus: https://www.pexels.com/photo/31336113/
 - Camarão no coco: Braziliaanse garnalen in kokossaus: https://www.pexels.com/photo/9809033/
 - Libanese fattouche met krokant flatbread en sumak: https://www.pexels.com/photo/38399725/
+
+## Pexels-voorbeeldfoto's voor de recepten uit Quick and Easy Middle Eastern Cooking
+
+Het boek bevat geen foto's. Voorbeeldfoto's van een vergelijkbaar gerecht (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Palestijnse tahinsalade met tomaat, komkommer en knoflook: https://www.pexels.com/photo/30382433/
+- Arayes: pita gevuld met gekruid gehakt en granaatappelmelasse: https://www.pexels.com/photo/29389677/
+- Snelle romige hummus met pijnboompitten: https://www.pexels.com/photo/1618898/
+- Libanese lamssalade met bonen, geroosterde groenten en granaatappel: https://www.pexels.com/photo/14774694/
+- Jemenitische romige soep met freekeh, gerst en gekarameliseerde ui: https://www.pexels.com/photo/30893832/
+- Libanees kaasflatbread met feta, halloumi en mozzarella: https://www.pexels.com/photo/32471481/
+- Freekehsoep met lamsvlees en kardemom: https://www.pexels.com/photo/37275982/
+- Syrische kip-fatteh met krokante pita, rijst en yoghurt-tahinsaus: https://www.pexels.com/photo/38706537/
+- Musakhan-rolletjes met kip, gestoofde ui en sumak: https://www.pexels.com/photo/9181648/
