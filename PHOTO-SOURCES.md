@@ -516,3 +516,7 @@ Het boek bevat geen foto's. Voorbeeldfoto's van een vergelijkbaar gerecht (licen
 - Freekehsoep met lamsvlees en kardemom: https://www.pexels.com/photo/37275982/
 - Syrische kip-fatteh met krokante pita, rijst en yoghurt-tahinsaus: https://www.pexels.com/photo/38706537/
 - Musakhan-rolletjes met kip, gestoofde ui en sumak: https://www.pexels.com/photo/9181648/
+
+## Molto Gusto (Mario Batali)
+
+De 14 recepten met source "Batali" (id 544 t/m 557) tonen de gerechtfoto uit het boek als photos/batali-<id>.webp. Waar de foto twee of drie gerechten toont (544, 545, 549) is het juiste gerecht uitgesneden.

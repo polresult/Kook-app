@@ -15,12 +15,18 @@
    "title": "Quick and Easy Middle Eastern Cooking",
    "author": "Melissa Loveland",
    "basePersons": "per recept (4 tot 8)"
+  },
+  "Batali": {
+   "title": "Molto Gusto",
+   "author": "Mario Batali en Mark Ladner",
+   "basePersons": 6
   }
  },
  "skipped": {
   "Bekkari": "ontbijt, snacks, drankjes en desserts; Lenterolletjes (rijstpapierrolletjes bestaan al), Salade watermeloen-berloumi (343), Groentelasagne (243), Lamsköfte (40), Thaise mosselen (432), Pasta alla Norma (108), Nasi goreng (77), Japanse groentepannenkoek (okonomiyaki 155), Kipfilet rozemarijn-citroen (220), Oosterse zalm (48)",
   "24Kitchen": "bewerkelijke of lange gerechten (kreeft, hert, kwartel, bouillabaisse, konijn, ossobuco, rendang, bapao, spareribs, Latijns-Amerikaanse feestgerechten, desserts); Amatriciana (101), Puttanesca (110), Vongole (116), Caponata (415), Babi ketjap (79), Butter chicken (137), Kipsaté (80), Merluzzo in tomatensaus (23), Bolognese (99), Lasagne (102), Tomatensoep (83)",
-  "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235)"
+  "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235)",
+  "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen"
  },
  "recipes": [
   {
@@ -4728,6 +4734,828 @@
     "Verwarm de oven voor op 180 graden. Snijd elk brood in 4 stukken, bestrijk één kant met olijfolie en draai om. Leg op elk stuk een flinke eetlepel vulling en wat pijnboompitten, rol strak op en vouw de uiteinden in.",
     "Leg de rolletjes op een bakplaat met bakpapier en bak ze goudbruin en krokant; keer halverwege. Serveer warm met yoghurt."
    ]
+  },
+  {
+   "id": 544,
+   "name": "Spaghetti aglio, olio e peperoncino",
+   "type": "Vegetarisch",
+   "time": 15,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 164",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "spaghetti",
+     "450",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "6",
+     "el"
+    ],
+    [
+     "knoflook",
+     "10",
+     "teen"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "0.5",
+     "bosje"
+    ],
+    [
+     "Parmezaanse kaas",
+     "60",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan water aan de kook en voeg pas daarna flink zout toe.",
+    "Verwarm intussen de olijfolie met de knoflook in dunne plakjes in een tweede grote pan op middelhoog vuur tot de knoflook net lichtbruin begint te kleuren, 2 tot 3 minuten. Roer de chilivlokken en de fijngehakte peterselie erdoor en haal de pan van het vuur.",
+    "Kook de spaghetti net al dente en giet af; bewaar een half kopje kookwater.",
+    "Zet de knoflookolie terug op middelhoog vuur, voeg de pasta en een scheut kookwater toe en schep alles om tot elke sliert glanst. Voeg zo nodig nog wat kookwater toe.",
+    "Serveer direct, met geraspte Parmezaan erbij."
+   ],
+   "photo": "photos/batali-544.webp"
+  },
+  {
+   "id": 545,
+   "name": "Spaghetti alla gricia met pancetta, rode ui en zwarte peper",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 175",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "spaghetti",
+     "450",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "4",
+     "el"
+    ],
+    [
+     "guanciale of pancetta",
+     "115",
+     "g"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "grof gemalen zwarte peper",
+     "1",
+     "el"
+    ],
+    [
+     "Parmezaanse kaas",
+     "45",
+     "g"
+    ],
+    [
+     "pecorino romano",
+     "45",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "0.5",
+     "bosje"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan water aan de kook en voeg zout toe.",
+    "Doe de olijfolie, de guanciale in reepjes en de rode ui in dunne partjes in een tweede grote pan. Bak op middelhoog vuur, al roerend, tot het vlees lichtbruin is en de ui zacht, ongeveer 7 minuten. Roer de peper erdoor en haal van het vuur.",
+    "Kook de spaghetti net al dente en giet af; bewaar een half kopje kookwater.",
+    "Voeg de pasta en een scheut kookwater toe aan het spek en schep om op middelhoog vuur tot de pasta goed bedekt is. Voeg zo nodig nog wat kookwater toe.",
+    "Roer de geraspte kazen en de grof gehakte peterselie erdoor en serveer direct met extra Parmezaan."
+   ],
+   "photo": "photos/batali-545.webp"
+  },
+  {
+   "id": 546,
+   "name": "Spaghetti con le sarde met venkel, sinaasappel en broodkruim",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 177",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "sardines in olie (blik)",
+     "170",
+     "g"
+    ],
+    [
+     "venkelknol",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie extra vergine",
+     "6",
+     "el"
+    ],
+    [
+     "venkelzaad",
+     "1",
+     "el"
+    ],
+    [
+     "spaghetti",
+     "450",
+     "g"
+    ],
+    [
+     "sinaasappel (bio)",
+     "1",
+     "stuk"
+    ],
+    [
+     "grof vers broodkruim",
+     "40",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Bak het broodkruim in een scheut olijfolie goudbruin en knapperig en zet apart.",
+    "Snijd de venkel in kleine blokjes en hak een paar eetlepels van het venkelgroen fijn voor de garnering. Hak de uitgelekte sardines grof. Breng een grote pan water aan de kook en voeg zout toe.",
+    "Verhit 4 eetlepels olijfolie in een tweede grote pan, rooster het venkelzaad een minuut tot het geurt, voeg de venkelblokjes toe en bak 5 minuten zacht. Voeg de sardines toe, warm 1 tot 2 minuten mee en haal van het vuur.",
+    "Kook de spaghetti net al dente en giet af; bewaar een half kopje kookwater. Schep de pasta met een scheut kookwater door de sardinesaus op middelhoog vuur.",
+    "Roer de rest van de olijfolie, de helft van het venkelgroen, de helft van de geraspte sinaasappelschil en de helft van het broodkruim erdoor. Strooi de rest erover en serveer direct."
+   ],
+   "photo": "photos/batali-546.webp"
+  },
+  {
+   "id": 547,
+   "name": "Linguine met mosselen, saffraan en halfgedroogde tomaatjes",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 191 (met halfgedroogde tomaatjes uit pot in plaats van zelf in de oven gedroogde)",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "linguine",
+     "450",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "5",
+     "el"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "el"
+    ],
+    [
+     "droge witte wijn",
+     "80",
+     "ml"
+    ],
+    [
+     "mosselen",
+     "900",
+     "g"
+    ],
+    [
+     "halfgedroogde tomaatjes",
+     "150",
+     "g"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan water aan de kook en voeg zout toe. Spoel de mosselen en gooi open exemplaren die niet sluiten weg.",
+    "Verwarm de olijfolie met de knoflook in plakjes in een tweede grote pan op middelhoog vuur tot de knoflook zacht is, ongeveer 1 minuut. Voeg de chilivlokken, de wijn en de mosselen toe, doe het deksel erop en stoom tot de mosselen opengaan, ongeveer 4 minuten. Schep de mosselen eruit zodra ze open zijn.",
+    "Roer de gehalveerde tomaatjes en de saffraan door het mosselvocht en haal de pan van het vuur.",
+    "Kook de linguine net al dente en giet af; bewaar een kopje kookwater. Schep de pasta met een flinke scheut kookwater door het mosselvocht op middelhoog vuur tot alles goed gemengd is.",
+    "Voeg de mosselen weer toe, schep voorzichtig om tot ze warm zijn en serveer direct."
+   ],
+   "photo": "photos/batali-547.webp"
+  },
+  {
+   "id": 548,
+   "name": "Penne all'arrabbiata",
+   "type": "Vegetarisch",
+   "time": 20,
+   "emoji": "🌶️",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 198",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "penne",
+     "450",
+     "g"
+    ],
+    [
+     "tomatenpuree",
+     "4",
+     "el"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "el"
+    ],
+    [
+     "passata",
+     "360",
+     "ml"
+    ],
+    [
+     "olijfolie extra vergine",
+     "4",
+     "el"
+    ],
+    [
+     "Parmezaanse kaas",
+     "60",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Laat de passata in een steelpan zachtjes inkoken tot ongeveer de helft. Breng intussen een grote pan water aan de kook en voeg zout toe.",
+    "Verwarm de tomatenpuree met de chilivlokken in een grote pan op laag vuur tot het geurt. Roer de ingekookte passata erdoor en haal van het vuur.",
+    "Kook de penne net al dente en giet af; bewaar driekwart kopje kookwater.",
+    "Schep de pasta met het kookwater door de saus op middelhoog vuur tot alles goed bedekt is. Breng op smaak met zout en roer de olijfolie erdoor.",
+    "Serveer direct, met geraspte Parmezaan erbij."
+   ],
+   "photo": "photos/batali-548.webp"
+  },
+  {
+   "id": 549,
+   "name": "Pennette met walnotenpesto",
+   "type": "Vegetarisch",
+   "time": 20,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 207–209",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "pennette",
+     "450",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "walnoten",
+     "100",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "4",
+     "el"
+    ],
+    [
+     "Parmezaanse kaas",
+     "60",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Rooster de walnoten kort in een droge pan tot ze geuren en laat afkoelen. Houd een handje apart voor de garnering.",
+    "Hak de knoflook fijn in de keukenmachine, voeg de walnoten toe en maal ze fijn, maar niet tot een pasta. Laat de olijfolie er al draaiend in lopen en roer de helft van de Parmezaan erdoor.",
+    "Kook de pennette in ruim gezouten water net al dente en giet af; bewaar een half kopje kookwater.",
+    "Schep de pasta in een schaal om met de pesto en een scheut kookwater tot alles glanzend bedekt is.",
+    "Strooi de achtergehouden walnoten erover en serveer met de rest van de Parmezaan."
+   ],
+   "photo": "photos/batali-549.webp"
+  },
+  {
+   "id": 550,
+   "name": "Pennette met bloemkoolragù, rozemarijn en broodkruim",
+   "type": "Vegetarisch",
+   "time": 55,
+   "emoji": "🥦",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 211",
+   "basePersons": 6,
+   "timeNote": "Ragù circa 45 min zacht stoven; kan 3 dagen vooruit",
+   "season": "herfst",
+   "ingredients": [
+    [
+     "bloemkool",
+     "900",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "4",
+     "el"
+    ],
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "chilivlokken",
+     "1.5",
+     "tl"
+    ],
+    [
+     "roomboter",
+     "85",
+     "g"
+    ],
+    [
+     "pennette",
+     "450",
+     "g"
+    ],
+    [
+     "Parmezaanse kaas",
+     "70",
+     "g"
+    ],
+    [
+     "grof vers broodkruim",
+     "40",
+     "g"
+    ],
+    [
+     "verse rozemarijn",
+     "1",
+     "takje"
+    ]
+   ],
+   "steps": [
+    "Halveer de bloemkool. Snijd de roosjes hapklaar en hak de kern, stelen en blaadjes fijn.",
+    "Stoof de olie, de gesnipperde ui, de geplette knoflook en de gehakte kern, stelen en blaadjes met wat zout 3 minuten op middelhoog vuur. Zet het vuur laag en stoof 18 tot 20 minuten tot de blaadjes zacht zijn.",
+    "Voeg de roosjes, de chilivlokken en 250 ml water toe, doe het deksel erop en laat 22 tot 25 minuten zachtjes koken tot de bloemkool bijna uit elkaar valt. Roer de boter erdoor en breng op smaak met zout.",
+    "Bak het broodkruim goudbruin in een scheut olijfolie. Kook de pennette net al dente en bewaar wat kookwater.",
+    "Schep de pasta met een scheut kookwater door de ragù en roer de Parmezaan erdoor. Strooi broodkruim en fijngehakte rozemarijn erover en serveer met extra kaas."
+   ],
+   "photo": "photos/batali-550.webp"
+  },
+  {
+   "id": 551,
+   "name": "Pennette met gebakken courgette, munt en opgeklopte ricotta",
+   "type": "Vegetarisch",
+   "time": 25,
+   "emoji": "🥒",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 213",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "verse ricotta",
+     "250",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "6",
+     "el"
+    ],
+    [
+     "Parmezaanse kaas",
+     "45",
+     "g"
+    ],
+    [
+     "courgette",
+     "450",
+     "g"
+    ],
+    [
+     "pennette rigate",
+     "450",
+     "g"
+    ],
+    [
+     "verse munt",
+     "0.5",
+     "bosje"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan water aan de kook en voeg zout toe.",
+    "Klop de ricotta met 3 eetlepels olijfolie en de geraspte Parmezaan glad. Klop er 2 tot 3 eetlepels warm water door tot het luchtig en smeuïg is.",
+    "Halveer de courgettes in de lengte en snijd in halve maantjes. Bak ze in de rest van de olijfolie op middelhoog vuur 4 tot 5 minuten goudbruin en net gaar. Breng op smaak met zout.",
+    "Kook de pasta net al dente en giet af; bewaar een derde kopje kookwater. Schep de pasta met het kookwater door de courgette, doe het deksel erop en laat 2 minuten op laag vuur samen garen.",
+    "Roer de grof gehakte munt erdoor, breng op smaak met zout en grove peper en schep in een schaal. Leg er lepels opgeklopte ricotta op en serveer met extra Parmezaan."
+   ],
+   "photo": "photos/batali-551.webp"
+  },
+  {
+   "id": 552,
+   "name": "Pennette met snijbietragù en krokant broodkruim",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🥬",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 215",
+   "basePersons": 6,
+   "timeNote": "Ragù circa 25 min stoven; kan 2 dagen vooruit",
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "4",
+     "el"
+    ],
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "snijbiet",
+     "450",
+     "g"
+    ],
+    [
+     "roomboter",
+     "55",
+     "g"
+    ],
+    [
+     "pennette",
+     "450",
+     "g"
+    ],
+    [
+     "Parmezaanse kaas",
+     "70",
+     "g"
+    ],
+    [
+     "grof vers broodkruim",
+     "40",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Doe de olie, de ui in halve ringen, de geplette knoflook en de snijbiet in reepjes in een grote pan en stoof 5 minuten op middelhoog vuur tot alles begint te slinken. Breng op smaak met zout.",
+    "Voeg 60 ml water toe, doe het deksel erop en laat op laag vuur ongeveer 20 minuten stoven tot de snijbiet heel zacht is. Roer de boter erdoor en breng op smaak met peper.",
+    "Bak het broodkruim goudbruin in een scheut olijfolie.",
+    "Kook de pennette in ruim gezouten water net al dente; bewaar een half kopje kookwater. Schep de pasta met een scheut kookwater door de ragù en roer de Parmezaan erdoor.",
+    "Strooi het broodkruim erover en serveer met extra Parmezaan."
+   ],
+   "photo": "photos/batali-552.webp"
+  },
+  {
+   "id": 553,
+   "name": "Penne primavera met asperges, erwten, tuinbonen en paddenstoelen",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🌿",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 217 (met kastanjechampignons in plaats van morieljes)",
+   "basePersons": 6,
+   "season": "lente",
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "6",
+     "el"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "wortel",
+     "2",
+     "stuk"
+    ],
+    [
+     "kastanjechampignons",
+     "115",
+     "g"
+    ],
+    [
+     "groene asperges",
+     "225",
+     "g"
+    ],
+    [
+     "doperwten (diepvries)",
+     "150",
+     "g"
+    ],
+    [
+     "tuinbonen (gedopt)",
+     "150",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "4",
+     "stuk"
+    ],
+    [
+     "penne rigate",
+     "450",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "0.25",
+     "bosje"
+    ],
+    [
+     "verse basilicum",
+     "0.25",
+     "bosje"
+    ],
+    [
+     "verse munt",
+     "0.25",
+     "bosje"
+    ],
+    [
+     "Parmezaanse kaas",
+     "60",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verhit 4 eetlepels olie op middelhoog vuur en bak de knoflook in plakjes kort tot hij net kleurt. Voeg de wortel in halve plakjes toe en bak 4 minuten op middelhoog vuur. Voeg de champignons in plakjes toe en bak 3 minuten.",
+    "Snijd de asperges schuin in stukjes en houd de kopjes apart. Bak de stukjes 2 minuten mee, voeg dan de kopjes, erwten, tuinbonen en het wit van de lente-ui toe, breng op smaak met zout en peper en bak nog 2 minuten tot alles net gaar is.",
+    "Kook de penne in ruim gezouten water net al dente en giet af; bewaar een half kopje kookwater.",
+    "Schep de pasta met een scheut kookwater door de groenten, doe het deksel erop en laat 2 minuten op laag vuur samen garen. Roer de rest van de olie en de gehakte kruiden erdoor.",
+    "Serveer direct met geraspte Parmezaan."
+   ],
+   "photo": "photos/batali-553.webp"
+  },
+  {
+   "id": 554,
+   "name": "Penne alla papalina met prosciutto, erwten en ei",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 219",
+   "basePersons": 6,
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "6",
+     "el"
+    ],
+    [
+     "prosciutto",
+     "225",
+     "g"
+    ],
+    [
+     "doperwten (diepvries)",
+     "280",
+     "g"
+    ],
+    [
+     "penne rigate",
+     "450",
+     "g"
+    ],
+    [
+     "ei",
+     "4",
+     "stuk"
+    ],
+    [
+     "Parmezaanse kaas",
+     "90",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan water aan de kook en voeg zout toe. Laat de erwten ontdooien.",
+    "Bak de prosciutto in stukjes van 2 cm met 3 eetlepels olie op middelhoog vuur in ongeveer 5 minuten goudbruin. Haal van het vuur en roer de erwten erdoor.",
+    "Kook de penne net al dente en giet af; bewaar een half kopje kookwater. Klop de eieren los met de rest van de olie en een scheut kookwater.",
+    "Schep de pasta door de prosciutto met erwten op middelhoog vuur. Haal de pan van het vuur, giet het eimengsel erbij en schep stevig om zodat het ei licht bindt maar niet stolt tot roerei. Voeg zo nodig nog wat kookwater toe.",
+    "Roer de geraspte Parmezaan erdoor, breng op smaak met grove peper en serveer met extra kaas."
+   ],
+   "photo": "photos/batali-554.webp"
+  },
+  {
+   "id": 555,
+   "name": "Driebonensalade met sperziebonen, kikkererwten, cannellini en munt",
+   "type": "Vegetarisch",
+   "time": 15,
+   "emoji": "🫘",
+   "cuisine": "Italiaans",
+   "course": "voor",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 134",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "sperziebonen",
+     "450",
+     "g"
+    ],
+    [
+     "kikkererwten (blik)",
+     "400",
+     "g"
+    ],
+    [
+     "cannellinibonen (blik)",
+     "400",
+     "g"
+    ],
+    [
+     "verse munt",
+     "0.5",
+     "bosje"
+    ],
+    [
+     "rodewijnazijn",
+     "2",
+     "el"
+    ],
+    [
+     "bruiswater",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie extra vergine",
+     "4",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Kook de sperziebonen 3 minuten in ruim gezouten water, giet af en spoel koud zodat ze knapperig en groen blijven.",
+    "Klop de azijn, het bruiswater en de olijfolie tot een vinaigrette.",
+    "Meng de sperziebonen met de afgespoelde kikkererwten en cannellini en de grof gehakte munt. Schep de helft van de vinaigrette erdoor en breng op smaak met zout en grove peper.",
+    "Laat de salade eventueel een uur op kamertemperatuur staan voor meer smaak en serveer met de rest van de vinaigrette."
+   ],
+   "photo": "photos/batali-555.webp"
+  },
+  {
+   "id": 556,
+   "name": "Warme salade van geroosterde pompoen en paddenstoelen",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🎃",
+   "cuisine": "Italiaans",
+   "course": "voor",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 145",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "flespompoen",
+     "550",
+     "g"
+    ],
+    [
+     "shiitake",
+     "225",
+     "g"
+    ],
+    [
+     "sjalot",
+     "3",
+     "stuk"
+    ],
+    [
+     "olijfolie extra vergine",
+     "5",
+     "el"
+    ],
+    [
+     "balsamicoazijn",
+     "2",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse rozemarijn",
+     "1",
+     "takje"
+    ],
+    [
+     "kastanjechampignons",
+     "115",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Zet de oven op grillstand. Schil de pompoen en snijd in blokjes van 1 cm. Meng met de shiitake en de sjalot in blokjes en 4 eetlepels olijfolie en breng op smaak met zout en peper.",
+    "Verdeel over een bakplaat en gril 15 tot 20 minuten, af en toe omscheppend, tot de pompoen licht geblakerd en net gaar is. Schep in een schaal.",
+    "Klop de balsamico, het citroensap, de rest van de olijfolie en de fijngehakte rozemarijn tot een dressing.",
+    "Strooi de rauwe kastanjechampignons in dunne plakjes over de warme groenten, schep de dressing erdoor en serveer warm of op kamertemperatuur."
+   ],
+   "photo": "photos/batali-556.webp"
+  },
+  {
+   "id": 557,
+   "name": "Knolselderijsalade met bleekselderij en krokante pancetta",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🥗",
+   "cuisine": "Italiaans",
+   "course": "voor",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 149",
+   "basePersons": 6,
+   "season": "winter",
+   "ingredients": [
+    [
+     "pancetta (dikke plak)",
+     "115",
+     "g"
+    ],
+    [
+     "olijfolie extra vergine",
+     "5",
+     "el"
+    ],
+    [
+     "knolselderij",
+     "450",
+     "g"
+    ],
+    [
+     "bleekselderij (hart)",
+     "4",
+     "stengel"
+    ],
+    [
+     "rodewijnazijn",
+     "1.5",
+     "el"
+    ],
+    [
+     "bruiswater",
+     "1.5",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Snijd de pancetta in blokjes van een halve centimeter en bak ze in 2 eetlepels olijfolie op middelhoog vuur 5 tot 7 minuten krokant.",
+    "Rasp intussen de geschilde knolselderij grof in een grote kom. Voeg de bleekselderij in flinterdunne plakjes en de fijngesneden selderijblaadjes toe.",
+    "Klop de azijn, het bruiswater en de rest van de olijfolie tot een vinaigrette, schep door de salade en breng op smaak met zout en grove peper.",
+    "Giet de warme pancetta met het bakvet over de salade, schep om en serveer direct."
+   ],
+   "photo": "photos/batali-557.webp"
   }
  ]
 }
