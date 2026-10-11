@@ -25,6 +25,11 @@
    "title": "Korean Cooking",
    "author": "Soon Young Chung",
    "basePersons": "2 of 4 (zie sourceRef)"
+  },
+  "Hay": {
+   "title": "New Food Fast",
+   "author": "Donna Hay",
+   "basePersons": "2 of 4 (volgens het boek)"
   }
  },
  "skipped": {
@@ -32,7 +37,8 @@
   "24Kitchen": "bewerkelijke of lange gerechten (kreeft, hert, kwartel, bouillabaisse, konijn, ossobuco, rendang, bapao, spareribs, Latijns-Amerikaanse feestgerechten, desserts); Amatriciana (101), Puttanesca (110), Vongole (116), Caponata (415), Babi ketjap (79), Butter chicken (137), Kipsaté (80), Merluzzo in tomatensaus (23), Bolognese (99), Lasagne (102), Tomatensoep (83)",
   "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235)",
   "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
-  "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was"
+  "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was",
+  "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen"
  },
  "recipes": [
   {
@@ -6420,6 +6426,1489 @@
     "Bak de spiesjes in de olie op hoog vuur 2 minuten per kant. Leg ze op de slablaadjes en serveer met rijst."
    ],
    "photo": "photos/chung-568.webp"
+  },
+  {
+   "id": 569,
+   "name": "Lamsfilet met kweepeerglazuur en groene asperges",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🍖",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 26",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "lamsfilet (rugfilet)",
+     "600",
+     "g"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "kweepeerpasta (membrillo)",
+     "3",
+     "el"
+    ],
+    [
+     "droge witte wijn",
+     "170",
+     "ml"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "groene asperges",
+     "1",
+     "bosje"
+    ],
+    [
+     "zachte blauwe kaas (bijv. gorgonzola dolce)",
+     "120",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwijder vet en zeentjes van het lamsvlees. Verhit de olie in een koekenpan op hoog vuur en schroei het vlees 1 tot 2 minuten per kant bruin. Leg het op een bord.",
+    "Zet het vuur middelhoog. Doe de kweepeerpasta, de wijn en peper in de pan en laat in ongeveer 2 minuten iets indikken tot een glazuur.",
+    "Leg het lamsvlees terug en laat het nog ongeveer 1 minuut per kant in het glazuur garen, of iets langer als je het minder rosé wilt.",
+    "Stoom of kook intussen de asperges in 3 tot 4 minuten beetgaar.",
+    "Snijd het vlees in dikke plakken en serveer met het glazuur, de asperges en een stukje zachte blauwe kaas."
+   ],
+   "photo": "photos/hay-569.webp"
+  },
+  {
+   "id": 570,
+   "name": "Witvis met pijnboompitten-bruine boter en sperziebonen",
+   "type": "Vis",
+   "time": 15,
+   "emoji": "🐟",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 30",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "stevige witvisfilet (kabeljauw of heilbot)",
+     "400",
+     "g"
+    ],
+    [
+     "boter",
+     "100",
+     "g"
+    ],
+    [
+     "citroensap",
+     "2",
+     "el"
+    ],
+    [
+     "pijnboompitten",
+     "3",
+     "el"
+    ],
+    [
+     "sperziebonen",
+     "250",
+     "g"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Kook of stoom de sperziebonen in 5 tot 6 minuten beetgaar. Hak de pijnboompitten grof.",
+    "Smelt de boter in een grote koekenpan op middelhoog vuur en laat hem doorwarmen tot hij lichtbruin kleurt en nootachtig ruikt.",
+    "Voeg het citroensap en de pijnboompitten toe en bak 1 minuut.",
+    "Leg de vis in de pan en bak ongeveer 2 minuten per kant, afhankelijk van de dikte, tot hij net gaar is.",
+    "Leg de vis op de bonen, schep de bruine boter met pijnboompitten erover en serveer met partjes citroen."
+   ],
+   "photo": "photos/hay-570.webp"
+  },
+  {
+   "id": 571,
+   "name": "Tagliatelle met coquilles en citroenboter",
+   "type": "Vis",
+   "time": 15,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 30",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "verse tagliatelle",
+     "220",
+     "g"
+    ],
+    [
+     "boter",
+     "60",
+     "g"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "citroen (schil)",
+     "1",
+     "stuk"
+    ],
+    [
+     "coquilles",
+     "10",
+     "stuk"
+    ],
+    [
+     "kervel of platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de pasta in ruim gezouten water in 4 tot 5 minuten beetgaar.",
+    "Smelt intussen de boter met de olie in een koekenpan op middelhoog vuur. Voeg de fijn geraspte citroenschil en peper toe en bak 1 minuut tot de schil zacht is.",
+    "Dep de coquilles droog en bak ze 20 tot 30 seconden per kant in de citroenboter tot ze net dichtgeschroeid zijn.",
+    "Giet de pasta af en schep de kervel erdoor. Verdeel over borden, leg de coquilles erop en schenk de citroenboter erover. Garnalen of blokjes zalm werken ook goed."
+   ],
+   "photo": "photos/hay-571.webp"
+  },
+  {
+   "id": 572,
+   "name": "Peperbiefstuk met komkommer-sesamsalade en spinazie",
+   "type": "Vlees",
+   "time": 15,
+   "emoji": "🥩",
+   "cuisine": "Aziatisch",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 40",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kogelbiefstuk",
+     "550",
+     "g"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "zwarte peper, grof gemalen",
+     "1",
+     "tl"
+    ],
+    [
+     "jonge spinazie",
+     "150",
+     "g"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "el"
+    ],
+    [
+     "witte wijnazijn",
+     "2",
+     "el"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Bestrijk de biefstuk met olie en bestrooi met de grof gemalen peper.",
+    "Bak het vlees in een gloeiend hete koekenpan of grillpan 1 tot 2 minuten per kant, of tot de gewenste garing. Laat 2 minuten afgedekt rusten.",
+    "Schaaf de komkommer met een dunschiller in lange linten en meng met de fijngesneden lente-ui, de gehakte peterselie, de azijn, de sesamolie en een snuf zout.",
+    "Verdeel de spinazie over de borden, leg de biefstuk in plakken erop en schep de komkommersalade erover."
+   ],
+   "photo": "photos/hay-572.webp"
+  },
+  {
+   "id": 573,
+   "name": "Krokante kip met zout en vijfkruidenpoeder",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍗",
+   "cuisine": "Chinees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 54",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "kippendijen met vel",
+     "400",
+     "g"
+    ],
+    [
+     "citroensap",
+     "2",
+     "el"
+    ],
+    [
+     "chili-olie",
+     "1",
+     "el"
+    ],
+    [
+     "vijfkruidenpoeder",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zeezout",
+     "1",
+     "el"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ],
+    [
+     "paksoi",
+     "2",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Meng de kip met het citroensap, de chili-olie en een snuf vijfkruidenpoeder en laat 5 minuten staan.",
+    "Verwarm de oven voor op 200 °C. Bak de kip met het vel naar beneden in een hete koekenpan 2 minuten per kant tot hij krokant en goudbruin is.",
+    "Leg de kip op een bakplaat en bak hem in 8 tot 10 minuten gaar in de oven.",
+    "Stoom of roerbak intussen de paksoi. Meng het zeezout met de rest van het vijfkruidenpoeder en zet het in schaaltjes op tafel om de kip in te dippen."
+   ],
+   "photo": "photos/hay-573.webp"
+  },
+  {
+   "id": 574,
+   "name": "Geep of makreel met citroen-rijstpilaf",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 58 (garfish vervangen door geep of makreel; pilaf gehalveerd)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "geep of makreelfilet",
+     "4",
+     "stuk"
+    ],
+    [
+     "olie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "langkorrelige rijst",
+     "150",
+     "g"
+    ],
+    [
+     "groente- of kippenbouillon",
+     "375",
+     "ml"
+    ],
+    [
+     "citroensap",
+     "3",
+     "el"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "el"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit 1 eetlepel olie in een pan op middelhoog vuur en fruit de gesnipperde ui 2 minuten. Voeg de rijst toe en roer 1 minuut.",
+    "Schenk de bouillon erbij en laat 10 tot 12 minuten zachtjes koken, tot er gaatjes in de rijst ontstaan en bijna al het vocht is opgenomen. Zet het vuur uit en leg het deksel op de pan.",
+    "Bestrijk de vis met de rest van de olie en bestrooi met zout en peper. Bak hem in een hete koekenpan 2 tot 3 minuten per kant, met het vel eerst, tot het vel krokant is en de vis gaar.",
+    "Roer het citroensap, de gehakte peterselie, peper en zout door de rijst en serveer met de vis."
+   ],
+   "photo": "photos/hay-574.webp"
+  },
+  {
+   "id": 575,
+   "name": "Kip gestoofd in soja en steranijs met paksoi",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🍗",
+   "cuisine": "Chinees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 64",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "kipfilet",
+     "2",
+     "stuk"
+    ],
+    [
+     "sojasaus",
+     "80",
+     "ml"
+    ],
+    [
+     "Shaoxing-rijstwijn of droge sherry",
+     "60",
+     "ml"
+    ],
+    [
+     "oestersaus",
+     "2",
+     "el"
+    ],
+    [
+     "steranijs",
+     "2",
+     "stuk"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "bruine suiker",
+     "2",
+     "el"
+    ],
+    [
+     "paksoi",
+     "2",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst.",
+    "Breng de sojasaus, rijstwijn, oestersaus, steranijs, kaneel en suiker in een koekenpan aan de kook.",
+    "Leg de kipfilets in de saus en laat ze 3 minuten per kant zachtjes koken. Dikke filets hebben iets langer nodig; snijd er een in om te controleren of hij gaar is.",
+    "Voeg de gehalveerde paksoi toe en laat 2 minuten meekoken tot hij net zacht is.",
+    "Serveer de kip en paksoi met de rijst en schep de saus erover."
+   ],
+   "photo": "photos/hay-575.webp"
+  },
+  {
+   "id": 576,
+   "name": "Pasta met rucola, blauwe kaas en walnoten",
+   "type": "Vegetarisch",
+   "time": 20,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 64",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "pasta (vers of gedroogd)",
+     "450",
+     "g"
+    ],
+    [
+     "boter",
+     "30",
+     "g"
+    ],
+    [
+     "walnoten",
+     "50",
+     "g"
+    ],
+    [
+     "appelciderazijn",
+     "2",
+     "el"
+    ],
+    [
+     "bieslook",
+     "3",
+     "el"
+    ],
+    [
+     "rucola",
+     "180",
+     "g"
+    ],
+    [
+     "blauwe kaas",
+     "150",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de pasta beetgaar.",
+    "Smelt intussen de boter in een kleine pan op middelhoog vuur en rooster de walnoten er 2 minuten in tot ze geuren. Voeg de azijn toe.",
+    "Giet de pasta af en schep er de fijngesneden bieslook, de rucola, de blauwe kaas in stukjes, de walnotendressing en peper door.",
+    "Lekker met brood en een tomatensalade met balsamico."
+   ],
+   "photo": "photos/hay-576.webp"
+  },
+  {
+   "id": 577,
+   "name": "Pasta met warme olijven, knoflook en krokant broodkruim",
+   "type": "Vegetarisch",
+   "time": 20,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 72",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "pasta (vers of gedroogd)",
+     "450",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "vers broodkruim",
+     "70",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "verse rozemarijn",
+     "2",
+     "takje"
+    ],
+    [
+     "citroen (schil)",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijven naar keuze",
+     "150",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de pasta beetgaar: verse pasta in 4 tot 5 minuten, gedroogde volgens de verpakking.",
+    "Verhit 2 eetlepels olie in een koekenpan op hoog vuur en bak het broodkruim al roerend 2 tot 3 minuten goudbruin. Haal het uit de pan.",
+    "Veeg de pan schoon, verhit de rest van de olie en bak de knoflook in plakjes 1 minuut lichtgoudbruin. Voeg de rozemarijnnaaldjes, de fijn geraspte citroenschil, de olijven en peper toe en verwarm 2 tot 3 minuten.",
+    "Schep het olijvenmengsel door de pasta en strooi het broodkruim erover. Lekker met een groene salade."
+   ],
+   "photo": "photos/hay-577.webp"
+  },
+  {
+   "id": 578,
+   "name": "Tabouleh met rucola, kip en pijnboompitten",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🥗",
+   "cuisine": "Midden-Oosters",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 90",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "fijne bulgur",
+     "135",
+     "g"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "kipfilet",
+     "3",
+     "stuk"
+    ],
+    [
+     "rucola",
+     "250",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "munt",
+     "1",
+     "bosje"
+    ],
+    [
+     "cherrytomaten",
+     "200",
+     "g"
+    ],
+    [
+     "pijnboompitten",
+     "80",
+     "g"
+    ],
+    [
+     "citroensap",
+     "3",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Overgiet de bulgur met 375 ml kokend water en laat 10 tot 15 minuten wellen tot hij zacht is. Giet eventueel overgebleven water af.",
+    "Bak de kip in de olie op middelhoog vuur ongeveer 5 minuten per kant tot hij gaar is en laat iets afkoelen. Rooster de pijnboompitten in een droge pan goudbruin.",
+    "Meng de bulgur met de rucola, de gehakte peterselie en munt, de gekwartierde tomaatjes en de pijnboompitten.",
+    "Snijd de kip in plakjes, voeg toe en meng met citroensap, olijfolie, peper en zout. Serveer met partjes citroen."
+   ],
+   "photo": "photos/hay-578.webp"
+  },
+  {
+   "id": 579,
+   "name": "Maïskoekjes met prosciutto, spinazie en halfgedroogde tomaatjes",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🌽",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 98",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "maïskolf (of 300 g maïs uit blik)",
+     "2",
+     "stuk"
+    ],
+    [
+     "zelfrijzend bakmeel",
+     "125",
+     "g"
+    ],
+    [
+     "ei",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "bakpoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "jonge spinazie of rucola",
+     "125",
+     "g"
+    ],
+    [
+     "halfgedroogde tomaatjes op olie",
+     "80",
+     "g"
+    ],
+    [
+     "prosciutto",
+     "12",
+     "plak"
+    ],
+    [
+     "olie om te bakken",
+     "2",
+     "el"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de maïskolven in 5 tot 8 minuten gaar en snijd de korrels eraf, of laat maïs uit blik goed uitlekken.",
+    "Draai het bakmeel, de eieren, de koriander, de komijn, het bakpoeder en het zout in een keukenmachine tot een beslag. Voeg de maïs toe en pulseer kort tot de korrels grof gehakt zijn. Is het beslag te stevig, voeg dan een scheutje melk toe.",
+    "Verhit wat olie in een koekenpan en schep er per koekje 2 tot 3 eetlepels beslag in. Bak ze 3 minuten per kant goudbruin. Houd ze warm en bak de rest van het beslag op dezelfde manier.",
+    "Leg op elk bord een maïskoekje en beleg met spinazie, tomaatjes en prosciutto. Besprenkel met wat olie van de tomaatjes en peper en dek af met een tweede koekje."
+   ],
+   "photo": "photos/hay-579.webp"
+  },
+  {
+   "id": 580,
+   "name": "Udonsoep met miso en gegrilde kip",
+   "type": "Vlees",
+   "time": 15,
+   "emoji": "🍜",
+   "cuisine": "Japans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 54",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "kippenbouillon",
+     "750",
+     "ml"
+    ],
+    [
+     "miso",
+     "2",
+     "el"
+    ],
+    [
+     "verse udonnoedels",
+     "300",
+     "g"
+    ],
+    [
+     "kipfilet",
+     "2",
+     "stuk"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "enoki of shiitake",
+     "80",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Breng de bouillon met de miso aan de kook, draai het vuur laag en voeg de udon toe.",
+    "Snijd de kip in plakken, bestrijk met olie en bak ze in een hete grillpan 1 tot 2 minuten per kant tot ze gaar zijn.",
+    "Voeg de lente-ui in ringetjes en de paddenstoelen toe aan de soep en schep in kommen. Leg de kip erop."
+   ],
+   "photo": "photos/hay-580.webp"
+  },
+  {
+   "id": 581,
+   "name": "Tomatensoep met spek, prei en tuinbonen",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍲",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 64",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olie",
+     "2",
+     "tl"
+    ],
+    [
+     "prei",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse rozemarijn",
+     "2",
+     "takje"
+    ],
+    [
+     "ontbijtspek",
+     "6",
+     "plak"
+    ],
+    [
+     "gepelde tomaten uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "rode wijn",
+     "250",
+     "ml"
+    ],
+    [
+     "runderbouillon",
+     "500",
+     "ml"
+    ],
+    [
+     "tuinbonen (diepvries)",
+     "225",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "brood",
+     "4",
+     "snee"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een grote pan op middelhoog vuur. Bak de prei in ringen, de rozemarijnnaaldjes en het spek in reepjes 5 minuten tot de prei zacht is.",
+    "Voeg de licht geprakte tomaten, de wijn en de bouillon toe en laat 8 minuten zachtjes koken.",
+    "Voeg de tuinbonen toe en kook 5 minuten tot ze zacht zijn. Breng op smaak met peper en zout en serveer met brood."
+   ],
+   "photo": "photos/hay-581.webp"
+  },
+  {
+   "id": 582,
+   "name": "Poussins met kweepeer en prosciutto op geroosterde prei",
+   "type": "Vlees",
+   "time": 40,
+   "emoji": "🍗",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 90",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "poussin",
+     "4",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "4",
+     "stuk"
+    ],
+    [
+     "venkelzaad",
+     "2",
+     "tl"
+    ],
+    [
+     "kweepeerpasta (membrillo)",
+     "30",
+     "g"
+    ],
+    [
+     "prosciutto",
+     "16",
+     "plak"
+    ],
+    [
+     "prei",
+     "4",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "droge witte wijn",
+     "250",
+     "ml"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 240 °C. Leg in elke poussin een laurierblad en wat venkelzaad en bind de pootjes samen met keukentouw.",
+    "Smeer de kweepeerpasta over de borst en wikkel de prosciutto om de poussins. Stop de uiteinden eronder.",
+    "Halveer de prei in de lengte, leg hem in een ovenschaal, besprenkel met olie, zout en peper en giet de wijn erbij. Leg de poussins erop.",
+    "Rooster 20 tot 30 minuten, afhankelijk van de grootte, tot de kip gaar is en het vocht bij de dij helder is. Serveer met de prei en een groene salade."
+   ],
+   "photo": "photos/hay-582.webp"
+  },
+  {
+   "id": 583,
+   "name": "Kip met parmezaankorst op tomaat en basilicum",
+   "type": "Vlees",
+   "time": 15,
+   "emoji": "🍗",
+   "cuisine": "Italiaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 67",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "kipfilet",
+     "2",
+     "stuk"
+    ],
+    [
+     "eiwit",
+     "2",
+     "stuk"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "100",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "olie",
+     "2",
+     "el"
+    ],
+    [
+     "rijpe tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "basilicum",
+     "1",
+     "handvol"
+    ],
+    [
+     "balsamicoazijn",
+     "1",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Snijd elke kipfilet horizontaal door tot twee dunne lapjes.",
+    "Klop het eiwit los. Haal de kip door het eiwit en druk hem stevig in de parmezaan gemengd met peper.",
+    "Bak de kip in de olie op middelhoog vuur 1 tot 2 minuten per kant tot hij goudbruin en gaar is.",
+    "Leg plakken tomaat en basilicum op de borden, besprenkel met balsamico en olijfolie en leg de kip erop. Serveer met partjes citroen en brood."
+   ],
+   "photo": "photos/hay-583.webp"
+  },
+  {
+   "id": 584,
+   "name": "Knoflooksteak met komijncouscous",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🥩",
+   "cuisine": "Mediterraan",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 67",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "entrecote of lendebiefstuk",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "couscous",
+     "190",
+     "g"
+    ],
+    [
+     "kippenbouillon",
+     "375",
+     "ml"
+    ],
+    [
+     "boter",
+     "30",
+     "g"
+    ],
+    [
+     "komijnzaad",
+     "2",
+     "tl"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "peultjes of sperziebonen",
+     "200",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Overgiet de couscous met de kokende bouillon, dek af en laat 5 minuten wellen.",
+    "Smelt de boter in een koekenpan en bak het komijnzaad 2 minuten. Voeg de couscous, de gehakte koriander, peper en zout toe en verwarm al roerend 1 minuut.",
+    "Druk de knoflook in dunne plakjes in de steaks. Bak ze in hete olie 2 minuten per kant, of tot de gewenste garing.",
+    "Stoom intussen de groente en serveer de steak op de couscous."
+   ],
+   "photo": "photos/hay-584.webp"
+  },
+  {
+   "id": 585,
+   "name": "Mie met sesamkip, miso en paksoi",
+   "type": "Vlees",
+   "time": 20,
+   "emoji": "🍜",
+   "cuisine": "Aziatisch",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 68 (hokkien-noedels vervangen door verse mie)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "verse mie (hokkien of udon)",
+     "500",
+     "g"
+    ],
+    [
+     "sesamolie",
+     "2",
+     "tl"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "kipfilet",
+     "500",
+     "g"
+    ],
+    [
+     "sojasaus",
+     "3",
+     "el"
+    ],
+    [
+     "Shaoxing-rijstwijn of droge sherry",
+     "125",
+     "ml"
+    ],
+    [
+     "witte miso",
+     "2",
+     "el"
+    ],
+    [
+     "paksoi of spinazie",
+     "150",
+     "g"
+    ],
+    [
+     "sesamzaad",
+     "1",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Spoel de noedels onder heet water los en laat uitlekken.",
+    "Verhit de sesamolie in een wok op hoog vuur en bak de gesnipperde ui 2 minuten. Voeg de kip in reepjes toe en roerbak 4 minuten tot hij goed bruin is.",
+    "Voeg sojasaus, rijstwijn, miso, groente en noedels toe en roerbak 4 minuten tot de groente zacht is en de kip gaar.",
+    "Schep in kommen en bestrooi met sesamzaad."
+   ],
+   "photo": "photos/hay-585.webp"
+  },
+  {
+   "id": 586,
+   "name": "Varkenskoteletten in sesamkorst met gember-zoete-aardappelpuree",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🥩",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 68",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "varkenskotelet",
+     "2",
+     "stuk"
+    ],
+    [
+     "sesamzaad",
+     "3",
+     "el"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "zoete aardappel",
+     "400",
+     "g"
+    ],
+    [
+     "verse gember",
+     "3",
+     "cm"
+    ],
+    [
+     "boter",
+     "30",
+     "g"
+    ],
+    [
+     "honing",
+     "1",
+     "el"
+    ],
+    [
+     "melk",
+     "50",
+     "ml"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "broccoli",
+     "250",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de zoete aardappel in stukken met de geraspte gember in 5 tot 7 minuten gaar en giet af.",
+    "Stamp de aardappel met de boter, de honing en zoveel melk dat de puree glad wordt. Roer de gehakte koriander erdoor.",
+    "Druk de koteletten aan beide kanten in het sesamzaad. Bak ze in de olie op middelhoog vuur 2 tot 3 minuten per kant goudbruin en gaar. Dikke koteletten hebben iets langer nodig.",
+    "Stoom de broccoli en serveer alles samen."
+   ],
+   "photo": "photos/hay-586.webp"
+  },
+  {
+   "id": 587,
+   "name": "Harissavis met lauwe krieltjes in kruidenyoghurt",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Marokkaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 74",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "stevige witvisfilet (kabeljauw)",
+     "600",
+     "g"
+    ],
+    [
+     "harissa",
+     "3",
+     "el"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "krieltjes",
+     "500",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "Griekse yoghurt",
+     "125",
+     "ml"
+    ],
+    [
+     "munt",
+     "2",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Halveer de krieltjes en kook ze in ongeveer 15 minuten gaar. Giet af en laat iets afkoelen.",
+    "Bestrijk de vis met de harissa. Bak hem in de olie in een antiaanbakpan op middelhoog vuur 2 tot 3 minuten per kant.",
+    "Meng de geperste knoflook met de yoghurt, de gehakte munt en koriander, peper en zout en schep het door de lauwe aardappels.",
+    "Verdeel de aardappels over de borden en leg de vis erop."
+   ],
+   "photo": "photos/hay-587.webp"
+  },
+  {
+   "id": 588,
+   "name": "Gekruide lamsfilet met couscous en gebakken ui",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🍖",
+   "cuisine": "Midden-Oosters",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 93",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "lamsfilet",
+     "500",
+     "g"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "el"
+    ],
+    [
+     "chilipoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "el"
+    ],
+    [
+     "olie",
+     "3",
+     "el"
+    ],
+    [
+     "couscous",
+     "190",
+     "g"
+    ],
+    [
+     "groente- of kippenbouillon",
+     "310",
+     "ml"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse tijm",
+     "3",
+     "takje"
+    ],
+    [
+     "rucola",
+     "75",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Overgiet de couscous met de kokende bouillon, dek af en laat 5 minuten wellen.",
+    "Bak de ui in ringen met de tijmblaadjes in 2 eetlepels olie op middelhoog vuur in 5 tot 7 minuten goed bruin.",
+    "Meng de komijn, chili en paprikapoeder en wentel het lamsvlees erdoor. Bak het in de rest van de olie op middelhoog vuur 1,5 tot 2 minuten per kant, of naar smaak.",
+    "Schep de couscous bij de uien en verwarm even mee. Snijd het lamsvlees in plakken en serveer met de couscous en rucola."
+   ],
+   "photo": "photos/hay-588.webp"
+  },
+  {
+   "id": 589,
+   "name": "Kip op een rösti van zoete aardappel en Parmezaan",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍗",
+   "cuisine": "Europees",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 93",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kipfilet met vel (of kippendijfilet)",
+     "4",
+     "stuk"
+    ],
+    [
+     "zoete aardappel",
+     "550",
+     "g"
+    ],
+    [
+     "olie",
+     "2",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "50",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "spruitjes of broccoli",
+     "400",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Schil de zoete aardappel en schaaf hem met een dunschiller in dunne linten.",
+    "Meng de linten met de olie, geperste knoflook, parmezaan en peper. Leg ze in platte hoopjes, één per persoon, op een bakplaat met bakpapier en bak 15 minuten.",
+    "Wrijf het vel van de kip in met zout en peper. Bak de kip met het vel naar beneden 4 minuten in een hete koekenpan, keer om en bak nog 1 minuut.",
+    "Leg de kip op de rösti en bak nog 5 tot 10 minuten tot de kip gaar is en de rösti krokant. Serveer met gestoomde groente."
+   ],
+   "photo": "photos/hay-589.webp"
+  },
+  {
+   "id": 590,
+   "name": "Zalm uit de oven met salsa verde",
+   "type": "Vis",
+   "time": 20,
+   "emoji": "🐟",
+   "cuisine": "Italiaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 100",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "zalmfilet",
+     "600",
+     "g"
+    ],
+    [
+     "dille",
+     "1",
+     "handvol"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "dijonmosterd",
+     "1",
+     "el"
+    ],
+    [
+     "ansjovisfilets",
+     "8",
+     "stuk"
+    ],
+    [
+     "kappertjes",
+     "3",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "80",
+     "ml"
+    ],
+    [
+     "citroensap",
+     "2",
+     "el"
+    ],
+    [
+     "paksoi of sperziebonen",
+     "400",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C.",
+    "Draai de dille, peterselie, munt, knoflook, mosterd, ansjovis en kappertjes in een keukenmachine fijn. Voeg de olijfolie en het citroensap toe en draai tot een smeuïge saus.",
+    "Leg de zalm in een ovenschaal en smeer de salsa verde erover. Bak 6 tot 10 minuten, tot de zalm vanbinnen nog net glazig is.",
+    "Serveer met gestoomde groente."
+   ],
+   "photo": "photos/hay-590.webp"
+  },
+  {
+   "id": 591,
+   "name": "Biefstuk in rodewijnsaus met zachte polenta en blauwe kaas",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🥩",
+   "cuisine": "Italiaans",
+   "source": "Hay",
+   "sourceRef": "New Food Fast, p. 100",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "ossenhaasbiefstuk",
+     "4",
+     "stuk"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "rode wijn",
+     "180",
+     "ml"
+    ],
+    [
+     "runderbouillon",
+     "180",
+     "ml"
+    ],
+    [
+     "water",
+     "500",
+     "ml"
+    ],
+    [
+     "melk",
+     "500",
+     "ml"
+    ],
+    [
+     "instantpolenta",
+     "170",
+     "g"
+    ],
+    [
+     "boter",
+     "60",
+     "g"
+    ],
+    [
+     "zachte, pittige blauwe kaas",
+     "150",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Breng water en melk aan de kook. Haal de pan van het vuur en klop de polenta er in een dunne straal door.",
+    "Zet de pan terug op laag vuur en roer 3 minuten tot de polenta zacht en romig is. Roer de boter, peper en zout erdoor en houd warm.",
+    "Bak de biefstukken in de hete olie op middelhoog vuur 3 tot 4 minuten per kant, of naar smaak. Haal ze uit de pan en houd ze afgedekt warm.",
+    "Blus de pan met de wijn en de bouillon en laat inkoken tot de helft.",
+    "Schep de polenta op de borden, leg er blauwe kaas op en serveer met de biefstuk en de saus."
+   ],
+   "photo": "photos/hay-591.webp"
   }
  ]
 }

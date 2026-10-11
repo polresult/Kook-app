@@ -529,3 +529,7 @@ Zeven recepten (560, 561, 562, 563, 564, 566, 568) tonen de gerechtfoto uit het 
 - Bibimmyeon: pittige gemengde noedels met rundvlees en komkommer: https://www.pexels.com/photo/8952543/
 - Dakgaseum gui: gemarineerde kipfilet uit de wok met sla: https://www.pexels.com/photo/24738520/
 - Jeyuk gui: varkenshaas in pittige gochujangmarinade: https://www.pexels.com/photo/5774151/
+
+## New Food Fast (Donna Hay)
+
+Alle 23 recepten (569 tot en met 591) tonen de gerechtfoto uit het boek als photos/hay-<id>.webp (fotografie Petrina Tinslay). Pagina's met twee of vier gerechten zijn bijgesneden tot het juiste gerecht.
