@@ -30,6 +30,11 @@
    "title": "New Food Fast",
    "author": "Donna Hay",
    "basePersons": "2 of 4 (volgens het boek)"
+  },
+  "Ottolenghi": {
+   "title": "Ottolenghi: The Cookbook",
+   "author": "Yotam Ottolenghi en Sami Tamimi",
+   "basePersons": "volgens het boek, voorgerechten omgerekend naar hoofdgerecht (zie sourceRef)"
   }
  },
  "skipped": {
@@ -38,7 +43,8 @@
   "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235)",
   "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
   "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was",
-  "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen"
+  "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen",
+  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186); geen gerechtfoto in het boek: harira, puy-linzen met spek, broccolini met tofu, gehaktballetjes in tahin, harissakip, zalm met paprikasalsa en de twee zeebaarsrecepten"
  },
  "recipes": [
   {
@@ -7909,6 +7915,1065 @@
     "Schep de polenta op de borden, leg er blauwe kaas op en serveer met de biefstuk en de saus."
    ],
    "photo": "photos/hay-591.webp"
+  },
+  {
+   "id": 592,
+   "name": "Bloemkool-komijnbeignets met limoenyoghurt",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🥦",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Cauliflower and cumin fritters with lime yogurt'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "Griekse yoghurt",
+     "300",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "bloemkool (klein)",
+     "320",
+     "g"
+    ],
+    [
+     "bloem",
+     "120",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "3",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "sjalot",
+     "2",
+     "stuk"
+    ],
+    [
+     "ei",
+     "4",
+     "stuk"
+    ],
+    [
+     "gemalen komijn",
+     "1.5",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "1",
+     "tl"
+    ],
+    [
+     "kurkuma",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "tl"
+    ],
+    [
+     "zonnebloemolie om te bakken",
+     "500",
+     "ml"
+    ],
+    [
+     "pitabrood",
+     "4",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Klop voor de limoenyoghurt de yoghurt met de gehakte koriander, de geraspte limoenschil, 2 eetlepels limoensap, de olijfolie, peper en zout. Hij moet fris en zuur smaken. Zet koel weg.",
+    "Verdeel de bloemkool in kleine roosjes en kook ze 15 minuten in gezouten water tot ze heel zacht zijn. Laat uitlekken.",
+    "Klop intussen de bloem, gehakte peterselie, geperste knoflook, fijngesnipperde sjalot, eieren, specerijen, zout en peper tot een glad beslag. Voeg de warme bloemkool toe en prak hem erdoor zodat hij in kleine stukjes uiteenvalt.",
+    "Verhit een laag zonnebloemolie van ongeveer 1,5 cm in een brede pan op hoog vuur. Schep er per beignet ongeveer 3 eetlepels beslag in, met ruimte ertussen, en bak ze in kleine porties 3 tot 4 minuten per kant goudbruin. Houd het vuur in de gaten zodat ze niet verbranden.",
+    "Laat uitlekken op keukenpapier en serveer warm met de limoenyoghurt, eventueel in een warm pitabroodje."
+   ],
+   "photo": "photos/ottolenghi-592.webp"
+  },
+  {
+   "id": 593,
+   "name": "Kikkererwten en spinazie in tomatensaus met zoete aardappel in honing",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🍠",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Chickpeas and spinach with honeyed sweet potato' (kikkererwten uit blik in plaats van zelf geweekt; boek: 6 tot 8 personen)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "zoete aardappel",
+     "500",
+     "g"
+    ],
+    [
+     "water",
+     "700",
+     "ml"
+    ],
+    [
+     "ongezouten boter",
+     "50",
+     "g"
+    ],
+    [
+     "honing",
+     "4",
+     "el"
+    ],
+    [
+     "zout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "5",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "komijnzaad",
+     "1",
+     "tl"
+    ],
+    [
+     "korianderzaad",
+     "1",
+     "tl"
+    ],
+    [
+     "tomatenpuree",
+     "1",
+     "el"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "suiker",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "1.5",
+     "tl"
+    ],
+    [
+     "jonge spinazie",
+     "100",
+     "g"
+    ],
+    [
+     "kikkererwten uit blik (uitgelekt)",
+     "500",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "Griekse yoghurt",
+     "100",
+     "g"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde munt",
+     "1",
+     "tl"
+    ]
+   ],
+   "steps": [
+    "Schil de zoete aardappel en snijd in plakken van 2,5 cm. Leg ze in een brede pan met het water, de boter, de honing en het zout. Breng aan de kook en laat 35 tot 40 minuten zachtjes koken tot ze zacht zijn en het meeste vocht verdampt is. Keer ze halverwege.",
+    "Verhit intussen 2 eetlepels olie in een grote koekenpan en bak de gesnipperde ui met het komijn- en korianderzaad al roerend 8 minuten goudbruin. Roer de tomatenpuree erdoor en bak 1 minuut. Voeg de tomaten, de suiker en de gemalen komijn toe en laat 5 minuten koken. Breng op smaak met peper en zout.",
+    "Roer de spinazie en de kikkererwten door de saus en laat nog 5 minuten pruttelen.",
+    "Klop voor de yoghurtsaus de yoghurt met de geperste knoflook, rasp en sap van de citroen, 3 eetlepels olijfolie, de munt, peper en zout.",
+    "Schep de kikkererwten in een schaal, leg de zoete aardappel erop, strooi de koriander erover en serveer met de yoghurtsaus."
+   ],
+   "photo": "photos/ottolenghi-593.webp"
+  },
+  {
+   "id": 594,
+   "name": "Kosheri: rijst met linzen, vermicelli, gebakken ui en pittige tomatensaus",
+   "type": "Vegetarisch",
+   "time": 60,
+   "emoji": "🍚",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Kosheri'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie",
+     "8",
+     "el"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "rode chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "water",
+     "370",
+     "ml"
+    ],
+    [
+     "appelciderazijn",
+     "4",
+     "el"
+    ],
+    [
+     "zout",
+     "1.5",
+     "el"
+    ],
+    [
+     "gemalen komijn",
+     "2",
+     "tl"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "groene linzen",
+     "300",
+     "g"
+    ],
+    [
+     "basmatirijst",
+     "200",
+     "g"
+    ],
+    [
+     "ongezouten boter",
+     "40",
+     "g"
+    ],
+    [
+     "vermicelli",
+     "50",
+     "g"
+    ],
+    [
+     "groentebouillon",
+     "400",
+     "ml"
+    ],
+    [
+     "nootmuskaat",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Maak de saus: verhit 4 eetlepels olie en bak de knoflook en de fijngehakte chilipeper 2 minuten. Voeg de tomaten, het water, de azijn, 1 eetlepel zout en de komijn toe, breng aan de kook en laat 20 minuten zachtjes koken tot de saus iets ingedikt is. Roer de gehakte koriander erdoor en proef.",
+    "Spoel de linzen, breng ze aan de kook in ruim water en kook ze in 25 minuten gaar maar niet papperig. Giet af.",
+    "Spoel de rijst en laat uitlekken. Smelt de boter in een pan op middelhoog vuur en bak de vermicelli in stukjes van 4 cm al roerend goudbruin. Roer de rijst erdoor, voeg de bouillon, nootmuskaat, kaneel, de rest van het zout en peper toe en breng aan de kook. Leg het deksel erop en laat 12 minuten op het laagste vuur garen. Zet het vuur uit, leg een schone theedoek onder het deksel en laat 5 minuten staan.",
+    "Bak intussen de uien in dunne halve ringen in de rest van de olie op middelhoog vuur in ongeveer 20 minuten donkerbruin. Laat uitlekken op keukenpapier.",
+    "Maak de rijst los met een vork en schep de linzen en het grootste deel van de uien erdoor. Proef, schep hoog op een schaal, leg de rest van de uien erop en serveer met de tomatensaus."
+   ],
+   "photo": "photos/ottolenghi-594.webp"
+  },
+  {
+   "id": 595,
+   "name": "Gemarineerd lamsrack met koriander, munt en honing",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍖",
+   "cuisine": "Europees",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Marinated rack of lamb with cilantro and honey'",
+   "basePersons": 4,
+   "timeNote": "Vlees een nacht marineren; daarna 35 min",
+   "ingredients": [
+    [
+     "lamsrack (gefrenched)",
+     "1000",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "munt",
+     "1",
+     "bosje"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "3",
+     "cm"
+    ],
+    [
+     "rode chilipeper",
+     "3",
+     "stuk"
+    ],
+    [
+     "zout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "citroensap",
+     "50",
+     "ml"
+    ],
+    [
+     "sojasaus",
+     "60",
+     "ml"
+    ],
+    [
+     "zonnebloemolie",
+     "120",
+     "ml"
+    ],
+    [
+     "honing",
+     "3",
+     "el"
+    ],
+    [
+     "rodewijnazijn",
+     "2",
+     "el"
+    ],
+    [
+     "water",
+     "4",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Snijd overtollig vet van het lamsvlees weg en laat een dun laagje zitten. Snijd het rack in stukken van 2 of 3 koteletjes en leg ze in een niet-metalen schaal.",
+    "Draai de kruiden met steeltjes en alle overige ingrediënten in een blender of keukenmachine tot een marinade. Giet die over het vlees, zorg dat alles bedekt is en laat een nacht in de koelkast marineren.",
+    "Verwarm de oven voor op 200 °C. Verhit een grillpan of zware koekenpan flink. Haal het vlees uit de marinade, schud het overtollige eraf en schroei het rondom in ongeveer 5 minuten bruin.",
+    "Leg het vlees op een bakplaat en gaar het ongeveer 15 minuten in de oven, afhankelijk van de dikte en hoe rosé je het wilt.",
+    "Breng intussen de marinade aan de kook en laat 5 minuten zachtjes koken. Serveer de koteletjes met de saus apart. Warm en op kamertemperatuur zijn ze allebei lekker."
+   ],
+   "photo": "photos/ottolenghi-595.webp"
+  },
+  {
+   "id": 596,
+   "name": "Lamskoteletjes met salade van vijgen, walnoten en geitenkaas",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍖",
+   "cuisine": "Mediterraan",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Lamb rib chops with walnut, fig, and goat cheese salad'",
+   "basePersons": 4,
+   "season": "herfst",
+   "timeNote": "Vlees minstens 4 uur marineren",
+   "ingredients": [
+    [
+     "lamskoteletjes",
+     "12",
+     "stuk"
+    ],
+    [
+     "verse tijm",
+     "6",
+     "takje"
+    ],
+    [
+     "verse rozemarijn",
+     "1",
+     "takje"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "olijfolie",
+     "8",
+     "el"
+    ],
+    [
+     "sinaasappelsap",
+     "125",
+     "ml"
+    ],
+    [
+     "rodewijnazijn",
+     "60",
+     "ml"
+    ],
+    [
+     "honing",
+     "2.5",
+     "el"
+    ],
+    [
+     "steranijs",
+     "1",
+     "stuk"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "walnoten",
+     "50",
+     "g"
+    ],
+    [
+     "zachte geitenkaas",
+     "100",
+     "g"
+    ],
+    [
+     "munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "verse vijgen",
+     "4",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Hak de tijm- en rozemarijnblaadjes grof en meng met de geperste knoflook en 6 eetlepels olie. Masseer dit in de koteletjes en laat ze minstens 4 uur of een nacht afgedekt in de koelkast marineren.",
+    "Breng het sinaasappelsap, de azijn, honing, steranijs en kaneel aan de kook en laat 30 tot 40 minuten zachtjes inkoken tot een derde. Houd warm.",
+    "Rooster de walnoten 5 minuten in een droge pan en laat afkoelen.",
+    "Verhit een grillpan tot hij gloeiend heet is. Bestrooi de koteletjes met zout en peper en gril ze 3 tot 4 minuten per kant voor rosé vlees, of langer naar smaak. Laat 2 minuten rusten.",
+    "Meng intussen voorzichtig de walnoten, verkruimelde geitenkaas, munt, peterselie, 2 eetlepels olie, zout en peper. Leg de koteletjes op borden met de salade en de gehalveerde vijgen en druppel er wat saus over."
+   ],
+   "photo": "photos/ottolenghi-596.webp"
+  },
+  {
+   "id": 597,
+   "name": "Kip uit de oven met saffraan, hazelnoten en honing",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍗",
+   "cuisine": "Marokkaans",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Roast chicken with saffron, hazelnuts, and honey'",
+   "basePersons": 4,
+   "timeNote": "Kip minstens 1 uur marineren",
+   "ingredients": [
+    [
+     "hele kip, in vier stukken (of 4 kippenbouten)",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "gemalen gember",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "1",
+     "tl"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "water",
+     "4",
+     "el"
+    ],
+    [
+     "grof zeezout",
+     "2",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "tl"
+    ],
+    [
+     "hazelnoten met vlies",
+     "100",
+     "g"
+    ],
+    [
+     "honing",
+     "3.5",
+     "el"
+    ],
+    [
+     "rozenwater",
+     "2",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "couscous",
+     "250",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Meng de kip in een grote kom met de grof gehakte uien, de olie, gember, kaneel, saffraan, het citroensap, water, zout en peper. Laat minstens 1 uur, of een nacht in de koelkast, marineren.",
+    "Verwarm de oven voor op 190 °C. Rooster de hazelnoten 10 minuten op een bakplaat tot ze lichtbruin zijn en hak ze grof.",
+    "Leg de kip met de marinade en uien in een ruime ovenschaal, met het vel naar boven, en rooster ongeveer 35 minuten.",
+    "Meng de honing, het rozenwater en de noten tot een grove pasta. Smeer dit over de stukken kip en zet ze nog 5 tot 10 minuten in de oven tot de kip gaar is en de noten goudbruin zijn.",
+    "Bereid intussen de couscous volgens de verpakking. Leg de kip op een schaal, strooi de lente-ui erover en serveer met de couscous."
+   ],
+   "photo": "photos/ottolenghi-597.webp"
+  },
+  {
+   "id": 598,
+   "name": "Kalkoengehaktballetjes met maïs en geroosterde-paprikasaus",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🧆",
+   "cuisine": "Europees",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Turkey and corn meatballs with roasted pepper sauce'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "rode paprika",
+     "4",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "zout",
+     "2.5",
+     "tl"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "milde chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "zoete chilisaus",
+     "2",
+     "el"
+    ],
+    [
+     "appelciderazijn",
+     "2",
+     "el"
+    ],
+    [
+     "maïskorrels (vers of diepvries)",
+     "100",
+     "g"
+    ],
+    [
+     "oud wit brood zonder korst",
+     "3",
+     "snee"
+    ],
+    [
+     "kalkoengehakt",
+     "500",
+     "g"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "lente-ui",
+     "4",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "el"
+    ],
+    [
+     "gemalen komijn",
+     "2.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zonnebloemolie om te bakken",
+     "100",
+     "ml"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Kwartier de paprika's, verwijder zaadjes en zaadlijsten, hussel ze met 2 eetlepels olie en een halve theelepel zout en rooster ze 35 minuten tot ze zacht zijn. Dek af en laat iets afkoelen; ontvellen mag, maar hoeft niet.",
+    "Pureer de paprika's met het braadvocht, de rest van de olie, een halve theelepel zout, de koriander met steeltjes, 1 teen knoflook, de chilipeper zonder zaadjes, de zoete chilisaus en de azijn tot een gladde saus.",
+    "Rooster de maïs 2 tot 3 minuten in een droge, hete koekenpan tot hij hier en daar zwart wordt en laat afkoelen.",
+    "Week het brood 1 minuut in koud water, knijp goed uit en verkruimel het in een kom. Voeg het gehakt, ei, de fijngesneden lente-ui, peterselie, komijn, de rest van het zout, peper, de andere teen knoflook geperst en de maïs toe en kneed goed.",
+    "Verhit een laag zonnebloemolie van een halve centimeter in de koekenpan. Vorm met natte handen balletjes ter grootte van een golfbal en bak ze in porties rondom goudbruin. Leg ze op een bakplaat en gaar ze nog 5 minuten in de oven. Serveer warm met de paprikasaus."
+   ],
+   "photo": "photos/ottolenghi-598.webp"
+  },
+  {
+   "id": 599,
+   "name": "Makreel met salsa van groene olijven, bleekselderij en rozijnen",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Broiled mackerel with green olive, celery, and raisin salsa'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "bleekselderij",
+     "125",
+     "g"
+    ],
+    [
+     "groene olijven zonder pit",
+     "60",
+     "g"
+    ],
+    [
+     "kappertjes",
+     "3",
+     "el"
+    ],
+    [
+     "rozijnen (blonde en donkere)",
+     "70",
+     "g"
+    ],
+    [
+     "sherryazijn",
+     "1.5",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "6",
+     "el"
+    ],
+    [
+     "honing",
+     "3",
+     "el"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "makreelfilet",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "brood of krieltjes",
+     "4",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Week de rozijnen een paar minuten in heet water en laat uitlekken.",
+    "Meng de selderij in dunne plakjes, de olijven in ringetjes, de kappertjes, rozijnen, azijn, 4 eetlepels olie, honing en de gehakte peterselie. Proef: de salsa moet zoet, zuur en zout tegelijk zijn. Breng op smaak met peper en zout en laat minstens 15 minuten staan.",
+    "Verwarm de grill van de oven voor. Hussel de makreelfilets voorzichtig met 2 eetlepels olie, zout en peper en leg ze met het vel naar boven op een bakplaat.",
+    "Gril ze 3 tot 4 minuten tot ze net gaar zijn. Serveer warm of op kamertemperatuur met een flinke lepel salsa erop, met brood of gekookte krieltjes."
+   ],
+   "photo": "photos/ottolenghi-599.webp"
+  },
+  {
+   "id": 600,
+   "name": "Garnalen in boter met tomaat, olijven en anijslikeur",
+   "type": "Vis",
+   "time": 15,
+   "emoji": "🍤",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Buttered prawns with tomato, olives, and arak' (boek: voorgerecht voor 4; hier hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "pruimtomaten",
+     "4",
+     "stuk"
+    ],
+    [
+     "grote rauwe garnalen met staartje",
+     "12",
+     "stuk"
+    ],
+    [
+     "ongezouten boter",
+     "50",
+     "g"
+    ],
+    [
+     "chilivlokken",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kalamata-olijven zonder pit",
+     "50",
+     "g"
+    ],
+    [
+     "arak, Pernod of ouzo",
+     "20",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "el"
+    ],
+    [
+     "grof zeezout",
+     "1",
+     "snuf"
+    ],
+    [
+     "stokbrood",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Kerf de tomaten aan de onderkant kruislings in, dompel ze 30 seconden in kokend water en spoel koud af. Ontvel ze en snijd ze in partjes.",
+    "Pel de garnalen, maar laat het staartje zitten. Snijd de rug ondiep in en verwijder het darmkanaal.",
+    "Verhit een koekenpan op hoog vuur, smelt er 20 g boter in en bak de garnalen 2 minuten al schuddend. Voeg de tomaat, chilivlokken en olijven toe en bak 2 tot 3 minuten tot de garnalen bijna gaar zijn.",
+    "Schenk voorzichtig de anijslikeur erbij, want die kan vlam vatten, en laat de alcohol 1 minuut verdampen. Voeg snel de rest van de boter, de knoflook in flinterdunne plakjes, de peterselie en zout toe en schud tot een smeuïge saus.",
+    "Serveer direct met brood om de saus mee op te deppen."
+   ],
+   "photo": "photos/ottolenghi-600.webp"
+  },
+  {
+   "id": 601,
+   "name": "Portobello met parelgort, feta en ingelegde citroen",
+   "type": "Vegetarisch",
+   "time": 75,
+   "emoji": "🍄",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Portobello mushrooms with pearled barley and preserved lemon' (boek: voorgerecht voor 6; hier hoofdgerecht voor 3)",
+   "basePersons": 3,
+   "ingredients": [
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "groentebouillon",
+     "1000",
+     "ml"
+    ],
+    [
+     "parelgort",
+     "110",
+     "g"
+    ],
+    [
+     "ingelegde citroen",
+     "0.25",
+     "stuk"
+    ],
+    [
+     "feta",
+     "50",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "verse tijm",
+     "1",
+     "bosje"
+    ],
+    [
+     "radijskers of paarse basilicum",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "ongezouten boter",
+     "100",
+     "g"
+    ],
+    [
+     "grote portobello's",
+     "6",
+     "stuk"
+    ],
+    [
+     "droge witte wijn",
+     "180",
+     "ml"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit de zonnebloemolie in een pan met dikke bodem en fruit de gesnipperde ui met 1 teen knoflook tot ze glazig zijn. Voeg 750 ml bouillon toe en breng aan de kook. Roer de gort erdoor en laat afgedekt ongeveer 1 uur zachtjes koken tot al het vocht is opgenomen en de gort zacht is.",
+    "Verwarm intussen de oven voor op 180 °C. Vet een bakplaat met opstaande rand royaal in met twee derde van de boter en verdeel de tijmtakjes erover, op een paar na. Verwijder de steeltjes van de portobello's en leg de hoeden met de holle kant naar boven op de tijm.",
+    "Giet de wijn en de rest van de bouillon erover, verdeel de rest van de knoflook in plakjes erover en leg op elke paddenstoel een klontje van de rest van de boter. Bestrooi met zout en peper, dek af met aluminiumfolie en bak 15 tot 20 minuten tot ze zacht zijn.",
+    "Haal de gort van het vuur en roer de fijngehakte schil van de ingelegde citroen (zonder vruchtvlees), de verkruimelde feta, de peterselie en de blaadjes van de overgebleven tijm erdoor. Breng op smaak.",
+    "Leg de paddenstoelen op borden, schep de gort erop en lepel wat kookvocht erover. Garneer met de kers en een scheutje olijfolie."
+   ],
+   "photo": "photos/ottolenghi-601.webp"
+  },
+  {
+   "id": 602,
+   "name": "Galettes van zoete aardappel met geitenkaas en pompoenpitten",
+   "type": "Vegetarisch",
+   "time": 75,
+   "emoji": "🥧",
+   "cuisine": "Europees",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Sweet potato galettes' (boek: 4 voorgerechten; hier met salade als lunch of licht diner voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "zoete aardappel",
+     "1050",
+     "g"
+    ],
+    [
+     "bladerdeeg",
+     "250",
+     "g"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "zure room",
+     "100",
+     "ml"
+    ],
+    [
+     "belegen geitenkaas",
+     "100",
+     "g"
+    ],
+    [
+     "pompoenpitten",
+     "2",
+     "el"
+    ],
+    [
+     "rode chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "tl"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "groene salade",
+     "100",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Bak de zoete aardappels in de schil 35 tot 45 minuten, tot ze zacht worden maar in het midden nog net niet gaar zijn. Laat iets afkoelen, schil ze en snijd ze in plakjes van 3 mm.",
+    "Rol intussen het bladerdeeg dun uit en snijd er rechthoeken van 7 bij 14 cm uit. Prik ze in met een vork, leg ze op een bakplaat met bakpapier en laat minstens een half uur rusten in de koelkast.",
+    "Bestrijk het deeg met losgeklopt ei en smeer er een dun laagje zure room op, met een randje van een halve centimeter vrij. Leg de aardappelplakjes er dakpansgewijs op, bestrooi met zout en peper, verkruimel de geitenkaas erover en strooi de pompoenpitten en de fijngehakte chilipeper erover.",
+    "Bak 20 tot 25 minuten, tot het deeg ook aan de onderkant goudbruin is.",
+    "Meng de olijfolie, geperste knoflook, gehakte peterselie en een snuf zout en bestrijk de galettes ermee zodra ze uit de oven komen. Serveer warm of lauw met een groene salade."
+   ],
+   "photo": "photos/ottolenghi-602.webp"
   }
  ]
 }

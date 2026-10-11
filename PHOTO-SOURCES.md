@@ -533,3 +533,7 @@ Zeven recepten (560, 561, 562, 563, 564, 566, 568) tonen de gerechtfoto uit het 
 ## New Food Fast (Donna Hay)
 
 Alle 23 recepten (569 tot en met 591) tonen de gerechtfoto uit het boek als photos/hay-<id>.webp (fotografie Petrina Tinslay). Pagina's met twee of vier gerechten zijn bijgesneden tot het juiste gerecht.
+
+## Ottolenghi: The Cookbook (Yotam Ottolenghi en Sami Tamimi)
+
+Alle 11 recepten (592 tot en met 602) tonen de gerechtfoto uit het boek als photos/ottolenghi-<id>.webp. In het boek staat de foto op de pagina vóór het recept. Bij 602 is de hand met kwast weggesneden.
