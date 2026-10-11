@@ -594,3 +594,12 @@ Zes recepten zonder gerechtfoto in het boek hebben een Pexels-voorbeeldfoto (lic
 - Mul met zuurkool, wortel en jeneverbessaus op puree: https://www.pexels.com/photo/33329219/
 - Tonijn met piperade, snijbiet en sauce vierge: https://www.pexels.com/photo/18437699/
 - Kabeljauw met puylinzen, prei, spek en mosterddressing: https://www.pexels.com/photo/12653398/
+
+## Fish: The Complete Fish and Seafood Companion (Mitch Tonks)
+
+Vijftien recepten (698 tot en met 712) tonen de gerechtfoto uit het boek als photos/tonks-<id>.webp. De foto staat in het boek direct voor of na het recept.
+
+Twee recepten zonder gerechtfoto in het boek hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Kabeljauw uit de oven met rucola en ansjovisvinaigrette: https://www.pexels.com/photo/3599973/
+- Heek met romige boerenkool, peterselie en kappertjes: https://www.pexels.com/photo/36009488/

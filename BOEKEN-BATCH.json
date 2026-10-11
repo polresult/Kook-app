@@ -60,6 +60,11 @@
    "title": "Gordon Ramsay's Passion for Seafood",
    "author": "Gordon Ramsay (met Roz Denny)",
    "basePersons": "volgens het boek (zie sourceRef bij aanpassingen)"
+  },
+  "Tonks": {
+   "title": "Fish: The Complete Fish and Seafood Companion",
+   "author": "Mitch Tonks",
+   "basePersons": "volgens het boek"
   }
  },
  "skipped": {
@@ -74,7 +79,8 @@
   "Stephenson": "ontbijt- en bijgerechten, basisrecepten en sidebars; het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; lijkt te veel op bestaande recepten: okonomiyaki (155), shakshuka (18), uiensoep (478), tortillasoep (95), kippensoep (84), zwarte-bonensoep, wortel-gembersoep en zoete-aardappelsoep (87, 481), paella (204), koshari (594), bonen op toast, zwarte-bonenburgers (173), saag tofu (palak paneer 140), kimchi-aardappelkoekjes (616), pasta met broccoli en worst (107), tonijnpasta (29), kiptajine (490), traybake met kip (20), krokante kippendijen (39), kip parmezaan (583), linzen-cassoulet (te veel als de linzenstoof met worst), polenta met groente en tomatensaus (tweede polentagerecht)",
   "Taylor": "salades, hapjes, dips, soepen die op bestaande lijken en desserts; Texas-pizza (gistdeeg van anderhalf uur, al genoeg pizza's); zoete-aardappelhash (bijgerecht); lijkt te veel op bestaande recepten: witte bonen met courgette (281, 293), pittige rode bonen (chili sin carne 162), vegan gehaktballetjes in tomatensaus (14), enchilada's (24), bloemkool-currysoep (86), aubergine-lasagne (243), pad thai (130), dahl (56, 518), gevulde paprika's (241), bonenburgers (173), falafel (178), pho (97), Thaise kokossoep (94), maissoep (464), one-pot pasta met kikkererwten (636)",
   "Ghayour": "ontbijt, brood, bijgerechten, salades, dips en desserts; lang of bewerkelijk (rundvlees-noedelsoep 3 uur, lamskari 2 uur, raan, kleftiko, couscous royale, sinaasappel-varkensschouder, restjes-lamsgerecht met mango); lijkt te veel op bestaande recepten: lamskofta (40), lahmacun (66), garnalenorzo (10), kokosgarnalen (26), kiptajine (490), tikka masala (139), koshari (594), biryani (369), koftacurry (221), Turkse linzensoep (467), gehaktballen uit de oven met harissa en feta (14), harissabonen (655), kuku, kippenvleugels",
-  "Ramsay": "basisrecepten (fonds, sauzen, boters), voorgerechten, terrines, carpaccio en gravlax; bewerkelijk of restaurantniveau (zelfgemaakte pasta, ravioli, cannelloni, kreeft, soufflé, tulband van tarbot, brill in aardappelkorst, kabeljauw met kruidenkorst die 2 uur moet opstijven, gefrituurde inktvis in gistbeslag, Italiaanse vissoep met acht soorten vis, zeevruchtencassoulet, lasagne met fluweelsaus); lastig te krijgen (steur, mahi mahi); lijkt te veel op bestaande recepten: zalmkoekjes (213, 228), vispastei met bladerdeeg (378), paella (204), mosselen (47 en meer), risotto's (121, 380), pasta met gerookte zalm (63), chowder (93), zeeduivel in pancetta (381), gevulde zeebaars met venkel (52), gegrilde zalm met geroosterde paprika (606)"
+  "Ramsay": "basisrecepten (fonds, sauzen, boters), voorgerechten, terrines, carpaccio en gravlax; bewerkelijk of restaurantniveau (zelfgemaakte pasta, ravioli, cannelloni, kreeft, soufflé, tulband van tarbot, brill in aardappelkorst, kabeljauw met kruidenkorst die 2 uur moet opstijven, gefrituurde inktvis in gistbeslag, Italiaanse vissoep met acht soorten vis, zeevruchtencassoulet, lasagne met fluweelsaus); lastig te krijgen (steur, mahi mahi); lijkt te veel op bestaande recepten: zalmkoekjes (213, 228), vispastei met bladerdeeg (378), paella (204), mosselen (47 en meer), risotto's (121, 380), pasta met gerookte zalm (63), chowder (93), zeeduivel in pancetta (381), gevulde zeebaars met venkel (52), gegrilde zalm met geroosterde paprika (606)",
+  "Tonks": "vissoorten- en kooktechniekhoofdstukken, voorgerechten, tartaar, carpaccio en ingelegde vis; duur, lastig te krijgen of bewerkelijk (tarbot, griet, zonnevis, megrim, rog, steur, kreeft, langoustines, inktvis in eigen inkt, zeevruchtenstoof uit de houtoven, risotto met bouillon van hele poon); lijkt te veel op bestaande recepten: viskoekjes (135, 228), lengviskoekjes, zeebaars met venkel (52), dorade uit de oven (52, 691), schelvis in pakketjes (198), sliptong (224), poon in pancetta (381), spaghetti vongole (116), spaghetti met garnalen (310), scheermessen (298), mosselen (47 en meer), sardines op toast (206), zwaardvis (693), tonijn met pepperonata (696), pollak in peterseliesaus (te veel als kabeljauw in peterseliesaus)"
  },
  "recipes": [
   {
@@ -16930,6 +16936,1556 @@
     "Blancheer de spinazie 1 minuut, spoel koud af, knijp goed uit, hak grof, breng op smaak en leg de rest van de boter erop. Schud voor de dressing de azijn, 150 ml olie, de mosterd en zout en peper in een pot.",
     "Verwarm de oven voor op 190 °C. Verhit 2 eetlepels olie in een brede ovenvaste pan. Haal de vis door de gekruide bloem, bak hem 2 minuten zonder te bewegen, keer voorzichtig om en zet de pan 5 tot 7 minuten in de oven tot de vis net gaar is.",
     "Warm de linzen en de spinazie op. Leg de spinazie op een warme schaal, de vis erop en schep de linzen erover. Schud de dressing nog eens en druppel hem over het geheel."
+   ]
+  },
+  {
+   "id": 698,
+   "name": "Gegrilde kabeljauw met kappertjes-avocadoboter en bimi",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Grilled cod with caper and avocado butter' (met bimi of paarse broccoli zoals het boek aanraadt)",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "dikke kabeljauwfilet",
+     "400",
+     "g"
+    ],
+    [
+     "grof zeezout",
+     "2",
+     "el"
+    ],
+    [
+     "boter",
+     "75",
+     "g"
+    ],
+    [
+     "rijpe avocado",
+     "1",
+     "stuk"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "worcestershiresaus",
+     "1",
+     "tl"
+    ],
+    [
+     "tabasco",
+     "0.25",
+     "tl"
+    ],
+    [
+     "kappertjes",
+     "1",
+     "el"
+    ],
+    [
+     "verse dille",
+     "1",
+     "tl"
+    ],
+    [
+     "bimi of paarse broccoli",
+     "250",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de grill van de oven voor op de hoogste stand. Bestrooi de kabeljauw met het grove zout, laat 10 minuten staan en spoel het zout dan af. Zo wordt het visvlees steviger.",
+    "Prak intussen de avocado met rasp en sap van de citroen. Meng met 50 g zachte boter, de geperste knoflook, worcestershiresaus en tabasco naar smaak, de grof gehakte kappertjes, de dille en zout en peper.",
+    "Smelt de rest van de boter, bestrijk de vis ermee en gril 5 minuten. Kook intussen de bimi 3 tot 4 minuten beetgaar.",
+    "Smeer een flinke laag avocadoboter op de vis en gril nog ongeveer een minuut.",
+    "Serveer de vis met de bimi en de rest van de avocadoboter."
+   ],
+   "photo": "photos/tonks-698.webp"
+  },
+  {
+   "id": 699,
+   "name": "Kabeljauw in peterseliesaus met spitskool in boter",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Cod in parsley sauce with buttered spring cabbage' (krieltjes toegevoegd)",
+   "basePersons": 4,
+   "season": "lente",
+   "ingredients": [
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "kruidnagel",
+     "4",
+     "stuk"
+    ],
+    [
+     "melk",
+     "500",
+     "ml"
+    ],
+    [
+     "boter",
+     "110",
+     "g"
+    ],
+    [
+     "bloem",
+     "3",
+     "el"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "kappertjes (optioneel)",
+     "1",
+     "el"
+    ],
+    [
+     "dikke kabeljauwfilet",
+     "720",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "spitskool",
+     "1",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 240 °C. Maak twee sneden in de ui, steek er de laurierblaadjes in en prik de kruidnagels erin. Verwarm de ui 5 tot 6 minuten zachtjes in de melk en laat 20 minuten trekken. Kook intussen de krieltjes.",
+    "Smelt 30 g boter, roer de bloem erdoor tot een glad papje en schenk al kloppend beetje bij beetje de melk (zonder ui) erbij tot een saus zo dik als slagroom. Roer de gehakte peterselie en kappertjes erdoor en breng op smaak.",
+    "Verhit de olie in een zware, ovenvaste koekenpan. Breng de vis op smaak, leg hem met de vleeskant naar beneden in de hete pan en bak 2 tot 3 minuten goudbruin. Zet de pan 5 tot 6 minuten bovenin de oven.",
+    "Kook de gesneden spitskool kort in gezouten water, giet af en schep om met 50 g gesmolten boter en flink wat peper.",
+    "Serveer de vis met de kool, de krieltjes en een flinke schep peterseliesaus."
+   ],
+   "photo": "photos/tonks-699.webp"
+  },
+  {
+   "id": 700,
+   "name": "Stoofpot van gezouten koolvis met geroosterde paprika en aardappel",
+   "type": "Vis",
+   "time": 55,
+   "emoji": "🍲",
+   "cuisine": "Mediterraan",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Stew of coley, roasted peppers and small mullet' (mul optioneel; zonder mul gewoon iets meer koolvis)",
+   "basePersons": 2,
+   "season": "herfst",
+   "timeNote": "Koolvis een nacht van tevoren inzouten",
+   "ingredients": [
+    [
+     "koolvisfilet zonder vel",
+     "400",
+     "g"
+    ],
+    [
+     "grof zeezout",
+     "200",
+     "g"
+    ],
+    [
+     "rode paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "tomatenpuree",
+     "1",
+     "el"
+    ],
+    [
+     "droge witte wijn",
+     "125",
+     "ml"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "aardappelen (middelgroot)",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse tijm",
+     "1",
+     "takje"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "mulfilets (optioneel)",
+     "2",
+     "stuk"
+    ],
+    [
+     "gepelde tomaten uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "zwarte olijven zonder pit",
+     "7",
+     "stuk"
+    ],
+    [
+     "knapperig brood",
+     "1",
+     "stuk"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Bedek de koolvis de dag van tevoren met het grove zout en zet een nacht in de koelkast. Spoel het zout af en week de vis 30 minuten in koud water. Snijd hem in grote stukken.",
+    "Verwarm de oven voor op 200 °C en rooster de paprika's 10 tot 15 minuten tot ze zwart zijn. Laat afkoelen in een afgesloten zak, ontvel ze, verwijder de zaadjes en snijd ze grof.",
+    "Verhit de olie in een grote zware pan en fruit de uien in dunne ringen met de knoflook 10 minuten heel zachtjes, met een scheutje water. Bak de tomatenpuree een minuut mee, schenk de wijn erbij en laat een minuut koken.",
+    "Voeg de saffraan, paprika, aardappelen in blokjes van 2,5 cm, tijm, laurier, eventueel de mul en de tomaten toe en roer. Leg de koolvis erop met net genoeg water om de vis te bedekken. Dek af en laat ongeveer 15 minuten zachtjes koken tot de aardappelen zacht zijn.",
+    "Proef, breng op smaak, roer de peterselie en olijven erdoor, verwijder tijm en laurier en serveer met knapperig brood."
+   ],
+   "photo": "photos/tonks-700.webp"
+  },
+  {
+   "id": 701,
+   "name": "Gerookte schelvis met preistamppot en mosterd",
+   "type": "Vis",
+   "time": 35,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Smoked haddock with mashed leeks and potatoes'",
+   "basePersons": 2,
+   "season": "winter",
+   "ingredients": [
+    [
+     "melk",
+     "500",
+     "ml"
+    ],
+    [
+     "gerookte schelvis",
+     "360",
+     "g"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "prei",
+     "1",
+     "stuk"
+    ],
+    [
+     "kruimige aardappelen",
+     "400",
+     "g"
+    ],
+    [
+     "boter",
+     "20",
+     "g"
+    ],
+    [
+     "grove mosterd",
+     "1",
+     "el"
+    ],
+    [
+     "verse dragon",
+     "1",
+     "tl"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de aardappelen gaar, giet af en stamp ze fijn met de boter.",
+    "Giet de melk in een braadslede of brede pan, leg de schelvis er met de vleeskant naar beneden in met de laurier en breng zachtjes tegen de kook aan. Laat 6 tot 7 minuten pocheren, tot het vel er makkelijk af gaat.",
+    "Stoof intussen de heel fijn gesneden prei zonder vocht op laag vuur zacht in een afgedekte pan.",
+    "Roer de prei met 1 tot 2 scheppen van de pocheermelk door de puree tot hij romig is. Roer de mosterd en dragon erdoor en breng op smaak met peper en zo nodig zout.",
+    "Verwijder het vel van de vis en serveer hem op de preistamppot met flink wat zwarte peper."
+   ],
+   "photo": "photos/tonks-701.webp"
+  },
+  {
+   "id": 702,
+   "name": "Heek in groene saus met venusschelpjes en aardappel",
+   "type": "Vis",
+   "time": 35,
+   "emoji": "🐟",
+   "cuisine": "Spaans",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Hake with green sauce and clams' (mosselen kunnen in plaats van venusschelpen)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "bloem",
+     "2",
+     "el"
+    ],
+    [
+     "heekfilet",
+     "720",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "100",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "platte peterselie",
+     "50",
+     "g"
+    ],
+    [
+     "aardappelen",
+     "2",
+     "stuk"
+    ],
+    [
+     "droge witte wijn",
+     "2",
+     "el"
+    ],
+    [
+     "gedroogde chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "stuk"
+    ],
+    [
+     "venusschelpen of mosselen",
+     "200",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Haal de vis door de bloem, klop het overtollige meel eraf en breng op smaak met zout en peper.",
+    "Verhit de olie in een braadpan, bak de hele tenen knoflook een minuut en haal ze eruit. Laat afkoelen, stamp ze fijn in een vijzel en meng met de heel fijngehakte peterselie.",
+    "Bak de vis in dezelfde olie aan beide kanten bruin en haal hem uit de pan. Bak de aardappelen in flinterdunne plakjes bruin en blus af met een scheutje wijn.",
+    "Leg de vis op de aardappelen, voeg het peterselie-knoflookmengsel toe en schenk er net genoeg water bij om de aardappelen te bedekken. Voeg de chilipeper, laurier en schelpen toe.",
+    "Doe de deksel erop en laat 7 tot 8 minuten zachtjes garen tot de schelpen open zijn; gooi gesloten exemplaren weg. Breng op smaak met peper; zout is meestal niet nodig door de schelpen. Serveer uit de pan."
+   ],
+   "photo": "photos/tonks-702.webp"
+  },
+  {
+   "id": 703,
+   "name": "Leng uit de braadpan met spek, prei en zachte knoflook",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Pot roast ling with bacon, leeks and stewed garlic' (kabeljauw kan ook; met aardappelpuree zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "knoflook",
+     "2",
+     "bol"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "bloem",
+     "2",
+     "el"
+    ],
+    [
+     "lengfilet of dikke kabeljauwfilet",
+     "800",
+     "g"
+    ],
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "1",
+     "stengel"
+    ],
+    [
+     "prei",
+     "1",
+     "stuk"
+    ],
+    [
+     "dik gerookt ontbijtspek",
+     "4",
+     "plak"
+    ],
+    [
+     "witte wijnazijn",
+     "1",
+     "el"
+    ],
+    [
+     "droge vermout",
+     "2",
+     "el"
+    ],
+    [
+     "droge witte wijn",
+     "50",
+     "ml"
+    ],
+    [
+     "slagroom",
+     "50",
+     "ml"
+    ],
+    [
+     "verse tijm",
+     "1",
+     "takje"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "kruimige aardappelen",
+     "1000",
+     "g"
+    ],
+    [
+     "melk",
+     "150",
+     "ml"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de aardappelen gaar en stamp ze met warme melk en zout tot een romige puree. Pel de knoflooktenen, kook ze 5 minuten in water, ververs het water en kook ze tot ze zacht zijn maar niet uit elkaar vallen.",
+    "Verhit de olie in een braadpan. Haal de vis door de bloem, klop het overtollige meel eraf en bak goudbruin. Haal uit de pan.",
+    "Bak de fijngesneden ui, bleekselderij en prei met het spek in stukjes en de zachte knoflook tot alles zacht is.",
+    "Voeg de azijn toe en laat een minuut koken, dan de vermout en weer een minuut, dan de wijn en nog een minuut. Zet het vuur lager en roer de room, tijm en laurier erdoor.",
+    "Leg de vis terug, doe de deksel erop en laat 8 tot 10 minuten zachtjes garen. Roer de peterselie erdoor, breng op smaak en prak eventueel hele tenen knoflook door de saus. Verwijder tijm en laurier en serveer met de puree."
+   ],
+   "photo": "photos/tonks-703.webp"
+  },
+  {
+   "id": 704,
+   "name": "Zeeduivel als osso buco met gremolata",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🐟",
+   "cuisine": "Italiaans",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Monkfish cooked as osso bucco' (rijst met saffraan in plaats van saffraanrisotto)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "citroen",
+     "2",
+     "stuk"
+    ],
+    [
+     "zeeduivelmoten",
+     "800",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "bleekselderij",
+     "75",
+     "g"
+    ],
+    [
+     "sjalot",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse tijmblaadjes",
+     "1",
+     "el"
+    ],
+    [
+     "kleine wortel",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenpuree",
+     "1",
+     "el"
+    ],
+    [
+     "ansjovispasta",
+     "1",
+     "el"
+    ],
+    [
+     "droge witte wijn",
+     "175",
+     "ml"
+    ],
+    [
+     "pruimtomaten",
+     "4",
+     "stuk"
+    ],
+    [
+     "water",
+     "125",
+     "ml"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 180 °C en kook de rijst met de saffraan. Meng voor de gremolata de helft van de fijngehakte knoflook en peterselie met de geraspte schil van de citroenen.",
+    "Verhit de olie in een ovenvaste pan waarin de vis in één laag past. Bestrooi de vis met wat zout en schroei hem aan één kant goudbruin. Haal uit de pan.",
+    "Zet het vuur lager en bak de fijngesneden bleekselderij, sjalot, de rest van de knoflook, tijm en wortel 6 tot 7 minuten zacht. Bak de tomatenpuree 1 tot 2 minuten mee, voeg de ansjovispasta en wijn toe en laat een minuut koken. Voeg de grof gesneden tomaten toe.",
+    "Leg de vis terug met het water en een beetje peterselie, dek af en zet ongeveer 15 minuten in de oven.",
+    "Leg de vis op de borden. Kook de saus zo nodig wat in, breng op smaak, roer de rest van de peterselie erdoor en schep over de vis. Bestrooi met gremolata en serveer met de saffraanrijst."
+   ],
+   "photo": "photos/tonks-704.webp"
+  },
+  {
+   "id": 705,
+   "name": "Zeeduivel met gesmoorde ui, paprika en sherry",
+   "type": "Vis",
+   "time": 50,
+   "emoji": "🐟",
+   "cuisine": "Spaans",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Monkfish chunks cooked with onions, peppers and sherry' (gegrild witlof en brood zoals het boek aanraadt)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "boter",
+     "25",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "100",
+     "ml"
+    ],
+    [
+     "grote ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "rode paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "droge sherry (fino of manzanilla)",
+     "400",
+     "ml"
+    ],
+    [
+     "zeeduivelfilet",
+     "750",
+     "g"
+    ],
+    [
+     "venusschelpen of mosselen (optioneel)",
+     "200",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "witlof",
+     "4",
+     "stuk"
+    ],
+    [
+     "knapperig brood",
+     "1",
+     "stuk"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit de boter en olie in een grote zware pan. Voeg de uien in dunne ringen, de paprika's in stukken van 2,5 cm, de fijngehakte knoflook en de saffraan toe en laat ongeveer 25 minuten op heel laag vuur smoren tot de ui zacht, lichtgoud en bijna gesmolten is. Laat niets bruin bakken: dit is het belangrijkste deel.",
+    "Voeg de sherry en de zeeduivel in stukken van 4 cm toe, doe de deksel erop en laat 10 tot 12 minuten zachtjes garen tot de vis net gaar is. Voeg eventueel de schelpen de laatste 5 minuten toe.",
+    "Halveer intussen het witlof in de lengte, bestrijk met olie, bestrooi met zout en gril of bak het licht in een grillpan.",
+    "Roer de peterselie door de vis en breng op smaak.",
+    "Serveer met het gegrilde witlof en brood."
+   ],
+   "photo": "photos/tonks-705.webp"
+  },
+  {
+   "id": 706,
+   "name": "Spaghetti met mul, tomaat en saffraan",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Spaghetti with red mullet and tomato' (iets meer spaghetti dan het boek, dat 200 g gebruikt)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "spaghetti",
+     "300",
+     "g"
+    ],
+    [
+     "goede olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "rijpe tomaten",
+     "6",
+     "stuk"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "droge witte wijn",
+     "2",
+     "el"
+    ],
+    [
+     "mulfilet",
+     "600",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "gedroogde chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de spaghetti in licht gezouten water beetgaar.",
+    "Verhit intussen de olie in een koekenpan waar straks de pasta in past en fruit de fijngehakte knoflook 1 tot 2 minuten zachtjes.",
+    "Voeg de ontvelde, ontpitte en fijngehakte tomaten, de saffraan, wijn en de mulfilets toe. Roer voorzichtig tot de tomaten uit elkaar vallen en de vis gaar is; de filets mogen in de saus uiteenvallen. Proef en breng regelmatig op smaak.",
+    "Voeg de peterselie toe, verkruimel de chilipeper erboven en knijp er wat citroen boven uit.",
+    "Giet de pasta af en bewaar wat kookvocht. Schep de spaghetti met een scheutje kookvocht door de saus en serveer uit de pan met extra peterselie en partjes citroen."
+   ],
+   "photo": "photos/tonks-706.webp"
+  },
+  {
+   "id": 707,
+   "name": "Visscurry met kokosmelk en kerrieblaadjes (Sri Lankaanse stijl)",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🍛",
+   "cuisine": "Indiaas",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Red snapper curry' (diepvries-snapper of roodbaars; rijst zoals het boek aanraadt)",
+   "basePersons": 2,
+   "season": "altijd",
+   "timeNote": "Vis 40 minuten marineren",
+   "ingredients": [
+    [
+     "gemalen kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen koriander",
+     "1",
+     "tl"
+    ],
+    [
+     "rode snapper- of roodbaarsfilet",
+     "400",
+     "g"
+    ],
+    [
+     "limoen",
+     "2",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "6",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse gember",
+     "80",
+     "g"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "groene kardemompeulen",
+     "5",
+     "stuk"
+    ],
+    [
+     "kruidnagel",
+     "4",
+     "stuk"
+    ],
+    [
+     "zwarte peperkorrels",
+     "10",
+     "stuk"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "tl"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "kerrieblaadjes",
+     "1",
+     "handvol"
+    ],
+    [
+     "kokosmelk",
+     "400",
+     "ml"
+    ],
+    [
+     "vissaus",
+     "1",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "basmatirijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Meng de kurkuma en gemalen koriander en wrijf de helft in de vis, vooral aan de vleeskant. Knijp er een limoen over uit en laat ongeveer 40 minuten in de koelkast marineren. Kook later de rijst.",
+    "Verhit de olie in een pan waar de vis in past en fruit de ui in dunne ringen zacht.",
+    "Stamp de gember en knoflook tot een pasta, voeg toe en bak 3 tot 4 minuten. Voeg kardemom, kruidnagel, peperkorrels, chilivlokken, kaneel en kerrieblaadjes toe en bak een minuut.",
+    "Roer de rest van het kurkumamengsel erdoor en schenk de kokosmelk erbij. Leg de vis met de vleeskant naar beneden in de saus en laat 8 tot 10 minuten zachtjes garen.",
+    "Breng op smaak met vissaus en het sap van de tweede limoen, bestrooi met koriander en serveer met de rijst."
+   ],
+   "photo": "photos/tonks-707.webp"
+  },
+  {
+   "id": 708,
+   "name": "Makreelspiesjes met teriyaki en lente-ui",
+   "type": "Vis",
+   "time": 30,
+   "emoji": "🍢",
+   "cuisine": "Japans",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Grilled mackerel skewers with teriyaki and spring onions' (rijst toegevoegd)",
+   "basePersons": 4,
+   "season": "zomer",
+   "timeNote": "Spiesjes 2 uur marineren",
+   "ingredients": [
+    [
+     "makreel, gefileerd (ca. 300 g per vis)",
+     "4",
+     "stuk"
+    ],
+    [
+     "lente-ui",
+     "12",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "lichte sojasaus",
+     "10",
+     "el"
+    ],
+    [
+     "mirin",
+     "5",
+     "el"
+    ],
+    [
+     "sake",
+     "5",
+     "el"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "verse gember",
+     "25",
+     "g"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Week 16 houten prikkers 30 minuten in koud water. Snijd elke makreelfilet in 3 stukken en de lente-uitjes in stukken van dezelfde lengte.",
+    "Steek twee prikkers parallel door een stuk lente-ui, zodat je een soort ladder krijgt. Rijg daarna afwisselend een stuk vis (vel naar je toe) en een stuk lente-ui, tot je per paar prikkers 3 stukken vis en 3 stukken ui hebt. Leg ze in een schaal.",
+    "Meng 6 eetlepels sojasaus, 3 eetlepels mirin, 3 eetlepels sake, de suiker en de fijngeraspte gember, giet over de spiesjes en laat afgedekt 2 uur koel marineren. Kook later de rijst.",
+    "Verwarm de grill of barbecue goed voor. Gril de spiesjes 4 tot 5 minuten tot het vel begint te blazen en bestrijk ze tussendoor met de marinade.",
+    "Meng voor de saus de rest van de sojasaus, mirin en sake. Schep over de spiesjes, bestrooi met koriander en serveer met de rijst."
+   ],
+   "photo": "photos/tonks-708.webp"
+  },
+  {
+   "id": 709,
+   "name": "Makreeltajine met paprika, tomaat en olijven",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🍲",
+   "cuisine": "Marokkaans",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Mackerel tagine' (alleen de benodigde theelepel kruiden; couscous toegevoegd)",
+   "basePersons": 2,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "verse gember",
+     "2.5",
+     "cm"
+    ],
+    [
+     "rode paprika",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "cherrytomaatjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "makreel, schoongemaakt",
+     "350",
+     "g"
+    ],
+    [
+     "gemalen piment",
+     "0.25",
+     "tl"
+    ],
+    [
+     "gemalen koriander",
+     "0.25",
+     "tl"
+    ],
+    [
+     "paprikapoeder",
+     "0.25",
+     "tl"
+    ],
+    [
+     "gemalen kurkuma",
+     "0.25",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "0.1",
+     "tl"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "zwarte olijven",
+     "40",
+     "g"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "couscous",
+     "150",
+     "g"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Giet 200 ml kokend water over de couscous met een snuf zout, dek af en laat 5 minuten wellen.",
+    "Verhit de olie in een grote koekenpan en bak de gehakte gember, paprika, tomaatjes, knoflook en ui 4 tot 5 minuten zachtjes.",
+    "Roer de piment, gemalen koriander, paprikapoeder, kurkuma, kaneel en chilivlokken erdoor.",
+    "Voeg de makreel in stukken van 5 cm toe, schenk er net genoeg water bij om te bedekken en laat 7 tot 8 minuten zachtjes koken.",
+    "Breng ruim op smaak met zout en roer de koriander, olijven en een kneepje citroen erdoor. Serveer met de couscous."
+   ],
+   "photo": "photos/tonks-709.webp"
+  },
+  {
+   "id": 710,
+   "name": "Gegrilde zalm met waterkers-muntcrème en kappertjes",
+   "type": "Vis",
+   "time": 20,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Grilled salmon with watercress, capers and mint' (krieltjes toegevoegd)",
+   "basePersons": 2,
+   "season": "lente",
+   "ingredients": [
+    [
+     "zalmfilet",
+     "400",
+     "g"
+    ],
+    [
+     "boter",
+     "15",
+     "g"
+    ],
+    [
+     "kappertjes",
+     "1",
+     "el"
+    ],
+    [
+     "verse munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "waterkers",
+     "1",
+     "handvol"
+    ],
+    [
+     "crème fraîche",
+     "100",
+     "g"
+    ],
+    [
+     "citroen (rasp)",
+     "1",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "400",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar en verwarm de grill van de oven voor op de hoogste stand.",
+    "Bestrijk de zalm met gesmolten boter en gril 5 tot 6 minuten.",
+    "Pureer intussen de kappertjes, munt en waterkers in een keukenmachine.",
+    "Meng het groene mengsel met de crème fraîche en de citroenrasp en breng op smaak met zout en flink wat peper.",
+    "Serveer de warme zalm met de saus en de krieltjes."
+   ],
+   "photo": "photos/tonks-710.webp"
+  },
+  {
+   "id": 711,
+   "name": "Gegrilde hele mul met Griekse salade",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Grieks",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Whole red mullet with Greek salad' (brood toegevoegd)",
+   "basePersons": 2,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "mul, geschubd en schoongemaakt (ca. 250 g)",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "5",
+     "el"
+    ],
+    [
+     "verse rozemarijn",
+     "2",
+     "takje"
+    ],
+    [
+     "rijpe tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "komkommer",
+     "0.25",
+     "stuk"
+    ],
+    [
+     "kleine rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "kropsla",
+     "6",
+     "blad"
+    ],
+    [
+     "verse munt",
+     "1",
+     "el"
+    ],
+    [
+     "kalamata-olijven",
+     "1",
+     "handvol"
+    ],
+    [
+     "feta",
+     "100",
+     "g"
+    ],
+    [
+     "rodewijnazijn",
+     "1",
+     "el"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "brood",
+     "2",
+     "snee"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de grill van de oven voor op de hoogste stand. Bestrijk de vissen met olie, stop een takje rozemarijn in elke buikholte en gril ze 4 tot 5 minuten per kant.",
+    "Meng voor de salade de tomaten in partjes, de komkommer in halve plakjes, de rode ui in dunne ringen, de sla, munt, olijven en verkruimelde feta.",
+    "Klop de azijn met 50 ml olie, zout en peper en verkruimel er een flinke snuf oregano in; de dressing mag flink zuur smaken.",
+    "Hussel de salade met de dressing en bestrooi met nog wat oregano.",
+    "Bestrooi de vis met zout, knijp er citroen over, druppel er goede olijfolie over en serveer met de salade en brood."
+   ],
+   "photo": "photos/tonks-711.webp"
+  },
+  {
+   "id": 712,
+   "name": "Tongschar in bruine boter met Hollandse garnalen",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Lemon sole cooked in butter with brown shrimps' (krieltjes toegevoegd)",
+   "basePersons": 2,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "tongschar, schoongemaakt (ca. 450 g)",
+     "2",
+     "stuk"
+    ],
+    [
+     "bloem",
+     "20",
+     "g"
+    ],
+    [
+     "boter",
+     "125",
+     "g"
+    ],
+    [
+     "foelie",
+     "1",
+     "snuf"
+    ],
+    [
+     "witte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "gepelde Hollandse garnalen",
+     "75",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "400",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar. Laat de vishandelaar de kop en vinnen verwijderen. Snijd de boter in blokjes.",
+    "Verhit de olie in een pan waar beide vissen in passen. Haal de vis door de bloem en tik het overtollige meel eraf.",
+    "Leg de vis met de donkere kant naar beneden in de pan en bak 1 tot 2 minuten. Voeg 2 blokjes boter toe en bak een paar minuten, voeg dan de rest van de boter toe en keer de vis om.",
+    "Als de boter fijn schuimt, voeg je de foelie en witte peper toe. Kantel de pan en schep de schuimende boter 6 tot 7 minuten over de vis. Voeg de garnalen toe en blijf nog een minuut bedruipen.",
+    "Roer de fijngehakte peterselie erdoor, knijp er citroen over, breng op smaak met peper en een klein beetje zout en serveer met de krieltjes."
+   ],
+   "photo": "photos/tonks-712.webp"
+  },
+  {
+   "id": 713,
+   "name": "Kabeljauw uit de oven met rucola en ansjovisvinaigrette",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Roasted cod with rocket and anchovy vinaigrette' (krieltjes toegevoegd)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "ansjovisfilets",
+     "6",
+     "stuk"
+    ],
+    [
+     "kappertjes",
+     "1",
+     "tl"
+    ],
+    [
+     "kleine teen knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "witte wijnazijn",
+     "1",
+     "el"
+    ],
+    [
+     "dijonmosterd",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zonnebloemolie",
+     "190",
+     "ml"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "worcestershiresaus",
+     "1",
+     "tl"
+    ],
+    [
+     "tabasco",
+     "0.25",
+     "tl"
+    ],
+    [
+     "dikke kabeljauwfilet",
+     "720",
+     "g"
+    ],
+    [
+     "rucola",
+     "100",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "50",
+     "ml"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "600",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 240 °C en kook de krieltjes.",
+    "Draai de ansjovis, kappertjes, knoflook, azijn en mosterd fijn in een kleine keukenmachine en laat er met draaiende motor langzaam 150 ml zonnebloemolie bij lopen tot een gladde emulsie zo dik als koffieroom. Roer de peterselie, worcestershiresaus en tabasco erdoor.",
+    "Verhit de rest van de zonnebloemolie goed heet in een ovenvaste koekenpan. Breng de vis op smaak, leg hem met de vleeskant naar beneden in de pan en bak 2 tot 3 minuten goudbruin.",
+    "Zet de pan 5 tot 6 minuten bovenin de oven.",
+    "Meng de rucola met zout, olijfolie en citroensap, leg de vis erop en schep er royaal vinaigrette over. Serveer met de krieltjes."
+   ]
+  },
+  {
+   "id": 714,
+   "name": "Heek met romige boerenkool, peterselie en kappertjes",
+   "type": "Vis",
+   "time": 50,
+   "emoji": "🐟",
+   "cuisine": "Brits",
+   "source": "Tonks",
+   "sourceRef": "Fish (Mitch Tonks), 'Hake with parsley and creamed kale' (krieltjes toegevoegd)",
+   "basePersons": 2,
+   "season": "winter",
+   "ingredients": [
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "kruidnagel",
+     "6",
+     "stuk"
+    ],
+    [
+     "melk",
+     "500",
+     "ml"
+    ],
+    [
+     "boerenkool",
+     "350",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "heekfilet met vel",
+     "360",
+     "g"
+    ],
+    [
+     "boter",
+     "40",
+     "g"
+    ],
+    [
+     "bloem",
+     "3",
+     "el"
+    ],
+    [
+     "kappertjes",
+     "1",
+     "tl"
+    ],
+    [
+     "slagroom",
+     "75",
+     "ml"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "400",
+     "g"
+    ],
+    [
+     "zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 240 °C. Maak sneden in de ui, steek er de laurier in en prik de kruidnagels erin. Laat de ui 4 tot 5 minuten zachtjes in de melk sudderen en daarna 30 minuten trekken. Haal de ui eruit. Kook de krieltjes.",
+    "Kook de boerenkool ongeveer 10 minuten in gezouten water, giet af en hak fijn.",
+    "Verhit de olie in een ovenvaste koekenpan tot hij bijna rookt. Breng de velkant van de vis op smaak, leg hem met het vel naar beneden in de pan en bak 4 tot 5 minuten tot het vel krokant en goudbruin is. Keer om en zet de pan 3 tot 4 minuten in de oven.",
+    "Smelt de boter, roer de bloem erdoor tot een glad papje en schenk al roerend de melk erbij tot een saus iets dikker dan slagroom. Voeg de boerenkool, fijngehakte kappertjes, room en peterselie toe en breng op smaak met zout, peper en een kneepje citroen.",
+    "Schep de romige boerenkool op de borden, leg de vis erop en serveer meteen met de krieltjes."
    ]
   }
  ]
