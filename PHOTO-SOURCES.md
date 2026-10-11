@@ -554,3 +554,22 @@ Zes Ottolenghi-recepten zonder gerechtfoto in het boek hebben een Pexels-voorbee
 Twintig recepten (611 tot en met 630) tonen de gerechtfoto uit het boek als photos/hayfresh-<id>.webp; in het boek staat de foto twee pagina's na het recept. De foto van de vrije lasagne is in de pdf beschadigd, daarom heeft 631 een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
 
 - Vrije lasagne met bloemkool-kaassaus en muntspinazie: https://www.pexels.com/photo/30615716/
+
+## Pantry to Plate (Emily Stephenson)
+
+Het boek bevat alleen tekeningen, geen foto's. Alle 14 recepten (632 tot en met 645) hebben daarom een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Eiercurry met tomaat en kokosmelk: https://www.pexels.com/photo/35066815/
+- Chilaquiles: tortillachips in pittige tomatensaus met eieren uit de oven: https://www.pexels.com/photo/37037509/
+- Spaanse tortilla met aardappel en ui: https://www.pexels.com/photo/14941246/
+- Ribollita met kikkererwten en groene groente: https://www.pexels.com/photo/6665961/
+- Pasta e ceci: pasta met kikkererwten, knoflook en tomaat: https://www.pexels.com/photo/33612030/
+- Spaghetti met Griekse yoghurt en gekarameliseerde ui: https://www.pexels.com/photo/9495586/
+- Linzenstoof met Italiaanse worst en groenten: https://www.pexels.com/photo/35646479/
+- Tofusaté met kokos-limoenmarinade, rijst en groente: https://www.pexels.com/photo/33414286/
+- Miso-aardappelgratin met tofu en parmezaan: https://www.pexels.com/photo/34985106/
+- Gepofte zoete aardappel met pittige linzenchili en yoghurt: https://www.pexels.com/photo/11316282/
+- Tonijnkoekjes met olijven en bleekselderij: https://www.pexels.com/photo/20184711/
+- Kippendijen gestoofd in kokosmelk met gember en kurkuma: https://www.pexels.com/photo/23897672/
+- Griekse kip met tomaat, kalamata-olijven en feta: https://www.pexels.com/photo/33683051/
+- Italiaanse worstjes op romige polenta met gebakken ui: https://www.pexels.com/photo/38085035/

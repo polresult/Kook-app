@@ -40,6 +40,11 @@
    "title": "Everyday Fresh: Meals in Minutes",
    "author": "Donna Hay",
    "basePersons": "volgens het boek"
+  },
+  "Stephenson": {
+   "title": "Pantry to Plate: Kitchen Staples for Simple Meals",
+   "author": "Emily Stephenson",
+   "basePersons": "volgens het boek"
   }
  },
  "skipped": {
@@ -50,7 +55,8 @@
   "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was",
   "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen",
   "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186)",
-  "HayFresh": "desserts; recepten zonder leesbare tekst in de pdf (een deel van de variaties en enkele basisrecepten); varianten die een basisrecept hergebruiken; lijkt te veel op bestaande recepten: nasi goreng-omelet (12, 77), minestrone (89), zwarte-bonenbolognese (99), kikkererwtenburgers (bonenburger 173), gnocchi met tomaat (15), teriyakizalm (13), rijstbowl met rauwe zalm (pokébowl 19), tonijn-sobabowl (51, 189), pasta met knoflookkruim (577), Italiaanse bonen op toast (witte bonen op brood 209, 252), spinazie-souffléomelet (240), pompoensoep (87), dumplingsoep (96)"
+  "HayFresh": "desserts; recepten zonder leesbare tekst in de pdf (een deel van de variaties en enkele basisrecepten); varianten die een basisrecept hergebruiken; lijkt te veel op bestaande recepten: nasi goreng-omelet (12, 77), minestrone (89), zwarte-bonenbolognese (99), kikkererwtenburgers (bonenburger 173), gnocchi met tomaat (15), teriyakizalm (13), rijstbowl met rauwe zalm (pokébowl 19), tonijn-sobabowl (51, 189), pasta met knoflookkruim (577), Italiaanse bonen op toast (witte bonen op brood 209, 252), spinazie-souffléomelet (240), pompoensoep (87), dumplingsoep (96)",
+  "Stephenson": "ontbijt- en bijgerechten, basisrecepten en sidebars; het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; lijkt te veel op bestaande recepten: okonomiyaki (155), shakshuka (18), uiensoep (478), tortillasoep (95), kippensoep (84), zwarte-bonensoep, wortel-gembersoep en zoete-aardappelsoep (87, 481), paella (204), koshari (594), bonen op toast, zwarte-bonenburgers (173), saag tofu (palak paneer 140), kimchi-aardappelkoekjes (616), pasta met broccoli en worst (107), tonijnpasta (29), kiptajine (490), traybake met kip (20), krokante kippendijen (39), kip parmezaan (583), linzen-cassoulet (te veel als de linzenstoof met worst), polenta met groente en tomatensaus (tweede polentagerecht)"
  },
  "recipes": [
   {
@@ -11297,6 +11303,1018 @@
     "Overgiet de spinazie met kokend water, laat 30 seconden staan en giet af. Druk het vocht er tussen keukenpapier goed uit, snijd fijn en meng met de gehakte munt, fijngesneden bieslook, zout en peper.",
     "Vet twee kleine ovenschalen of ovenvaste koekenpannen van 16 tot 18 cm in. Leg in elke schaal een lasagneblad, schep er ongeveer 180 ml saus op en een kwart van de spinazie. Herhaal de lagen en eindig met de rest van de saus.",
     "Bestrooi met 20 g parmezaan, zet de schalen op een bakplaat en bak 25 minuten tot de lasagne goudbruin is en bubbelt. Serveer met de rest van de parmezaan."
+   ]
+  },
+  {
+   "id": 632,
+   "name": "Eiercurry met tomaat en kokosmelk",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🥚",
+   "cuisine": "Indiaas",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Egg Curry' (rijst toegevoegd als bijgerecht)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "gepelde tomaten uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "5",
+     "cm"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peperkorrels, gekneusd",
+     "1.5",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kurkuma",
+     "0.5",
+     "tl"
+    ],
+    [
+     "ei",
+     "8",
+     "stuk"
+    ],
+    [
+     "kokosmelk",
+     "120",
+     "ml"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Pureer de tomaten met hun sap in een blender, of knijp ze met je handen fijn in een kom. Kook de rijst.",
+    "Verhit de olie in een grote koekenpan op middelhoog vuur. Bak de gesnipperde ui, fijngehakte knoflook en gember met het zout al roerend 8 tot 10 minuten tot de ui zacht en goudbruin is. Zet het vuur lager als de ui dreigt te verbranden.",
+    "Voeg de peperkorrels, komijn en kurkuma toe en bak korter dan een minuut tot het geurt. Giet de tomaten erbij, breng aan de kook en laat 15 tot 20 minuten onafgedekt stevig pruttelen tot de saus dik is als jus.",
+    "Laat intussen de eieren één voor één in een pan met kokend water zakken en kook ze 8 minuten. Schrik ze in ijswater, pel ze en halveer ze in de lengte.",
+    "Roer de kokosmelk door de saus en proef of er zout bij moet. Leg de eihelften met de snijkant naar beneden in de saus, schep er saus over en laat doorwarmen. Serveer met de rijst."
+   ]
+  },
+  {
+   "id": 633,
+   "name": "Chilaquiles: tortillachips in pittige tomatensaus met eieren uit de oven",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🍳",
+   "cuisine": "Mexicaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Chilaquiles'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "maïstortilla's",
+     "6",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "5",
+     "el"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "gepelde tomaten uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "limoen",
+     "2",
+     "stuk"
+    ],
+    [
+     "ei",
+     "6",
+     "stuk"
+    ],
+    [
+     "queso fresco of feta",
+     "40",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 190 °C. Leg de tortilla's op elkaar en snijd ze in stukken ter grootte van chips. Hussel ze op een bakplaat met 3 eetlepels olie en de helft van het zout, spreid uit en bak 15 tot 20 minuten tot ze goudbruin en krokant zijn. Laat de oven aan.",
+    "Pureer intussen de tomaten met hun sap, de chipotle, de grof gesneden ui, de knoflook, de rest van het zout en de peper in een blender.",
+    "Verhit de rest van de olie in een ovenvaste koekenpan op middelhoog vuur, giet de saus erin en breng aan de kook. Laat 15 tot 20 minuten onafgedekt pruttelen tot de saus dikker en donkerder is. Pers er één limoen boven uit en proef.",
+    "Schep de tortillachips erdoor tot ze helemaal bedekt zijn. Maak kuiltjes in de saus en laat in elk kuiltje een ei glijden; breek de eieren eerst in een kopje. Bestrooi de eieren met wat zout.",
+    "Bak 8 tot 10 minuten in de oven tot het eiwit gestold is en de dooiers nog vloeibaar zijn. Verkruimel de kaas erover en serveer met partjes van de tweede limoen."
+   ]
+  },
+  {
+   "id": 634,
+   "name": "Spaanse tortilla met aardappel en ui",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🥔",
+   "cuisine": "Spaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Spanish Tortilla'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "vastkokende aardappelen",
+     "455",
+     "g"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "olijfolie extra vergine",
+     "240",
+     "ml"
+    ],
+    [
+     "ei",
+     "6",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ]
+   ],
+   "steps": [
+    "Schil de aardappels (dat mag je overslaan als je haast hebt) en snijd ze met de ui zo dun mogelijk, het liefst met een mandoline.",
+    "Verhit de olie in een grote koekenpan op middelhoog vuur tot een plakje aardappel meteen bubbelt. Voeg alle aardappel en ui toe en bak 12 tot 15 minuten. Keer het geheel om de paar minuten voorzichtig met een spatel, zonder de plakjes te breken. Ze moeten net gaar zijn maar niet kleuren; zet het vuur lager als dat wel gebeurt.",
+    "Giet de aardappels af in een vergiet boven een hittebestendige kom en vang de olie op. Afgekoeld is die olie een week te bewaren om mee te bakken.",
+    "Klop de eieren met het zout en de peper los en spatel de aardappels erdoor.",
+    "Veeg de pan schoon, verwarm 2 eetlepels van de opgevangen olie op middellaag vuur en giet het eimengsel erin. Druk de bovenkant glad en bak 8 tot 10 minuten tot de randen gestold zijn.",
+    "Maak de randen los, leg een groot bord op de pan en keer alles in één beweging om; bescherm je handen met ovenwanten. Doe eventueel nog een eetlepel olie in de pan, laat de tortilla er met de gebakken kant boven weer in glijden en bak nog 8 tot 12 minuten tot een mes in het midden er schoon uitkomt. Snijd in punten en serveer warm of op kamertemperatuur."
+   ]
+  },
+  {
+   "id": 635,
+   "name": "Ribollita met kikkererwten en groene groente",
+   "type": "Vegetarisch",
+   "time": 55,
+   "emoji": "🍲",
+   "cuisine": "Italiaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Ribollita' (boek: 4 tot 6 personen)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "60",
+     "ml"
+    ],
+    [
+     "bleekselderij",
+     "3",
+     "stengel"
+    ],
+    [
+     "wortel",
+     "2",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "tl"
+    ],
+    [
+     "gepelde tomaten uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "kikkererwten uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "diepvriesboerenkool of -spinazie",
+     "280",
+     "g"
+    ],
+    [
+     "chilivlokken",
+     "0.25",
+     "tl"
+    ],
+    [
+     "water",
+     "960",
+     "ml"
+    ],
+    [
+     "oud stevig brood",
+     "115",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "30",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een grote pan op middelhoog vuur. Voeg de gesneden bleekselderij, wortel, ui en knoflook toe met het zout en de peper en bak al roerend 8 tot 10 minuten tot de ui zacht is.",
+    "Voeg de tomaten met hun sap toe en breek ze met de lepel. Doe de uitgelekte kikkererwten, de groente, de chilivlokken en het water erbij en breng aan de kook.",
+    "Laat 25 tot 30 minuten zachtjes koken tot de wortel gaar is, of tot 45 minuten als je de tijd hebt. Proef en breng op smaak.",
+    "Scheur het brood in hapklare stukken, roer het door de soep en laat 3 tot 5 minuten meekoken tot het brood doorweekt is.",
+    "Schep in kommen en bestrooi met parmezaan. Maak je de soep vooruit, voeg het brood dan pas toe vlak voor het serveren."
+   ]
+  },
+  {
+   "id": 636,
+   "name": "Pasta e ceci: pasta met kikkererwten, knoflook en tomaat",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Pasta and Chickpeas'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kikkererwten uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "water",
+     "960",
+     "ml"
+    ],
+    [
+     "olijfolie extra vergine",
+     "60",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "tomatenpuree",
+     "120",
+     "g"
+    ],
+    [
+     "korte pasta (macaroni)",
+     "120",
+     "g"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "chilivlokken",
+     "0.25",
+     "tl"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "30",
+     "g"
+    ],
+    [
+     "platte peterselie (optioneel)",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Breng de uitgelekte, afgespoelde kikkererwten met het water aan de kook en kook ze 10 minuten onafgedekt. Houd warm en bewaar het kookvocht.",
+    "Verhit de olie in een grote hapjespan op middelhoog vuur en bak de knoflook in dunne plakjes ongeveer 1 minuut tot de randjes kleuren. Voeg meteen de tomatenpuree toe, zodat de knoflook niet verbrandt, en bak al roerend 1 minuut.",
+    "Voeg de pasta, de kikkererwten met hun kookvocht, het zout en de chilivlokken toe en breng aan de kook. Laat 12 tot 15 minuten zachtjes koken en roer vaak, tot de pasta gaar is.",
+    "Schep in kommen en bestrooi met parmezaan en eventueel peterselie."
+   ]
+  },
+  {
+   "id": 637,
+   "name": "Spaghetti met Griekse yoghurt en gekarameliseerde ui",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🍝",
+   "cuisine": "Grieks",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Pasta with Yogurt and Caramelized Onions'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "3",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "2",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "spaghetti of linguine",
+     "340",
+     "g"
+    ],
+    [
+     "Griekse yoghurt",
+     "240",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "Parmezaanse kaas, grof geraspt",
+     "60",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Zet je grootste pan met minstens 1,5 liter water afgedekt op hoog vuur.",
+    "Verhit de olie in een grote koekenpan op middelhoog vuur en voeg de uien in dunne halve ringen en het zout toe. Zodra de uien hun vocht loslaten, na 3 tot 5 minuten, zet je het vuur op middelhoog. Bak ze al roerend minstens 30 en liefst 45 minuten goudbruin; zet het vuur lager als ze te snel kleuren.",
+    "Doe flink zout in het kokende water en kook de pasta in 8 tot 9 minuten beetgaar. Schep er ongeveer 240 ml kookwater uit en giet de pasta af.",
+    "Meng de pasta in een grote schaal met de uien, de yoghurt en de peper. Voeg scheutje voor scheutje kookwater toe, minstens 60 ml, tot de yoghurt alle pasta gelijkmatig bedekt.",
+    "Strooi de helft van de kaas erover en zet de rest op tafel. Tip: kook de laatste 5 minuten een bos gesneden boerenkool mee met de pasta voor een complete maaltijd."
+   ]
+  },
+  {
+   "id": 638,
+   "name": "Linzenstoof met Italiaanse worst en groenten",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍲",
+   "cuisine": "Italiaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Lentil and Sausage Stew'",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "2",
+     "el"
+    ],
+    [
+     "Italiaanse worstjes (salsiccia)",
+     "2",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "2",
+     "stengel"
+    ],
+    [
+     "wortel",
+     "2",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.25",
+     "tl"
+    ],
+    [
+     "tomatenpuree",
+     "60",
+     "g"
+    ],
+    [
+     "groene of bruine linzen",
+     "200",
+     "g"
+    ],
+    [
+     "water",
+     "1400",
+     "ml"
+    ],
+    [
+     "diepvriesspinazie of -boerenkool",
+     "280",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "30",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verhit 1 eetlepel olie in een grote pan op middelhoog vuur. Haal de worst uit het vel, doe hem in de pan en breek hem snel in kleine stukjes. Bak 5 tot 8 minuten tot de worst goed bruin en gaar is en schep hem met een schuimspaan uit de pan; laat het vet zitten.",
+    "Zet het vuur middelhoog en voeg de gesneden bleekselderij, wortel, ui en knoflook met het zout en de peper toe. Bak 8 tot 10 minuten tot de ui goud kleurt en schraap intussen het aanbaksel los.",
+    "Roer de tomatenpuree erdoor en bak 1 minuut al roerend.",
+    "Voeg de gespoelde linzen, de worst en het water toe en breng aan de kook. Laat 25 tot 30 minuten onafgedekt pruttelen tot de linzen zacht zijn.",
+    "Roer de groente erdoor en laat nog 10 tot 15 minuten koken tot de linzen uit elkaar beginnen te vallen. Serveer met een scheut olijfolie en parmezaan."
+   ]
+  },
+  {
+   "id": 639,
+   "name": "Tofusaté met kokos-limoenmarinade, rijst en groente",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🍢",
+   "cuisine": "Aziatisch",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Tofu Satay'",
+   "basePersons": 4,
+   "timeNote": "Marineren kan tot 24 uur vooruit",
+   "ingredients": [
+    [
+     "houten of metalen spiesjes",
+     "12",
+     "stuk"
+    ],
+    [
+     "stevige tofu",
+     "800",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kokosmelk",
+     "180",
+     "ml"
+    ],
+    [
+     "limoen",
+     "2",
+     "stuk"
+    ],
+    [
+     "chilivlokken",
+     "0.5",
+     "tl"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "5",
+     "cm"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ],
+    [
+     "paksoi of andere groente",
+     "400",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Week houten prikkers 15 minuten in water. Kook de rijst.",
+    "Halveer de tofublokken in de lengte en snijd ze in plakken van 2,5 cm. Dep ze goed droog en bestrooi met de helft van het zout en de peper.",
+    "Meng de kokosmelk met het sap van de limoenen, de chilivlokken en de rest van het zout. Rasp de knoflook en gember erboven en roer door.",
+    "Rijg vier stukjes tofu aan elke prikker, leg ze in een ondiepe schaal, giet de marinade erover en draai ze om zodat alles bedekt is. Je kunt ze afgedekt tot 24 uur in de koelkast laten marineren.",
+    "Verwarm de grill van de oven met het rooster zo hoog mogelijk. Schud de marinade van de spiesjes en leg ze op een met aluminiumfolie beklede bakplaat. Gril ze tot de bovenkant bubbelt en bruin is, 3 tot 10 minuten afhankelijk van je grill; blijf erbij. Keer om en gril de andere kant. Bestrijk met de rest van de marinade en gril nog ongeveer een minuut per kant. Serveer met de rijst en gestoomde groente."
+   ]
+  },
+  {
+   "id": 640,
+   "name": "Miso-aardappelgratin met tofu en parmezaan",
+   "type": "Vegetarisch",
+   "time": 80,
+   "emoji": "🥔",
+   "cuisine": "Japans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Miso Potato Gratin' (groene groente toegevoegd als bijgerecht)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "stevige tofu",
+     "280",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "60",
+     "g"
+    ],
+    [
+     "witte of gele miso",
+     "60",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "zout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "water",
+     "120",
+     "ml"
+    ],
+    [
+     "boter",
+     "1",
+     "el"
+    ],
+    [
+     "vastkokende aardappelen",
+     "680",
+     "g"
+    ],
+    [
+     "broccoli of sperziebonen",
+     "400",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Draai de tofu, de helft van de parmezaan, de miso, knoflook, zout, peper en het water in een blender glad. Proef; de saus mag wat zout zijn, want hij kruidt de aardappels.",
+    "Vet een vierkante ovenschaal van ongeveer 23 cm in met de boter. Schil de aardappels, snijd ze in plakken van 6 mm en leg ze gelijkmatig in de schaal. Giet de saus erover, strijk hem uit en dek af met aluminiumfolie.",
+    "Bak 45 minuten en prik dan met een vork of de aardappels gaar zijn; zo niet, dek weer af en bak nog 10 minuten.",
+    "Verwijder de folie, strooi de rest van de kaas erover en bak onafgedekt 12 tot 15 minuten tot de kaas gesmolten en hier en daar bruin is.",
+    "Laat de gratin 10 minuten rusten voor je hem aansnijdt. Serveer met gestoomde groene groente."
+   ]
+  },
+  {
+   "id": 641,
+   "name": "Gepofte zoete aardappel met pittige linzenchili en yoghurt",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🍠",
+   "cuisine": "Mexicaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Baked Sweet Potatoes with Spicy Lentils'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie extra vergine",
+     "3",
+     "el"
+    ],
+    [
+     "zoete aardappel",
+     "4",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.25",
+     "tl"
+    ],
+    [
+     "wortel",
+     "2",
+     "stuk"
+    ],
+    [
+     "ui (groot)",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "tomatenpuree",
+     "1",
+     "el"
+    ],
+    [
+     "gemalen komijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "groene of bruine linzen",
+     "300",
+     "g"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "1",
+     "stuk"
+    ],
+    [
+     "water",
+     "720",
+     "ml"
+    ],
+    [
+     "Griekse yoghurt",
+     "240",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Halveer de zoete aardappels in de lengte, bestrijk de snijkanten met 1 eetlepel olie en bestrooi met een kwart van het zout en de peper. Leg ze met de snijkant naar beneden op een bakplaat en bak 40 tot 45 minuten tot ze zacht zijn en de snijkant goudbruin is.",
+    "Verhit intussen de rest van de olie in een grote pan op middelhoog vuur. Bak de gesneden wortel, ui en knoflook met de rest van het zout 8 tot 10 minuten zacht en goudbruin.",
+    "Roer de tomatenpuree en komijn erdoor en bak 1 minuut.",
+    "Voeg de gespoelde linzen, de hele chipotle en het water toe en breng aan de kook. Laat 30 tot 35 minuten zachtjes koken tot de linzen heel zacht zijn en het mengsel dik is als chili. Voeg telkens 60 ml water toe als het te droog wordt. Prak de chipotle fijn voor meer pit, of haal hem eruit.",
+    "Leg twee aardappelhelften met de snijkant naar boven in een kom, schep de linzen erover en maak af met een flinke lepel yoghurt."
+   ]
+  },
+  {
+   "id": 642,
+   "name": "Tonijnkoekjes met olijven en bleekselderij",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Tuna Patties' (salade toegevoegd als bijgerecht)",
+   "basePersons": 4,
+   "timeNote": "Inclusief 20 tot 30 min opstijven in de vriezer",
+   "ingredients": [
+    [
+     "panko",
+     "30",
+     "g"
+    ],
+    [
+     "tonijn in olijfolie (blik)",
+     "340",
+     "g"
+    ],
+    [
+     "bleekselderij",
+     "1",
+     "stengel"
+    ],
+    [
+     "rode ui",
+     "0.25",
+     "stuk"
+    ],
+    [
+     "olijven zonder pit",
+     "35",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie extra vergine",
+     "2",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "groene salade",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Meng de panko met de tonijn en zijn olie, de fijngehakte selderij, ui en olijven, het zout en de peper. Prak de tonijn goed fijn en meng het ei erdoor.",
+    "Vorm vier gelijke ballen, leg ze op een bord en druk ze voorzichtig plat tot koekjes. Duw gescheurde randjes weer dicht en zet ze 20 tot 30 minuten in de vriezer om op te stijven. Maak intussen de salade.",
+    "Verhit de olie in een grote antiaanbakpan op middelhoog vuur. Leg de koekjes erin en bak ze zonder te verschuiven 4 tot 5 minuten per kant goudbruin.",
+    "Serveer heet met een partje citroen en de salade."
+   ]
+  },
+  {
+   "id": 643,
+   "name": "Kippendijen gestoofd in kokosmelk met gember en kurkuma",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍗",
+   "cuisine": "Aziatisch",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Coconut-Braised Chicken'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kippendijen met bot en vel",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "ui (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "5",
+     "cm"
+    ],
+    [
+     "kurkuma",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kokosmelk",
+     "400",
+     "ml"
+    ],
+    [
+     "limoen",
+     "2",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst. Dep de kip droog en bestrooi de velkant met de helft van het zout en de peper.",
+    "Verhit een grote hapjespan op middelhoog vuur en leg de kip met het vel naar beneden erin. Bak 8 tot 10 minuten zonder te verschuiven, tot het vel goudbruin is en loslaat. Keer om en bak 3 tot 5 minuten. Haal de kip uit de pan; hij hoeft nog niet gaar te zijn.",
+    "Bak de ui in halve ringen, de knoflook in plakjes, de gehakte gember en de rest van het zout 8 tot 10 minuten in het vet tot de ui goud kleurt; schraap het aanbaksel los.",
+    "Roer de kurkuma erdoor en bak een halve minuut. Giet de kokosmelk erbij en leg de kip met het vel naar boven terug. Breng aan de kook, leg het deksel op de pan en laat 20 tot 25 minuten zachtjes stoven tot de kip mals en gaar is. Schep af en toe saus over de kip.",
+    "Rasp de schil van één limoen boven de pan en pers hem uit. Serveer met de rijst en partjes van de tweede limoen."
+   ]
+  },
+  {
+   "id": 644,
+   "name": "Griekse kip met tomaat, kalamata-olijven en feta",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍗",
+   "cuisine": "Grieks",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Greek Chicken'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kippendijen met bot en vel",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "rode ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "citroensap",
+     "60",
+     "ml"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "gepelde tomaten uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "kalamata-olijven",
+     "160",
+     "g"
+    ],
+    [
+     "feta",
+     "60",
+     "g"
+    ],
+    [
+     "stokbrood",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Dep de kip droog en bestrooi met de helft van het zout en de peper.",
+    "Verhit een grote ovenvaste koekenpan op middelhoog vuur. Bak de kip met het vel naar beneden 8 tot 10 minuten zonder te verschuiven tot het vel goudbruin is, keer om en bak 3 tot 5 minuten. Haal de kip uit de pan.",
+    "Bak de gesnipperde ui en knoflook met de rest van het zout 8 tot 10 minuten in het vet tot de ui goud kleurt. Voeg het citroensap toe en laat het in minder dan een minuut tot de helft inkoken.",
+    "Voeg de tomaten met hun sap toe, breek ze een beetje en roer de olijven erdoor. Leg de kip met het vel naar boven terug, breng aan de kook en zet de pan onafgedekt 20 tot 25 minuten in de oven tot de kip goudbruin en gaar is.",
+    "Verkruimel de feta erover en serveer met partjes citroen en brood om de saus mee op te deppen."
+   ]
+  },
+  {
+   "id": 645,
+   "name": "Italiaanse worstjes op romige polenta met gebakken ui",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🌭",
+   "cuisine": "Italiaans",
+   "source": "Stephenson",
+   "sourceRef": "Pantry to Plate, 'Sausages Over Polenta'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "water",
+     "1400",
+     "ml"
+    ],
+    [
+     "fijne polenta (geen instant)",
+     "140",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "Italiaanse worstjes (salsiccia)",
+     "4",
+     "stuk"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "boter",
+     "30",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "30",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Breng het water aan de kook in een grote pan. Giet de polenta er al kloppend in een gestage straal in en blijf kloppen tot er geen klontjes meer zijn, 1 tot 2 minuten. Voeg het grootste deel van het zout toe, zet het vuur laag en laat 30 tot 45 minuten zachtjes pruttelen. Roer ongeveer elke minuut en voeg een scheutje water toe als hij te dik wordt.",
+    "Verhit intussen een grote koekenpan op middelhoog vuur en bak de worstjes 6 tot 8 minuten zonder te verschuiven tot ze goed bruin zijn. Keer ze en bak nog 6 tot 8 minuten tot ze gaar zijn. Leg ze op een bord.",
+    "Bak de ui in halve ringen in het vet 8 tot 10 minuten zacht en goudbruin en schraap het aanbaksel los. Bestrooi met de rest van het zout.",
+    "Haal de polenta van het vuur en roer de boter en parmezaan erdoor. Schep de polenta op een schaal of borden, leg de worstjes erop en schep de ui met het vocht erover."
    ]
   }
  ]
