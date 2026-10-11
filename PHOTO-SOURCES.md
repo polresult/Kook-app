@@ -537,3 +537,12 @@ Alle 23 recepten (569 tot en met 591) tonen de gerechtfoto uit het boek als phot
 ## Ottolenghi: The Cookbook (Yotam Ottolenghi en Sami Tamimi)
 
 Alle 11 recepten (592 tot en met 602) tonen de gerechtfoto uit het boek als photos/ottolenghi-<id>.webp. In het boek staat de foto op de pagina vóór het recept. Bij 602 is de hand met kwast weggesneden.
+
+Zes Ottolenghi-recepten zonder gerechtfoto in het boek hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Harira: Marokkaanse soep met lam, kikkererwten en spinazie: https://www.pexels.com/photo/33597401/
+- Gehaktballetjes van rund en lam uit de oven met tahinsaus: https://www.pexels.com/photo/26341210/
+- Harissakip met rode-grapefruitsalade: https://www.pexels.com/photo/19615787/
+- Zalm met salsa van geroosterde paprika en hazelnoot: https://www.pexels.com/photo/28899084/
+- Zeebaars met groene tahinsaus en granaatappelpitjes: https://www.pexels.com/photo/5713767/
+- Zeebaars op pitabrood met labneh, tomatensalsa en ingelegde citroen: https://www.pexels.com/photo/12918197/

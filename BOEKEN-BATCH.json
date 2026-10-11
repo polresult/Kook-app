@@ -44,7 +44,7 @@
   "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
   "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was",
   "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen",
-  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186); geen gerechtfoto in het boek: harira, puy-linzen met spek, broccolini met tofu, gehaktballetjes in tahin, harissakip, zalm met paprikasalsa en de twee zeebaarsrecepten"
+  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186); geen gerechtfoto in het boek en niet aangevuld met Pexels: puy-linzen met spek, broccolini met tofu"
  },
  "recipes": [
   {
@@ -8974,6 +8974,512 @@
     "Meng de olijfolie, geperste knoflook, gehakte peterselie en een snuf zout en bestrijk de galettes ermee zodra ze uit de oven komen. Serveer warm of lauw met een groene salade."
    ],
    "photo": "photos/ottolenghi-602.webp"
+  },
+  {
+   "id": 603,
+   "name": "Harira: Marokkaanse soep met lam, kikkererwten en spinazie",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍲",
+   "cuisine": "Marokkaans",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Harira (lamb, chickpeas, and spinach)' (kikkererwten uit blik, zoals het boek als alternatief noemt; boek: 4 tot 6 personen)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "lamsschouder of -bout zonder bot",
+     "200",
+     "g"
+    ],
+    [
+     "tomatenpuree",
+     "2",
+     "el"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "1000",
+     "g"
+    ],
+    [
+     "kikkererwten uit blik (uitgelekt)",
+     "500",
+     "g"
+    ],
+    [
+     "kippenbouillon",
+     "1200",
+     "ml"
+    ],
+    [
+     "citroen",
+     "2",
+     "stuk"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen gember",
+     "1",
+     "tl"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "jonge spinazie",
+     "100",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "4",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een grote pan op middelhoog vuur en fruit de ui in blokjes van 1 cm zacht en glazig.",
+    "Zet het vuur hoger, voeg het lamsvlees in blokjes van 1 cm toe en bak 2 tot 3 minuten tot het rondom gekleurd is. Roer de tomatenpuree en de suiker erdoor en bak 2 minuten.",
+    "Voeg de tomaten, kikkererwten, bouillon, peper en zout toe. Breng aan de kook, schep het schuim eraf en laat ongeveer 35 minuten zachtjes koken tot het vlees mals is.",
+    "Pers er één citroen boven uit en breng op smaak met komijn, gember, saffraan, peper en zout.",
+    "Breng de soep vlak voor het serveren weer aan de kook. Roer de grof gehakte spinazie en de koriander erdoor en serveer met partjes van de tweede citroen."
+   ]
+  },
+  {
+   "id": 604,
+   "name": "Gehaktballetjes van rund en lam uit de oven met tahinsaus",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🧆",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Beef and lamb meatballs baked in tahini' (boek: 4 tot 6 personen)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "tahin",
+     "150",
+     "ml"
+    ],
+    [
+     "water",
+     "150",
+     "ml"
+    ],
+    [
+     "witte wijnazijn",
+     "70",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "oud wit brood zonder korst",
+     "1",
+     "snee"
+    ],
+    [
+     "rundergehakt",
+     "300",
+     "g"
+    ],
+    [
+     "lamsgehakt",
+     "300",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "gemalen piment",
+     "2.5",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "1.5",
+     "tl"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "milde olijfolie om te bakken",
+     "100",
+     "ml"
+    ],
+    [
+     "citroen (schil)",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Klop voor de saus de tahin, het water, de azijn, 1 teen geperste knoflook en een snuf zout tot een gladde, dikke saus. Voeg eventueel nog wat water toe.",
+    "Verwarm de oven voor op 200 °C en kook de rijst. Week het brood 2 tot 3 minuten in koud water, knijp het uit en verkruimel het in een kom.",
+    "Voeg beide soorten gehakt, de rest van de knoflook geperst, het grootste deel van de fijngehakte peterselie, de rest van het zout, peper, piment, kaneel en het ei toe en kneed goed. Draai er balletjes ter grootte van een golfbal van.",
+    "Verhit een laagje olie van een halve centimeter in een grote koekenpan en bak de balletjes in porties in ongeveer 2 minuten rondom bruin. Laat uitlekken op keukenpapier.",
+    "Leg ze in één laag in een ovenschaal en zet ze 5 minuten in de oven. Giet de tahinsaus over en rond de balletjes en bak nog 10 minuten, tot de saus iets kleurt en indikt en het vlees net gaar is. Bestrooi met de rest van de peterselie en de citroenrasp en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 605,
+   "name": "Harissakip met rode-grapefruitsalade",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🍗",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Harissa-marinated chicken with red grapefruit salad' (harissa uit pot in plaats van zelfgemaakt)",
+   "basePersons": 4,
+   "timeNote": "Kip een nacht marineren; daarna 45 min",
+   "ingredients": [
+    [
+     "kippendijfilet",
+     "800",
+     "g"
+    ],
+    [
+     "harissa (uit pot)",
+     "3",
+     "el"
+    ],
+    [
+     "Griekse yoghurt",
+     "1",
+     "el"
+    ],
+    [
+     "citroensap",
+     "160",
+     "ml"
+    ],
+    [
+     "zout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "rode grapefruit",
+     "2",
+     "stuk"
+    ],
+    [
+     "grapefruitsap",
+     "150",
+     "ml"
+    ],
+    [
+     "ahornsiroop",
+     "150",
+     "ml"
+    ],
+    [
+     "gemalen kaneel",
+     "1",
+     "snuf"
+    ],
+    [
+     "steranijs",
+     "1",
+     "stuk"
+    ],
+    [
+     "rucola",
+     "120",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Meng de harissa met de yoghurt, 2 eetlepels citroensap en een halve theelepel zout. Wrijf de kip ermee in, dek af en laat een nacht in de koelkast marineren.",
+    "Snijd boven- en onderkant van de grapefruits af en snijd de schil met het wit eraf. Snijd de partjes boven een kom tussen de vliezen uit en vang het sap op. Vul dit sap aan met grapefruitsap tot 150 ml.",
+    "Breng het grapefruitsap, de rest van het citroensap, de ahornsiroop, een snuf zout, de kaneel en de steranijs aan de kook en laat ongeveer 20 minuten zachtjes inkoken tot een derde.",
+    "Verwarm de oven voor op 220 °C. Leg de kip ruim uit elkaar op een bakplaat en zet hem 5 minuten in de oven. Verlaag de temperatuur naar 180 °C en bak nog 12 tot 15 minuten. Zet de kip daarna 2 tot 3 minuten onder de hete grill tot hij mooi kleurt en helemaal gaar is.",
+    "Hussel de rucola en de grapefruitpartjes met de olijfolie, zout en peper. Verdeel over de borden, leg de warme kip erop en druppel er per portie ongeveer een eetlepel saus over."
+   ]
+  },
+  {
+   "id": 606,
+   "name": "Zalm met salsa van geroosterde paprika en hazelnoot",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🐟",
+   "cuisine": "Mediterraan",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Organic salmon with red pepper and hazelnut salsa'",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "rode paprika",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "8",
+     "el"
+    ],
+    [
+     "hazelnoten",
+     "2",
+     "el"
+    ],
+    [
+     "bieslook",
+     "1",
+     "bosje"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "appelciderazijn",
+     "2",
+     "el"
+    ],
+    [
+     "zalmfilet met vel",
+     "800",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Kwartier de paprika's, verwijder de zaadjes, hussel ze met 2 eetlepels olie en een flinke snuf zout en rooster ze ongeveer 20 minuten tot ze gaar en licht geblakerd zijn. Rooster de hazelnoten tegelijk 10 minuten op een aparte bakplaat.",
+    "Dek de paprika af en laat afkoelen; bewaar het braadvocht. Wrijf de velletjes van de hazelnoten en hak ze grof.",
+    "Ontvel de paprika als je wilt en snijd hem in blokjes van een halve centimeter. Meng met de hazelnoten, het braadvocht, 4 eetlepels olie, de gesneden bieslook, geperste knoflook, rasp en sap van de citroen, de azijn, peper en zout.",
+    "Verhit een grillpan op het hoogste vuur. Bestrijk de zalm met de rest van de olie, bestrooi met zout en peper en leg hem met het vel naar boven 3 minuten in de pan.",
+    "Leg de zalm met het vel naar beneden op een bakplaat met bakpapier en bak 5 tot 8 minuten in de oven tot hij net gaar en vanbinnen nog lichtroze is. Serveer met een flinke lepel salsa erop."
+   ]
+  },
+  {
+   "id": 607,
+   "name": "Zeebaars met groene tahinsaus en granaatappelpitjes",
+   "type": "Vis",
+   "time": 20,
+   "emoji": "🐟",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Panfried sea bass with green tahini and pomegranate seeds' (met een halve portie 'Green tahini sauce')",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "zeebaarsfilet",
+     "4",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "tahin",
+     "75",
+     "ml"
+    ],
+    [
+     "water",
+     "75",
+     "ml"
+    ],
+    [
+     "citroensap",
+     "40",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "zout",
+     "0.25",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "citroen",
+     "2",
+     "stuk"
+    ],
+    [
+     "granaatappelpitjes",
+     "100",
+     "g"
+    ],
+    [
+     "grof zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Maak de groene tahinsaus: klop de tahin met het water, citroensap, geperste knoflook en zout glad en romig. Voeg zo nodig wat water toe tot de saus dik maar vloeibaar is, als honing. Roer de fijngehakte peterselie erdoor, op 2 eetlepels na.",
+    "Verwarm de oven voor op 200 °C en bekleed een bakplaat met bakpapier. Bestrooi de vis royaal met zout en peper, leg hem met het vel naar beneden op de plaat en besprenkel met de olijfolie.",
+    "Bak de vis 6 tot 7 minuten tot hij stevig aanvoelt en net gaar is.",
+    "Leg de vis op borden, schep er royaal tahinsaus over en garneer met de rest van de peterselie, de rasp van één citroen en de granaatappelpitjes. Serveer met partjes van de andere citroen."
+   ]
+  },
+  {
+   "id": 608,
+   "name": "Zeebaars op pitabrood met labneh, tomatensalsa en ingelegde citroen",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Midden-Oosters",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Panfried sea bass on pita with labneh, tomato, and preserved lemon' (boek: voorgerecht voor 4; hier lichte maaltijd voor 4)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "rijpe tomaten",
+     "350",
+     "g"
+    ],
+    [
+     "milde rode chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "chilivlokken",
+     "0.5",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "2",
+     "el"
+    ],
+    [
+     "citroensap",
+     "50",
+     "ml"
+    ],
+    [
+     "ingelegde citroen",
+     "2",
+     "partje"
+    ],
+    [
+     "zeebaarsfilet",
+     "600",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "groot pitabrood",
+     "2",
+     "stuk"
+    ],
+    [
+     "labneh (of volle Griekse yoghurt)",
+     "120",
+     "g"
+    ],
+    [
+     "granaatappelpitjes (optioneel)",
+     "2",
+     "el"
+    ],
+    [
+     "grof zeezout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kerf de tomaten aan de onderkant in, dompel ze 30 seconden in kokend water, spoel ze koud af en ontvel ze. Rasp ze grof en meng met de fijngehakte chilipeper, de chilivlokken, de gehakte kruiden en het citroensap. Breng op smaak met zout.",
+    "Verwijder het vruchtvlees van de ingelegde citroen en snijd de schil heel fijn.",
+    "Verwarm de oven voor op 180 °C. Halveer de visfilets schuin en bestrooi ze royaal met zout en peper. Verhit de olie in een grote antiaanbakpan en bak de vis met het vel naar beneden 3 minuten op middelhoog vuur tot het vel krokant is. Keer om en bak nog ongeveer 2 minuten tot hij gaar is.",
+    "Warm intussen de pitabroodjes, in kwarten gesneden, 2 minuten in de oven. Leg op elk bord twee kwarten en besmeer ze dik met labneh.",
+    "Leg de warme vis erop en schep de salsa erover en eromheen. Maak af met de ingelegde citroen en eventueel granaatappelpitjes."
+   ]
   }
  ]
 }
