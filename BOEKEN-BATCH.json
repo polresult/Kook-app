@@ -44,7 +44,7 @@
   "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
   "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was",
   "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen",
-  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186); geen gerechtfoto in het boek en niet aangevuld met Pexels: puy-linzen met spek, broccolini met tofu"
+  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186)"
  },
  "recipes": [
   {
@@ -9479,6 +9479,157 @@
     "Verwarm de oven voor op 180 °C. Halveer de visfilets schuin en bestrooi ze royaal met zout en peper. Verhit de olie in een grote antiaanbakpan en bak de vis met het vel naar beneden 3 minuten op middelhoog vuur tot het vel krokant is. Keer om en bak nog ongeveer 2 minuten tot hij gaar is.",
     "Warm intussen de pitabroodjes, in kwarten gesneden, 2 minuten in de oven. Leg op elk bord twee kwarten en besmeer ze dik met labneh.",
     "Leg de warme vis erop en schep de salsa erover en eromheen. Maak af met de ingelegde citroen en eventueel granaatappelpitjes."
+   ]
+  },
+  {
+   "id": 609,
+   "name": "Puy-linzen met zure kersen, krokant spek en gorgonzola",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🥗",
+   "cuisine": "Europees",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Puy lentils with sour cherries, bacon, and Gorgonzola' (boek: voorgerecht voor 2 tot 4; hier hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "Puy-linzen",
+     "125",
+     "g"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "stuk"
+    ],
+    [
+     "sjalot",
+     "3",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "water",
+     "3",
+     "el"
+    ],
+    [
+     "fijne suiker",
+     "1",
+     "tl"
+    ],
+    [
+     "gedroogde zure kersen (of veenbessen)",
+     "60",
+     "g"
+    ],
+    [
+     "rodewijnazijn",
+     "70",
+     "ml"
+    ],
+    [
+     "ontbijtspek",
+     "8",
+     "plak"
+    ],
+    [
+     "jonge spinazie",
+     "80",
+     "g"
+    ],
+    [
+     "romige gorgonzola",
+     "120",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Spoel de linzen en zet ze op met de laurier en zoveel water dat het drie keer zo hoog staat als de linzen. Breng aan de kook en laat ongeveer 20 minuten zachtjes koken tot ze beetgaar zijn.",
+    "Fruit intussen de fijngesnipperde sjalot in 2 eetlepels olie op middelhoog vuur in ongeveer 10 minuten goudbruin. Voeg het water, de suiker, de kersen en de azijn toe en laat 8 tot 10 minuten op laag vuur inkoken tot een dikke saus. Breng op smaak met peper en zout.",
+    "Giet de linzen goed af, verwijder de laurier en schep ze meteen door de saus zodat ze de smaak opnemen. Proef: ze hebben flink zout nodig, maar houd rekening met het zoute spek en de kaas. Laat iets afkoelen.",
+    "Bak het spek in de rest van de olie 3 minuten per kant tot het krokant is en laat uitlekken op keukenpapier.",
+    "Breek het spek in grove stukken en schep het met de spinazie door de linzen. Verdeel over de borden en leg er brokjes gorgonzola op."
+   ]
+  },
+  {
+   "id": 610,
+   "name": "Zoete broccolini met tofu, sesam en koriander",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🥦",
+   "cuisine": "Aziatisch",
+   "source": "Ottolenghi",
+   "sourceRef": "Ottolenghi: The Cookbook, 'Sweet broccolini with tofu, sesame, and cilantro' (boek: bijgerecht voor 4; hier met rijst als hoofdgerecht voor 2)",
+   "basePersons": 2,
+   "timeNote": "Inclusief 30 min marineren",
+   "ingredients": [
+    [
+     "ketjap manis",
+     "3",
+     "el"
+    ],
+    [
+     "chilisaus (niet te zoet)",
+     "4",
+     "el"
+    ],
+    [
+     "sesamolie",
+     "2",
+     "el"
+    ],
+    [
+     "stevige tofu",
+     "250",
+     "g"
+    ],
+    [
+     "broccolini (bimi)",
+     "450",
+     "g"
+    ],
+    [
+     "sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "pinda-olie",
+     "1",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "3",
+     "el"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "rijst",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Klop de ketjap, de chilisaus en de sesamolie door elkaar. Snijd de tofu in repen van 1 cm, schep ze voorzichtig door de marinade zodat ze niet breken en laat een half uur in de koelkast staan. Kook intussen de rijst.",
+    "Verwijder harde blaadjes van de broccolini en blancheer hem 2 minuten in ruim kokend water. Spoel meteen koud af en laat uitlekken.",
+    "Rooster het sesamzaad ongeveer 5 minuten in een droge antiaanbakpan op middelhoog vuur en schud af en toe.",
+    "Verhit een wok flink en voeg de pinda-olie toe. Zet het vuur middelhoog, leg de tofureepjes erin en bak ze 2 tot 3 minuten tot ze aan de onderkant kleuren. Keer ze voorzichtig om en bak de andere kant. Bak in porties als ze niet in één laag passen.",
+    "Voeg de rest van de marinade, de broccolini, de koriander en de helft van het sesamzaad toe en schep voorzichtig om. Zet het vuur uit en laat op kamertemperatuur komen. Proef, maak op smaak met extra sesamolie, ketjap of zout, bestrooi met de rest van het sesamzaad en serveer met de rijst."
    ]
   }
  ]

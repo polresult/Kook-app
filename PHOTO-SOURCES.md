@@ -546,3 +546,5 @@ Zes Ottolenghi-recepten zonder gerechtfoto in het boek hebben een Pexels-voorbee
 - Zalm met salsa van geroosterde paprika en hazelnoot: https://www.pexels.com/photo/28899084/
 - Zeebaars met groene tahinsaus en granaatappelpitjes: https://www.pexels.com/photo/5713767/
 - Zeebaars op pitabrood met labneh, tomatensalsa en ingelegde citroen: https://www.pexels.com/photo/12918197/
+- Puy-linzen met zure kersen, krokant spek en gorgonzola: https://www.pexels.com/photo/8934919/
+- Zoete broccolini met tofu, sesam en koriander: https://www.pexels.com/photo/27381524/
