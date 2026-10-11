@@ -548,3 +548,9 @@ Zes Ottolenghi-recepten zonder gerechtfoto in het boek hebben een Pexels-voorbee
 - Zeebaars op pitabrood met labneh, tomatensalsa en ingelegde citroen: https://www.pexels.com/photo/12918197/
 - Puy-linzen met zure kersen, krokant spek en gorgonzola: https://www.pexels.com/photo/8934919/
 - Zoete broccolini met tofu, sesam en koriander: https://www.pexels.com/photo/27381524/
+
+## Everyday Fresh (Donna Hay)
+
+Twintig recepten (611 tot en met 630) tonen de gerechtfoto uit het boek als photos/hayfresh-<id>.webp; in het boek staat de foto twee pagina's na het recept. De foto van de vrije lasagne is in de pdf beschadigd, daarom heeft 631 een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Vrije lasagne met bloemkool-kaassaus en muntspinazie: https://www.pexels.com/photo/30615716/

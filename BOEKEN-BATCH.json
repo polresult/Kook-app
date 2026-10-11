@@ -35,6 +35,11 @@
    "title": "Ottolenghi: The Cookbook",
    "author": "Yotam Ottolenghi en Sami Tamimi",
    "basePersons": "volgens het boek, voorgerechten omgerekend naar hoofdgerecht (zie sourceRef)"
+  },
+  "HayFresh": {
+   "title": "Everyday Fresh: Meals in Minutes",
+   "author": "Donna Hay",
+   "basePersons": "volgens het boek"
   }
  },
  "skipped": {
@@ -44,7 +49,8 @@
   "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
   "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was",
   "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen",
-  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186)"
+  "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; salades en bijgerechten; bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, brioche-pizza, varkensbuik, ossenstaart, kwartel, hele kalkoenfilet met 24 uur marinade, gevulde sardines); lijkt te veel op bestaande recepten: kip met sumak en za'atar (musakhan 543), eendenborst met sinaasappel (236), tonijn met notenkorst (51), gekarameliseerde witlof met ham en kaas, rode-linzensoep (88 en 467), couscous met geroosterde pompoen (186)",
+  "HayFresh": "desserts; recepten zonder leesbare tekst in de pdf (een deel van de variaties en enkele basisrecepten); varianten die een basisrecept hergebruiken; lijkt te veel op bestaande recepten: nasi goreng-omelet (12, 77), minestrone (89), zwarte-bonenbolognese (99), kikkererwtenburgers (bonenburger 173), gnocchi met tomaat (15), teriyakizalm (13), rijstbowl met rauwe zalm (pokébowl 19), tonijn-sobabowl (51, 189), pasta met knoflookkruim (577), Italiaanse bonen op toast (witte bonen op brood 209, 252), spinazie-souffléomelet (240), pompoensoep (87), dumplingsoep (96)"
  },
  "recipes": [
   {
@@ -9630,6 +9636,1667 @@
     "Rooster het sesamzaad ongeveer 5 minuten in een droge antiaanbakpan op middelhoog vuur en schud af en toe.",
     "Verhit een wok flink en voeg de pinda-olie toe. Zet het vuur middelhoog, leg de tofureepjes erin en bak ze 2 tot 3 minuten tot ze aan de onderkant kleuren. Keer ze voorzichtig om en bak de andere kant. Bak in porties als ze niet in één laag passen.",
     "Voeg de rest van de marinade, de broccolini, de koriander en de helft van het sesamzaad toe en schep voorzichtig om. Zet het vuur uit en laat op kamertemperatuur komen. Proef, maak op smaak met extra sesamolie, ketjap of zout, bestrooi met de rest van het sesamzaad en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 611,
+   "name": "Kleverige soja-kipballetjes met sobanoedels en courgette",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍜",
+   "cuisine": "Aziatisch",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 14",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kipgehakt",
+     "600",
+     "g"
+    ],
+    [
+     "witte chiazaad",
+     "50",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "4",
+     "cm"
+    ],
+    [
+     "hoisinsaus",
+     "2",
+     "el"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "125",
+     "ml"
+    ],
+    [
+     "witte miso",
+     "1",
+     "el"
+    ],
+    [
+     "mirin",
+     "180",
+     "ml"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "el"
+    ],
+    [
+     "rijstazijn",
+     "2",
+     "el"
+    ],
+    [
+     "honing",
+     "4",
+     "el"
+    ],
+    [
+     "sobanoedels",
+     "150",
+     "g"
+    ],
+    [
+     "courgette",
+     "2",
+     "stuk"
+    ],
+    [
+     "sesamzaad",
+     "2",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Meng het kipgehakt met de chiazaad, de geperste knoflook, de geraspte gember, de hoisinsaus, de fijngehakte chilipeper en lente-ui. Rol er balletjes van een flinke eetlepel van en leg ze op bakpapier.",
+    "Giet de olie in een diepe bakplaat of ovenschaal en verwarm die 5 minuten in de oven. Leg de balletjes erin en bak ze 5 minuten.",
+    "Klop de sojasaus, miso, mirin, sesamolie, azijn en honing door elkaar. Giet dit voorzichtig over de balletjes en bak nog 15 minuten tot ze gaar zijn en de saus stroperig is.",
+    "Kook intussen de soba volgens de verpakking en spoel af. Schaaf de courgette met een julienneschiller of dunschiller in slierten.",
+    "Verdeel de noedels en courgette over kommen en bestrooi met sesamzaad. Schep de balletjes met de saus erop en garneer met koriander."
+   ],
+   "photo": "photos/hayfresh-611.webp"
+  },
+  {
+   "id": 612,
+   "name": "Flespompoen met ahorn en chili, quinoatabouleh en citroen-tahindressing",
+   "type": "Vegetarisch",
+   "time": 70,
+   "emoji": "🎃",
+   "cuisine": "Midden-Oosters",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 16",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "flespompoen",
+     "2000",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ahornsiroop",
+     "1",
+     "el"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "tl"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "quinoa",
+     "110",
+     "g"
+    ],
+    [
+     "munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "wilde rucola",
+     "60",
+     "g"
+    ],
+    [
+     "tahin",
+     "140",
+     "g"
+    ],
+    [
+     "citroensap",
+     "160",
+     "ml"
+    ],
+    [
+     "water",
+     "250",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "geroosterde amandelen",
+     "40",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Halveer de pompoen in de lengte, schep de pitten eruit en leg hem met de snijkant naar boven op een bakplaat. Kerf het vruchtvlees ondiep in. Meng de olie, ahornsiroop, chilivlokken, zout en peper en bestrijk de pompoen ermee.",
+    "Dek af met aluminiumfolie en rooster 20 minuten. Verwijder de folie en rooster nog 40 minuten tot de pompoen goudbruin en zacht is.",
+    "Kook intussen de quinoa volgens de verpakking en laat afkoelen. Meng met de gescheurde munt en de rucola.",
+    "Roer de tahin met het citroensap, het water, de geperste knoflook en een snuf zout tot een gladde dressing.",
+    "Leg de pompoen op een schaal, schep de tabouleh erop, besprenkel met de dressing en strooi de gehakte amandelen erover."
+   ],
+   "photo": "photos/hayfresh-612.webp"
+  },
+  {
+   "id": 613,
+   "name": "Auberginschnitzels in parmezaan-quinoakorst met geroosterde tomaatjes",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🍆",
+   "cuisine": "Italiaans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 20",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "aubergine",
+     "2",
+     "stuk"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ],
+    [
+     "quinoavlokken (of panko)",
+     "150",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "40",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "ei",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "cherrytomaatjes aan de tros",
+     "500",
+     "g"
+    ],
+    [
+     "rucola",
+     "60",
+     "g"
+    ],
+    [
+     "verse mozzarella",
+     "250",
+     "g"
+    ],
+    [
+     "basilicum",
+     "1",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Snijd de aubergines in de lengte in plakken van 1,5 cm. Bestrooi beide kanten met wat zout, laat 10 minuten staan en dep droog.",
+    "Meng de quinoavlokken, de parmezaan en peper in een diep bord. Haal de plakken door het losgeklopte ei en druk ze aan beide kanten in het mengsel.",
+    "Leg ze op een bakplaat met bakpapier, besprenkel royaal met olie en leg de tomaatjes erbij. Rooster 25 tot 30 minuten tot de aubergine goudbruin en krokant is.",
+    "Serveer met rucola, mozzarella en basilicum."
+   ],
+   "photo": "photos/hayfresh-613.webp"
+  },
+  {
+   "id": 614,
+   "name": "Kip uit de oven met citroen, olijven, boterbonen en palmkool",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍗",
+   "cuisine": "Mediterraan",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 22",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "olijfolie",
+     "60",
+     "ml"
+    ],
+    [
+     "citroen",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "8",
+     "teen"
+    ],
+    [
+     "groene olijven",
+     "100",
+     "g"
+    ],
+    [
+     "verse oregano of marjolein",
+     "12",
+     "takje"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "kipfilet (klein)",
+     "600",
+     "g"
+    ],
+    [
+     "boterbonen uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "palmkool (cavolo nero)",
+     "1",
+     "bosje"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Hussel de olie, de citroen in dikke plakken, de gekneusde knoflook met schil, de olijven, de oregano, zout en peper in een braadslede met bakpapier. Bak 10 minuten.",
+    "Voeg de kip en de uitgelekte, afgespoelde bonen toe, schep alles door het braadvocht en bak 10 minuten.",
+    "Leg de palmkoolblaadjes zonder steel erbij en bak nog 5 minuten tot de kool krokant en de kip gaar is.",
+    "Snijd de kip in dikke plakken en serveer met de palmkool, bonen, olijven en het braadvocht."
+   ],
+   "photo": "photos/hayfresh-614.webp"
+  },
+  {
+   "id": 615,
+   "name": "Gekarameliseerde koolsteaks met ingelegde biet en feta",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🥬",
+   "cuisine": "Europees",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 24",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "groene kool (middelgroot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "rauwe bieten",
+     "300",
+     "g"
+    ],
+    [
+     "balsamicoazijn",
+     "125",
+     "ml"
+    ],
+    [
+     "bruine suiker",
+     "1",
+     "el"
+    ],
+    [
+     "zeezout",
+     "0.5",
+     "tl"
+    ],
+    [
+     "stevige feta",
+     "200",
+     "g"
+    ],
+    [
+     "dille",
+     "1",
+     "handvol"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Snijd de kool in plakken van 2,5 cm dik en leg ze op een bakplaat met bakpapier. Bestrijk met olie, bestrooi met zout en peper en dek af met aluminiumfolie. Rooster 20 minuten, verwijder de folie en rooster nog 25 minuten tot de kool geblakerd en gekarameliseerd is.",
+    "Schaaf intussen de geschrobde bieten flinterdun en meng ze met de balsamico, de suiker en het zeezout.",
+    "Beleg de kool met de bieten, de feta in plakken, dille en peterselie en besprenkel met het inlegvocht van de bieten."
+   ],
+   "photo": "photos/hayfresh-615.webp"
+  },
+  {
+   "id": 616,
+   "name": "Wortel-kimchikoekjes met chili-omelet",
+   "type": "Vegetarisch",
+   "time": 40,
+   "emoji": "🥕",
+   "cuisine": "Koreaans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 28",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "wortel",
+     "500",
+     "g"
+    ],
+    [
+     "geraspte bloemkool",
+     "200",
+     "g"
+    ],
+    [
+     "kimchi",
+     "280",
+     "g"
+    ],
+    [
+     "ei",
+     "8",
+     "stuk"
+    ],
+    [
+     "melk",
+     "60",
+     "ml"
+    ],
+    [
+     "bruin rijstmeel",
+     "55",
+     "g"
+    ],
+    [
+     "witte chiazaad",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "sperziebonen",
+     "200",
+     "g"
+    ],
+    [
+     "rode chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse gember",
+     "1",
+     "cm"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "chilisaus",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Schaaf de wortel in dunne reepjes. Meng met de bloemkool, de kimchi in reepjes, 4 losgeklopte eieren, de melk, het rijstmeel en de chiazaad.",
+    "Verhit twee middelgrote antiaanbakpannen op middelhoog vuur met wat olie. Schep in elke pan ongeveer 250 ml beslag, strijk het dun uit en bak 5 tot 7 minuten per kant goudbruin. Houd warm en bak de rest van het beslag op dezelfde manier.",
+    "Blancheer de sperziebonen 2 tot 3 minuten.",
+    "Maak de chili-omeletjes: veeg de pannen schoon, doe in elke pan een theelepel olie en strooi er wat chilipeper in ringetjes en geraspte gember in. Bak 1 tot 2 minuten, giet er per pan een losgeklopt ei bij en laat uitlopen. Bak 3 tot 4 minuten tot de randjes krokant zijn, rol op en herhaal met de rest van de eieren. Snijd de omeletjes in reepjes.",
+    "Verdeel de koekjes over borden en beleg met de bonen, omeletreepjes, lente-ui en chilisaus."
+   ],
+   "photo": "photos/hayfresh-616.webp"
+  },
+  {
+   "id": 617,
+   "name": "Lamsgehakttaart met aubergine, munt en feta",
+   "type": "Vlees",
+   "time": 65,
+   "emoji": "🍆",
+   "cuisine": "Grieks",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 32",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "aubergine",
+     "3",
+     "stuk"
+    ],
+    [
+     "lamsgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "vers volkoren broodkruim",
+     "70",
+     "g"
+    ],
+    [
+     "honing",
+     "2",
+     "el"
+    ],
+    [
+     "gemalen komijn",
+     "2",
+     "tl"
+    ],
+    [
+     "munt",
+     "1",
+     "bosje"
+    ],
+    [
+     "pijnboompitten",
+     "2",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "stevige feta",
+     "150",
+     "g"
+    ],
+    [
+     "verse oregano",
+     "8",
+     "takje"
+    ],
+    [
+     "sumak",
+     "1",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "Griekse yoghurt",
+     "280",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 180 °C en vet een ronde ovenschaal van ongeveer 28 cm in. Snijd de aubergines in dunne plakken en leg de helft dakpansgewijs in een cirkel, vanuit het midden naar buiten.",
+    "Meng het gehakt met het broodkruim, de honing, de komijn, 4 eetlepels gehakte munt, de pijnboompitten, zout en peper. Druk dit op de aubergine en verkruimel de feta erover. Leg er een tweede laag aubergine op.",
+    "Strooi de oregano en sumak erover en besprenkel met olie. Bak 40 tot 45 minuten tot het vlees gaar en de aubergine goudbruin is.",
+    "Meng intussen de yoghurt met 2 eetlepels gesneden munt en zout.",
+    "Verdeel de taart over de borden en serveer met de muntyoghurt en de rest van de munt."
+   ],
+   "photo": "photos/hayfresh-617.webp"
+  },
+  {
+   "id": 618,
+   "name": "Lauwe linzensalade met boerenkool, citroenyoghurt en gerookte zalm",
+   "type": "Vis",
+   "time": 15,
+   "emoji": "🐟",
+   "cuisine": "Europees",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 48",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "linzen uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "boerenkool, gesneden",
+     "60",
+     "g"
+    ],
+    [
+     "rodewijnazijn",
+     "1",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "Griekse yoghurt",
+     "140",
+     "g"
+    ],
+    [
+     "gerookte zalm",
+     "6",
+     "plak"
+    ]
+   ],
+   "steps": [
+    "Verhit de olie in een grote koekenpan op middelhoog vuur en bak de ui in ringen 3 minuten zacht.",
+    "Voeg de uitgelekte linzen en de boerenkool toe en bak 3 minuten tot de kool geslonken is en de linzen warm zijn. Roer de azijn erdoor, breng op smaak met zout en peper en schep op borden.",
+    "Roer de geraspte citroenschil door de yoghurt en schep op de linzen. Leg de zalm erop en serveer met partjes citroen."
+   ],
+   "photo": "photos/hayfresh-618.webp"
+  },
+  {
+   "id": 619,
+   "name": "Gözleme met boerenkool, spinazie, citroen en feta",
+   "type": "Vegetarisch",
+   "time": 25,
+   "emoji": "🫓",
+   "cuisine": "Turks",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 52 (snelle versie met kant-en-klaar platbrood)",
+   "basePersons": 2,
+   "ingredients": [
+    [
+     "boerenkool, gesneden",
+     "90",
+     "g"
+    ],
+    [
+     "jonge spinazie",
+     "100",
+     "g"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "feta",
+     "150",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "platbrood of roti",
+     "3",
+     "stuk"
+    ],
+    [
+     "verse ricotta",
+     "180",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Overgiet de boerenkool met kokend water, laat 2 minuten staan en laat goed uitlekken. Roer de spinazie, een eetlepel geraspte citroenschil, de verkruimelde feta, zout en peper erdoor.",
+    "Besmeer elk platbrood tot aan de randen met een derde van de ricotta. Leg een derde van het groentemengsel op één helft, vouw dicht en druk de randen goed aan.",
+    "Bak de gözleme in wat olie in een grote koekenpan op middelhoog vuur 3 tot 4 minuten per kant goudbruin en krokant.",
+    "Snijd ze doormidden en serveer met partjes citroen."
+   ],
+   "photo": "photos/hayfresh-619.webp"
+  },
+  {
+   "id": 620,
+   "name": "Kleverige misokip op geroosterde sesampompoen",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🍗",
+   "cuisine": "Japans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 62",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "flespompoen",
+     "1500",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "sesamzaad",
+     "3",
+     "el"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ],
+    [
+     "witte miso",
+     "95",
+     "g"
+    ],
+    [
+     "sesamolie",
+     "1",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "1",
+     "el"
+    ],
+    [
+     "mirin",
+     "60",
+     "ml"
+    ],
+    [
+     "bruine suiker",
+     "2",
+     "el"
+    ],
+    [
+     "rijstazijn",
+     "1",
+     "el"
+    ],
+    [
+     "kippendijfilet",
+     "750",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Schrob de pompoen (de schil mag blijven zitten) en snijd hem in dunne plakken. Hussel met de olie, 2 eetlepels sesamzaad en zout, leg op een bakplaat met bakpapier en rooster 20 minuten.",
+    "Klop intussen de miso, sesamolie, sojasaus, mirin, suiker en azijn door elkaar in een grote kom. Halveer de kippendijen en schep ze door de marinade.",
+    "Leg de kip op de pompoen, giet de rest van de marinade erover en rooster nog 20 minuten tot de kip gaar en mals is.",
+    "Verdeel over de borden en bestrooi met de rest van het sesamzaad, lente-ui en koriander."
+   ],
+   "photo": "photos/hayfresh-620.webp"
+  },
+  {
+   "id": 621,
+   "name": "Ricottafrittataatjes met boerenkool, kruiden en geroosterde tomaatjes",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🍳",
+   "cuisine": "Italiaans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 84",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "cherrytomaatjes aan de tros",
+     "8",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "boerenkool, fijngesneden",
+     "90",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "40",
+     "g"
+    ],
+    [
+     "basilicum",
+     "1",
+     "handvol"
+    ],
+    [
+     "ei",
+     "6",
+     "stuk"
+    ],
+    [
+     "melk",
+     "60",
+     "ml"
+    ],
+    [
+     "verse ricotta",
+     "240",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C en bekleed 8 holtes van een muffinvorm met hoge papieren vormpjes. Leg de tomaatjes op een bakplaat met bakpapier, besprenkel met olie, zout en peper en rooster 20 minuten.",
+    "Klop intussen de eieren met de melk, ricotta, zout en peper.",
+    "Overgiet de peterselie en boerenkool met kokend water, laat 20 seconden staan, spoel direct in ijswater en laat goed uitlekken.",
+    "Spatel de boerenkool, parmezaan en basilicum door het eimengsel.",
+    "Verlaag de oven naar 180 °C. Verdeel het mengsel over de vormpjes, leg op elk een tomaatje en bak 20 tot 25 minuten goudbruin."
+   ],
+   "photo": "photos/hayfresh-621.webp"
+  },
+  {
+   "id": 622,
+   "name": "Bloemkoolpizza met geroosterde tomaatjes, prosciutto en rucola",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🍕",
+   "cuisine": "Italiaans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 88",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "pompoenpitten",
+     "160",
+     "g"
+    ],
+    [
+     "bloemkoolroosjes",
+     "600",
+     "g"
+    ],
+    [
+     "edelgistvlokken (optioneel)",
+     "2",
+     "el"
+    ],
+    [
+     "ei",
+     "3",
+     "stuk"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "60",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "cherrytomaatjes",
+     "24",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "prosciutto",
+     "100",
+     "g"
+    ],
+    [
+     "rucola",
+     "40",
+     "g"
+    ],
+    [
+     "balsamicocrème",
+     "1",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Maal de pompoenpitten fijn in een keukenmachine. Voeg de bloemkool, de gistvlokken, de eieren, 40 g parmezaan, zout en peper toe en draai tot een heel fijn, deegachtig mengsel.",
+    "Druk het mengsel uit tot twee ronde bodems van ongeveer 28 cm op bakplaten met bakpapier. Bak 20 minuten goudbruin.",
+    "Rooster tegelijk de tomaatjes met olie, zout en peper 20 minuten op een andere bakplaat.",
+    "Beleg de bodems met de tomaatjes, prosciutto, rucola en de rest van de parmezaan en druppel er balsamicocrème over."
+   ],
+   "photo": "photos/hayfresh-622.webp"
+  },
+  {
+   "id": 623,
+   "name": "Zwarte-rijstbowl met gember-kurkumakip, edamame en radijs",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍚",
+   "cuisine": "Aziatisch",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 100",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "zwarte rijst",
+     "300",
+     "g"
+    ],
+    [
+     "edamame (diepvries, gepeld)",
+     "140",
+     "g"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ],
+    [
+     "radijs",
+     "12",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "verse gember",
+     "4",
+     "cm"
+    ],
+    [
+     "kurkuma",
+     "1.5",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "tl"
+    ],
+    [
+     "zeezout",
+     "1",
+     "tl"
+    ],
+    [
+     "kipfilet",
+     "450",
+     "g"
+    ],
+    [
+     "Griekse yoghurt",
+     "280",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de zwarte rijst volgens de verpakking (30 tot 40 minuten) en laat iets afkoelen. Blancheer de edamame kort.",
+    "Meng een eetlepel geraspte gember met een halve theelepel kurkuma, de olie en wat zout en hussel de kip erdoor.",
+    "Bak de kip in een antiaanbakpan op middelhoog vuur 5 minuten per kant goudbruin en gaar. Laat 5 minuten rusten en snijd in dikke plakken.",
+    "Roer de yoghurt met de rest van de gember, de rest van de kurkuma en een halve theelepel zout.",
+    "Verdeel de rijst, edamame, komkommerplakjes en gehalveerde radijsjes over kommen. Leg de kip erop en garneer met de dressing en koriander."
+   ],
+   "photo": "photos/hayfresh-623.webp"
+  },
+  {
+   "id": 624,
+   "name": "Gepocheerde limoenkip met venkelsalade en kokosdressing",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🥗",
+   "cuisine": "Thais",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 106",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "kipfilet",
+     "400",
+     "g"
+    ],
+    [
+     "kippenbouillon",
+     "1000",
+     "ml"
+    ],
+    [
+     "water",
+     "500",
+     "ml"
+    ],
+    [
+     "citroengras",
+     "2",
+     "stengel"
+    ],
+    [
+     "groene chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "djeroek poeroet-blaadjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "verse gember",
+     "4",
+     "cm"
+    ],
+    [
+     "kokosroom",
+     "250",
+     "ml"
+    ],
+    [
+     "limoensap",
+     "2",
+     "el"
+    ],
+    [
+     "vissaus",
+     "2",
+     "el"
+    ],
+    [
+     "fijne suiker",
+     "1",
+     "el"
+    ],
+    [
+     "venkel",
+     "3",
+     "stuk"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "munt",
+     "1",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Halveer de kipfilets horizontaal. Breng de bouillon en het water met het gekneusde citroengras, een gehalveerde chilipeper, de gekneusde limoenblaadjes en de gember in plakjes aan de kook en laat 10 minuten zachtjes trekken.",
+    "Leg de kip erin, breng 1 minuut terug aan de kook en leg het deksel op de pan. Zet het vuur uit en laat de kip 10 minuten pocheren. Laat iets afkoelen en trek hem met twee vorken in grove stukken.",
+    "Roer de kokosroom, het limoensap, de vissaus en de suiker tot een dressing.",
+    "Meng de venkel en komkommer in dunne plakjes met de koriander, munt en de andere chilipeper in ringetjes. Voeg de kip en de dressing toe, hussel voorzichtig en verdeel over kommen."
+   ],
+   "photo": "photos/hayfresh-624.webp"
+  },
+  {
+   "id": 625,
+   "name": "Aziatische runderspiesjes met kokosnoedels en peultjes",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍢",
+   "cuisine": "Thais",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 108",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "ossenhaas of biefstuk",
+     "500",
+     "g"
+    ],
+    [
+     "vissaus",
+     "4",
+     "el"
+    ],
+    [
+     "limoensap",
+     "4",
+     "el"
+    ],
+    [
+     "bruine suiker",
+     "1",
+     "el"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "3",
+     "cm"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "peultjes",
+     "400",
+     "g"
+    ],
+    [
+     "rijstnoedels",
+     "200",
+     "g"
+    ],
+    [
+     "kokosroom",
+     "125",
+     "ml"
+    ],
+    [
+     "fijne suiker",
+     "1",
+     "el"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "geroosterde pinda's",
+     "3",
+     "el"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "satéprikkers",
+     "8",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Meng het vlees in reepjes met 2 eetlepels vissaus, 2 eetlepels limoensap, de bruine suiker, de geperste knoflook, de geraspte gember en de fijngesneden lente-ui. Laat 10 minuten staan en rijg aan de prikkers; week houten prikkers eerst in water.",
+    "Verhit een grillpan of barbecue flink. Bestrijk de spiesjes met olie en gril ze 3 minuten per kant tot ze goudbruin en licht geblakerd zijn.",
+    "Overgiet de noedels met kokend water, laat 4 minuten staan, giet af en spoel koud. Roer de kokosroom met de rest van het limoensap, de rest van de vissaus en de fijne suiker en schep de noedels erdoor.",
+    "Blancheer de peultjes 1 minuut en snijd ze in de lengte doormidden.",
+    "Verdeel de noedels over kommen en beleg met de peultjes, koriander, gehakte pinda's en chili. Leg de spiesjes erop."
+   ],
+   "photo": "photos/hayfresh-625.webp"
+  },
+  {
+   "id": 626,
+   "name": "Bolognese van chorizo en bloemkool met courgetti en spaghetti",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 124",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "verse chorizo, zonder vel",
+     "200",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse oregano",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "bloemkool",
+     "600",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "400",
+     "g"
+    ],
+    [
+     "runderbouillon",
+     "125",
+     "ml"
+    ],
+    [
+     "courgette",
+     "3",
+     "stuk"
+    ],
+    [
+     "volkoren spaghetti",
+     "200",
+     "g"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "30",
+     "g"
+    ],
+    [
+     "verse mozzarella",
+     "125",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de spaghetti beetgaar en houd warm.",
+    "Bak de fijngehakte chorizo met de geperste knoflook en de oregano in een grote koekenpan op middelhoog tot hoog vuur in 5 minuten goudbruin. Haal uit de pan.",
+    "Hak de bloemkool heel fijn, eventueel in de keukenmachine. Bak hem met de olie en peper in dezelfde pan 8 minuten tot hij zacht is en net kleurt. Doe de chorizo terug, voeg de tomaten en bouillon toe en laat 5 minuten stevig pruttelen.",
+    "Schaaf de courgettes met een julienneschiller in slierten. Verdeel de courgetti en de warme spaghetti over de borden, schep de saus erover en serveer met parmezaan en een stukje mozzarella."
+   ],
+   "photo": "photos/hayfresh-626.webp"
+  },
+  {
+   "id": 627,
+   "name": "Harissazalm met honing op geroosterde prei",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🐟",
+   "cuisine": "Midden-Oosters",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 128",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "prei",
+     "3",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "harissa",
+     "1",
+     "el"
+    ],
+    [
+     "honing",
+     "1",
+     "el"
+    ],
+    [
+     "zalmfilet zonder vel, in één stuk",
+     "450",
+     "g"
+    ],
+    [
+     "groene salade",
+     "150",
+     "g"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Halveer de prei in de lengte en leg hem met de snijkant naar boven op een bakplaat met bakpapier. Besprenkel met olie, bestrooi met zout en peper en bak 20 tot 25 minuten tot hij zacht en licht goudbruin is.",
+    "Zet de oven op 240 °C of de hoogste stand. Meng de harissa met de honing en smeer het over de bovenkant van de zalm.",
+    "Leg de zalm op de prei en bak 10 minuten tot hij goudbruin en naar smaak gaar is.",
+    "Serveer met een groene salade en partjes limoen."
+   ],
+   "photo": "photos/hayfresh-627.webp"
+  },
+  {
+   "id": 628,
+   "name": "Vis in nori-sesamkorst met Japanse koolsalade",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Japans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 138",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "norivellen",
+     "4",
+     "stuk"
+    ],
+    [
+     "sesamzaad",
+     "50",
+     "g"
+    ],
+    [
+     "zeezout",
+     "1",
+     "tl"
+    ],
+    [
+     "stevige witvisfilet zonder vel (kabeljauw of zeebaars)",
+     "600",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "tahin",
+     "70",
+     "g"
+    ],
+    [
+     "rijstazijn",
+     "2",
+     "el"
+    ],
+    [
+     "water",
+     "2",
+     "el"
+    ],
+    [
+     "sojasaus",
+     "1",
+     "el"
+    ],
+    [
+     "rodekool",
+     "400",
+     "g"
+    ],
+    [
+     "spitskool of groene kool",
+     "400",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Klop de tahin met de azijn, het water en de sojasaus glad tot een dressing.",
+    "Meng de gesneden rode en groene kool met de koriander en de lente-ui in ringetjes.",
+    "Knip de nori met een schaar in heel fijne reepjes en meng met 40 g sesamzaad en het verkruimelde zout in een diep bord. Druk de vis erin tot hij rondom bedekt is.",
+    "Verhit een grote antiaanbakpan op middelhoog vuur met de helft van de olie en bak de helft van de vis 3 minuten per kant goudbruin en krokant. Veeg de pan schoon en bak de rest in de andere helft van de olie.",
+    "Verdeel de koolsalade over de borden, leg de vis erop, druppel de dressing erover en bestrooi met het geroosterde sesamzaad."
+   ],
+   "photo": "photos/hayfresh-628.webp"
+  },
+  {
+   "id": 629,
+   "name": "Krokante noedelomeletten met broccolini en taugé",
+   "type": "Vegetarisch",
+   "time": 25,
+   "emoji": "🍳",
+   "cuisine": "Aziatisch",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 140",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "rijstnoedels",
+     "150",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse gember",
+     "4",
+     "cm"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "broccolini (bimi)",
+     "120",
+     "g"
+    ],
+    [
+     "ei",
+     "8",
+     "stuk"
+    ],
+    [
+     "taugé",
+     "100",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "4",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "chilisaus",
+     "2",
+     "el"
+    ],
+    [
+     "ketjap manis",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Overgiet de noedels met kokend water, laat 5 minuten staan en giet af.",
+    "Meng de geperste knoflook met de geraspte gember en de olie.",
+    "Verhit een grote antiaanbakpan op hoog vuur en bak de helft van het knoflookmengsel 1 minuut. Voeg de helft van de noedels en de in de lengte gehalveerde broccolini toe en roerbak 5 minuten tot de noedels een beetje krokant worden.",
+    "Giet de helft van de losgeklopte eieren erover en draai de pan zodat alles bedekt is. Bak 4 minuten tot de onderkant krokant is. Leg de helft van de taugé, lente-ui en koriander erop, vouw dubbel en houd warm. Veeg de pan schoon en maak de tweede omelet.",
+    "Snijd de omeletten doormidden en serveer met chilisaus en ketjap manis."
+   ],
+   "photo": "photos/hayfresh-629.webp"
+  },
+  {
+   "id": 630,
+   "name": "Gekruid varkensgehakt met citroengras en djeroek poeroet",
+   "type": "Vlees",
+   "time": 30,
+   "emoji": "🌶️",
+   "cuisine": "Vietnamees",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 160 (rijst en komkommer toegevoegd uit de serveersuggesties)",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "verse gember",
+     "3",
+     "cm"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "citroengras",
+     "2",
+     "stengel"
+    ],
+    [
+     "grote rode chilipeper",
+     "3",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "djeroek poeroet-blaadjes",
+     "6",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "varkensgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "rijstazijn",
+     "2",
+     "el"
+    ],
+    [
+     "vissaus",
+     "1",
+     "el"
+    ],
+    [
+     "bruine suiker",
+     "1",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "jasmijnrijst",
+     "300",
+     "g"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst.",
+    "Draai de gember, knoflook, citroengras, 2 chilipepers zonder zaadjes, de rode ui en 4 fijngesneden limoenblaadjes in een kleine keukenmachine fijn.",
+    "Verhit de olie in een grote antiaanbakpan op middelhoog vuur en bak de kruidenpasta 5 minuten tot hij geurt. Voeg het gehakt toe, maak het los met een houten lepel en bak 8 minuten goudbruin.",
+    "Roer de azijn, vissaus en suiker door elkaar tot de suiker is opgelost en roer dit door het gehakt.",
+    "Serveer met de rijst en komkommer en bestrooi met lente-ui, de rest van de chilipeper in ringetjes en de rest van de limoenblaadjes in reepjes. Kipgehakt kan ook; afgekoeld is het gehakt 3 maanden houdbaar in de vriezer."
+   ],
+   "photo": "photos/hayfresh-630.webp"
+  },
+  {
+   "id": 631,
+   "name": "Vrije lasagne met bloemkool-kaassaus en muntspinazie",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🍝",
+   "cuisine": "Italiaans",
+   "source": "HayFresh",
+   "sourceRef": "Everyday Fresh, p. 70",
+   "basePersons": 4,
+   "ingredients": [
+    [
+     "verse lasagnebladen",
+     "6",
+     "stuk"
+    ],
+    [
+     "geraspte Parmezaanse kaas",
+     "100",
+     "g"
+    ],
+    [
+     "bloemkool",
+     "1000",
+     "g"
+    ],
+    [
+     "melk",
+     "500",
+     "ml"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "jonge spinazie",
+     "500",
+     "g"
+    ],
+    [
+     "munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "bieslook",
+     "1",
+     "bosje"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 220 °C. Blancheer de lasagnebladen kort in kokend water en laat uitlekken.",
+    "Maak de bloemkool-kaassaus: breng de bloemkoolroosjes met de melk op laag vuur tegen de kook aan. Leg het deksel erop en laat 8 tot 10 minuten zachtjes koken tot de bloemkool zacht is. Laat iets afkoelen en pureer glad met een staafmixer. Roer er 60 g parmezaan, zout en peper door.",
+    "Overgiet de spinazie met kokend water, laat 30 seconden staan en giet af. Druk het vocht er tussen keukenpapier goed uit, snijd fijn en meng met de gehakte munt, fijngesneden bieslook, zout en peper.",
+    "Vet twee kleine ovenschalen of ovenvaste koekenpannen van 16 tot 18 cm in. Leg in elke schaal een lasagneblad, schep er ongeveer 180 ml saus op en een kwart van de spinazie. Herhaal de lagen en eindig met de rest van de saus.",
+    "Bestrooi met 20 g parmezaan, zet de schalen op een bakplaat en bak 25 minuten tot de lasagne goudbruin is en bubbelt. Serveer met de rest van de parmezaan."
    ]
   }
  ]
