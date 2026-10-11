@@ -479,3 +479,26 @@ Foto van het gerecht van de oorspronkelijke receptpagina op culy.nl. Bron: Culy,
 - Supersnelle couscoussalade met rucola, feta en perzik: https://www.culy.nl/recepten/supersnelle-couscoussalade-met-rucola-feta-en-perzik/ (photos/culy-475.webp)
 - Tunesische wraps met tonijn, harissa en olijven: https://www.culy.nl/recepten/wraps-met-tonijn-gezond/ (photos/culy-476.webp)
 - Spaghetti met romige pompoensaus, pistache en pecorino: https://www.culy.nl/recepten/pompoenpasta-met-pompoensaus/ (photos/culy-477.webp)
+
+
+## Fast Food 2 (Sandra Bekkari)
+
+De 44 recepten met source "Bekkari" (id 478 t/m 521) tonen de gerechtfoto van de bijbehorende receptpagina uit het boek, als photos/bekkari-<id>.webp. Bij drie paginabrede opnames (481, 500, 519) is het gerecht uitgesneden.
+
+## Pexels-voorbeeldfoto's voor de 24Kitchen-recepten
+
+Voorbeeldfoto's van een vergelijkbaar gerecht (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Quiche lorraine met prei en spek: https://www.pexels.com/photo/29538433/
+- Zeetong met citroenboter, aardappelgratin en tomatensalade: https://www.pexels.com/photo/10038681/
+- Pasta Pinuccia met tomaat, basilicum en bruschetta: https://www.pexels.com/photo/28936956/
+- Tagliatelle met gerookte zalm, ansjovis en kappertjes: https://www.pexels.com/photo/38868615/
+- Bucatini met broccolipuree, ansjovis, rozijnen en pijnboompitten: https://www.pexels.com/photo/27850104/
+- Rigatoni hoep hoep Olanda met romige tomatensaus en geglaceerde wortel: https://www.pexels.com/photo/29039081/
+- Rigatoni al tonno met ansjoviscrostini: https://www.pexels.com/photo/5175553/
+- Oma Pruls hete kip met sperziebonen in kokosmelk: https://www.pexels.com/photo/37179941/
+- Knoflooksoep met gemarineerde garnalen: https://www.pexels.com/photo/38920605/
+- Makkelijke mie met zalm, groene asperges en spinazie: https://www.pexels.com/photo/29145757/
+- Gado gado met zelfgemaakte pindasaus: https://www.pexels.com/photo/31336113/
+- Camarão no coco: Braziliaanse garnalen in kokossaus: https://www.pexels.com/photo/9809033/
+- Libanese fattouche met krokant flatbread en sumak: https://www.pexels.com/photo/38399725/
