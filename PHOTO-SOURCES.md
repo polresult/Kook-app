@@ -766,3 +766,162 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 
 18 recepten tonen de gerechtfoto uit het boek als photos/hayfresh-<id>.webp (bijgesneden waar nodig).
 
+## Pantry to Plate (Emily Stephenson): tweede ronde (901 tot en met 922)
+
+22 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Vullende misosoep met aardappel, kool, wortel, gember en tofu: https://www.pexels.com/photo/35559953/
+- Stevige soep van zoete aardappel en kokos met tomaat, kurkuma, spinazie en doperwten: https://www.pexels.com/photo/34326239/
+- Pittige kokos-kurkumanoedelsoep met kip, rijstnoedels, doperwten en limoen: https://www.pexels.com/photo/7318799/
+- Zwartebonensoep met chipotle, komijn en limoen, met yoghurt en tortillachips: https://www.pexels.com/photo/7111387/
+- Romige kikkererwten-aardappelsoep met gekarameliseerde ui en parmezaan: https://www.pexels.com/photo/28286217/
+- Tahchin: krokante rijsttaart uit de oven op z'n Italiaans met yoghurt, parmezaan en boerenkool: https://www.pexels.com/photo/3996159/
+- Rijstnoedels met krokante tofu, doperwten en soja-limoen-chilidressing: https://www.pexels.com/photo/12407206/
+- Sesamnoedels: spaghetti met tahin-misosaus, rauwe kool, wortel en zachtgekookt ei: https://www.pexels.com/photo/4224211/
+- Rijke kimchinoedels: rijstnoedels met kimchi, wortel, boter en gebakken ei: https://www.pexels.com/photo/36326796/
+- Pittige pasta met tonijn, tomaat, olijven, knoflook en citroenrasp: https://www.pexels.com/photo/5419339/
+- Kikkererwten uit de grill in tomaat-paprikasaus met feta op knoflooktoast: https://www.pexels.com/photo/5150320/
+- Krokant gebakken tofu met broccoli, gember, sojasaus en citroen: https://www.pexels.com/photo/32036920/
+- Kokos-kurkumacurry met tofu, kikkererwten en spinazie: https://www.pexels.com/photo/9214001/
+- Kimchi-jjigae: Koreaanse kimchi-tofustoof met aardappel, miso en gember: https://www.pexels.com/photo/13774731/
+- Koolsalade met krokante tofu, wortellinten, ingelegde rode ui en kokos-miso-gemberdressing: https://www.pexels.com/photo/9218776/
+- Aardappel-broccolistoof in tomaten-kurkumasaus met Griekse yoghurt (à la aloo gobi): https://www.pexels.com/photo/13823417/
+- Gevulde kool uit de oven met rijst, linzen en paprika-tomatensaus: https://www.pexels.com/photo/11895545/
+- Geroosterde aardappel, zoete aardappel, broccoli en kool met tofu en citroen-tahinsaus: https://www.pexels.com/photo/37074445/
+- Ovenpolenta met spinazie en Parmezaan en knoflook-tomatensaus: https://www.pexels.com/photo/29174060/
+- Kippentajine met tomaat, kikkererwten, groene olijven en citroen: https://www.pexels.com/photo/2291603/
+- Kokosrijst met geroosterde tofu, zoete aardappel, ui, broccoli en limoen: https://www.pexels.com/photo/6120241/
+- Salsiccia met kikkererwten, spinazie, knoflook en citroen: https://www.pexels.com/photo/12765333/
+
+## Grenzeloos Koken (24Kitchen): tweede ronde (926 tot en met 946)
+
+21 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Coq au vin: Franse kipstoof in rode wijn met spek, champignons en tijm: https://www.pexels.com/photo/20351620/
+- Bouillabaisse: Provençaalse vissoep met saffraan, venkel en rouille: https://www.pexels.com/photo/38153641/
+- Zeebaars in zoutkorst met ratatouille en tartaarsaus: https://www.pexels.com/photo/30946367/
+- Konijnenbout in mosterd-roomsaus met jeneverbes en gestoofde savooiekool: https://www.pexels.com/photo/7243877/
+- Spezzato di pollo: Italiaanse kipstoof met aardappel, witte wijn en saffraan, met geroosterde romanesco: https://www.pexels.com/photo/6916860/
+- Involtini di carne: gepaneerde kalfsrolletjes met salami, mozzarella en pecorino, met rozemarijnkrieltjes: https://www.pexels.com/photo/6720257/
+- Pasta con le sarde: Siciliaanse bucatini met sardines, saffraan en rozijnen, met venkel-sinaasappelsalade: https://www.pexels.com/photo/31637791/
+- Pasta al forno: ovenschotel van penne met gehaktragù, gebakken courgette en mozzarella: https://www.pexels.com/photo/4378159/
+- Papillotte van mosselen met Aziatische groenten, krokante miekoekjes en sinaasappel-gemberdressing: https://www.pexels.com/photo/8954225/
+- Kabeljauw gegaard in citrusolie met sobanoedels en frisse salade van mango, watermeloen en cashewnoten: https://www.pexels.com/photo/20843710/
+- Niños envueltos: Argentijnse biefstukrolletjes met paprika en spek in tomaten-wijnsaus: https://www.pexels.com/photo/36430161/
+- Camarão na abóbora: Braziliaanse garnalen met zoete aardappel en paprika in romige saus uit de pompoen: https://www.pexels.com/photo/17988087/
+- Robalo em bananblad: hele zeebaars met farofa-vulling van wortel en tomaat uit de oven: https://www.pexels.com/photo/34402770/
+- Giambo: Curaçaose okrasoep met zoutvlees, spek, garnalen en kabeljauw: https://www.pexels.com/photo/6063313/
+- Escabeche de pequeño pollito: Argentijnse kip gestoofd in witte wijn en azijn met paprika en prei: https://www.pexels.com/photo/15597769/
+- Bolo di macaroni y tuna: Curaçaose macaronitaart met tonijn, ham en kaas, met ananas-kokossalade: https://www.pexels.com/photo/806357/
+- Rodaballo alcaparrada: Cubaanse gebakken witvis met kappertjes-tomatensaus en maïsbeignets: https://www.pexels.com/photo/36430165/
+- Ginga fowroe sou soe: Surinaamse gestoofde kip met gember, quatre épices en kruiden: https://www.pexels.com/photo/35156497/
+- Arroz con pato: Peruaanse eendenbouten in koriander en tripelbier met gebakken rijst en mangosalsa: https://www.pexels.com/photo/21821575/
+- Kabritu stoba: Curaçaose stoofpot met kerrie, piccalilly en ketjap, met funchi van spinazie: https://www.pexels.com/photo/15131224/
+- Libische pasta met pittige lamsstoof en zoete geroosterde paprikasalade met munt: https://www.pexels.com/photo/31261506/
+
+## Passion for Seafood (Gordon Ramsay): tweede ronde (1002 tot en met 1019)
+
+9 recepten tonen de gerechtfoto uit het boek als photos/ramsay-<id>.webp (bijgesneden waar nodig).
+
+9 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Mulligatawny: romige kerriesoep met garnalen, mango en rijst: https://www.pexels.com/photo/14856122/
+- Romige mosselsoep met saffraan, venkel en verse koriander: https://www.pexels.com/photo/8866496/
+- Risotto met gerookte paling en geglaceerde zilveruitjes: https://www.pexels.com/photo/34759468/
+- Tagliatelle met romige basilicumsaus en geflambeerde tonijnsteak: https://www.pexels.com/photo/8697526/
+- Lasagne met gerookte schelvis, champignons, asperges en mosterdsaus: https://www.pexels.com/photo/31581242/
+- Zeevruchtencassoulet: romige stoof van witte bonen, savooiekool, vis, garnalen en spek: https://www.pexels.com/photo/1618913/
+- Geroosterde zeebaars gevuld met venkel, sjalot en gember, met krieltjes: https://www.pexels.com/photo/29380184/
+- Gebakken zeebaarsfilet met gekarameliseerd witlof en aardappelpuree: https://www.pexels.com/photo/5395184/
+- Hartige taart met spinazie, rode ui, ansjovis en geitenkaas: https://www.pexels.com/photo/5419294/
+
+## Fish (Mitch Tonks): tweede ronde (1020 tot en met 1055)
+
+15 recepten tonen de gerechtfoto uit het boek als photos/tonks-<id>.webp (bijgesneden waar nodig).
+
+21 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Krokant gegrilde dorade met komijn, citroen en zeezout, tijm-uiensalade en krieltjes: https://www.pexels.com/photo/11653557/
+- Dorade uit de oven op aardappelen met tijm, geroosterde paprika, olijven en knapperig broodkruim: https://www.pexels.com/photo/19239119/
+- Dorade en papillote met geroosterde knoflook, chili, rozemarijn en witte wijn: https://www.pexels.com/photo/30120983/
+- Koolvis zacht gegaard in olijfolie met knoflook en tijm, met krieltjes en salade: https://www.pexels.com/photo/27294733/
+- Tongschar in salieboter met krokante prosciutto, krieltjes en sperziebonen: https://www.pexels.com/photo/27612525/
+- Zeebaars in een pakketje met dille, brandewijn en komijn, met boterkrieltjes en broccoli: https://www.pexels.com/photo/26763442/
+- Gezouten schelvis met krieltjessalade, rode ui, chili en kappertjesmayonaise: https://www.pexels.com/photo/31122634/
+- Geroosterde kabeljauw met grove tuinbonenpesto van ansjovis, munt en pecorino: https://www.pexels.com/photo/27672770/
+- Hele zeebaars uit de oven met romige puree van geroosterde knoflook en salsa verde: https://www.pexels.com/photo/38706535/
+- Gebakken zeebaarsfilet met artisjok, witte wijn en dragonroomsaus: https://www.pexels.com/photo/17906670/
+- Hele tongschar uit de oven met courgette, citroen en knapperig broodkruim: https://www.pexels.com/photo/36936953/
+- Schol uit de oven in romige knoflooksaus met mosselen: https://www.pexels.com/photo/15949771/
+- Gepaneerde scholfilet met Spaanse romescosaus en krieltjes: https://www.pexels.com/photo/17199132/
+- Geroosterde zeeduivelstaart met vijftig tenen knoflook, olijven, tomaat en basilicum: https://www.pexels.com/photo/19523880/
+- Pollak uit de oven met pittige salsa van geroosterde tomaat, pitten en koriander: https://www.pexels.com/photo/5638537/
+- Hele zeebaars van de grill met rozemarijn en tijm, Griekse salade en krieltjes: https://www.pexels.com/photo/37534677/
+- Stoofje van kabeljauw met mosselen, spinazie en room onder knapperig citroen-knoflookkruim: https://www.pexels.com/photo/15491262/
+- Gegrilde wijting met romige uien-rozemarijnsaus en krieltjes: https://www.pexels.com/photo/8250340/
+- Gegrilde zalm met lauwe gekruide krieltjessalade en yoghurt-muntdressing: https://www.pexels.com/photo/14542171/
+- Gestoofde inktvis met artisjok, doperwten, citroen, dragon en munt: https://www.pexels.com/photo/33433980/
+- Gegrilde inktvis met citroen-knoflookmarinade op romige Parmezaanpolenta: https://www.pexels.com/photo/27402124/
+
+## Mexico: The Cookbook (Margarita Carrillo Arronte): tweede ronde (1056 tot en met 1123)
+
+12 recepten tonen de gerechtfoto uit het boek als photos/carrillo-<id>.webp (bijgesneden waar nodig).
+
+56 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Tortillas rellenas de mariscos: gevulde tortilla's met zeevruchten in tomaat-pepersaus en manchego: https://www.pexels.com/photo/18032209/
+- Tacos gobernador: krokante tortilla's met garnalen, tomaat en gesmolten kaas: https://www.pexels.com/photo/27365278/
+- Bonensalade met champignons, geroosterde paprika, selderij en Parmezaan: https://www.pexels.com/photo/14090828/
+- Kikkererwtensalade met feta, geroosterde puntpaprika en citroen-korianderdressing: https://www.pexels.com/photo/27850079/
+- Warme zeevruchtensalade met chipotle, citroen, munt en edamame: https://www.pexels.com/photo/10875294/
+- Gegrilde inktvis met citroen, knoflook en tijm, met aardappelen en sla: https://www.pexels.com/photo/33659839/
+- Sopa tarasca: romige pintobonensoep met ancho, tortillareepjes, room en avocado: https://www.pexels.com/photo/16235564/
+- Caldo michi: vissoep met ancho-tomatenbouillon, courgette, wortel en kool: https://www.pexels.com/photo/23627792/
+- Pittige garnalensoep met geroosterde puntpaprika, maïs en ancho: https://www.pexels.com/photo/16357830/
+- Sopa de hongos: champignonsoep met puntpaprika, maïs en chipotle: https://www.pexels.com/photo/39927557/
+- Chilpachole: pittige garnalensoep uit Veracruz met geroosterde tomaat en kaneel: https://www.pexels.com/photo/5424049/
+- Albóndigas de pescado: visballetjes in groene saus van puntpaprika en pompoenpitten: https://www.pexels.com/photo/28371803/
+- Pastel de atún: hartige tonijnschotel met kaas en jalapeño en een frisse salade: https://www.pexels.com/photo/7625714/
+- Witvis uit de oven met saus van gele pruimen, prei en groene peper: https://www.pexels.com/photo/16845479/
+- Pescado en chileajo colorado: vis uit de oven in rode knoflook-chilisaus: https://www.pexels.com/photo/37064800/
+- Pescado en hierbas: vis gestoofd met tijm, marjolein, munt en tomaat: https://www.pexels.com/photo/20081526/
+- Sardines gevuld met chorizo en een korst van knoflook, koriander en limoen: https://www.pexels.com/photo/19227811/
+- Camarones al tequila: garnalenspiesjes geflambeerd met tequila in roomsaus met geroosterde paprika: https://www.pexels.com/photo/2689419/
+- Camarones enchipotlados: garnalen in chipotlesaus met geroosterde tomaat, gember en sinaasappel: https://www.pexels.com/photo/26587330/
+- Gevulde puntpaprika's met krab in tomaten-witte wijnsaus met kappertjes: https://www.pexels.com/photo/15747862/
+- Pulpo en salsa de almendra: octopus in tomaat-witte wijnsaus met amandelen, rozijnen en olijven: https://www.pexels.com/photo/34874933/
+- Bruidssluierkip: kipfilet in romige pijnboompittensaus met jalapeño, kruidnagel en piment: https://www.pexels.com/photo/36936952/
+- Kip in sandalen: kipfilet gestoofd in rode wijn met ham, chorizo, fruit en zoete aardappel: https://www.pexels.com/photo/27819666/
+- Kiprolletjes met manchego in zoete mangosaus: https://www.pexels.com/photo/31965033/
+- Pollitos a la diabla: pittige piepkuikens met árbol-chili, gember en witte wijn-boterjus: https://www.pexels.com/photo/11806779/
+- Gevulde kiprolletjes met champignons en guajillo in pinda-chipotlesaus: https://www.pexels.com/photo/10296268/
+- Kip uit Oaxaca in tomatillo-kappertjessaus met aardappel en olijven: https://www.pexels.com/photo/16845749/
+- Pollo Luz Catalina: kippenpoten gestoofd met lente-ui, boter, witte wijn en chipotle, met aardappelpuree: https://www.pexels.com/photo/14146060/
+- Eendenborst met zure kersen, artisjokharten en een saus van geroosterde tomaat en chipotle: https://www.pexels.com/photo/17751633/
+- Filete en salsa de chipotle: ossenhaas met peperkorst en romige chipotle-tequilasaus, met krieltjes en tomatillo's: https://www.pexels.com/photo/33673974/
+- Costillas con lentejas: klapstuk gestoofd met linzen, tomaat en ancho-chili, met warme tortilla's: https://www.pexels.com/photo/8996219/
+- Stoofpot uit San Cristóbal: rundvlees met maïskolf, zoete aardappel, bakbanaan, sperziebonen en munt: https://www.pexels.com/photo/5268849/
+- Asado sinaloense: rundvlees en aardappel in tomatensaus met refried beans, avocado, radijs en kaas: https://www.pexels.com/photo/17872670/
+- Cuete estofado: runderstoof met spek, worteltjes, tomaat en krieltjes: https://www.pexels.com/photo/3981486/
+- Cuete en salsa poblana: biefstuk uit de oven in romige groene-pepersaus met gesmolten mozzarella en rijst: https://www.pexels.com/photo/8504687/
+- Costillas en chile y café: short ribs in ancho-koffiesaus met geroosterde aardappelen: https://www.pexels.com/photo/37081080/
+- Ropa vieja: getrokken rundvlees in tomaten-kaneelsaus met groene peper, met bloemtortilla's: https://www.pexels.com/photo/27588093/
+- Filete a la mexicana: ossenhaas gestoofd in ancho-tomatensaus met bier en tequila, met puree en doperwten: https://www.pexels.com/photo/36430151/
+- Tatemado de Colima: varkensribben uit de oven met guajillo, azijn en piment, met radijs en warme tortilla's: https://www.pexels.com/photo/15264024/
+- Cochinita pibil: langzaam gegaard varkensvlees in achiote en citrus met tortilla's en ingelegde rode ui: https://www.pexels.com/photo/17429509/
+- Lomo borracho: varkenslende gevuld met chorizo, gestoofd in bier en tequila: https://www.pexels.com/photo/32080132/
+- Albóndigas en chipotle: gehaktballen met munt en ei in pittige tomaten-chipotlesaus met rijst: https://www.pexels.com/photo/29872932/
+- Varkenshaas gestoofd in agavesiroop met chile de árbol en witte wijn, met aardappelpuree: https://www.pexels.com/photo/14537709/
+- Varkenskarbonades in pasilla-knoflookmarinade met rijst en frisse salade: https://www.pexels.com/photo/34305983/
+- Calabacitas rellenas: courgettes gevuld met feta in tomatenbouillon met rijst: https://www.pexels.com/photo/36421079/
+- Calabacitas rellenas de carne: courgettes gevuld met gehakt, rijst en komijn in tomatensaus: https://www.pexels.com/photo/36865407/
+- Calabacitas con hongos: courgette en champignons met geroosterde puntpaprika, room en feta in tortilla's: https://www.pexels.com/photo/39433063/
+- Revoltijo poblano: stoofje van aardappel, doperwten, tuinbonen, sperziebonen en puntpaprika met rijst: https://www.pexels.com/photo/36343374/
+- Rajas con elote: ovenschotel van geroosterde paprikareepjes en maïs met zure room en kaas: https://www.pexels.com/photo/36429908/
+- Torta de plátano: ovenschotel van bakbanaan met bonen en feta: https://www.pexels.com/photo/27556971/
+- Mexicaanse groenteschotel met aubergine, courgette, champignons en gesmolten kaas: https://www.pexels.com/photo/32125955/
+- Tortitas de elote: maïspannenkoekjes in tomaten-puntpaprikasaus met feta: https://www.pexels.com/photo/20220705/
+- Papadzules: maïstortilla's met pompoenpittensaus en hardgekookt ei: https://www.pexels.com/photo/8448334/
+- Arroz con calamares: zwarte rijst met inktvis, tomaat en peterselie: https://www.pexels.com/photo/29629192/
+- Arroz con frijoles: ovenschotel van rijst, zwarte bonen, puntpaprika en manchego: https://www.pexels.com/photo/3499598/
+- Frijoles charros: pintobonen met varkens- en rundvlees, spek en chorizo: https://www.pexels.com/photo/5191842/
