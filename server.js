@@ -145,7 +145,7 @@ loadDb();
 // Keep the process alive: one bad request must never take the server down.
 process.on('uncaughtException', e => console.error('uncaughtException', e));
 process.on('unhandledRejection', e => console.error('unhandledRejection', e));
-http.createServer((req, res) => {
+const server = http.createServer((req, res) => {
   let urlPath;
   try { urlPath = decodeURIComponent(req.url.split('?')[0]); }
   catch (e) { res.writeHead(400); return res.end('Bad request'); }
@@ -160,3 +160,12 @@ http.createServer((req, res) => {
     try { res.writeHead(500); res.end('Server error'); } catch (_) {}
   }
 }).listen(PORT, () => console.log('Kook draait op poort ' + PORT + ', data in ' + DATA_DIR));
+// Railway stops the old container with SIGTERM on every redeploy; exit cleanly
+// so that is not reported as a crash. Writes are synchronous, so nothing is lost.
+function shutdown(sig) {
+  console.log(sig + ' ontvangen, Kook stopt');
+  server.close(() => process.exit(0));
+  setTimeout(() => process.exit(0), 3000).unref();
+}
+process.on('SIGTERM', () => shutdown('SIGTERM'));
+process.on('SIGINT', () => shutdown('SIGINT'));
