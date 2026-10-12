@@ -747,3 +747,22 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 
 23 recepten tonen de gerechtfoto uit het boek als photos/ghayour-<id>.webp.
 
+## The Complete Plant Based Cookbook for Beginners (Angela Taylor): tweede ronde (885 tot en met 900)
+
+16 recepten tonen de gerechtfoto uit het boek als photos/taylor-<id>.webp (bijgesneden waar nodig).
+
+
+## Fast Food 2 (Sandra Bekkari): tweede ronde (923 tot en met 925)
+
+3 recepten tonen de gerechtfoto uit het boek als photos/bekkari-<id>.webp.
+
+
+## New Food Fast (Donna Hay): tweede ronde (947 tot en met 983)
+
+37 recepten tonen de gerechtfoto uit het boek als photos/hay-<id>.webp (bijgesneden waar nodig).
+
+
+## Everyday Fresh (Donna Hay): tweede ronde (984 tot en met 1001)
+
+18 recepten tonen de gerechtfoto uit het boek als photos/hayfresh-<id>.webp (bijgesneden waar nodig).
+
