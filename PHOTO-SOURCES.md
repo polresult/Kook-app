@@ -925,3 +925,18 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 - Arroz con calamares: zwarte rijst met inktvis, tomaat en peterselie: https://www.pexels.com/photo/29629192/
 - Arroz con frijoles: ovenschotel van rijst, zwarte bonen, puntpaprika en manchego: https://www.pexels.com/photo/3499598/
 - Frijoles charros: pintobonen met varkens- en rundvlees, spek en chorizo: https://www.pexels.com/photo/5191842/
+
+## Quick and Easy Middle Eastern Cooking (Melissa Loveland): tweede ronde (1124 tot en met 1128)
+
+5 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Yalanji: gevulde wijnbladeren met rijst, peterselie, munt en granaatappelmelasse: https://www.pexels.com/photo/36995533/
+- Moghrabieh: Libanese parelcouscous met kip, kikkererwten, sjalotjes en karwij: https://www.pexels.com/photo/33064494/
+- Marokkaanse tajine van kalfsschenkel met saffraan en gekarameliseerde pruimen: https://www.pexels.com/photo/1618914/
+- Shuwa: Omaanse lamsbout met baharat, limoen en knoflook, urenlang gegaard in folie: https://www.pexels.com/photo/36984981/
+- Shakriyeh: Syrische lamsschenkels in romige yoghurtsaus met vermicellirijst en pijnboompitten: https://www.pexels.com/photo/37492620/
+
+## Molto Gusto (Mario Batali): tweede ronde (1129 tot en met 1140)
+
+12 recepten tonen de gerechtfoto uit het boek als photos/batali-<id>.webp.
+

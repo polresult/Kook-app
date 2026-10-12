@@ -80,8 +80,8 @@
  "skipped": {
   "Bekkari": "ontbijt, snacks, drankjes en desserts; Lenterolletjes (rijstpapierrolletjes bestaan al), Salade watermeloen-berloumi (343), Groentelasagne (243), Lamsköfte (40), Thaise mosselen (432), Pasta alla Norma (108), Nasi goreng (77), Japanse groentepannenkoek (okonomiyaki 155), Kipfilet rozemarijn-citroen (220), Oosterse zalm (48). Tweede ronde met ruimere selectie: 3 extra recepten (923 tot en met 925); alleen echte dubbelingen, desserts, bijgerechten en zeer bewerkelijke gerechten blijven weg",
   "24Kitchen": "bewerkelijke of lange gerechten (kreeft, hert, kwartel, bouillabaisse, konijn, ossobuco, rendang, bapao, spareribs, Latijns-Amerikaanse feestgerechten, desserts); Amatriciana (101), Puttanesca (110), Vongole (116), Caponata (415), Babi ketjap (79), Butter chicken (137), Kipsaté (80), Merluzzo in tomatensaus (23), Bolognese (99), Lasagne (102), Tomatensoep (83). Tweede ronde met ruimere selectie: 21 extra recepten (926 tot en met 946); alleen echte dubbelingen, desserts, bijgerechten en zeer bewerkelijke gerechten blijven weg",
-  "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235)",
-  "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen",
+  "Loveland": "desserts en gebak (kunafa, asabe zainab, qatayef, notencake, maarouk-brioche, griesmeelcake, kleicha), drankjes en ontbijt (muntlimonade, gerstontbijt), bewerkelijk of lang (kibbeh ×2, gevulde wijnbladeren 3 uur, mograbieh in snelkookpan, koshari 3 uur, lamsshuwa 5 uur, shakriyeh 3 uur); dubbel met bestaand: kalfstajine met pruimen (234), dawood basha-gehaktballetjes in tomatensaus (14, 235). Tweede ronde met ruimere selectie: 5 extra recepten (1124 tot en met 1128); alleen echte dubbelingen, desserts, bijgerechten en zeer bewerkelijke gerechten blijven weg",
+  "Batali": "truffel-, kaviaar-, glasaal-, inktvis- en bottargapasta (duur of lastig verkrijgbaar), spaghetti met boter (te summier); dubbel met bestaande recepten: carbonara (100), amatriciana (101), cacio e pepe (109), puttanesca (110), vongole (116), linguine met citroen (301), penne pomodoro cotto/crudo (524, 462); antipasti, bruschetta, pizza (deeg moet rijzen) en gelato niet als hoofdgerecht meegenomen. Tweede ronde met ruimere selectie: 12 extra recepten (1129 tot en met 1140); alleen echte dubbelingen, desserts, bijgerechten en zeer bewerkelijke gerechten blijven weg",
   "Chung": "kimchi zelf maken, pappen, desserts en dranken; bewerkelijk of lastig te krijgen (dumplingsoepen, ginsengkip, koude naengmyeon, gevulde courgette/paddenstoelen, gedroogde koolvis, gemengde zeevruchtenpot, gefrituurde kip en varkensvlees, gestoofde ribben, gekookt rundvlees onder gewicht); dubbel met bestaande recepten: bibimbap (67), bulgogi en zoutbulgogi (158), krokante kippenvleugels (157); seobsanjeok overgeslagen omdat er geen passende foto was. Tweede ronde met ruimere selectie: 12 extra recepten (850 tot en met 861); alleen echte dubbelingen, desserts, bijgerechten en zeer bewerkelijke gerechten blijven weg",
   "Hay": "desserts, ontbijt, hapjes, bijgerechten en basisrecepten; lastig te krijgen of bewerkelijk (sashimi, rauwe tonijn, bugs/kreeftstaartjes, kwartels, gestoomde rijstrolletjes, tempura, eendensalade, gefrituurde loempia's); lijkt te veel op bestaande recepten: pasta met gerookte zalm (63), pasta met kip en spinazie (115), tonijnpasta met citroen (29), salade niçoise (183), laksa (98), mosselen (7 recepten), garnalenkoekjes (Thaise viskoekjes 135), varkenshaas met appel en salie (41), kalfslapjes caprese (519), kip met geitenkaas (38), kip met citroen en kappertjes (211), biefstukreepjes uit de wok (25), kokoscurry met kip; recepten zonder duidelijke eigen foto overgeslagen. Tweede ronde met ruimere selectie: 37 extra recepten (947 tot en met 983); alleen echte dubbelingen, desserts, bijgerechten en zeer bewerkelijke gerechten blijven weg",
   "Ottolenghi": "bakken, patisserie, desserts en voorraadrecepten; losse salades en bijgerechten (perzik met speck, venkel-feta, radijs-tuinbonen, geroosterde biet, aardappelgerechten en dergelijke); bewerkelijk (gevulde wijnbladeren, aubergine-gnocchi, ossenstaart, kwartel, gevulde sardines); lijkt te veel op bestaande recepten: eendenborst met sinaasappel (236), tonijn met notenkorst (51, 690), witlof met ham (73), rode-linzensoep met snijbiet (467), couscous met geroosterde pompoen (186). In een tweede ronde zijn alsnog 20 recepten toegevoegd (786 tot en met 805): soepen, graangerechten, hartige taarten en vlees- en visgerechten die eerst te streng waren afgewezen",
@@ -55473,6 +55473,1509 @@
     "Breng op smaak met zout en peper, schenk de witte wijn erbij en laat nog een paar minuten doorwarmen. Serveer met stokbrood."
    ],
    "photo": "photos/carrillo-1123.webp"
+  },
+  {
+   "id": 1124,
+   "name": "Yalanji: gevulde wijnbladeren met rijst, peterselie, munt en granaatappelmelasse",
+   "type": "Vegetarisch",
+   "time": 180,
+   "emoji": "🍚",
+   "cuisine": "Midden-Oosters",
+   "source": "Loveland",
+   "sourceRef": "Quick and Easy Middle Eastern Cooking, 'How to make stuffed vine leaves from the Levant' (Griekse yoghurt en Turks brood toegevoegd om er een hoofdgerecht van te maken; water: laagste hoeveelheid uit het boek (750 ml); hoeveelheid citroen en munt voor de garnering geschat; boek: 6-8 personen, hier 6)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kortkorrelige rijst",
+     "400",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "aardappel",
+     "1",
+     "stuk"
+    ],
+    [
+     "wijnbladeren uit pot",
+     "500",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "180",
+     "ml"
+    ],
+    [
+     "citroensap",
+     "120",
+     "ml"
+    ],
+    [
+     "granaatappelmelasse",
+     "85",
+     "g"
+    ],
+    [
+     "water",
+     "750",
+     "ml"
+    ],
+    [
+     "gedroogde munt",
+     "2",
+     "el"
+    ],
+    [
+     "sumak",
+     "1",
+     "el"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse munt",
+     "1",
+     "handvol"
+    ],
+    [
+     "Griekse yoghurt",
+     "500",
+     "g"
+    ],
+    [
+     "Turks brood",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Spoel de wijnbladeren af, leg ze 10 minuten in kokend water en laat ze uitlekken. Knip de steeltjes eraf.",
+    "Snijd ui en tomaat fijn, hak de peterselie en pers de knoflook. Meng in een kom met de rijst, het citroensap, de olijfolie, de granaatappelmelasse, gedroogde munt, sumak, zout en peper. Zet de vulling in een zeef boven een kom en vang het vocht op.",
+    "Leg een wijnblad met de zachte kant naar beneden. Schep ¾ eetlepel vulling in het midden, vouw de zijkanten naar binnen en rol het blad netjes op. Halveer grote bladeren eerst in de lengte.",
+    "Bekleed de bodem van een pan met de aardappelplakjes. Stapel de rolletjes erop met de naad naar beneden, tot alles in de pan ligt. Leg een hittebestendig bord op de rolletjes en giet het opgevangen vocht en het water erbij.",
+    "Leg het deksel op de pan en kook 10-15 minuten op middelhoog vuur. Zet het vuur dan middellaag en laat 1,5 uur zacht stoven.",
+    "Proef of de bladeren en de rijst gaar en mals zijn; laat ze zo nodig nog wat langer stoven.",
+    "Haal de rolletjes uit de pan en vang de bouillon op in een kom (lekker als soepje erbij).",
+    "Leg de rolletjes op een schaal en garneer met plakjes citroen en verse muntblaadjes. Serveer warm of koud met Griekse yoghurt en Turks brood."
+   ]
+  },
+  {
+   "id": 1125,
+   "name": "Moghrabieh: Libanese parelcouscous met kip, kikkererwten, sjalotjes en karwij",
+   "type": "Vlees",
+   "time": 95,
+   "emoji": "🍗",
+   "cuisine": "Midden-Oosters",
+   "source": "Loveland",
+   "sourceRef": "Quick and Easy Middle Eastern Cooking, 'How to make this couscous from Lebanon' (snelkookpan vervangen door gewone pan, kip 1 uur zacht laten trekken; mograbieh vervangen door parelcouscous, niet vooraf geweekt en korter gegaard; geweekte gedroogde kikkererwten vervangen door kikkererwten uit blik, kort in de bouillon gekookt; babyuitjes vervangen door kleine sjalotjes; hoeveelheden kruidenbuiltje geschat)",
+   "basePersons": 6,
+   "season": "winter",
+   "ingredients": [
+    [
+     "parelcouscous",
+     "300",
+     "g"
+    ],
+    [
+     "kikkererwten uit blik (uitgelekt)",
+     "480",
+     "g"
+    ],
+    [
+     "kleine sjalotjes",
+     "12",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "kip in stukken (bijv. kippenbouten)",
+     "1000",
+     "g"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "blad"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "kardemompeulen",
+     "3",
+     "stuk"
+    ],
+    [
+     "zwarte peperkorrels",
+     "1",
+     "tl"
+    ],
+    [
+     "kruidnagel",
+     "2",
+     "stuk"
+    ],
+    [
+     "water",
+     "1300",
+     "ml"
+    ],
+    [
+     "gemalen kaneel",
+     "1.5",
+     "tl"
+    ],
+    [
+     "karwijzaad",
+     "1",
+     "el"
+    ],
+    [
+     "gemalen piment",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zout",
+     "2",
+     "tl"
+    ],
+    [
+     "boter",
+     "2",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Dep de kip schoon en breng haar met 1,3 liter water in een grote pan op hoog vuur aan de kook. Schep het schuim van de oppervlakte.",
+    "Voeg de gehalveerde ui, laurier, kaneelstokje, kardemom, peperkorrels, kruidnagel en 1 tl zout toe. Laat de kip met het deksel half op de pan ca. 1 uur zacht trekken tot ze gaar is.",
+    "Meng intussen karwijzaad, gemalen kaneel en piment. Bak de gepelde sjalotjes in 2 el olie op middelhoog vuur bruin.",
+    "Haal de kip uit de pan en houd warm. Zeef de bouillon en houd hem heet op laag vuur. Kook de kikkererwten met de sjalotjes, de helft van het kruidenmengsel en een paar scheppen bouillon 5 minuten in een steelpan.",
+    "Smelt de boter met 1 el olie in een brede pan. Fruit de parelcouscous 2 minuten met de andere helft van het kruidenmengsel en 1 tl zout.",
+    "Voeg schep voor schep hete bouillon toe en laat elke schep volledig opnemen voor je de volgende toevoegt. Laat op laag vuur ca. 10 minuten garen tot de couscous bijna gaar is.",
+    "Roer de kikkererwten, sjalotjes en een laatste schep bouillon erdoor, breng op smaak met zout en laat nog 5 minuten op laag vuur staan.",
+    "Serveer heet met grote stukken kip erop, met of zonder bot."
+   ]
+  },
+  {
+   "id": 1126,
+   "name": "Marokkaanse tajine van kalfsschenkel met saffraan en gekarameliseerde pruimen",
+   "type": "Vlees",
+   "time": 135,
+   "emoji": "🍲",
+   "cuisine": "Marokkaans",
+   "source": "Loveland",
+   "sourceRef": "Quick and Easy Middle Eastern Cooking, 'How to make Moroccan veal tajine with plums' (couscous toegevoegd als bijgerecht; hoeveelheid sesamzaad geschat)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "kalfsschenkel (ossobuco)",
+     "750",
+     "g"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "saffraandraadjes",
+     "0.25",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "tl"
+    ],
+    [
+     "verse gember",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kaneel",
+     "4",
+     "tl"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "kurkuma",
+     "1",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "0.5",
+     "bosje"
+    ],
+    [
+     "verse koriander",
+     "0.5",
+     "bosje"
+    ],
+    [
+     "water",
+     "750",
+     "ml"
+    ],
+    [
+     "gedroogde pruimen zonder pit",
+     "300",
+     "g"
+    ],
+    [
+     "honing",
+     "3",
+     "el"
+    ],
+    [
+     "sesamzaad",
+     "1",
+     "el"
+    ],
+    [
+     "couscous",
+     "250",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Verhit de olijfolie in een grote braadpan op middelhoog vuur en bruin de kalfsschenkels aan alle kanten.",
+    "Voeg de gesnipperde ui toe, zet het vuur middelhoog, leg het deksel op de pan en laat de ui in ca. 10 minuten zacht en glazig worden, niet bruin.",
+    "Voeg de geperste knoflook, geraspte gember, saffraan, kurkuma, 1 tl kaneel, zout en peper toe. Giet 500 ml water erbij en leg het samengebonden bosje peterselie en koriander op het vlees.",
+    "Breng aan de kook, leg het deksel op de pan en laat op middellaag vuur 2 uur zacht stoven tot het vlees makkelijk van het bot loskomt. Schep na ongeveer 1 uur 125 ml bouillon uit de pan en zet apart.",
+    "Wel de pruimen intussen 5 minuten in kokend water en laat uitlekken. Doe ze in een kleine diepe koekenpan met de apart gehouden bouillon, 1 el kaneel en de honing en laat 5 minuten zacht koken tot de saus begint in te dikken. Rooster het sesamzaad in een droge pan goudbruin.",
+    "Overgiet de couscous met 250 ml kokend water, laat 5 minuten afgedekt wellen en maak los met een vork.",
+    "Verwijder het kruidenbosje. Leg de kalfsschenkel met de uiensaus op de couscous, schep de pruimen met hun siroop erover en bestrooi met het geroosterde sesamzaad."
+   ]
+  },
+  {
+   "id": 1127,
+   "name": "Shuwa: Omaanse lamsbout met baharat, limoen en knoflook, urenlang gegaard in folie",
+   "type": "Vlees",
+   "time": 335,
+   "emoji": "🍖",
+   "cuisine": "Midden-Oosters",
+   "source": "Loveland",
+   "sourceRef": "Quick and Easy Middle Eastern Cooking, 'How to make spicy slow-cooked lamb shuwa' (gewicht lamsbout geschat (ca. 2,5 kg); basmatirijst en komkommer-tomatensalade met rode ui, olijfolie en een extra limoen toegevoegd als bijgerecht; uit elkaar trekken en serveren toegevoegd; kant-en-klare baharat (60 g) mag de zelfgemaakte vervangen)",
+   "basePersons": 8,
+   "season": "altijd",
+   "timeNote": "Lamsvlees minimaal 12 uur (tot 24 uur) marineren in de koelkast; daarna op kamertemperatuur laten komen",
+   "ingredients": [
+    [
+     "lamsbout met bot",
+     "2500",
+     "g"
+    ],
+    [
+     "witte azijn",
+     "3",
+     "el"
+    ],
+    [
+     "limoen",
+     "3",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "el"
+    ],
+    [
+     "knoflook",
+     "10",
+     "teen"
+    ],
+    [
+     "zonnebloemolie",
+     "50",
+     "ml"
+    ],
+    [
+     "zwarte peperkorrels",
+     "2",
+     "el"
+    ],
+    [
+     "korianderzaad",
+     "1",
+     "el"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "kruidnagel",
+     "1",
+     "el"
+    ],
+    [
+     "komijnzaad",
+     "2",
+     "el"
+    ],
+    [
+     "kardemompeulen",
+     "5",
+     "stuk"
+    ],
+    [
+     "gemalen nootmuskaat",
+     "1",
+     "el"
+    ],
+    [
+     "chilivlokken",
+     "2",
+     "el"
+    ],
+    [
+     "basmatirijst",
+     "600",
+     "g"
+    ],
+    [
+     "komkommer",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "4",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Rooster peperkorrels, korianderzaad, kaneelstokje, kruidnagel, komijnzaad, kardemom, nootmuskaat en chilivlokken al roerend in een droge koekenpan op middelhoog vuur tot ze net beginnen te roken en sterk geuren. Laat niet verbranden, anders wordt het bitter. Maal fijn in een blender of kruidenmolen.",
+    "Meng de baharat met de azijn, het sap van 2 limoenen, het zout, de geperste knoflook en de olie tot een pasta.",
+    "Bekleed een braadslede ruim met aluminiumfolie en leg het lamsvlees erop. Maak met een mes overal kleine inkepingen en wrijf de marinade met je handen in alle plooien en sneetjes; giet de rest erover.",
+    "Vouw de folie van onderen over het vlees en sluit het als een pakketje. Laat minimaal 12 uur marineren in de koelkast.",
+    "Haal het vlees uit de koelkast en laat het op kamertemperatuur komen. Verwarm de oven voor op 140 °C en gaar het vlees in het gesloten pakketje ongeveer 5 uur, tot het van het bot valt.",
+    "Kook in het laatste half uur de rijst volgens de verpakking. Snijd komkommer, tomaat en rode ui in blokjes en meng met olijfolie, het sap van de derde limoen en een snufje zout.",
+    "Open de folie, laat het vlees 10 minuten rusten en trek het met twee vorken in stukken. Schep de braadjus erover en serveer met de rijst en de salade."
+   ]
+  },
+  {
+   "id": 1128,
+   "name": "Shakriyeh: Syrische lamsschenkels in romige yoghurtsaus met vermicellirijst en pijnboompitten",
+   "type": "Vlees",
+   "time": 180,
+   "emoji": "🥘",
+   "cuisine": "Midden-Oosters",
+   "source": "Loveland",
+   "sourceRef": "Quick and Easy Middle Eastern Cooking, 'How to make a creamy lamb stew from Syria' (hoeveelheid water voor de rijst en boter en olie geschat)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "lamsschenkels",
+     "6",
+     "stuk"
+    ],
+    [
+     "water",
+     "3750",
+     "ml"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "3",
+     "blad"
+    ],
+    [
+     "kaneelstokje",
+     "2",
+     "stuk"
+    ],
+    [
+     "kardemomzaadjes",
+     "6",
+     "g"
+    ],
+    [
+     "kruidnagel",
+     "3",
+     "g"
+    ],
+    [
+     "zout",
+     "2",
+     "tl"
+    ],
+    [
+     "witte peper",
+     "2",
+     "tl"
+    ],
+    [
+     "volle yoghurt",
+     "2000",
+     "g"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "maizena",
+     "2",
+     "el"
+    ],
+    [
+     "vermicelli",
+     "175",
+     "g"
+    ],
+    [
+     "kortkorrelige rijst",
+     "375",
+     "g"
+    ],
+    [
+     "pijnboompitten",
+     "50",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "lente-ui",
+     "5",
+     "stuk"
+    ],
+    [
+     "radijs",
+     "12",
+     "stuk"
+    ],
+    [
+     "boter",
+     "1",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Breng 3 liter water aan de kook in een grote pan en leg de lamsschenkels erin. Voeg de gekwarteerde uien, laurier, kaneelstokjes, kardemom, kruidnagel en de helft van het zout en de witte peper toe.",
+    "Breng opnieuw aan de kook, zet het vuur laag, leg het deksel op de pan en laat 2-2,5 uur zacht trekken tot het lamsvlees mals is. Schep tussendoor het vet van de oppervlakte.",
+    "Smelt intussen de helft van de boter met 1 el olie in een pan en bak de vermicelli goudbruin. Roer de gespoelde rijst erdoor, voeg 750 ml water toe en laat afgedekt op laag vuur ca. 20 minuten garen. Houd warm.",
+    "Bak de pijnboompitten in een koekenpan met de rest van de olie en boter op middelhoog vuur goudbruin en laat uitlekken op keukenpapier.",
+    "Haal de lamsschenkels uit de pan en houd warm (met of zonder bot). Zeef de bouillon en gooi uien en specerijen weg.",
+    "Klop in een grote pan de yoghurt met het ei, de maizena, de rest van het zout en de witte peper en 250 ml bouillon glad (eventueel wat meer bouillon). Verwarm op laag vuur onder voortdurend roeren, steeds in dezelfde richting, tot het zacht kookt. Laat nog 2 minuten koken en zet het vuur uit.",
+    "Leg de lamsschenkels in een grote diepe schaal en schenk de hete yoghurtsaus erover. Bestrooi met de pijnboompitten en grof gemalen zwarte peper.",
+    "Serveer met de vermicellirijst, verse lente-uitjes en radijsjes erbij."
+   ]
+  },
+  {
+   "id": 1129,
+   "name": "Kikkererwten met zacht gestoofde prei, chilivlokken en knoflookbrood",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🫛",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 27, 'Chickpeas with Leeks' (leek ragù uit het boek (p. 108) vervangen door een eenvoudige eigen versie: prei zacht gestoofd in olijfolie; geroosterd knoflookbrood van ciabatta en rucola toegevoegd om er een maaltijd van te maken; 2 blikken van 15 oz = 2 blikken van 400 g; Maldon-zout als zeezoutvlokken; boek: antipasto voor 6, hier hoofdgerecht voor 4)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "prei",
+     "3",
+     "stuk"
+    ],
+    [
+     "olijfolie extra vierge",
+     "200",
+     "ml"
+    ],
+    [
+     "kikkererwten (blik)",
+     "800",
+     "g"
+    ],
+    [
+     "chilivlokken",
+     "1",
+     "tl"
+    ],
+    [
+     "zeezoutvlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "ciabatta",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "rucola",
+     "2",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Maak de preiragù: snijd de prei (wit en lichtgroen) in dunne ringen en was goed. Stoof met 3 el olijfolie, een snuf zout en een scheutje water op laag vuur met deksel 25 minuten tot heel zacht en zoet; roer af en toe en voeg zo nodig een scheutje water toe.",
+    "Spoel de kikkererwten, laat ze goed uitlekken en doe ze met de prei in een grote kom.",
+    "Voeg 120 ml olijfolie, zeezoutvlokken naar smaak en de chilivlokken toe en schep krachtig om. Laat bij voorkeur 1 uur op kamertemperatuur staan zodat de smaken intrekken.",
+    "Snijd de ciabatta in plakken, besprenkel met de rest van de olijfolie en rooster ze in een grillpan of onder de grill goudbruin. Wrijf ze in met de gehalveerde knoflooktenen.",
+    "Verdeel de rucola over de borden, schep de kikkererwten met prei erop, maal er wat peper over en serveer met het knoflookbrood, eventueel als bruschetta-topping."
+   ],
+   "photo": "photos/batali-1129.webp"
+  },
+  {
+   "id": 1130,
+   "name": "Farrosalade met komkommer, rode ui, basilicum en feta",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🥒",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 35, 'Farro with Cucumbers' (rodewijnvinaigrette uit het boek vervangen door een eenvoudige eigen versie van rodewijnazijn, Dijonmosterd en olijfolie; farro verhoogd van 225 g naar 300 g en feta toegevoegd voor een volwaardige maaltijd; parelspelt mag i.p.v. farro; rode peper i.p.v. red finger/serrano chile; Maldon-zout als zeezoutvlokken; boek: antipasto voor 6, hier hoofdgerecht voor 4)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "farro (of parelspelt)",
+     "300",
+     "g"
+    ],
+    [
+     "komkommer",
+     "450",
+     "g"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode peper",
+     "1",
+     "stuk"
+    ],
+    [
+     "basilicum",
+     "1",
+     "handvol"
+    ],
+    [
+     "rodewijnazijn",
+     "2",
+     "el"
+    ],
+    [
+     "dijonmosterd",
+     "1",
+     "tl"
+    ],
+    [
+     "olijfolie extra vierge",
+     "6",
+     "el"
+    ],
+    [
+     "feta",
+     "200",
+     "g"
+    ],
+    [
+     "zeezoutvlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Spoel de farro, doe in een pan met ruim water (5 cm erboven) en breng aan de kook; schep het schuim af. Laat zachtjes ca. 25 minuten garen tot net gaar (volkoren farro duurt ca. 1,5 uur).",
+    "Snijd ondertussen de komkommer en de rode ui in blokjes van een halve centimeter, de rode peper in heel kleine blokjes en de basilicum in dunne reepjes.",
+    "Klop voor de vinaigrette de rodewijnazijn met de mosterd en een snuf zout los en klop er geleidelijk de olijfolie door.",
+    "Giet de farro af, doe in een grote kom en meng er komkommer, ui, peper en basilicum door. Schep de vinaigrette erdoor en breng royaal op smaak met zeezoutvlokken en peper.",
+    "Laat bij voorkeur 1 uur op kamertemperatuur staan. Verkruimel de feta erover vlak voor het serveren."
+   ],
+   "photo": "photos/batali-1130.webp"
+  },
+  {
+   "id": 1131,
+   "name": "Fregola met geblakerde maïs, lente-ui, citroen en burrata",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🌽",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 48, 'Fregula with Corn' (citroenvinaigrette uit het boek vervangen door een eenvoudige eigen versie van citroensap, -rasp en olijfolie; fregola verhoogd van 225 g naar 300 g, maïs verdubbeld en burrata toegevoegd voor een volwaardige maaltijd; parelcouscous mag i.p.v. fregola; maïs uit blik of diepvries (goed drooggedept) mag i.p.v. verse; Maldon-zout als zeezoutvlokken; boek: antipasto voor 6, hier hoofdgerecht voor 4)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "zout",
+     "2",
+     "el"
+    ],
+    [
+     "fregola (of parelcouscous)",
+     "300",
+     "g"
+    ],
+    [
+     "maïskolf",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie extra vierge",
+     "4",
+     "el"
+    ],
+    [
+     "citroen",
+     "1",
+     "stuk"
+    ],
+    [
+     "lente-ui",
+     "4",
+     "stengel"
+    ],
+    [
+     "burrata",
+     "2",
+     "stuk"
+    ],
+    [
+     "zeezoutvlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan met ca. 4 liter water aan de kook met 2 el zout. Kook de fregola in 10-12 minuten al dente en giet goed af.",
+    "Snijd ondertussen de maïskorrels van de kolven. Verhit een gietijzeren of andere zware koekenpan op hoog vuur tot hij rookt, voeg 1 el olijfolie toe en bak de maïs 2 minuten tot hij hier en daar zwart blakert (pas op voor springende korrels). Bestrooi met zeezoutvlokken, bak nog een minuut en laat afkoelen in een grote kom.",
+    "Klop voor de vinaigrette de rasp van een halve citroen en 2 el citroensap los met een snuf zout en klop er 3 el olijfolie door.",
+    "Snijd de lente-ui in dunne ringetjes. Voeg de fregola en lente-ui toe aan de maïs, schep de vinaigrette erdoor en breng royaal op smaak met zeezoutvlokken en grof gemalen peper.",
+    "Laat eventueel 1 uur op kamertemperatuur staan. Verdeel over de borden, scheur de burrata erover en maak af met een extra draai peper en een druppel olijfolie."
+   ],
+   "photo": "photos/batali-1131.webp"
+  },
+  {
+   "id": 1132,
+   "name": "Lauwe Puy-linzen met pancetta, Dijonmosterd en ciabatta",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🥓",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 52, 'Lentils with Pancetta' (Castelluccio-linzen vervangen door Franse groene Puy-linzen; pancetta in één stuk (anders een dikke plak of spekblokjes); hoeveelheden ca. x1,3 opgeschaald (linzen 300 g, pancetta 80 g); ciabatta en rucola toegevoegd voor een volwaardige maaltijd; Maldon-zout als zeezoutvlokken; boek: antipasto voor 6, hier hoofdgerecht voor 4)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "groene linzen (Puy)",
+     "300",
+     "g"
+    ],
+    [
+     "wortel",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "1",
+     "stengel"
+    ],
+    [
+     "dijonmosterd",
+     "3",
+     "el"
+    ],
+    [
+     "pancetta (in één stuk)",
+     "80",
+     "g"
+    ],
+    [
+     "olijfolie extra vierge",
+     "3",
+     "el"
+    ],
+    [
+     "zeezoutvlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "ciabatta",
+     "1",
+     "stuk"
+    ],
+    [
+     "rucola",
+     "2",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Doe de linzen in een middelgrote pan met water tot 5 cm erboven en breng aan de kook.",
+    "Halveer wortel, ui en bleekselderij en voeg ze met de mosterd en het stuk pancetta toe. Draai het vuur laag en laat zachtjes ca. 20 minuten garen tot de linzen net gaar zijn.",
+    "Giet af en vang 80 ml kookvocht op. Verwijder de groenten (weggooien) en de pancetta; doe de linzen in een grote kom.",
+    "Hak de pancetta grof en meng door de linzen. Voeg net genoeg kookvocht toe om ze smeuïg te maken, schep de olijfolie erdoor en breng op smaak met zeezoutvlokken en grof gemalen peper.",
+    "Laat eventueel even op kamertemperatuur staan en serveer lauw op een bedje rucola, met geroosterde of verse ciabatta erbij."
+   ],
+   "photo": "photos/batali-1132.webp"
+  },
+  {
+   "id": 1133,
+   "name": "Toscaanse witte bonen met kruiden en groente op knoflookbrood",
+   "type": "Vegetarisch",
+   "time": 70,
+   "emoji": "🫘",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 54, 'White Beans' (gedroogde bonen verhoogd van 225 g naar 300 g; geserveerd op geroosterd knoflookbrood van boerenbrood of ciabatta met rucola om er een maaltijd van te maken; Maldon-zout als zeezoutvlokken; boek: antipasto voor 6, hier hoofdgerecht voor 4)",
+   "basePersons": 4,
+   "season": "altijd",
+   "timeNote": "Bonen 12-24 uur weken",
+   "ingredients": [
+    [
+     "gedroogde cannellinibonen",
+     "300",
+     "g"
+    ],
+    [
+     "wortel",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "1",
+     "stengel"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "blad"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "takje"
+    ],
+    [
+     "salie",
+     "1",
+     "takje"
+    ],
+    [
+     "rozemarijn",
+     "1",
+     "takje"
+    ],
+    [
+     "tijm",
+     "4",
+     "takje"
+    ],
+    [
+     "zeezoutvlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "olijfolie extra vierge",
+     "100",
+     "ml"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "boerenbrood of ciabatta",
+     "8",
+     "snee"
+    ],
+    [
+     "rucola",
+     "2",
+     "handvol"
+    ]
+   ],
+   "steps": [
+    "Week de bonen 12-24 uur in ruim koud water (5 cm erboven).",
+    "Doe bonen met weekwater in een pan, vul aan tot 5 cm boven de bonen en breng aan de kook; schep het schuim af. Voeg de gehalveerde wortel, rode ui en (afgeschilde) bleekselderij, 4 gekneusde knoflooktenen, laurier en 1 takje van elk kruid toe. Laat zachtjes 35-40 minuten garen tot de bonen zacht zijn (langer bij oude bonen); zout op het eind.",
+    "Vang 120 ml kookvocht op en giet de bonen af. Laat de groenten op een bord iets afkoelen; doe bonen en knoflook in een kom en verwijder laurier en kruidentakjes.",
+    "Hak de groenten in stukjes van een halve centimeter en meng door de bonen. Voeg 60 ml kookvocht en 60 ml olijfolie toe en roer voorzichtig; voeg meer kookvocht toe als het te droog is. Bestrooi met 1 el fijngehakte tijm en breng op smaak met zeezoutvlokken en peper.",
+    "Besprenkel het brood met de rest van de olijfolie, rooster goudbruin in een grillpan of onder de grill en wrijf in met de 2 gehalveerde knoflooktenen.",
+    "Leg de toast met wat rucola op de borden en schep de lauwe of op kamertemperatuur gekomen bonen erop."
+   ],
+   "photo": "photos/batali-1133.webp"
+  },
+  {
+   "id": 1134,
+   "name": "Gestoofde palmkool met knoflook en peper op romige ricotta, met polenta",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🥬",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 66, 'Black Kale with Ricotta' (cavolo nero vervangen door palmkool of boerenkool; red finger/serrano chile vervangen door rode peper; ricotta verhoogd van ca. 180 g naar 250 g; romige polenta (instant) met boter en Parmezaanse kaas toegevoegd voor een volwaardige maaltijd; Maldon-zout als zeezoutvlokken; boek: antipasto voor 6, hier hoofdgerecht voor 4)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "palmkool of boerenkool",
+     "680",
+     "g"
+    ],
+    [
+     "olijfolie extra vierge",
+     "6",
+     "el"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "rode peper",
+     "1",
+     "stuk"
+    ],
+    [
+     "zeezoutvlokken",
+     "1",
+     "snuf"
+    ],
+    [
+     "verse ricotta",
+     "250",
+     "g"
+    ],
+    [
+     "instant polenta",
+     "250",
+     "g"
+    ],
+    [
+     "water",
+     "1000",
+     "ml"
+    ],
+    [
+     "roomboter",
+     "25",
+     "g"
+    ],
+    [
+     "Parmezaanse kaas",
+     "50",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwijder de harde stelen en nerven van de kool en hak de bladeren grof. Snijd de knoflook in dikke plakjes en de rode peper in ringetjes.",
+    "Doe 2 el olijfolie, knoflook en peper in een grote pan, voeg de kool toe en bak 5 minuten op middelhoog vuur tot hij begint te slinken. Bestrooi met zeezoutvlokken, voeg 180 ml water toe en laat met deksel 15-20 minuten stoven tot de kool zacht is. Laat uitlekken en iets afkoelen.",
+    "Breng ondertussen 1 liter water met 1 tl zout aan de kook, strooi al roerend de polenta erin en laat volgens de verpakking garen tot een romige pap. Roer de boter en geraspte Parmezaanse kaas erdoor en breng op smaak met peper; voeg zo nodig een scheutje heet water toe.",
+    "Klop de ricotta los met de resterende 4 el olijfolie; voeg zo nodig 1-2 el warm water toe voor een smeuïge structuur.",
+    "Schep de polenta op de borden, strijk er een flinke lepel ricotta naast of overheen en schep de gestoofde kool erop. Besprenkel met een druppel olijfolie."
+   ],
+   "photo": "photos/batali-1134.webp"
+  },
+  {
+   "id": 1135,
+   "name": "Mosselen met peperonata, kappertjes en ciabatta",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🦪",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 82, 'Mussels with Peperonata' (boek: antipasto voor 6, hier hoofdgerecht voor 4; mosselen opgeschaald van 900 g naar 2 kg; ciabatta toegevoegd; Pomì strained tomatoes vervangen door passata; gezouten kappertjes 30 min geweekt i.p.v. een nacht; Maldon vervangen door zeezout)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "knoflook",
+     "5",
+     "teen"
+    ],
+    [
+     "olijfolie extra vierge",
+     "120",
+     "ml"
+    ],
+    [
+     "rode paprika",
+     "450",
+     "g"
+    ],
+    [
+     "groene paprika",
+     "450",
+     "g"
+    ],
+    [
+     "rode peper",
+     "1",
+     "stuk"
+    ],
+    [
+     "droge witte wijn",
+     "180",
+     "ml"
+    ],
+    [
+     "mosselen",
+     "2000",
+     "g"
+    ],
+    [
+     "passata",
+     "240",
+     "ml"
+    ],
+    [
+     "gezouten kappertjes",
+     "3",
+     "el"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ],
+    [
+     "ciabatta",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Spoel de kappertjes goed af en laat ze 30 minuten weken in koud water; ververs het water een paar keer. Snijd de knoflook in dunne plakjes, de paprika's in blokjes van ruim 1 cm en de rode peper in ringetjes. Kook de passata in een steelpannetje in tot de helft.",
+    "Verwarm de helft van de knoflook met 60 ml olie in een grote hapjespan op laag vuur, ca. 1 minuut, zonder te kleuren. Voeg paprika en rode peper toe en bak 15-20 minuten zacht, af en toe roeren. Schep over in een kom.",
+    "Maak de mosselen schoon en gooi open exemplaren die niet sluiten weg. Verwarm de rest van de olie en knoflook in een grote pan op middelhoog vuur, ca. 1 minuut. Voeg wijn en mosselen toe, doe de deksel erop en stoom ca. 4 minuten tot ze open zijn. Schep de mosselen in een kom en neem de pan van het vuur.",
+    "Roer de ingekookte passata, uitgelekte kappertjes en paprikamengsel door het mosselvocht en breng aan de kook. Breng op smaak met zeezout, neem van het vuur en schep de mosselen er voorzichtig door.",
+    "Verwarm de ciabatta kort in de oven en serveer de mosselen warm of op kamertemperatuur, met brood om de saus op te dippen."
+   ],
+   "photo": "photos/batali-1135.webp"
+  },
+  {
+   "id": 1136,
+   "name": "Polpo e sedano: octopussalade met bleekselderij en krieltjes",
+   "type": "Vis",
+   "time": 120,
+   "emoji": "🐙",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 86, 'Octopus & Celery' (boek: antipasto voor 6, hier hoofdgerecht voor 4; gekookte krieltjes toegevoegd (polpo e patate); diepvries-octopus prima; Maldon vervangen door zeezout)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "octopus, schoongemaakt",
+     "1350",
+     "g"
+    ],
+    [
+     "droge witte wijn",
+     "360",
+     "ml"
+    ],
+    [
+     "rode ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "wortel",
+     "2",
+     "stuk"
+    ],
+    [
+     "bleekselderij",
+     "2",
+     "stengel"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "blad"
+    ],
+    [
+     "peterselie",
+     "1",
+     "takje"
+    ],
+    [
+     "salie",
+     "1",
+     "takje"
+    ],
+    [
+     "rozemarijn",
+     "1",
+     "takje"
+    ],
+    [
+     "tijm",
+     "1",
+     "takje"
+    ],
+    [
+     "bleekselderijhart met blad",
+     "1",
+     "stuk"
+    ],
+    [
+     "rodewijnazijn",
+     "60",
+     "ml"
+    ],
+    [
+     "olijfolie extra vierge",
+     "60",
+     "ml"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ],
+    [
+     "krieltjes",
+     "800",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Ontdooi de octopus indien nodig. Snijd ui, wortel en bleekselderijstengels in dunne plakjes en kneus de knoflook.",
+    "Doe octopus, wijn, groenten, knoflook, laurier en kruidentakjes (en eventueel een wijnkurk) in een grote pan en giet er water bij tot de octopus onderstaat. Breng aan de kook, zet het vuur lager en laat afgedekt ca. 1 uur zachtjes garen tot het dikste deel zacht is als je erin prikt. Laat afkoelen in het kookvocht.",
+    "Kook ondertussen de krieltjes in ca. 15 minuten gaar in water met zout en giet af.",
+    "Verwijder van het bleekselderijhart met een dunschiller de draden en snijd het met blad en al in dunne plakjes.",
+    "Giet de octopus af (gooi groenten en kruiden weg). Snijd de tentakels los, wrijf vel en zuignappen eraf en snijd kop en tentakels in stukken van 2,5 cm.",
+    "Meng octopus, krieltjes en bleekselderijhart met azijn en olie in een grote kom en breng ruim op smaak met zeezout. Serveer direct of laat 1 uur staan zodat de smaken intrekken."
+   ],
+   "photo": "photos/batali-1136.webp"
+  },
+  {
+   "id": 1137,
+   "name": "Sarde in saor: Venetiaanse zoetzure sardines met venkel en gegrilde polenta",
+   "type": "Vis",
+   "time": 75,
+   "emoji": "🐟",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 88, 'Sardines in Saor' (boek: antipasto voor 6 met 450 g sardines, hier hoofdgerecht voor 4 met alle hoeveelheden ca. 1,5x opgeschaald (geschat); gegrilde polenta van instantpolenta toegevoegd; champagneazijn vervangen door witte wijnazijn; sardines door de visboer laten fileren; filets desgewenst eerst kort gebakken (traditioneel); Maldon vervangen door zeezout)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "venkel",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse sardines, gefileerd",
+     "700",
+     "g"
+    ],
+    [
+     "zeezout",
+     "1",
+     "snuf"
+    ],
+    [
+     "witte wijnazijn",
+     "180",
+     "ml"
+    ],
+    [
+     "suiker",
+     "3",
+     "el"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "blad"
+    ],
+    [
+     "kaneelpoeder",
+     "1.5",
+     "tl"
+    ],
+    [
+     "rozijnen",
+     "60",
+     "g"
+    ],
+    [
+     "pijnboompitten",
+     "50",
+     "g"
+    ],
+    [
+     "instantpolenta",
+     "250",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ]
+   ],
+   "steps": [
+    "Kook de polenta volgens de verpakking (ca. 1 liter water met zout), roer er 1 el olijfolie door en strijk uit in een ingevette ovenschaal van ca. 2 cm dik. Laat minstens 30 minuten opstijven.",
+    "Snijd de stelen van de venkel en bewaar het groen. Halveer de knol en schaaf hem flinterdun met een mandoline of scherp mes. Rooster de pijnboompitten goudbruin in een droge pan.",
+    "Spoel de sardinefilets af en dep droog. Leg ze met de velkant naar boven in één laag in een schaal, bestrooi met zeezout en verdeel de geschaafde venkel erover. (Traditioneel: bak de filets eerst 1 minuut per kant in wat olijfolie.)",
+    "Breng azijn, suiker, laurier, kaneel en rozijnen aan de kook, roer tot de suiker is opgelost en kook 3 minuten. Giet het hete mengsel gelijkmatig over de sardines en laat afkoelen.",
+    "Snijd de polenta in repen of driehoeken, bestrijk met olijfolie en gril ze in een hete grillpan ca. 3 minuten per kant goudbruin.",
+    "Bestrooi de sardines vlak voor serveren met pijnboompitten en venkelgroen en serveer met de gegrilde polenta."
+   ],
+   "photo": "photos/batali-1137.webp"
+  },
+  {
+   "id": 1138,
+   "name": "Wintercaprese: mozzarella in pesto met zoetzure tomaatjes en ciabatta",
+   "type": "Vegetarisch",
+   "time": 15,
+   "emoji": "🧀",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 150, 'Winter Caprese Salad' (boek: salade voor 6 met 6 bollen van 85 g, hier lichte hoofdmaaltijd voor 4 met 4 bollen van 125 g; zelf ovengedroogde tomaten vervangen door halfgedroogde tomaatjes uit pot; agrodolce vervangen door balsamico kort ingekookt met suiker; basilicumpesto uit de koeling i.p.v. huisgemaakt; ciabatta en rucola toegevoegd)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "halfgedroogde tomaatjes uit pot",
+     "280",
+     "g"
+    ],
+    [
+     "balsamicoazijn",
+     "4",
+     "el"
+    ],
+    [
+     "suiker",
+     "1",
+     "tl"
+    ],
+    [
+     "verse basilicumpesto",
+     "6",
+     "el"
+    ],
+    [
+     "buffelmozzarella",
+     "4",
+     "bol"
+    ],
+    [
+     "rucola",
+     "2",
+     "handvol"
+    ],
+    [
+     "olijfolie extra vierge",
+     "1",
+     "el"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "ciabatta",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C. Verwarm balsamico en suiker in een steelpannetje en laat 1-2 minuten zachtjes inkoken tot een licht stroperige agrodolce; laat afkoelen.",
+    "Laat de tomaatjes uitlekken, halveer ze en meng ze met de agrodolce.",
+    "Bak de ciabatta 5-8 minuten knapperig in de oven.",
+    "Laat de mozzarella uitlekken en dep droog. Doe de pesto in een kommetje en rol elke bol er royaal doorheen.",
+    "Verdeel de rucola over de borden, besprenkel met olijfolie, leg er een mozzarellabol op en schep de tomaatjes ernaast. Maal er peper over en serveer met de ciabatta."
+   ],
+   "photo": "photos/batali-1138.webp"
+  },
+  {
+   "id": 1139,
+   "name": "Zwarte linguine met inktvis, witte wijn en citroen",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🦑",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 193, 'Linguine with Squid & Its Ink' (inktvis verhoogd van 115 g naar 400 g, pijlinktvisringen uit de supermarkt; squid ink als inktvisinkt in zakjes)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zout",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie extra vierge",
+     "90",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "5",
+     "teen"
+    ],
+    [
+     "droge witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "pijlinktvisringen",
+     "400",
+     "g"
+    ],
+    [
+     "inktvisinkt (zakjes)",
+     "2",
+     "el"
+    ],
+    [
+     "linguine",
+     "450",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "15",
+     "g"
+    ],
+    [
+     "citroen",
+     "0.5",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan met ca. 5 liter water aan de kook en voeg het zout toe. Snijd de knoflook in dunne plakjes en hak de peterselie grof.",
+    "Verwarm olie en knoflook in een andere grote pan op middelhoog vuur ca. 1 minuut tot de knoflook zacht is. Schenk de wijn erbij en laat tot de helft inkoken.",
+    "Voeg de inktvis toe en bak al roerend 2-3 minuten tot hij net gaar is. Klop de inktvisinkt erdoor en neem de pan van het vuur.",
+    "Kook de linguine beetgaar. Giet af en bewaar ca. 120 ml kookwater.",
+    "Doe de pasta met 60 ml kookwater bij de saus en schep om op middelhoog vuur. Zet het vuur laag, doe de deksel erop en laat 2 minuten samen garen.",
+    "Maak de saus zo nodig losser met wat extra kookwater, roer de peterselie erdoor, knijp er citroensap boven en serveer direct."
+   ],
+   "photo": "photos/batali-1139.webp"
+  },
+  {
+   "id": 1140,
+   "name": "Pennette met pesto van stengelbroccoli, pijnboompitten en Parmezaan",
+   "type": "Vegetarisch",
+   "time": 30,
+   "emoji": "🥦",
+   "cuisine": "Italiaans",
+   "source": "Batali",
+   "sourceRef": "Molto Gusto, p. 207, 'Pennette with 3 Pestos' met 'Broccoli Rabe Pesto' (broccoli rabe vervangen door stengelbroccoli/broccolini; pestorecept uit het boek ingevoegd en de hele portie gebruikt i.p.v. 2/3 kop; broccolini in het pastawater gekookt)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zout",
+     "3",
+     "el"
+    ],
+    [
+     "stengelbroccoli",
+     "225",
+     "g"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "pijnboompitten",
+     "35",
+     "g"
+    ],
+    [
+     "dijonmosterd",
+     "1",
+     "tl"
+    ],
+    [
+     "olijfolie extra vierge",
+     "90",
+     "ml"
+    ],
+    [
+     "Parmezaanse kaas",
+     "75",
+     "g"
+    ],
+    [
+     "pennette",
+     "450",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Breng een grote pan met ca. 5 liter water aan de kook en voeg het zout toe. Rooster de pijnboompitten goudbruin in een droge pan en rasp de Parmezaan.",
+    "Snijd de onderkant van de stengelbroccoli en kook hem ca. 7 minuten zacht in het kokende water. Schep hem eruit (laat het water koken voor de pasta), spoel in ijskoud water en laat goed uitlekken.",
+    "Hak de knoflook fijn in een keukenmachine. Voeg broccoli en pijnboompitten toe en pulseer tot fijngehakt. Mix de mosterd erdoor en schenk er met draaiende motor de olie bij. Roer er 25 g Parmezaan door.",
+    "Kook de pennette beetgaar in hetzelfde water. Giet af en bewaar 120 ml kookwater.",
+    "Schep de pasta in een schaal met de pesto en 60 ml kookwater tot alles goed bedekt is; voeg zo nodig extra kookwater toe. Serveer direct met de rest van de Parmezaan."
+   ],
+   "photo": "photos/batali-1140.webp"
   }
  ]
 }
