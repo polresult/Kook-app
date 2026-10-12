@@ -940,3 +940,118 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 
 12 recepten tonen de gerechtfoto uit het boek als photos/batali-<id>.webp.
 
+## Quick and Easy Middle Eastern Cooking (Melissa Loveland): voor- en nagerechten (1280 tot en met 1285)
+
+6 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Kubba halab: Irakese gefrituurde rijstkibbeh gevuld met gehakt en peterselie: https://www.pexels.com/photo/11842176/
+- Kunafa-bakjes: knapperige kataifi met griesmeel-mozzarellavulling, siroop en pistache: https://www.pexels.com/photo/36691304/
+- Asabe zainab: Omaanse filovingers met kaas en kardemom in saffraansiroop: https://www.pexels.com/photo/36645936/
+- Qatayef: gevulde halvemaanpannenkoekjes met walnoot-kokos of kaas en pistache in siroop: https://www.pexels.com/photo/10545129/
+- Khobzet fekia: Tunesische notencake met hazelnoot, amandel en pistache in rozenwatersiroop: https://www.pexels.com/photo/33173914/
+- Basbousa met sinaasappel en kokos: griesmeelcake met tahin, amandel en suikersiroop: https://www.pexels.com/photo/10865888/
+
+## Pantry to Plate (Emily Stephenson): voor- en nagerechten (1500 tot en met 1508)
+
+9 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Okonomiyaki: Japanse koolpannenkoek met wortellinten en tofu-'mayo': https://www.pexels.com/photo/31097820/
+- Eieren uit de oven op spinazie met knoflook-paprikayoghurt en citroen: https://www.pexels.com/photo/12961891/
+- Romige wortel-gembersoep met kokosmelk, chilivlokken en limoen: https://www.pexels.com/photo/7865794/
+- Snelle Franse uiensoep met miso en Parmezaan-toast: https://www.pexels.com/photo/11865617/
+- Pittige Mexicaanse tortillasoep met kip, zwarte bonen en krokante tortillareepjes: https://www.pexels.com/photo/31843916/
+- Klassieke kippensoep met wortel, bleekselderij, macaroni en citroen: https://www.pexels.com/photo/10172749/
+- Krokante aardappelkoekjes met kimchi en ui: https://www.pexels.com/photo/18976996/
+- Frisse Italiaanse bleekselderijsalade met citroen-knoflookdressing en Parmezaan: https://www.pexels.com/photo/15840962/
+- Lauwe kikkererwtensalade met wortel, olijven, citroen en komijn: https://www.pexels.com/photo/6066051/
+
+## Fish (Mitch Tonks): voor- en nagerechten (1660 tot en met 1679)
+
+7 recepten tonen de gerechtfoto uit het boek als photos/tonks-<id>.webp.
+
+13 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Thaise viskoekjes van schelvis en garnalen met limoen-chilidip: https://www.pexels.com/photo/37859853/
+- Goujons: krokant gepaneerde reepjes tongschar met venkel-sinaasappelcoleslaw: https://www.pexels.com/photo/27497770/
+- Romige viskoekjes van leng met aardappel en peterselie: https://www.pexels.com/photo/7491941/
+- Escabeche van rode mul: gebakken mulfilets zoetzuur ingelegd met tomaat, basilicum, kappertjes en olijven: https://www.pexels.com/photo/2825225/
+- Koude gepocheerde tarbot met munt-komkommersaus en waterkers: https://www.pexels.com/photo/27381531/
+- Bleekselderijsalade met ansjovis, rozijnen, pijnboompitten en romige basilicum-Parmezaandressing: https://www.pexels.com/photo/36212759/
+- Devilled sprats: krokant gefrituurde sprot met cayenne en mosterdpoeder, citroen en mayonaise: https://www.pexels.com/photo/15954348/
+- Tonijncarpaccio met ansjovis-kappertjesdressing, Parmezaan en sjalot: https://www.pexels.com/photo/27200328/
+- Ovenschaal met schaal- en schelpdieren, knoflook, cherrytomaatjes en kruiden: https://www.pexels.com/photo/11374421/
+- Gegrilde scheermessen met knapperige knoflook-citroenkruim: https://www.pexels.com/photo/37636644/
+- Hollandse garnalen in warme foelieboter op dikke toast: https://www.pexels.com/photo/13220311/
+- Sint-jakobsschelpen uit de oven met ansjovis-knoflookboter en krokant broodkruim: https://www.pexels.com/photo/4871175/
+- Krokant gefrituurde inktvisringen met peterselie-aioli: https://www.pexels.com/photo/32153517/
+
+## Persiana Easy (Sabrina Ghayour): voor- en nagerechten (1580 tot en met 1614)
+
+35 recepten tonen de gerechtfoto uit het boek als photos/ghayour-<id>.webp.
+
+
+## New Food Fast (Donna Hay): voor- en nagerechten (1380 tot en met 1414)
+
+9 recepten tonen de gerechtfoto uit het boek als photos/hay-<id>.webp (bijgesneden waar nodig).
+
+26 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Krokante aubergine op little gem met gemarineerde feta en basilicum: https://www.pexels.com/photo/6213729/
+- Salade van gegrilde tomaat en knoflookbruschetta met rucola, balsamico en Parmezaan: https://www.pexels.com/photo/2532006/
+- Gegrilde venkel met geitenkaas en tijm op rucola met cherrytomaatjes: https://www.pexels.com/photo/29843069/
+- Vijgen in prosciutto uit de oven op gebakken halloumi: https://www.pexels.com/photo/30206582/
+- Rijstvelrolletjes met sesambiefstuk, spinazie en peultjesscheuten: https://www.pexels.com/photo/12386446/
+- Bladerdeegflappen met spinazie, ricotta, Parmezaan en dille: https://www.pexels.com/photo/19499005/
+- Thaise kipsalade met citroengras, chili en verse kruiden in slablaadjes: https://www.pexels.com/photo/2531051/
+- Knoflookbruschetta met tomaat en olijf, en met geitenkaas en rucola-kappertjessalade: https://www.pexels.com/photo/7432994/
+- Salade van warmgerookte zalm met kervel, citroenvinaigrette en zuurdesembrood: https://www.pexels.com/photo/20051297/
+- Pekingeend-pannenkoekjes met bosui en hoisinsaus: https://www.pexels.com/photo/5848599/
+- Krokante aardappelkoekjes met dille, gerookte zalm, waterkers en crème fraîche: https://www.pexels.com/photo/18001752/
+- Snelle sushi: nori-vierkantjes met sushirijst, sashimi, sojasaus en gember: https://www.pexels.com/photo/5713760/
+- Witte-chocoladetiramisu met lange vingers, espresso en koffielikeur: https://www.pexels.com/photo/1707920/
+- Steenvruchten en bessen in ijskoude moscato d'Asti: https://www.pexels.com/photo/9509207/
+- Bladerdeegtaartjes met dunne plakjes Pink Lady-appel en bruine suiker: https://www.pexels.com/photo/36340982/
+- Gekarameliseerde aardbeien op shortbread met crème fraîche: https://www.pexels.com/photo/35403886/
+- Peren gepocheerd in kokosmelk met kaneel: https://www.pexels.com/photo/11572738/
+- Bladerdeegflapjes met pure chocolade, kaneel en hazelnoot: https://www.pexels.com/photo/18614240/
+- Gestoomde kokoscustards met limoenrasp: https://www.pexels.com/photo/12340630/
+- Frangipane-taartjes met een hele rode pruim: https://www.pexels.com/photo/5448377/
+- Thaise kokosrijst met limoen-palmsuikersiroop: https://www.pexels.com/photo/19835551/
+- Kokostaartjes met pure-chocoladeganache: https://www.pexels.com/photo/31544098/
+- Passievrucht-cheesecakejes met limoen en shortbreadbodem: https://www.pexels.com/photo/38134573/
+- Panna cotta: Italiaanse vanilleroompudding met gemengde bessen: https://www.pexels.com/photo/3301907/
+- Gebakken rijstpuddinkjes met vanille en kaneel: https://www.pexels.com/photo/15794017/
+- Frambozen-yoghurtijs met citroen en knapperige ijswafels: https://www.pexels.com/photo/32055276/
+
+## Fast Food 2 (Sandra Bekkari): voor- en nagerechten (1200 tot en met 1214)
+
+12 recepten tonen de gerechtfoto uit het boek als photos/bekkari-<id>.webp (bijgesneden waar nodig).
+
+3 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Falafel met verse munt en koriander, tzatziki en pita: https://www.pexels.com/photo/29286759/
+- Clafoutis met kokos, peer en blauwe bessen: https://www.pexels.com/photo/26615687/
+- Cheesecake in een glaasje met hazelnoot-chocoladecrumble en blauwebessencoulis: https://www.pexels.com/photo/26341202/
+
+## Everyday Fresh (Donna Hay): voor- en nagerechten (1460 tot en met 1479)
+
+20 recepten tonen de gerechtfoto uit het boek als photos/hayfresh-<id>.webp (bijgesneden waar nodig).
+
+
+## Korean Cooking (Soon Young Chung): voor- en nagerechten (1340 tot en met 1357)
+
+7 recepten tonen de gerechtfoto uit het boek als photos/chung-<id>.webp.
+
+11 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Tangpyeongchae: koude salade van mungbonengelei met rundvlees, taugé en nori: https://www.pexels.com/photo/8952662/
+- Jatjuk: fluweelzachte rijstpap met pijnboompitten: https://www.pexels.com/photo/10805991/
+- Manduguk: heldere runderbouillon met kimchi-tofu-mandu: https://www.pexels.com/photo/5305432/
+- Miyeokguk: Koreaanse zeewiersoep met mosselen, knoflook en sesamolie: https://www.pexels.com/photo/6716750/
+- Pyogojeon: gebakken shiitake gevuld met rundvlees en tofu, met soja-pijnboompitdip: https://www.pexels.com/photo/15622969/
+- Miyeokcho: frisse wakamesalade met inktvis, komkommer en citroen-sojadressing: https://www.pexels.com/photo/6645919/
+- Geglazuurde mosselspiesjes met soja-gember, groene paprika en pijnboompitten: https://www.pexels.com/photo/8250372/
+- Dangnalgae gangjeong: krokante kippenvleugels in kleverige soja-gemberglazuur met knoflook en chili: https://www.pexels.com/photo/16444394/
+- Pyeonyuk: koud geperst rundvlees in dunne plakjes met pittige zure sojadip: https://www.pexels.com/photo/35063436/
+- Hwajeon: kleefrijstpannenkoekjes met dadel, munt en honing: https://www.pexels.com/photo/16764274/
+- Maejakgwa: krokante gemberkoekjes in honing-kaneelsiroop met pijnboompitten: https://www.pexels.com/photo/31293524/
