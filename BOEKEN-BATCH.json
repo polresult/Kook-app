@@ -70,6 +70,11 @@
    "title": "The Art of Mexican Cooking",
    "author": "Jan Aaron en Georgine Sachs Salom (1965)",
    "basePersons": "volgens het boek (bij een bereik de laagste)"
+  },
+  "Carrillo": {
+   "title": "Mexico: The Cookbook",
+   "author": "Margarita Carrillo Arronte (2014)",
+   "basePersons": "volgens het boek"
   }
  },
  "skipped": {
@@ -86,7 +91,8 @@
   "Ghayour": "ontbijt, brood, bijgerechten, salades, dips en desserts; lang of bewerkelijk (rundvlees-noedelsoep 3 uur, lamskari 2 uur, raan, kleftiko, couscous royale, sinaasappel-varkensschouder, restjes-lamsgerecht met mango); lijkt te veel op bestaande recepten: lamskofta (40), lahmacun (66), garnalenorzo (10), kokosgarnalen (26), kiptajine (490), tikka masala (139), koshari (594), biryani (369), koftacurry (221), Turkse linzensoep (467), gehaktballen uit de oven met harissa en feta (14), harissabonen (655), kuku, kippenvleugels",
   "Ramsay": "basisrecepten (fonds, sauzen, boters), voorgerechten, terrines, carpaccio en gravlax; bewerkelijk of restaurantniveau (zelfgemaakte pasta, ravioli, cannelloni, kreeft, soufflé, tulband van tarbot, brill in aardappelkorst, kabeljauw met kruidenkorst die 2 uur moet opstijven, gefrituurde inktvis in gistbeslag, Italiaanse vissoep met acht soorten vis, zeevruchtencassoulet, lasagne met fluweelsaus); lastig te krijgen (steur, mahi mahi); lijkt te veel op bestaande recepten: zalmkoekjes (213, 228), vispastei met bladerdeeg (378), paella (204), mosselen (47 en meer), risotto's (121, 380), pasta met gerookte zalm (63), chowder (93), zeeduivel in pancetta (381), gevulde zeebaars met venkel (52), gegrilde zalm met geroosterde paprika (606)",
   "Tonks": "vissoorten- en kooktechniekhoofdstukken, voorgerechten, tartaar, carpaccio en ingelegde vis; duur, lastig te krijgen of bewerkelijk (tarbot, griet, zonnevis, megrim, rog, steur, kreeft, langoustines, inktvis in eigen inkt, zeevruchtenstoof uit de houtoven, risotto met bouillon van hele poon); lijkt te veel op bestaande recepten: viskoekjes (135, 228), lengviskoekjes, zeebaars met venkel (52), dorade uit de oven (52, 691), schelvis in pakketjes (198), sliptong (224), poon in pancetta (381), spaghetti vongole (116), spaghetti met garnalen (310), scheermessen (298), mosselen (47 en meer), sardines op toast (206), zwaardvis (693), tonijn met pepperonata (696), pollak in peterseliesaus (te veel als kabeljauw in peterseliesaus)",
-  "Aaron": "het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; hapjes, sauzen, desserts, dranken en feestmenu's; bewerkelijk, lang of lastig te krijgen (schildpad, tong, pens, varkenskop, mole, tamales en gorditas van masa, puchero en cocido, gevulde kalkoen, zoutevis, oesters, gevulde krab); verouderd of afhankelijk van blikproducten (tamalepie van blikjestamales, rijstring met guacamole); lijkt te veel op bestaande recepten: chili con carne en carne en salsa roja (161), taco's met gehakt (5), enchilada's (24, 505), tostadas (421), huevos rancheros (166), kikkererwten met chorizo (43), pasta met chorizo (448), gevulde paprika's (241), tortillasoep (95), gazpacho"
+  "Aaron": "het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; hapjes, sauzen, desserts, dranken en feestmenu's; bewerkelijk, lang of lastig te krijgen (schildpad, tong, pens, varkenskop, mole, tamales en gorditas van masa, puchero en cocido, gevulde kalkoen, zoutevis, oesters, gevulde krab); verouderd of afhankelijk van blikproducten (tamalepie van blikjestamales, rijstring met guacamole); lijkt te veel op bestaande recepten: chili con carne en carne en salsa roja (161), taco's met gehakt (5), enchilada's (24, 505), tostadas (421), huevos rancheros (166), kikkererwten met chorizo (43), pasta met chorizo (448), gevulde paprika's (241), tortillasoep (95), gazpacho",
+  "Carrillo": "het boek telt meer dan 600 recepten; gekozen zijn 56 makkelijke hoofdgerechten. Overgeslagen: hapjes, sauzen en salsa's als los recept, desserts, broden, dranken; bewerkelijk of lastig te krijgen (mole's met veel gedroogde chilisoorten, tamales en masa-gerechten, barbacoa en cochinita in de grond, ingewanden, hersenen, tong, pens, leguaan, insecten, wild, geitenvlees, schildpad); recepten van gastchefs; lijkt te veel op bestaande recepten: taco's met gehakt (5), chili con carne (161), enchilada's (24, 505), chilaquiles (633), tinga (722), picadillo (721), vis op Veracruzaanse wijze (715), tostadas (421), huevos rancheros (166), guacamole, pozole en ceviche"
  },
  "recipes": [
   {
@@ -19794,6 +19800,4680 @@
     "Gril de kip ongeveer 40 minuten niet te dicht boven de kolen en bestrijk hem regelmatig met de marinade. Wordt de marinade te dik, verdun hem dan met wat vermout. In de oven gaat het op 200 °C in ongeveer 40 minuten.",
     "Gril de maïskolven de laatste 15 minuten mee en serveer ze bij de kip."
    ]
+  },
+  {
+   "id": 730,
+   "name": "Sopa seca de fideo: droge vermicelli in saus van drie chilipepers",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍜",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Three-Chile Dry Noodles' (poblano vervangen door groene puntpaprika, cotija door feta, kippenbouillon uit de winkel)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kippenbouillon",
+     "1000",
+     "ml"
+    ],
+    [
+     "poblano of groene puntpaprika",
+     "2",
+     "stuk"
+    ],
+    [
+     "gedroogde guajillo-chilipeper (of 1 tl ancho-chilipoeder)",
+     "2",
+     "stuk"
+    ],
+    [
+     "gedroogde morita-chilipeper (of 1 chipotle in adobo uit blik)",
+     "2",
+     "stuk"
+    ],
+    [
+     "maïs- of zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "vermicelli (fideo)",
+     "500",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "0.5",
+     "tl"
+    ],
+    [
+     "appelazijn",
+     "1",
+     "el"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "zure room",
+     "250",
+     "ml"
+    ],
+    [
+     "feta, in blokjes",
+     "100",
+     "g"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Rooster de paprika's en gedroogde chilipepers kort in een droge koekenpan tot ze geuren; haal steeltjes en zaadjes weg. Breng 475 ml bouillon aan de kook, giet dit over de pepers en laat ze 10 minuten weken tot ze zacht zijn.",
+    "Verhit de olie in een ruime pan en bak de vermicelli al omscheppend in ongeveer 5 minuten goudbruin. Schep ze met een schuimspaan uit de pan en laat uitlekken op keukenpapier.",
+    "Pureer de geweekte pepers met het weekvocht, de knoflook, de ui, de oregano, de azijn en de rest van de bouillon tot een gladde saus.",
+    "Giet de saus in de pan, laat 5 minuten zachtjes pruttelen en breng op smaak met zout. Voeg de gebakken vermicelli toe, leg het deksel erop en laat op laag vuur ongeveer 10 minuten garen tot het vocht is opgenomen en de noedels gaar zijn.",
+    "Proef nog eens op zout en serveer direct met een schep zure room, blokjes feta en avocado."
+   ],
+   "photo": "photos/carrillo-730.webp"
+  },
+  {
+   "id": 731,
+   "name": "Quesadillas met gebakken paddenstoelen en groene peper",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🍄",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Mushroom Quesadillas' (epazote vervangen door koriander, serrano door groene chilipeper, kant-en-klare tortilla's en salsa)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "groene chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "gemengde paddenstoelen",
+     "1000",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "bosje"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "maïstortilla's",
+     "18",
+     "stuk"
+    ],
+    [
+     "salsa naar keuze (pot)",
+     "200",
+     "ml"
+    ]
+   ],
+   "steps": [
+    "Snipper de ui, pers de knoflook, hak de chilipepers fijn en snijd de paddenstoelen in plakjes.",
+    "Verhit de olijfolie in een grote koekenpan en fruit de ui en knoflook op laag vuur in 5 minuten glazig.",
+    "Voeg de chilipeper en de paddenstoelen toe en bak op middelhoog vuur tot het vocht dat vrijkomt grotendeels is verdampt, ongeveer 10 minuten. Breng op smaak met zout, roer de gehakte koriander erdoor en laat de vulling afkoelen.",
+    "Verwarm de tortilla's één voor één in een droge koekenpan tot ze soepel zijn. Schep wat vulling op een helft en vouw ze dubbel tot halve manen.",
+    "Serveer zo, of bak ze eventueel in een laagje hete olie (180 °C) goudbruin en krokant. Geef de salsa erbij."
+   ]
+  },
+  {
+   "id": 732,
+   "name": "Quesadillas met aardappel, chorizo en chipotle",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🌮",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Potato and Chorizo Quesadillas' (aardappelpuree zelf gemaakt, kant-en-klare tortilla's en salsa)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kruimige aardappelen",
+     "350",
+     "g"
+    ],
+    [
+     "maïs- of zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "chorizo (vers, om te bakken)",
+     "200",
+     "g"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "3",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "salsa naar keuze (pot)",
+     "200",
+     "ml"
+    ]
+   ],
+   "steps": [
+    "Schil de aardappelen, kook ze in ongeveer 20 minuten gaar en stamp ze tot een smeuïge puree (ca. 300 g).",
+    "Verwijder het velletje van de chorizo en verkruimel of hak hem fijn. Bak de chorizo in de olie op middelhoog vuur in 5 minuten bijna gaar.",
+    "Voeg de gesnipperde ui toe en bak 5 minuten mee tot hij glazig is. Roer de fijngehakte chipotles (bewaar een beetje voor erover) en de puree erdoor, breng op smaak met zout en laat afkoelen.",
+    "Maak de tortilla's soepel in een droge koekenpan, beleg een helft met vulling en vouw ze dubbel. Serveer ze zo of bak ze kort in hete olie (180 °C) goudbruin.",
+    "Strooi er wat extra gehakte chipotle over en geef de salsa erbij."
+   ]
+  },
+  {
+   "id": 733,
+   "name": "Krokante taco's met pittige bonenpuree en feta",
+   "type": "Vegetarisch",
+   "time": 55,
+   "emoji": "🌮",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Bean and Cheese Tacos' (cotija vervangen door feta, bonen uit blik, kant-en-klare tortilla's)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "gedroogde ancho-chilipeper (of 1 el ancho-chilipoeder)",
+     "4",
+     "stuk"
+    ],
+    [
+     "maïs- of zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "ui, gesnipperd",
+     "2",
+     "el"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "komijnzaad (optioneel)",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zwarte of bruine bonen (blik), uitgelekt",
+     "450",
+     "g"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "ijsbergsla, in reepjes",
+     "50",
+     "g"
+    ],
+    [
+     "feta, verkruimeld",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Rooster de ancho-pepers kort in een droge pan, verwijder steel en zaadjes en week ze 15 minuten in heet water. Laat uitlekken en hak ze fijn.",
+    "Verhit 2 el olie in een pan en fruit de ui 5 minuten op laag vuur. Voeg de knoflook, de pepers en eventueel het komijnzaad toe en bak een paar minuten mee.",
+    "Doe de bonen erbij, stamp ze grof en laat al roerend nog 5 minuten doorwarmen. Breng op smaak met zout.",
+    "Verhit de rest van de olie in een koekenpan. Vouw de tortilla's dubbel en bak ze in porties aan beide kanten licht krokant; houd ze iets open zodat de zijkanten niet aan elkaar plakken. Laat uitlekken op keukenpapier.",
+    "Vul de taco's met de bonenpuree, beleg met sla en verkruimelde feta en serveer meteen."
+   ]
+  },
+  {
+   "id": 734,
+   "name": "Taco's met aardappelpuree en chipotle, zure room en salsa verde",
+   "type": "Vegetarisch",
+   "time": 55,
+   "emoji": "🥔",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Potato Tacos' (puree zelf gemaakt, groene avocadosalsa vervangen door salsa verde uit pot met avocado, queso fresco door feta)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kruimige aardappelen",
+     "600",
+     "g"
+    ],
+    [
+     "maïs- of zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "6",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "salsa verde (pot)",
+     "200",
+     "ml"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ],
+    [
+     "zure room",
+     "150",
+     "ml"
+    ],
+    [
+     "feta, verkruimeld",
+     "100",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Schil de aardappelen, kook ze in ongeveer 20 minuten gaar en stamp tot puree (ca. 500 g).",
+    "Verhit 2 el olie in een pan en bak de gesnipperde ui op laag vuur in 10 minuten zacht en glazig. Roer de gehakte chipotles erdoor, bak even mee en warm daarna de puree erin door. Breng op smaak met zout.",
+    "Pureer de salsa verde met de avocado tot een romige groene saus.",
+    "Maak de tortilla's soepel in een droge koekenpan en houd ze warm onder een theedoek. Vul ze met de aardappelpuree en vouw dubbel.",
+    "Bak de gevulde taco's in een grillpan of koekenpan met de rest van de olie op middelhoog vuur kort aan beide kanten. Serveer met de groene saus, zure room en feta."
+   ]
+  },
+  {
+   "id": 735,
+   "name": "Tacos al pastor: gemarineerd varkensvlees met ananas",
+   "type": "Vlees",
+   "time": 65,
+   "emoji": "🍍",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Shepherds' Tacos (tacos al pastor)' (varkensbil vervangen door dun gesneden varkensfricandeau of -schnitzel, kant-en-klare tortilla's en salsa)",
+   "basePersons": 6,
+   "season": "altijd",
+   "timeNote": "Vlees minimaal 5 uur (of een nacht) marineren",
+   "ingredients": [
+    [
+     "gedroogde guajillo-chilipeper (of 2 tl paprikapoeder + 1 tl chilipoeder)",
+     "5",
+     "stuk"
+    ],
+    [
+     "appelazijn",
+     "5",
+     "el"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "snuf"
+    ],
+    [
+     "kruidnagel",
+     "2",
+     "stuk"
+    ],
+    [
+     "ananassap",
+     "2",
+     "el"
+    ],
+    [
+     "varkensfricandeau of -schnitzel, in dunne plakken",
+     "500",
+     "g"
+    ],
+    [
+     "maïs- of zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "grote ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "verse ananas",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander, fijngehakt",
+     "4",
+     "el"
+    ],
+    [
+     "salsa naar keuze (pot)",
+     "200",
+     "ml"
+    ]
+   ],
+   "steps": [
+    "Verwijder zaadjes en zaadlijsten uit de guajillo-pepers en laat ze met de azijn 15 minuten zachtjes koken tot ze zacht zijn. Pureer ze met de knoflook, komijn, kruidnagel en het ananassap tot een gladde pasta en zeef die.",
+    "Verwarm de pasta 10 minuten op laag vuur onder voortdurend roeren en laat afkoelen. Smeer een dun laagje op elke plak vlees, stapel de plakken op elkaar en laat afgedekt minstens 5 uur (of een nacht) in de koelkast marineren.",
+    "Verhit de olie in een grote koekenpan en bak de plakken vlees 2 minuten per kant. Snijd ze in hapklare stukjes, doe ze terug in de pan en bak met de gesneden grote ui nog 3 minuten mee. Breng op smaak met zout.",
+    "Verwarm de tortilla's één voor één 20–30 seconden per kant in dezelfde pan en laat ze uitlekken op keukenpapier.",
+    "Schil de ananas en snijd hem in plakjes; snipper de kleine ui. Verdeel het vlees over de tortilla's en beleg met ananas, ui, koriander en salsa."
+   ]
+  },
+  {
+   "id": 736,
+   "name": "Carnitas: langzaam gegaard varkensvlees met sinaasappel",
+   "type": "Vlees",
+   "time": 130,
+   "emoji": "🍖",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Carnitas' (kant-en-klare bloemtortilla's en salsa)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zonnebloemolie",
+     "250",
+     "ml"
+    ],
+    [
+     "varkenshaas of varkensfilet, in blokjes",
+     "1500",
+     "g"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "melk",
+     "250",
+     "ml"
+    ],
+    [
+     "water",
+     "120",
+     "ml"
+    ],
+    [
+     "bosje gemengde kruiden (tijm, laurier, oregano)",
+     "1",
+     "bosje"
+    ],
+    [
+     "sinaasappel (alleen de schil, in repen)",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "bloemtortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "salsa naar keuze (pot)",
+     "200",
+     "ml"
+    ]
+   ],
+   "steps": [
+    "Snijd het vlees in hapklare blokjes en schil de sinaasappel met een dunschiller in brede repen.",
+    "Verhit de olie in een ruime pan met dikke bodem en bak het vlees met de halve ui op middelhoog vuur in ongeveer 8 minuten rondom bruin.",
+    "Haal de ui eruit. Voeg de melk, het water, het kruidenbosje en de sinaasappelschil toe en breng op smaak met zout en peper.",
+    "Zet het vuur laag en laat het vlees ongeveer 2 uur zachtjes garen, af en toe roerend, tot al het vocht is verdampt en het vlees mals en goudbruin is.",
+    "Schep het vlees uit de pan en serveer meteen met warme bloemtortilla's en salsa."
+   ]
+  },
+  {
+   "id": 737,
+   "name": "Tostadas met tonijn, garnalen en chipotlemayonaise",
+   "type": "Vis",
+   "time": 35,
+   "emoji": "🐟",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Tuna Tostadas' (tostada's kant-en-klaar of zelf gebakken van maïstortilla's)",
+   "basePersons": 4,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "rode paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "mayonaise",
+     "120",
+     "ml"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "2",
+     "el"
+    ],
+    [
+     "tonijn (blik), uitgelekt",
+     "400",
+     "g"
+    ],
+    [
+     "kleine gekookte garnalen",
+     "100",
+     "g"
+    ],
+    [
+     "lente-ui",
+     "3",
+     "stengel"
+    ],
+    [
+     "zwarte olijven zonder pit",
+     "25",
+     "g"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "tostada's (of maïstortilla's, krokant gebakken)",
+     "200",
+     "g"
+    ],
+    [
+     "romaine sla",
+     "0.5",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 180 °C. Rooster de paprika in ongeveer 15 minuten tot het vel begint te zwarten, keer hem af en toe. Laat hem afgesloten in een plastic zakje afkoelen.",
+    "Meng de mayonaise met de fijngehakte chipotles en een scheutje adobosaus uit het blikje.",
+    "Trek het vel van de paprika, verwijder de zaadjes en snijd hem in stukjes. Snijd de lente-ui fijn, de olijven in ringetjes en de sla in dunne reepjes.",
+    "Prak de tonijn los en meng met de garnalen, lente-ui, paprika, olijven en de tussen je vingers gewreven oregano.",
+    "Verdeel de tostada's over vier borden, schep op elk 2–3 el tonijnmengsel, schep er wat chipotlemayonaise over en garneer met de sla. Direct serveren, anders worden ze zacht."
+   ]
+  },
+  {
+   "id": 738,
+   "name": "Molletes: gegratineerde broodjes met bonen, kaas en pico de gallo",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🥖",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Cheese and Beans on Toast (molletes)' (oaxaca-kaas vervangen door jonge goudse of mozzarella, rauwe tomatensalsa als eenvoudige pico de gallo zelf gemaakt)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "maïs- of zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "bruine of zwarte bonen (blik), uitgelekt",
+     "275",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "5",
+     "el"
+    ],
+    [
+     "ciabattabolletjes of kleine stokbroodjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "jonge goudse of mozzarella, geraspt",
+     "120",
+     "g"
+    ],
+    [
+     "tomaten",
+     "4",
+     "stuk"
+    ],
+    [
+     "rode ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit de maïsolie in een koekenpan en bak de gesnipperde uien op middelzacht vuur in ongeveer 15 minuten zacht en gekaramelliseerd.",
+    "Voeg de bonen toe en prak ze al roerend fijn, terwijl je beetje bij beetje 4 el olijfolie toevoegt tot een dikke puree ontstaat. Gebruik zo nodig een scheutje water en breng op smaak met zout. Houd warm.",
+    "Maak intussen de pico de gallo: snijd tomaten, rode ui en chilipeper fijn, hak de koriander en meng met limoensap en een snuf zout.",
+    "Verwarm de oven voor op 200 °C. Halveer de broodjes in de lengte, haal er wat kruim uit, bestrijk de binnenkant met de rest van de olijfolie en rooster ze licht in de oven.",
+    "Besmeer de broodjes met de bonenpuree, bestrooi met kaas en zet ze nog 5 minuten in de oven tot de kaas gesmolten is. Serveer direct met de pico de gallo."
+   ],
+   "photo": "photos/carrillo-738.webp"
+  },
+  {
+   "id": 739,
+   "name": "Enfrijoladas: tortilla's met kip in zwarte bonensaus en chorizo",
+   "type": "Vlees",
+   "time": 75,
+   "emoji": "🫘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken Enfrijoladas' (avocadobladeren weggelaten, morita mag vervangen worden door chipotle in adobo, bonen uit blik, kip zelf gepocheerd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "gedroogde pasilla- of ancho-chilipeper (of 1 tl ancho-chilipoeder)",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde morita-chilipeper (of 1 chipotle in adobo uit blik)",
+     "2",
+     "stuk"
+    ],
+    [
+     "zwarte bonen (blik), met vocht",
+     "400",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "150",
+     "ml"
+    ],
+    [
+     "maïstortilla's",
+     "18",
+     "stuk"
+    ],
+    [
+     "kipfilet",
+     "700",
+     "g"
+    ],
+    [
+     "zure room",
+     "120",
+     "ml"
+    ],
+    [
+     "chorizo, in plakjes",
+     "300",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pocheer de kipfilet ongeveer 20 minuten in licht gezouten water tegen de kook aan, laat iets afkoelen en trek het vlees met twee vorken in draadjes.",
+    "Verwarm de oven voor op 180 °C. Rooster de knoflook, de ui en de chilipepers (zonder zaadjes) ongeveer 15 minuten in een ovenschaal.",
+    "Pureer de bonen met hun vocht, de geroosterde knoflook, ui en pepers en een snuf zout tot een gladde saus; voeg zo nodig wat water toe en zeef. Verhit 2 el olie in een brede pan en laat de saus op laag vuur in 10 minuten wat indikken.",
+    "Verhit de rest van de olie in een koekenpan en haal de tortilla's er één voor één maximaal 10 seconden per kant doorheen, zodat ze soepel blijven. Bak intussen de chorizoplakjes kort in een andere pan.",
+    "Haal elke tortilla door de warme bonensaus, leg wat kip op een helft en vouw dubbel. Leg er drie per bord, schep de overgebleven saus erover en garneer met zure room en chorizo."
+   ],
+   "photo": "photos/carrillo-739.webp"
+  },
+  {
+   "id": 740,
+   "name": "Alambre: spiesjes van rundvlees, paprika en spek met guacamole en bonen",
+   "type": "Vlees",
+   "time": 70,
+   "emoji": "🍢",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Mexican-Style Skewers (alambre)' (poblano vervangen door groene puntpaprika, eenvoudige guacamole en bonen uit blik i.p.v. charro-bonen)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "rundvlees (biefstuk of ossenhaas), in blokjes",
+     "700",
+     "g"
+    ],
+    [
+     "poblano of groene puntpaprika",
+     "2",
+     "stuk"
+    ],
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "ontbijtspek",
+     "150",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "grof zeezout en peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "houten spiesjes",
+     "12",
+     "stuk"
+    ],
+    [
+     "avocado",
+     "3",
+     "stuk"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "pinto- of bruine bonen (blik)",
+     "800",
+     "g"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "gemalen komijn",
+     "0.5",
+     "tl"
+    ]
+   ],
+   "steps": [
+    "Week de houten spiesjes even in water. Snijd de paprika's zonder zaadjes en de ui in stukken. Rijg om en om vlees, paprika, ui en spek aan de spiesjes, bestrooi met zout en peper en laat 25 minuten op kamertemperatuur staan.",
+    "Maak intussen de guacamole: prak de avocado's met limoensap, gehakte koriander en een snuf zout.",
+    "Verwarm de bonen met een deel van hun vocht, de geperste knoflook en de komijn in een steelpan en laat 10 minuten zachtjes pruttelen. Breng op smaak met zout.",
+    "Verhit een grillpan en vet hem in met olie. Bestrijk de spiesjes met olie en gril ze op middelhoog vuur in ongeveer 15 minuten rondom gaar, keer ze regelmatig.",
+    "Serveer de spiesjes direct met de guacamole en de bonen."
+   ]
+  },
+  {
+   "id": 741,
+   "name": "Huevos motuleños: gebakken eieren op tortilla met tomatensaus en bakbanaan",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍳",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Eggs from Motul' (serrano vervangen door groene chilipeper, queso fresco door feta, refried beans uit blik)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "maïs- of zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "maïstortilla's",
+     "6",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "9",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "groene chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "eieren",
+     "6",
+     "stuk"
+    ],
+    [
+     "bakbanaan",
+     "1",
+     "stuk"
+    ],
+    [
+     "refried beans (blik) of gepureerde zwarte bonen",
+     "500",
+     "g"
+    ],
+    [
+     "ham, fijngehakt",
+     "100",
+     "g"
+    ],
+    [
+     "feta, verkruimeld",
+     "100",
+     "g"
+    ],
+    [
+     "doperwten",
+     "50",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Bak de tortilla's één voor één in 2 el olie een paar seconden per kant goudbruin, laat uitlekken op keukenpapier en houd warm onder een theedoek.",
+    "Pocheer de tomaten 5 minuten in zacht kokend water en trek het vel eraf. Pureer ze met de ui, knoflook en chilipeper (zonder zaadjes), zeef de saus in een pan en verwarm 5 minuten op middelhoog vuur. Breng op smaak met zout.",
+    "Snijd de bakbanaan in plakjes van 1 cm en bak ze in 1 el olie in ongeveer 10 minuten goudbruin. Warm intussen de bonen en de doperwten op.",
+    "Bak de eieren in de rest van de olie, met een nog vloeibare dooier.",
+    "Besmeer elke tortilla met bonen, leg er een ei op en schep de tomatensaus erover. Bestrooi met ham, feta en doperwten en serveer met de gebakken bakbanaan."
+   ]
+  },
+  {
+   "id": 742,
+   "name": "Huevos con chorizo: roerei met pittige chorizo en bonen",
+   "type": "Vlees",
+   "time": 25,
+   "emoji": "🥚",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Huevos con chorizo' (refried beans uit blik, kant-en-klare tortilla's en salsa)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "eieren",
+     "8",
+     "stuk"
+    ],
+    [
+     "chorizo (vers, om te bakken)",
+     "200",
+     "g"
+    ],
+    [
+     "zonnebloemolie (optioneel)",
+     "1",
+     "el"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "salsa naar keuze (pot)",
+     "200",
+     "ml"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "refried beans (blik) of gepureerde zwarte bonen",
+     "400",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Klop de eieren los en breng op smaak met zout en peper. Snijd de ui in dunne ringen en hak de chorizo fijn.",
+    "Verhit een koekenpan op middelhoog vuur, doe de chorizo erin en bak hem op laag vuur 3–4 minuten tot het vet eruit loopt. Voeg alleen olie toe als het te droog is.",
+    "Bak de ui al roerend 3 minuten mee. Giet de eieren erbij en roer ze in 3–4 minuten tot een smeuïg roerei.",
+    "Verwarm intussen de bonen en maak de tortilla's warm in een droge pan. Serveer het roerei direct met de tortilla's, bonen en salsa."
+   ]
+  },
+  {
+   "id": 743,
+   "name": "Caldo de queso: kaassoep met aardappel, tomaat en jalapeño",
+   "type": "Vlees",
+   "time": 40,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Cheesy Broth (not the Sonora one)' (Chihuahua-kaas vervangen door jonge goudse of milde cheddar, kippenbouillon uit de winkel, maïstortilla's toegevoegd)",
+   "basePersons": 6,
+   "season": "winter",
+   "ingredients": [
+    [
+     "maïs- of zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "aardappelen",
+     "2",
+     "stuk"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "jalapeño",
+     "1",
+     "stuk"
+    ],
+    [
+     "kippenbouillon",
+     "1500",
+     "ml"
+    ],
+    [
+     "jonge goudse of milde witte cheddar, in blokjes",
+     "1000",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Schil de aardappelen en snijd ze in kleine blokjes. Snipper de ui, ontvel de tomaten en snijd ze in blokjes, en snijd de jalapeño zonder zaadjes in dunne reepjes.",
+    "Verhit de olie in een pan en laat de aardappel, ui, tomaat en jalapeño op laag vuur ongeveer 15 minuten zachtjes stoven, regelmatig roerend.",
+    "Breng de bouillon in een grote pan aan de kook, voeg de groenten toe en breng op smaak met zout en peper. Laat zachtjes koken tot de aardappel helemaal gaar is.",
+    "Roer de kaas er beetje bij beetje door, laat nog 1 minuut op het vuur staan en haal de pan dan van het vuur.",
+    "Schep de soep meteen in diepe borden en geef er warme maïstortilla's bij."
+   ]
+  },
+  {
+   "id": 744,
+   "name": "Crema de cilantro: romige koriandersoep met walnoten en tortillareepjes",
+   "type": "Vegetarisch",
+   "time": 35,
+   "emoji": "🥣",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Cream of Cilantro Soup' (groentebouillon i.p.v. kippenbouillon; tortillareepjes zelf gebakken; stokbrood toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "2",
+     "el"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse koriander",
+     "80",
+     "g"
+    ],
+    [
+     "walnoten",
+     "100",
+     "g"
+    ],
+    [
+     "groentebouillon",
+     "1500",
+     "ml"
+    ],
+    [
+     "slagroom",
+     "120",
+     "ml"
+    ],
+    [
+     "maïstortilla's",
+     "6",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "stokbrood",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Snijd de tortilla's in smalle reepjes en bak ze in de zonnebloemolie in 3-4 minuten krokant. Laat uitlekken op keukenpapier en bestrooi met wat zout.",
+    "Hak de ui en knoflook grof en fruit ze 5 minuten in de olijfolie op middelhoog vuur. Voeg de grof gehakte koriander toe en bak nog 1 minuut mee.",
+    "Houd 4 eetlepels gehakte walnoten apart voor de garnering. Pureer de rest van de walnoten met het koriandermengsel en 250 ml bouillon in een blender tot een gladde massa.",
+    "Verwarm de puree in een pan en roer geleidelijk de rest van de bouillon erdoor. Voeg de room toe, laat goed heet worden (niet laten koken) en breng op smaak met zout en peper.",
+    "Schep de soep in kommen en garneer met de achtergehouden walnoten en de tortillareepjes. Serveer met stokbrood."
+   ]
+  },
+  {
+   "id": 745,
+   "name": "Sopa de poblano: romige soep van groene peper, prei en aardappel",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🫑",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Poblano Chile Soup' (groene puntpaprika + jalapeño i.p.v. poblano; groentebouillon i.p.v. kippenbouillon; feta i.p.v. panela; koriander i.p.v. epazote; tortillareepjes zelf gebakken)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "boter",
+     "50",
+     "g"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "prei (alleen het wit)",
+     "1",
+     "stuk"
+    ],
+    [
+     "poblano of groene puntpaprika",
+     "2",
+     "stuk"
+    ],
+    [
+     "jalapeño",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "aardappelen",
+     "2",
+     "stuk"
+    ],
+    [
+     "groentebouillon",
+     "1000",
+     "ml"
+    ],
+    [
+     "zure room",
+     "250",
+     "ml"
+    ],
+    [
+     "maïstortilla's",
+     "4",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "feta",
+     "250",
+     "g"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Rooster de puntpaprika's boven een gasvlam of onder de grill tot de schil zwart is, laat ze even zweten in een afgesloten bakje, pel ze en snijd ze in reepjes. Ontzaad de jalapeño en snijd fijn.",
+    "Smelt de boter in een pan en fruit ui, prei, paprika, jalapeño, knoflook en de aardappelblokjes 5-8 minuten op laag vuur tot de ui glazig is.",
+    "Schenk de bouillon erbij, breng op smaak met zout en peper en laat 20 minuten zachtjes koken tot de aardappel uit elkaar valt. Bak intussen de tortillareepjes krokant in de zonnebloemolie.",
+    "Pureer de soep glad met een staafmixer, roer de zure room erdoor en verwarm zachtjes zonder te laten koken. Proef en breng op smaak.",
+    "Serveer de soep in kommen met blokjes feta, de tortillareepjes en blaadjes koriander."
+   ],
+   "photo": "photos/carrillo-745.webp"
+  },
+  {
+   "id": 746,
+   "name": "Caldo tlalpeño: Mexicaanse kippensoep met groenten, kikkererwten en avocado",
+   "type": "Vlees",
+   "time": 85,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Tlalpan-Style Chicken in Broth' (oregano i.p.v. epazote; chipotle in adobo i.p.v. gerookte chipotle; groene chilipeper i.p.v. serrano; maïstortilla's toegevoegd)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "kipfilet (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "water",
+     "1000",
+     "ml"
+    ],
+    [
+     "wortel",
+     "1",
+     "stuk"
+    ],
+    [
+     "courgette",
+     "2",
+     "stuk"
+    ],
+    [
+     "aardappel",
+     "1",
+     "stuk"
+    ],
+    [
+     "sperziebonen",
+     "75",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "ui (klein)",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kikkererwten (gekookt)",
+     "80",
+     "g"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "takje"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "1",
+     "stuk"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Breng de kipfilet met 1 liter water aan de kook. Voeg de blokjes wortel, courgette en aardappel en de stukjes sperziebonen toe, breng op smaak met zout en peper en laat 30 minuten zachtjes trekken tot de kip gaar is.",
+    "Rooster de tomaten in een droge koekenpan tot de schil zwart blaakt, pel ze, verwijder de zaadjes en hak het vruchtvlees.",
+    "Verhit de olie in een koekenpan en bak knoflook, ui en tomaat 5 minuten op laag vuur. Schep dit mengsel met de kikkererwten en de oregano in de soep en laat nog 15 minuten zachtjes koken.",
+    "Haal de kip uit de pan, trek het vlees met twee vorken grof uit elkaar en doe het terug in de soep. Proef en breng op smaak.",
+    "Schep de soep in kommen en garneer met blokjes avocado, koriander, fijngehakte groene chilipeper en chipotle. Serveer met limoenpartjes en warme tortilla's."
+   ]
+  },
+  {
+   "id": 747,
+   "name": "Sere de pescado: vis in kokossaus met bakbanaan en achiote",
+   "type": "Vis",
+   "time": 95,
+   "emoji": "🥥",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Fish in Coconut Sauce' (kabeljauw of zeebaars i.p.v. tandbaars; milde gele chilipeper of halve jalapeño i.p.v. xcatic-chili; gewone witte rijst)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "achiotepasta",
+     "2",
+     "el"
+    ],
+    [
+     "water",
+     "60",
+     "ml"
+    ],
+    [
+     "tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "witte ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "groene bakbananen",
+     "2",
+     "stuk"
+    ],
+    [
+     "kokosmelk",
+     "475",
+     "ml"
+    ],
+    [
+     "milde gele chilipeper (of halve jalapeño)",
+     "1",
+     "stuk"
+    ],
+    [
+     "kabeljauw- of zeebaarsfilet",
+     "900",
+     "g"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Rooster de ongepelde knoflook en de chilipeper in een droge koekenpan tot ze zwarte plekjes hebben; pel de knoflook en hak de chili. Kook de knoflook met de achiotepasta en 60 ml water 5 minuten al roerend en laat staan.",
+    "Pureer tomaten en ui tot een gladde massa en zeef. Bak deze tomatensaus 10 minuten in de olie op middelhoog vuur. Kook intussen de rijst volgens de verpakking.",
+    "Schil de bakbananen, snijd ze in blokjes en kook ze 10-15 minuten in net genoeg water tot ze zacht zijn. Roer de kokosmelk, de chili, de tomatensaus en het achiotemengsel erdoor en breng op smaak met zout.",
+    "Leg de visfilets in een diepe hapjespan, schenk de saus erover en breng aan de kook. Laat 15-20 minuten zachtjes garen tot de vis wit is en makkelijk uit elkaar valt.",
+    "Proef de saus nog eens en serveer de vis met de bakbanaan en saus op witte rijst."
+   ]
+  },
+  {
+   "id": 748,
+   "name": "Zeebaars uit de oven met kappertjes-kruidensaus en spinazie",
+   "type": "Vis",
+   "time": 40,
+   "emoji": "🐟",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Sea Bass in Caper Sauce' (groene chilipeper i.p.v. serrano; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "lente",
+   "ingredients": [
+    [
+     "zeebaarsfilet",
+     "1200",
+     "g"
+    ],
+    [
+     "verse koriander (gehakt)",
+     "4",
+     "el"
+    ],
+    [
+     "verse peterselie (gehakt)",
+     "3",
+     "el"
+    ],
+    [
+     "verse munt (gehakt)",
+     "3",
+     "el"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "groene chilipeper",
+     "2",
+     "stuk"
+    ],
+    [
+     "dijonmosterd",
+     "1",
+     "el"
+    ],
+    [
+     "ansjovisfilets",
+     "10",
+     "stuk"
+    ],
+    [
+     "kappertjes",
+     "4",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "150",
+     "ml"
+    ],
+    [
+     "citroensap",
+     "3",
+     "el"
+    ],
+    [
+     "spinazie",
+     "2000",
+     "g"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 200 °C en kook de rijst volgens de verpakking.",
+    "Ontzaad de chilipepers en draai ze met koriander, peterselie, munt, 3 tenen knoflook, mosterd, ansjovis en kappertjes glad in een keukenmachine. Voeg 120 ml olijfolie en het citroensap toe, mix kort en breng op smaak met zout en peper.",
+    "Leg de vis in een ovenschaal, schenk de helft van de saus erover en bak 10 minuten in de oven, tot de buitenkant gaar is maar de kern nog glazig. Dek af met aluminiumfolie en laat 10 minuten nagaren.",
+    "Verhit de rest van de olijfolie in een grote pan, voeg de geperste laatste teen knoflook en de spinazie toe en roerbak 2 minuten tot de spinazie net geslonken is.",
+    "Schep de spinazie in het midden van een schaal, leg de vis erop en schenk er nog wat saus over. Serveer direct met de rijst."
+   ]
+  },
+  {
+   "id": 749,
+   "name": "Witte vis in fluweelzachte mangosaus met zoete aardappel",
+   "type": "Vis",
+   "time": 60,
+   "emoji": "🥭",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Fish in Mango Sauce' (gewone zoete aardappel i.p.v. paarse; room wordt in de bereiding genoemd maar niet in de ingrediëntenlijst, 120 ml aangenomen)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "boter",
+     "80",
+     "g"
+    ],
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "prei (alleen het wit)",
+     "2",
+     "stuk"
+    ],
+    [
+     "habanero",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "appelciderazijn",
+     "120",
+     "ml"
+    ],
+    [
+     "rijpe mango's",
+     "2",
+     "stuk"
+    ],
+    [
+     "kippenbouillon",
+     "750",
+     "ml"
+    ],
+    [
+     "slagroom",
+     "120",
+     "ml"
+    ],
+    [
+     "zoete aardappelen",
+     "3",
+     "stuk"
+    ],
+    [
+     "witte visfilet (bv. kabeljauw)",
+     "900",
+     "g"
+    ],
+    [
+     "zout en witte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Smelt de boter in een grote pan en fruit de fijngehakte ui, de preiringen en de ontzade habanero 2 minuten. Blus af met de wijn en laat 5 minuten inkoken, doe daarna hetzelfde met de azijn.",
+    "Voeg de blokjes mango toe en bak 5 minuten mee. Schenk de bouillon erbij en laat 15 minuten zachtjes koken tot het vocht met de helft is ingekookt. Breng op smaak met zout en witte peper en laat iets afkoelen.",
+    "Kook intussen de zoete aardappelen in de schil in 25-30 minuten gaar. Giet af, pel ze, snijd in plakken en houd warm onder een deksel.",
+    "Pureer de saus met de room glad in een blender, zeef terug in de pan en verwarm 5 minuten op laag vuur. Proef en breng op smaak.",
+    "Gaar de vis naar keuze onder de grill, gepocheerd of gestoomd in 6-8 minuten. Leg de vis op borden, schep de mangosaus erover en serveer met de zoete aardappel."
+   ]
+  },
+  {
+   "id": 750,
+   "name": "Zeebaars in kruidige marinade van wijn, azijn en knoflook (Yucatán)",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🐟",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Marinated Sea Bass' (gewone witte rijst)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "120",
+     "ml"
+    ],
+    [
+     "zeebaarsfilet",
+     "1200",
+     "g"
+    ],
+    [
+     "uien",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "10",
+     "teen"
+    ],
+    [
+     "kaneel",
+     "1",
+     "snuf"
+    ],
+    [
+     "verse tijm",
+     "2",
+     "takje"
+    ],
+    [
+     "verse oregano",
+     "2",
+     "takje"
+    ],
+    [
+     "kruidnagels",
+     "4",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "3",
+     "blad"
+    ],
+    [
+     "zwarte peperkorrels",
+     "10",
+     "stuk"
+    ],
+    [
+     "droge witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "appelciderazijn",
+     "4",
+     "el"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst volgens de verpakking. Snijd de uien en knoflook in dunne plakjes.",
+    "Verhit een scheutje olie in een grote pan en schroei de visfilets ongeveer 1 minuut per kant aan. Haal ze uit de pan en zet apart.",
+    "Verhit de rest van de olie en bak de uien 2 minuten. Voeg knoflook, kaneel, tijm, oregano, kruidnagels, laurier en peperkorrels toe, schenk de wijn en azijn erbij en laat 2 minuten pruttelen.",
+    "Leg de vis terug in de pan, doe de deksel erop en laat 5 minuten zachtjes garen tot de vis net gaar is. Laat kort rusten, breng op smaak met zout en serveer op de rijst met de saus erover."
+   ]
+  },
+  {
+   "id": 751,
+   "name": "Pescado adobado: gegrilde vis in ancho-chilimarinade uit Oaxaca",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🐟",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Oaxaca-Style Fish' (roodbaars of zeebaars i.p.v. red snapper; het boek noemt 1 vis van 200 g voor 6 personen, vermoedelijk een drukfout, daarom 1,5 kg vis aangenomen; visbouillon uit pak; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "gedroogde ancho-chilipepers (of 4 el ancho-chilipoeder)",
+     "12",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen komijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zwarte peperkorrels",
+     "0.5",
+     "el"
+    ],
+    [
+     "kruidnagels",
+     "0.5",
+     "tl"
+    ],
+    [
+     "visbouillon",
+     "250",
+     "ml"
+    ],
+    [
+     "appelciderazijn",
+     "4",
+     "el"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "hele roodbaars of zeebaars (schoongemaakt)",
+     "1500",
+     "g"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwijder steeltjes, zaadjes en zaadlijsten uit de ancho's en laat ze 10 minuten weken in de warme visbouillon zodat ze zacht worden.",
+    "Pureer de chili's met de bouillon, knoflook, oregano, komijn, peperkorrels, kruidnagels, azijn en suiker tot een gladde marinade. Zeef in een pan, laat 10 minuten pruttelen op middelhoog vuur, breng op smaak met zout en laat afkoelen. Kook intussen de rijst.",
+    "Steek de barbecue aan of verwarm de grill van de oven voor op 200 °C. Kerf de vis aan beide kanten een paar keer in en bestrijk hem rijkelijk met de marinade, ook in de buikholte.",
+    "Grill de vis 7-10 minuten per kant (afhankelijk van de dikte) tot het vlees bij de graat ondoorzichtig is, en bestrijk tussendoor nog eens met marinade. Serveer direct met de rijst."
+   ]
+  },
+  {
+   "id": 752,
+   "name": "Albóndigas de camarón: garnalenballetjes in pittige guajillobouillon",
+   "type": "Vis",
+   "time": 45,
+   "emoji": "🍤",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Shrimp Balls' (visbouillon uit pak; gewone witte rijst)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "garnalen (rauw, gepeld)",
+     "750",
+     "g"
+    ],
+    [
+     "eieren",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "60",
+     "ml"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "takje"
+    ],
+    [
+     "gedroogde guajillo-chilipepers (of 1 el milde chilipoeder)",
+     "3",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "snuf"
+    ],
+    [
+     "visbouillon",
+     "750",
+     "ml"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "witte ui (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Maal de garnalen fijn in de keukenmachine en meng ze in een kom met de eieren en wat zout. Draai er met natte handen balletjes van ter grootte van een golfbal. Kook intussen de rijst.",
+    "Rooster de guajillo's en de ongepelde knoflook kort in een droge koekenpan. Ontsteel en ontzaad de chili's, pel de knoflook en pureer beide met de komijn en de visbouillon. Zeef het mengsel.",
+    "Fruit de fijngehakte ui 2 minuten in de zonnebloemolie, schenk de chilibouillon erbij, breng op smaak en verwarm. Zet apart.",
+    "Verhit de olijfolie in een koekenpan en bak de garnalenballetjes in porties in 5-7 minuten rondom goudbruin. Laat uitlekken op keukenpapier.",
+    "Leg de balletjes in diepe borden, schenk de hete bouillon erover en bestrooi met koriander. Serveer met de rijst."
+   ],
+   "photo": "photos/carrillo-752.webp"
+  },
+  {
+   "id": 753,
+   "name": "Camarones en tamarindo: tijgergarnalen in zoetzure tamarinde-chipotlesaus",
+   "type": "Vis",
+   "time": 50,
+   "emoji": "🍤",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Shrimp in Tamarind Sauce' (runderbouillon i.p.v. kalfsbouillon; chipotle in adobo als alternatief voor gedroogde chipotle; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "boter",
+     "3",
+     "el"
+    ],
+    [
+     "tijgergarnalen met kop en staart",
+     "24",
+     "stuk"
+    ],
+    [
+     "ui (klein)",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde chipotle-chilipepers (of 2 chipotles in adobo uit blik)",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "tamarindepasta",
+     "150",
+     "g"
+    ],
+    [
+     "runderbouillon",
+     "250",
+     "ml"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pel de garnalen maar laat kop en staart eraan; bewaar de schalen. Rooster de ongepelde knoflook in een droge pan en pel hem. Kook de rijst volgens de verpakking.",
+    "Smelt 2 eetlepels boter in een grote koekenpan en bak de garnalenschalen met de ui, knoflook, chipotles en tamarindepasta 7 minuten op middelhoog vuur.",
+    "Schenk de bouillon erbij, breng aan de kook en laat 15 minuten zachtjes pruttelen. Pureer alles in een blender en wrijf de saus door een fijne zeef. Breng op smaak met zout.",
+    "Smelt de rest van de boter en bak de garnalen 5 minuten tot ze roze en gaar zijn. Voeg de saus toe en laat nog 1 minuut meewarmen.",
+    "Schik de garnalen op een schaal, bestrooi met koriander en serveer met de rijst."
+   ],
+   "photo": "photos/carrillo-753.webp"
+  },
+  {
+   "id": 754,
+   "name": "Camarones a la diabla: pittige duivelsgarnalen in tomatensaus",
+   "type": "Vis",
+   "time": 30,
+   "emoji": "🦐",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Devilled Shrimp' (gedroogde chile de árbol of chilivlokken; rijst toegevoegd naast de tortilla's)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "ketchup",
+     "275",
+     "ml"
+    ],
+    [
+     "zwarte peperkorrels",
+     "4",
+     "stuk"
+    ],
+    [
+     "appelciderazijn",
+     "1",
+     "tl"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "boter",
+     "70",
+     "g"
+    ],
+    [
+     "garnalen (rauw, gepeld)",
+     "450",
+     "g"
+    ],
+    [
+     "gedroogde chile de árbol (of 1 tl chilivlokken)",
+     "4",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst volgens de verpakking. Verwijder zaadjes en zaadlijsten uit de chilipepers en hak ze fijn.",
+    "Mix de ketchup met de peperkorrels en de azijn glad in een blender en zeef de saus.",
+    "Verhit olie en boter in een ruime pan op middelhoog vuur en bak de garnalen 2 minuten.",
+    "Voeg de saus en de chili toe, breng op smaak met zout en peper, doe de deksel op de pan en laat 10 minuten zachtjes sudderen.",
+    "Verwarm de tortilla's in een droge koekenpan en serveer ze met de rijst bij de garnalen."
+   ]
+  },
+  {
+   "id": 755,
+   "name": "Calamares con chiles: snel gebakken inktvis met drie gedroogde chilipepers",
+   "type": "Vis",
+   "time": 25,
+   "emoji": "🦑",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Squid with Chiles' (mulato eventueel te vervangen door een extra ancho; gewone witte rijst)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "inktvis (schoongemaakt)",
+     "800",
+     "g"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "gedroogde mulato-chilipeper (of extra ancho)",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde pasilla-chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde ancho-chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de rijst volgens de verpakking. Haal de tentakels los van de inktvislijven, kerf de lijven in een ruitpatroon in en laat de tentakels heel.",
+    "Verwijder zaadjes en zaadlijsten uit de chilipepers en snijd ze in reepjes. Hak de knoflook fijn.",
+    "Verhit de olie in een koekenpan op middelhoog vuur en bak knoflook en chili 1-2 minuten zonder te laten verbranden. Schep het mengsel uit de pan.",
+    "Zet het vuur hoog, bak de inktvis 1 minuut per kant tot hij stevig en gaar is en breng op smaak met zout en peper.",
+    "Doe het knoflook-chilimengsel terug in de pan, schep alles om en serveer direct met de rijst."
+   ],
+   "photo": "photos/carrillo-755.webp"
+  },
+  {
+   "id": 756,
+   "name": "Arroz a la tumbada: Veracruzaanse rijst met vis en zeevruchten",
+   "type": "Vis",
+   "time": 100,
+   "emoji": "🥘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Tumbada Rice' (verse koriander i.p.v. epazote; rivierkreeftjes eventueel vervangen door extra garnalen; visbouillon uit pak)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "langkorrelige rijst",
+     "300",
+     "g"
+    ],
+    [
+     "stevige witte visfilet",
+     "200",
+     "g"
+    ],
+    [
+     "bloem",
+     "2",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "250",
+     "ml"
+    ],
+    [
+     "tomaten",
+     "5",
+     "stuk"
+    ],
+    [
+     "uien (klein)",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "grote garnalen (gepeld)",
+     "8",
+     "stuk"
+    ],
+    [
+     "rivierkreeftjes (of extra garnalen)",
+     "3",
+     "stuk"
+    ],
+    [
+     "krabvlees",
+     "200",
+     "g"
+    ],
+    [
+     "octopus (gekookt)",
+     "100",
+     "g"
+    ],
+    [
+     "kleine venusschelpen (vongole)",
+     "12",
+     "stuk"
+    ],
+    [
+     "visbouillon",
+     "750",
+     "ml"
+    ],
+    [
+     "water",
+     "750",
+     "ml"
+    ],
+    [
+     "verse koriander",
+     "1",
+     "handvol"
+    ],
+    [
+     "jalapeño",
+     "1",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Overgiet de rijst met kokend water, laat 15 minuten staan en spoel daarna in koud water tot het water helder blijft; laat goed uitlekken. Rooster intussen de tomaten in een droge pan of onder de grill tot de schil zwart blaakt.",
+    "Snijd de vis in blokjes, haal ze door de bloem en bak ze in 4 el olie in 5-6 minuten rondom bruin; laat uitlekken op keukenpapier.",
+    "Fruit de rijst in 4 el olie op laag vuur tot hij lichtgoudbruin kleurt, giet overtollige olie af en voeg 750 ml heet water toe. Laat met de deksel erop 20 minuten zachtjes garen.",
+    "Pureer de tomaten met 1 ui in kwarten, zeef en laat de saus in 2 el olie 15 minuten pruttelen op middellaag vuur.",
+    "Bak de knoflook 2-3 minuten in de rest van de olie in een grote pan, voeg garnalen, kreeftjes en krab toe en breng op smaak met zout en peper. Voeg octopus, venusschelpen, tomatensaus en visbouillon toe en laat 5 minuten sudderen tot de schelpen open zijn.",
+    "Breng aan de kook, roer de rijst erdoor en kook 3 minuten. Voeg de fijngehakte tweede ui, gehakte koriander, plakjes jalapeño en de gebakken vis toe en laat nog 5 minuten doorwarmen. Serveer direct, nog lekker smeuïg."
+   ],
+   "photo": "photos/carrillo-756.webp"
+  },
+  {
+   "id": 757,
+   "name": "Pollo en escabeche: kip in kruidig citrussap met gestoofde uien",
+   "type": "Vlees",
+   "time": 80,
+   "emoji": "🧅",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken Escabeche' (zure sinaasappel vervangen door sinaasappel + limoen, xcatic/güero-peper door habanero of gele chilipeper; maïstortilla's toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zwarte peperkorrels",
+     "20",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "komijnzaad",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "kruidnagelpoeder",
+     "1",
+     "snuf"
+    ],
+    [
+     "sinaasappels",
+     "3",
+     "stuk"
+    ],
+    [
+     "limoenen",
+     "2",
+     "stuk"
+    ],
+    [
+     "kippendijen of drumsticks",
+     "6",
+     "stuk"
+    ],
+    [
+     "uien",
+     "6",
+     "stuk"
+    ],
+    [
+     "habanero of gele chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pers de sinaasappels en limoenen en meng de sappen. Maal peperkorrels, oregano, knoflook, komijn en kaneel fijn in een vijzel of kruidenmolen.",
+    "Roer het kruidenmengsel en het kruidnagelpoeder door tweederde van het citrussap en breng op smaak met zout. Wrijf de kip hiermee in.",
+    "Leg de kip in een pan, giet er 475 ml water bij en breng aan de kook. Zet het vuur laag en laat afgedekt ongeveer 35 minuten zachtjes garen tot de kip mals is.",
+    "Haal de kip uit de pan. Voeg de gesneden uien, de chilipeper en het resterende citrussap toe aan het kookvocht, zout naar smaak en kook 5 minuten op hoog vuur.",
+    "Verwarm de tortilla's in een droge koekenpan. Leg de kip op een schaal, schep de uien en chilipeper erover, giet wat kookvocht erover en bestrooi met versgemalen peper."
+   ]
+  },
+  {
+   "id": 758,
+   "name": "Estofado de pollo: geurige kipstoof met tomaat, sherry en aardappel",
+   "type": "Vlees",
+   "time": 75,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Aromatic Chicken Stew' (güero-peper vervangen door groene chilipeper; gewone witte rijst)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "kippendelen met bot",
+     "1800",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "rode ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "kruidnagels",
+     "2",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "blad"
+    ],
+    [
+     "droge sherry of droge witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "aardappelen",
+     "2",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Doe de kippendelen in een pan, zet ze net onder water, voeg een snuf zout toe en breng aan de kook. Laat 30 minuten zachtjes trekken en schep de kip eruit; bewaar de bouillon.",
+    "Verhit de olie en fruit de gehakte ui, knoflook, tomaten en chilipeper (zonder zaadlijsten) 5 minuten op middelhoog vuur.",
+    "Pureer het tomatenmengsel met 250 ml van de kippenbouillon en zeef het in een braadpan. Kook intussen de rijst volgens de verpakking.",
+    "Zet de braadpan op middellaag vuur, zout naar smaak en voeg de kip, kruidnagels, laurier, sherry en aardappelblokjes toe. Laat 20 minuten stoven tot de aardappels gaar zijn.",
+    "Vis de kruidnagels en het laurierblad eruit en serveer de stoofpot met de witte rijst."
+   ]
+  },
+  {
+   "id": 759,
+   "name": "Gallinas borrachas: dronken kip met sherry, chorizo en rozijnen",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍗",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Drunken Chicken' (2 hele kippen als kippendelen; rijst toegevoegd)",
+   "basePersons": 8,
+   "season": "winter",
+   "ingredients": [
+    [
+     "tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "kippendelen met bot",
+     "2400",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "peterselie",
+     "2",
+     "takje"
+    ],
+    [
+     "chorizo (vers, om te bakken)",
+     "500",
+     "g"
+    ],
+    [
+     "ham in blokjes",
+     "500",
+     "g"
+    ],
+    [
+     "droge sherry of droge witte wijn",
+     "1000",
+     "ml"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "kruidnagelpoeder",
+     "1",
+     "snuf"
+    ],
+    [
+     "kaneelpoeder",
+     "1",
+     "snuf"
+    ],
+    [
+     "nootmuskaat",
+     "1",
+     "snuf"
+    ],
+    [
+     "rozijnen",
+     "65",
+     "g"
+    ],
+    [
+     "amandelen",
+     "50",
+     "g"
+    ],
+    [
+     "rijst",
+     "600",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pureer de tomaten in een blender. Kook de rijst volgens de verpakking.",
+    "Verhit de olie in een grote braadpan en voeg de kippendelen, tomatenpuree, gehakte knoflook en peterselie toe. Laat 10-15 minuten op middelhoog vuur garen en keer de kip af en toe.",
+    "Voeg de plakjes chorizo en de ham toe en bak 5 minuten mee. Giet de sherry erbij en laat een paar minuten flink inkoken.",
+    "Roer suiker, kruidnagel, kaneel, zwarte peper, nootmuskaat, rozijnen en amandelen erdoor en breng op smaak met zout.",
+    "Laat op laag vuur 15 minuten sudderen tot de kip gaar is en de saus is ingedikt. Serveer elk stuk kip met een flinke lepel saus en de rijst."
+   ],
+   "photo": "photos/carrillo-759.webp"
+  },
+  {
+   "id": 760,
+   "name": "Pollo en salsa verde: kip in groene tomatillosaus uit Campeche",
+   "type": "Vlees",
+   "time": 130,
+   "emoji": "🥘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken in Green Sauce' (tomatillo's uit blik of groene tomaten; gewone witte rijst)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "kippendijen met vel",
+     "6",
+     "stuk"
+    ],
+    [
+     "pimentkorrels",
+     "2",
+     "stuk"
+    ],
+    [
+     "kruidnagel",
+     "1",
+     "stuk"
+    ],
+    [
+     "zwarte peperkorrels",
+     "6",
+     "stuk"
+    ],
+    [
+     "laurierblad",
+     "1",
+     "blad"
+    ],
+    [
+     "sinaasappels (sap)",
+     "2",
+     "stuk"
+    ],
+    [
+     "tomatillo's (blik) of groene tomaten",
+     "6",
+     "stuk"
+    ],
+    [
+     "boter",
+     "40",
+     "g"
+    ],
+    [
+     "knoflook (droog geroosterd)",
+     "6",
+     "teen"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "rode paprika's",
+     "3",
+     "stuk"
+    ],
+    [
+     "appelciderazijn",
+     "2",
+     "el"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Los 1 tl zout op in 250 ml water, giet dit over de kip in een pan en laat 20 minuten staan. Maal intussen piment, kruidnagel, peperkorrels en laurier fijn.",
+    "Roer de helft van het kruidenpoeder door het sinaasappelsap en giet het bij de kip. Laat op laag vuur 75-90 minuten garen tot de kip mals is en het vocht is ingekookt.",
+    "Kook de tomatillo's of groene tomaten 10 minuten in gezouten water (tomatillo's uit blik alleen laten uitlekken). Pel ze, pureer ze, zeef de saus en roer de rest van het kruidenpoeder erdoor. Kook ook de rijst.",
+    "Laat de kip iets afkoelen, pluk het vlees van de botten en leg het op een schaal.",
+    "Smelt 30 g boter en fruit de fijngehakte knoflook, ui en paprika een paar minuten op middelhoog vuur. Voeg de tomatillosaus, azijn en de rest van de boter toe, proef en giet de saus over de kip. Serveer direct met de rijst."
+   ]
+  },
+  {
+   "id": 761,
+   "name": "Pollo almendrado: kip in rijke amandel-sesamsaus uit Oaxaca",
+   "type": "Vlees",
+   "time": 90,
+   "emoji": "🍗",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken in Almond Sauce' (rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "6",
+     "teen"
+    ],
+    [
+     "kipfilets",
+     "6",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "6",
+     "el"
+    ],
+    [
+     "rozijnen",
+     "225",
+     "g"
+    ],
+    [
+     "amandelschaafsel",
+     "120",
+     "g"
+    ],
+    [
+     "bakbanaan",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "brioche",
+     "1",
+     "snee"
+    ],
+    [
+     "sesamzaad",
+     "5",
+     "el"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "kruidnagels",
+     "2",
+     "stuk"
+    ],
+    [
+     "zwarte peperkorrels",
+     "2",
+     "stuk"
+    ],
+    [
+     "peterselie",
+     "1",
+     "takje"
+    ],
+    [
+     "groene olijven",
+     "20",
+     "stuk"
+    ],
+    [
+     "amandelen (garnering)",
+     "1",
+     "handvol"
+    ],
+    [
+     "ingelegde jalapeño (plakjes)",
+     "4",
+     "el"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Breng 2 liter water met een halve gesneden ui, 3 tenen knoflook en wat zout aan de kook en laat 5 minuten trekken. Pocheer de kipfilets hierin in ongeveer 25 minuten gaar, schep ze eruit en zeef de bouillon (vul aan tot 1,6 liter).",
+    "Kook de tomaten in 10 minuten zacht in water, laat uitlekken en pureer ze. Kook intussen de rijst.",
+    "Fruit de overige knoflook in 1 el olie, voeg rozijnen, amandelschaafsel, de rest van de ui, plakjes bakbanaan en blokjes brioche toe en bak tot het geurig is. Rooster daarna het sesamzaad in dezelfde pan diepgoudbruin.",
+    "Mix kaneel, kruidnagels, peperkorrels, peterselie en 250 ml bouillon in een blender, voeg het sesamzaad toe, dan nog 250 ml bouillon en het gebakken mengsel. Mix tot een dikke, romige saus en voeg zo nodig meer bouillon toe.",
+    "Verhit 3 el olie in een zware pan, bak de saus 5 minuten, roer de tomatenpuree erdoor en laat 8 minuten indikken. Voeg de rest van de bouillon toe en laat nog 10 minuten sudderen.",
+    "Leg de kip op borden, schep de saus erover en garneer met olijven, jalapeño en amandelen. Serveer met de rijst."
+   ]
+  },
+  {
+   "id": 762,
+   "name": "Pollo a la yucateca: ovenkip in sinaasappelsaus met olijven",
+   "type": "Vlees",
+   "time": 110,
+   "emoji": "🍊",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Yucatan-Style Chicken in Orange Sauce' (zure sinaasappel vervangen door sinaasappel + limoen, güero-peper door milde gele of groene chilipeper; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "winter",
+   "ingredients": [
+    [
+     "kippendelen met bot",
+     "6",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "6",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook (droog geroosterd)",
+     "12",
+     "teen"
+    ],
+    [
+     "tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "milde gele of groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "paprika's",
+     "2",
+     "stuk"
+    ],
+    [
+     "rozijnen",
+     "15",
+     "stuk"
+    ],
+    [
+     "groene olijven zonder pit",
+     "8",
+     "stuk"
+    ],
+    [
+     "sinaasappelrasp",
+     "1",
+     "tl"
+    ],
+    [
+     "sinaasappelsap",
+     "250",
+     "ml"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "kruidnagels",
+     "4",
+     "stuk"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "zwarte peperkorrels",
+     "0.5",
+     "tl"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "appelciderazijn",
+     "1",
+     "el"
+    ],
+    [
+     "sinaasappelsap met een scheut limoensap (marinade)",
+     "2",
+     "el"
+    ],
+    [
+     "sinaasappel (garnering)",
+     "1",
+     "stuk"
+    ],
+    [
+     "peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Rooster kruidnagels, kaneel, peperkorrels en oregano kort in een droge pan en maal ze met de saffraan fijn. Meng 1,5 el van dit poeder met de azijn, 2 el sinaasappel-limoensap, zout en ongeveer 8 geplette tenen geroosterde knoflook tot een pasta.",
+    "Wrijf de kip in met de pasta. Verhit 4 el olie en bak de kip ongeveer 8 minuten per kant goudbruin. Verwarm de oven voor op 190 °C.",
+    "Fruit in de rest van de olie de gehakte ui en de overige knoflook 5 minuten op laag vuur. Voeg tomaten, chilipeper, paprika, rozijnen, olijven, sinaasappelrasp, sinaasappelsap, suiker, peper en een snufje van het kruidenpoeder toe en laat een paar minuten pruttelen; zout naar smaak.",
+    "Leg de kip in een ovenschaal, giet de saus erover, dek af met folie en bak ongeveer 40 minuten tot de kip mals is. Kook intussen de rijst.",
+    "Verdeel plakjes sinaasappel over de borden, bestrooi met peterselie en leg de kip met saus erop. Serveer met de rijst."
+   ]
+  },
+  {
+   "id": 763,
+   "name": "Pollo ahogado: kip in romige chili-tomatensaus met munt",
+   "type": "Vlees",
+   "time": 115,
+   "emoji": "🍅",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken in Creamy Tomato Sauce' (kippenbouillon uit pak; puya-pepers mogen vervangen worden door chilivlokken; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kippenbouillon",
+     "1200",
+     "ml"
+    ],
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "7",
+     "teen"
+    ],
+    [
+     "kippendelen met bot",
+     "6",
+     "stuk"
+    ],
+    [
+     "verse munt",
+     "4",
+     "takje"
+    ],
+    [
+     "gedroogde guajillo-chilipepers (of 3 el ancho-chilipoeder)",
+     "20",
+     "stuk"
+    ],
+    [
+     "gedroogde puya-chilipepers (of 1 tl chilivlokken)",
+     "16",
+     "stuk"
+    ],
+    [
+     "pimentkorrels",
+     "15",
+     "stuk"
+    ],
+    [
+     "kruidnagels",
+     "5",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "slagroom of zure room",
+     "475",
+     "ml"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Rooster de gedroogde chilipepers, piment, kruidnagels, 4 tenen knoflook en de tomaten kort in een droge pan. Week de chilipepers 15 minuten in heet water.",
+    "Breng de bouillon met de ui en 3 tenen knoflook aan de kook, voeg kip en 3 takjes munt toe en laat 20 minuten zachtjes garen. Schep de kip eruit en zeef de bouillon.",
+    "Pureer de chilipepers met hun weekwater, piment, kruidnagels en geroosterde knoflook en zeef. Pureer en zeef ook de tomaten apart. Kook intussen de rijst.",
+    "Verhit de olie in een diepe pan en bak de chilipuree 10 minuten al roerend. Voeg de tomatenpuree toe en laat 10 minuten inkoken, giet er dan 600 ml bouillon bij en kook 5 minuten op hoog vuur.",
+    "Leg de kip in de saus, zout naar smaak en laat 5 minuten sudderen. Roer beetje bij beetje de room erdoor en verwarm nog even zonder te laten koken. Serveer in kommen met verse munt en de rijst."
+   ]
+  },
+  {
+   "id": 764,
+   "name": "Pollo en azafrán: saffraankip met boontjes, doperwten en wortel",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🥕",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Saffron Chicken' (achiotezaadjes vervangen door achiotepasta of paprikapoeder, mirteblad door extra laurierblad; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "lente",
+   "ingredients": [
+    [
+     "kaneelstokje",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "zwarte peperkorrel",
+     "1",
+     "stuk"
+    ],
+    [
+     "achiotepasta (of paprikapoeder met een snuf kurkuma)",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kippenbouten",
+     "6",
+     "stuk"
+    ],
+    [
+     "appelciderazijn",
+     "2",
+     "el"
+    ],
+    [
+     "tijm",
+     "1",
+     "takje"
+    ],
+    [
+     "laurierblad",
+     "2",
+     "blad"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "el"
+    ],
+    [
+     "maïstortilla",
+     "1",
+     "stuk"
+    ],
+    [
+     "sperziebonen",
+     "100",
+     "g"
+    ],
+    [
+     "doperwten",
+     "100",
+     "g"
+    ],
+    [
+     "wortels",
+     "2",
+     "stuk"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Maal het kaneelstokje en de peperkorrel fijn en meng met de achiotepasta of paprikapoeder. Rooster de tortilla krokant in een droge pan en maal of verkruimel hem fijn.",
+    "Leg de kippenbouten in een pan, zet ze onder water en voeg azijn, tijm, laurier, oregano, het kruidenmengsel en wat zout toe. Breng aan de kook en laat 20 minuten zachtjes garen.",
+    "Schep de kip eruit en verwijder het vel. Zeef het kookvocht in een schone pan, roer de gemalen tortilla erdoor en laat sudderen tot het vocht bindt. Kook intussen de rijst.",
+    "Voeg de sperziebonen toe en kook 5 minuten, dan de doperwten en plakjes wortel voor nog 5 minuten.",
+    "Roer de saffraan erdoor, leg de kip terug en laat 5 minuten meewarmen. Serveer in diepe borden met de groenten, saus en rijst."
+   ]
+  },
+  {
+   "id": 765,
+   "name": "Pollo asado al cilantro: kipfilet met koriander en citroen",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍋",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Grilled Chicken with Cilantro and Lemon' (rijst en salade toegevoegd)",
+   "basePersons": 6,
+   "season": "zomer",
+   "timeNote": "Kip minstens 3 uur marineren",
+   "ingredients": [
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "citroensap",
+     "3",
+     "el"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse koriander (gehakt)",
+     "2",
+     "el"
+    ],
+    [
+     "hete chilisaus",
+     "0.5",
+     "tl"
+    ],
+    [
+     "kipfilets",
+     "6",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "gemengde sla",
+     "200",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Meng olijfolie, citroensap, geperste knoflook, koriander en chilisaus met wat zout en peper. Wentel de kipfilets erdoor en laat minstens 3 uur in de koelkast marineren; keer ze tussendoor twee à drie keer.",
+    "Verwarm de oven voor op 240 °C en kook de rijst volgens de verpakking.",
+    "Haal de kip uit de marinade, bestrooi met zout en peper en bestrijk met olie. Bak de filets in een hete zware koekenpan 5 minuten per kant.",
+    "Leg de kip in een ovenschaal, dek af met folie en bak 20 minuten in de oven.",
+    "Laat de kip 5 minuten rusten en serveer met de rijst en een frisse salade."
+   ]
+  },
+  {
+   "id": 766,
+   "name": "Pollo al limón: kip in citroensaus met koriander en saffraan",
+   "type": "Vlees",
+   "time": 100,
+   "emoji": "🍋",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken in Lemon Sauce' (ingemaakte citroenen optioneel, anders verse citroen met olijfolie; recepttekst onvolledig, afgerond met inkoken en rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "lente",
+   "ingredients": [
+    [
+     "uien",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "4",
+     "teen"
+    ],
+    [
+     "korianderzaad",
+     "4",
+     "el"
+    ],
+    [
+     "peterselie",
+     "1",
+     "bosje"
+    ],
+    [
+     "kip in delen, zonder vel",
+     "1",
+     "stuk"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "citroenen (rasp en sap)",
+     "2",
+     "stuk"
+    ],
+    [
+     "ingemaakte citroenen (of 1 verse citroen in plakjes)",
+     "4",
+     "stuk"
+    ],
+    [
+     "olijfolie (of olie van de ingemaakte citroenen)",
+     "4",
+     "el"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Doe de gesneden uien, fijngehakte knoflook, korianderzaad, peterselie, kip, saffraan, kaneel en het sap en de rasp van de citroenen in een zware braadpan.",
+    "Giet 550 ml kokend water over de kip en voeg de plakjes ingemaakte citroen met 4 el van hun olie toe (of plakjes verse citroen met olijfolie). Breng op smaak met zout en peper.",
+    "Breng aan de kook, zet het vuur laag en laat afgedekt ongeveer 30 minuten sudderen tot de kip gaar is. Kook intussen de rijst.",
+    "Haal het deksel eraf en laat de saus nog 15-20 minuten inkoken tot hij iets gebonden is. Verwijder het kaneelstokje en proef op zout en peper.",
+    "Serveer de kip met de citroensaus en de rijst."
+   ],
+   "photo": "photos/carrillo-766.webp"
+  },
+  {
+   "id": 767,
+   "name": "Pollo en jocoque: ovenkip in romige yoghurt-pepersaus",
+   "type": "Vlees",
+   "time": 65,
+   "emoji": "🌶️",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Chicken in Jocoque Sauce' (jocoque vervangen door Griekse yoghurt of zure room, Anaheim-peper door groene puntpaprika; zwarte bonen uit blik en gewone witte rijst)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "kippenbouten",
+     "6",
+     "stuk"
+    ],
+    [
+     "Anaheim-peper of groene puntpaprika",
+     "3",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "2",
+     "stuk"
+    ],
+    [
+     "komijnzaad",
+     "1",
+     "snuf"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "Griekse yoghurt of zure room",
+     "500",
+     "ml"
+    ],
+    [
+     "zwarte bonen (blik)",
+     "800",
+     "g"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 180 °C. Rooster de pepers, tomaten en knoflook in een droge pan tot ze geblakerd zijn; verwijder zaadjes en zaadlijsten van de pepers.",
+    "Bestrooi de kip met zout en peper en bak ze in de olie ongeveer 8 minuten per kant lichtgoudbruin. Leg ze in een ovenschaal en bak 20 minuten onafgedekt in de oven.",
+    "Pureer intussen pepers, tomaten, komijn, knoflook en yoghurt of zure room glad, zeef de saus en breng op smaak met zout. Kook de rijst en verwarm de bonen.",
+    "Giet de saus over de kip en schep om. Dek af met folie en zet nog 10 minuten in de oven.",
+    "Serveer de kip met saus direct met de bonen en de rijst."
+   ]
+  },
+  {
+   "id": 768,
+   "name": "Cordero a la sidra: lamsstoof in ciderjus met chorizo en amandel",
+   "type": "Vlees",
+   "time": 115,
+   "emoji": "🍖",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Lamb in Cider Sauce' (runderbouillon uit pak; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "kruidnagelpoeder",
+     "1",
+     "snuf"
+    ],
+    [
+     "kaneelpoeder",
+     "1",
+     "snuf"
+    ],
+    [
+     "lamsvlees zonder bot, in blokjes",
+     "1000",
+     "g"
+    ],
+    [
+     "bloem",
+     "1",
+     "tl"
+    ],
+    [
+     "droge cider",
+     "1000",
+     "ml"
+    ],
+    [
+     "boter",
+     "40",
+     "g"
+    ],
+    [
+     "lente-uitjes",
+     "9",
+     "stuk"
+    ],
+    [
+     "chorizo (vers, om te bakken)",
+     "200",
+     "g"
+    ],
+    [
+     "runderbouillon",
+     "500",
+     "ml"
+    ],
+    [
+     "amandelschaafsel (geroosterd)",
+     "5",
+     "el"
+    ],
+    [
+     "peterselie",
+     "1",
+     "handvol"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Wrijf knoflook, 1 el olie, kruidnagel, kaneel en een snuf zwarte peper in een vijzel tot een pasta. Smeer het lamsvlees ermee in en bestuif licht met bloem.",
+    "Bak het vlees in de rest van de olie 8-10 minuten al omscheppend rondom bruin en zet apart. Kook intussen de cider in een andere pan in tot de helft.",
+    "Smelt de boter in de vleespan en fruit de lente-uitjes 5 minuten op laag vuur. Voeg de verkruimelde chorizo toe en bak 10-15 minuten mee; giet daarna het overtollige vet af.",
+    "Doe het lamsvlees, de bouillon en de ingekookte cider in de pan, breng op smaak met zout en peper en laat afgedekt ongeveer 45 minuten sudderen tot het vlees mals is. Kook intussen de rijst.",
+    "Schep de stoofpot op een schaal en bestrooi met geroosterd amandelschaafsel en gehakte peterselie. Serveer met de rijst."
+   ]
+  },
+  {
+   "id": 769,
+   "name": "Tortitas de habas: tuinbonen-kikkererwtenkoekjes met tomatensaus",
+   "type": "Vegetarisch",
+   "time": 50,
+   "emoji": "🫘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Fava Bean Patties' (salade toegevoegd)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "tuinbonen (gekookt of diepvries)",
+     "225",
+     "g"
+    ],
+    [
+     "kikkererwten (blik, uitgelekt)",
+     "250",
+     "g"
+    ],
+    [
+     "eieren",
+     "2",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "6",
+     "el"
+    ],
+    [
+     "witte ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaten",
+     "3",
+     "stuk"
+    ],
+    [
+     "courgettes",
+     "4",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "groene chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "gemengde sla",
+     "200",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Maal de gekookte tuinbonen en kikkererwten in een keukenmachine tot een grove pasta, eventueel met een scheutje water. Meng de losgeklopte eieren erdoor en breng op smaak met zout.",
+    "Verhit 3 el olie en bak een halve gesnipperde ui met 1 gehakte tomaat 10 minuten. Voeg de fijngehakte courgettes toe, breng op smaak en bak 5-10 minuten tot al het vocht verdampt is. Meng dit door het bonenmengsel.",
+    "Vorm van telkens 2 el van het mengsel een balletje en druk het plat tot een koekje.",
+    "Bedek de bodem van een zware pan met olie en bak de koekjes in kleine porties op middelhoog vuur 2-3 minuten per kant lichtbruin. Laat uitlekken op keukenpapier.",
+    "Pureer voor de saus 2 tomaten, de knoflook, de andere halve ui en de chilipeper. Bak de puree kort in 1 el olie en laat 5 minuten koken; zout naar smaak. Serveer de koekjes met de saus en een salade."
+   ],
+   "photo": "photos/carrillo-769.webp"
+  },
+  {
+   "id": 770,
+   "name": "Carne a la tampiqueña: ossenhaas met groene enchilada's en quesadilla's",
+   "type": "Vlees",
+   "time": 85,
+   "emoji": "🥩",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Tampico-Style Beef' (poblano vervangen door groene puntpaprika, tomatillosalsa door salsa verde uit pot, Oaxaca-kaas door mozzarella, queso fresco door feta, reuzel door olie)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "uien, in dunne ringen",
+     "2",
+     "stuk"
+    ],
+    [
+     "poblano of groene puntpaprika, geroosterd en in reepjes",
+     "7",
+     "stuk"
+    ],
+    [
+     "salsa verde (pot)",
+     "475",
+     "ml"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "mozzarella, geraspt",
+     "175",
+     "g"
+    ],
+    [
+     "ossenhaas, in 6 stukken",
+     "1200",
+     "g"
+    ],
+    [
+     "feta, verkruimeld",
+     "120",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verhit 1 el olie in een koekenpan en fruit de helft van de uienringen 5 minuten zachtjes. Voeg de reepjes geroosterde paprika toe, bak nog 5 minuten mee, breng op smaak met zout en peper en zet apart.",
+    "Verwarm 1 el olie in een steelpan, voeg de salsa verde toe en laat 10 minuten pruttelen. Haal 6 tortilla's één voor één door de saus tot ze helemaal bedekt zijn en vouw ze in drieën: dit zijn de groene enchilada's.",
+    "Verwarm de overige 6 tortilla's kort in een droge koekenpan. Leg wat mozzarella op elke tortilla, vouw dubbel en bak ze aan beide kanten tot de kaas gesmolten is.",
+    "Snijd de ossenhaas in de lengte in dunne plakken. Gril of bak ze onder een hete grill 2-4 minuten per kant tot de gewenste gaarheid en bestrooi met zout en peper.",
+    "Verdeel het vlees over 6 borden en leg er de paprika, de enchilada's en de quesadilla's naast. Bestrooi met feta en de rest van de rauwe ui en serveer direct."
+   ]
+  },
+  {
+   "id": 771,
+   "name": "Carne en su jugo: rundvlees in pittig chipotlesap met bonen en spek",
+   "type": "Vlees",
+   "time": 65,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Stewed Meat' (zelfgekookte bonen vervangen door bonen uit blik, serrano door groene chilipeper, citroen in plaats van limoen zoals in het boek; hoeveelheden tortilla's en avocado zelf gekozen)",
+   "basePersons": 6,
+   "season": "winter",
+   "ingredients": [
+    [
+     "mager ontbijtspek, in blokjes",
+     "250",
+     "g"
+    ],
+    [
+     "runderstoofvlees, in blokjes",
+     "750",
+     "g"
+    ],
+    [
+     "runderbouillon",
+     "1000",
+     "ml"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "4",
+     "stuk"
+    ],
+    [
+     "laurier",
+     "2",
+     "blad"
+    ],
+    [
+     "zout",
+     "1",
+     "el"
+    ],
+    [
+     "zwarte peper",
+     "1.5",
+     "tl"
+    ],
+    [
+     "bruine of zwarte bonen (blik), uitgelekt",
+     "500",
+     "g"
+    ],
+    [
+     "verse koriander, gehakt",
+     "50",
+     "g"
+    ],
+    [
+     "lente-uien",
+     "12",
+     "stuk"
+    ],
+    [
+     "groene chilipeper",
+     "25",
+     "g"
+    ],
+    [
+     "citroenen, in partjes",
+     "3",
+     "stuk"
+    ],
+    [
+     "tarwetortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "avocado's, in plakjes",
+     "2",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Bak het spek in een zware pan op middelhoog vuur tot het vet is uitgebakken en het spek knapperig is. Schep het eruit en laat uitlekken op keukenpapier.",
+    "Zet het vuur hoger en schroei het rundvlees in het spekvet een paar minuten rondom bruin. Schenk er 750 ml bouillon bij.",
+    "Pureer de resterende 250 ml bouillon met de chipotles in de blender en roer dit door het vlees. Voeg laurier, zout en peper toe, breng aan de kook en laat 20 minuten zachtjes sudderen. Proef en breng op smaak.",
+    "Gril of rooster intussen de lente-uien kort in een hete grillpan en verwarm de bonen en tortilla's.",
+    "Verdeel de bonen over 6 kommen, schep het vlees met het kookvocht erover en garneer met spek, koriander en lente-uien. Geef chilipeper, citroenpartjes, warme tortilla's en avocado erbij."
+   ]
+  },
+  {
+   "id": 772,
+   "name": "Carne asada a la plancha: gemarineerde steak met guacamole en salsa",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🥩",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Griddled Steak' (guacamole en salsa uit het boek vervangen door snelle guacamole en salsa uit pot; hoeveelheden bier, uien en aardappelen zelf gekozen)",
+   "basePersons": 6,
+   "season": "zomer",
+   "timeNote": "Steaks 2 uur marineren",
+   "ingredients": [
+    [
+     "zonnebloemolie",
+     "125",
+     "ml"
+    ],
+    [
+     "gedroogde oregano",
+     "0.5",
+     "tl"
+    ],
+    [
+     "laurier, verkruimeld",
+     "3",
+     "blad"
+    ],
+    [
+     "licht bier",
+     "250",
+     "ml"
+    ],
+    [
+     "ribeye of entrecote (à 200 g)",
+     "6",
+     "stuk"
+    ],
+    [
+     "uien, gehalveerd",
+     "3",
+     "stuk"
+    ],
+    [
+     "kruimige aardappelen",
+     "1000",
+     "g"
+    ],
+    [
+     "avocado's",
+     "2",
+     "stuk"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "salsa (pot)",
+     "200",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Meng olie, oregano, laurier en bier in een schaal en breng op smaak met zout en peper. Wentel de steaks erdoor en laat 2 uur marineren.",
+    "Kook de aardappelen in 20 minuten gaar. Rooster de gehalveerde uien intussen in een droge grillpan of op de barbecue tot ze zacht en zwartgeblakerd zijn.",
+    "Prak de avocado's met het sap van de limoen en een snuf zout tot een eenvoudige guacamole.",
+    "Verhit een grillpan of barbecue flink. Gril de steaks 3 minuten, keer ze, gril 3 minuten en draai ze dan een kwartslag voor een ruitpatroon. Gril verder tot de gewenste gaarheid en bestrijk ze eventueel met de marinade.",
+    "Serveer de steaks direct met de geroosterde uien, aardappelen, guacamole en salsa."
+   ]
+  },
+  {
+   "id": 773,
+   "name": "Chiles regios: gevulde paprika's met biefstuk-avocado en bonensaus",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🫑",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Stuffed Chiles from Monterrey' (poblano vervangen door groene puntpaprika, serrano door groene chilipeper, morita door chipotle in adobo, zelfgekookte bonen door bonen uit blik; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "zonnebloemolie (vinaigrette)",
+     "125",
+     "ml"
+    ],
+    [
+     "witte wijnazijn",
+     "2",
+     "el"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "suiker",
+     "0.5",
+     "tl"
+    ],
+    [
+     "poblano of groene puntpaprika, zaadjes verwijderd",
+     "6",
+     "stuk"
+    ],
+    [
+     "bavette of flanksteak",
+     "450",
+     "g"
+    ],
+    [
+     "witte ui, in ringen",
+     "1",
+     "stuk"
+    ],
+    [
+     "olie",
+     "1",
+     "el"
+    ],
+    [
+     "rijpe avocado's",
+     "3",
+     "stuk"
+    ],
+    [
+     "limoensap",
+     "0.5",
+     "tl"
+    ],
+    [
+     "witte ui, fijngesnipperd",
+     "2",
+     "el"
+    ],
+    [
+     "groene chilipepers, fijngehakt",
+     "2",
+     "stuk"
+    ],
+    [
+     "zwarte of bruine bonen (blik), vocht bewaard",
+     "250",
+     "g"
+    ],
+    [
+     "tomaat, geroosterd",
+     "1",
+     "stuk"
+    ],
+    [
+     "ui (voor de saus)",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook, geroosterd",
+     "1",
+     "teen"
+    ],
+    [
+     "chipotle in adobo (blik) of gedroogde morita-chilipeper",
+     "1",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Klop olie, wijnazijn, zout en suiker tot een vinaigrette en giet die in een brede pan. Leg de paprika's erin en laat ze afgedekt 3 minuten zacht sudderen tot ze soepel zijn. Haal ze eruit en laat afkoelen; bewaar de vinaigrette.",
+    "Kook de rijst volgens de verpakking. Pureer voor de saus de bonen, tomaat, halve ui, knoflook en chipotle glad, met wat bonenvocht indien nodig. Zeef in een pannetje, laat 5 minuten pruttelen en breng op smaak met zout.",
+    "Bak het vlees met de uienringen en een scheut olie, op smaak gebracht met zout en peper, 10-20 minuten afhankelijk van de gewenste gaarheid. Hak het vlees daarna fijn.",
+    "Snijd het vruchtvlees van de avocado's in stukjes en meng met limoensap, gesnipperde ui, groene chilipeper en zout. Schep het gehakte vlees erdoor.",
+    "Vul de paprika's voorzichtig met het vlees-avocadomengsel. Schep de bonensaus op de borden, zet de paprika's erop, besprenkel met de vinaigrette en serveer met rijst."
+   ],
+   "photo": "photos/carrillo-773.webp"
+  },
+  {
+   "id": 774,
+   "name": "Discada: biefstuk met chorizo, spek en paprika uit de pan",
+   "type": "Vlees",
+   "time": 65,
+   "emoji": "🥘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Discada (chorizo and peppers)' (Mexicaanse chorizo vervangen door verse chorizo, bonen uit blik en salsa uit pot in plaats van de basisrecepten; hoeveelheden bijgerechten zelf gekozen)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "ontbijtspek, in stukjes",
+     "120",
+     "g"
+    ],
+    [
+     "ui, grof gehakt",
+     "1",
+     "stuk"
+    ],
+    [
+     "chorizo (vers, om te bakken), uit het vel",
+     "250",
+     "g"
+    ],
+    [
+     "groene paprika's, in blokjes",
+     "2",
+     "stuk"
+    ],
+    [
+     "runderbiefstuk of staartstuk, in blokjes",
+     "600",
+     "g"
+    ],
+    [
+     "worcestershiresaus",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte of bruine bonen (blik)",
+     "400",
+     "g"
+    ],
+    [
+     "salsa (pot)",
+     "200",
+     "g"
+    ],
+    [
+     "tarwetortilla's",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Bak het spek in een zware braadpan op middelhoog vuur ongeveer 5 minuten tot het vet is uitgebakken.",
+    "Voeg de ui toe en bak 5-8 minuten tot hij goudbruin is. Verkruimel de chorizo erboven en bak 3 minuten mee.",
+    "Doe de paprika, de blokjes biefstuk en een scheut worcestershiresaus erbij en breng op smaak met zout en peper. Laat al roerend ongeveer 20 minuten garen tot het vlees mals is.",
+    "Verwarm intussen de bonen en de tortilla's.",
+    "Serveer de discada direct met de bonen, salsa en warme tortilla's."
+   ]
+  },
+  {
+   "id": 775,
+   "name": "Caldillo norteño: rundvleesstoof met krieltjes, courgette en doperwten",
+   "type": "Vlees",
+   "time": 70,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Northern Beef Stew' (OCR onduidelijk bij de boter: 5 el bier aangenomen, zoals de bereiding vermeldt; tortilla-hoeveelheid zelf gekozen)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "krieltjes",
+     "250",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "ossenhaas, in blokjes",
+     "500",
+     "g"
+    ],
+    [
+     "grote tomaten, in partjes",
+     "2",
+     "stuk"
+    ],
+    [
+     "witte ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "laurier",
+     "2",
+     "blad"
+    ],
+    [
+     "kaneel (gemalen)",
+     "0.5",
+     "tl"
+    ],
+    [
+     "runderbouillon",
+     "250",
+     "ml"
+    ],
+    [
+     "boter",
+     "1",
+     "el"
+    ],
+    [
+     "licht bier",
+     "75",
+     "ml"
+    ],
+    [
+     "bloem",
+     "0.5",
+     "el"
+    ],
+    [
+     "courgette, in blokjes",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "doperwten",
+     "50",
+     "g"
+    ],
+    [
+     "tarwetortilla's",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes in ongeveer 10 minuten gaar en giet af.",
+    "Verhit de olie in een koekenpan op hoog vuur en schroei het vlees 2-3 minuten rondom bruin.",
+    "Pureer tomaten, ui, knoflook, laurier, kaneel en bouillon in de blender en breng op smaak met zout en peper.",
+    "Smelt de boter in een middelgrote pan, roer de bloem erdoor en laat 2 minuten al roerend garen. Schenk het bier en het tomatenmengsel erbij en breng al roerend aan de kook tot de saus bindt.",
+    "Voeg het vlees, de courgette, doperwten en krieltjes toe en laat 15 minuten op laag vuur sudderen. Proef, breng op smaak en serveer direct met warme tortilla's."
+   ]
+  },
+  {
+   "id": 776,
+   "name": "Tortitas de carne: pittige gehaktburgers met ancho en komijn",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍔",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Spicy Beef Patties' (salsa uit pot; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "gedroogde ancho-chilipeper (of 2 tl ancho-chilipoeder)",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "zwarte peperkorrels",
+     "6",
+     "stuk"
+    ],
+    [
+     "komijnzaad",
+     "2",
+     "tl"
+    ],
+    [
+     "kruidnagel",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "eieren, losgeklopt",
+     "2",
+     "stuk"
+    ],
+    [
+     "crackers, verkruimeld",
+     "10",
+     "stuk"
+    ],
+    [
+     "rundergehakt",
+     "500",
+     "g"
+    ],
+    [
+     "varkensgehakt",
+     "500",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "salsa (pot)",
+     "200",
+     "g"
+    ],
+    [
+     "gemengde sla",
+     "150",
+     "g"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Week de ancho-pepers 15 minuten in heet water en laat uitlekken. Kook intussen de rijst volgens de verpakking.",
+    "Maal de pepers met knoflook, peperkorrels, komijnzaad, kruidnagel, oregano en een snuf zout fijn in een blender of keukenmachine. Meng in een kom met de eieren en crackerkruimels.",
+    "Kneed het rund- en varkensgehakt er met de handen goed door en vorm burgers van ongeveer 2 cm dik.",
+    "Verhit de olie in een zware koekenpan en bak de burgers op middelhoog vuur ongeveer 7 minuten per kant tot ze bruin en helemaal gaar zijn.",
+    "Serveer direct met salsa, gemengde sla en rijst."
+   ]
+  },
+  {
+   "id": 777,
+   "name": "Rundvlees met ancho-saus en kikkererwten",
+   "type": "Vlees",
+   "time": 105,
+   "emoji": "🌶️",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Beef with Chile and Chickpeas' (serrano vervangen door groene chilipeper; kikkererwten uit blik; tortilla-hoeveelheid zelf gekozen)",
+   "basePersons": 4,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "gedroogde ancho-chilipeper (of 3 tl ancho-chilipoeder)",
+     "3",
+     "stuk"
+    ],
+    [
+     "runderborst (of sukadelappen)",
+     "600",
+     "g"
+    ],
+    [
+     "knoflook",
+     "8",
+     "teen"
+    ],
+    [
+     "witte ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "groene chilipeper, zonder zaadjes",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaten, geroosterd",
+     "2",
+     "stuk"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "kikkererwten (blik), uitgelekt",
+     "250",
+     "g"
+    ],
+    [
+     "tarwetortilla's",
+     "8",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Week de ancho-pepers 15 minuten in heet water.",
+    "Doe het vlees met knoflook, ui en een snuf zout in een grote pan, zet net onder water en breng aan de kook. Laat afgedekt 60 minuten zachtjes koken tot het mals is. Snijd het vlees in kleine blokjes en zeef en bewaar het kookvocht.",
+    "Pureer de uitgelekte ancho's, de groene chilipeper, tomaten, suiker en een soeplepel kookvocht glad met wat peper. Wrijf het mengsel door een zeef.",
+    "Verhit de olie in een grote pan, voeg de chilisaus en de rest van het kookvocht toe en laat 10 minuten pruttelen. Roer het vlees en de kikkererwten erdoor en laat afgedekt 15 minuten op laag vuur sudderen; voeg wat water toe als het te droog wordt.",
+    "Proef, breng op smaak en serveer direct met warme tortilla's."
+   ]
+  },
+  {
+   "id": 778,
+   "name": "Frijol con puerco: zwarte bonen met varkensvlees en radijssalsa",
+   "type": "Vlees",
+   "time": 100,
+   "emoji": "🫘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Pork and Beans' (tip: in plaats van gedroogde bonen kun je ca. 900 g uitgelekte zwarte bonen uit blik gebruiken en de bonen pas na 45 minuten toevoegen; maïstortilla's toegevoegd)",
+   "basePersons": 6,
+   "season": "winter",
+   "timeNote": "Bonen een nacht weken",
+   "ingredients": [
+    [
+     "gedroogde zwarte bonen",
+     "350",
+     "g"
+    ],
+    [
+     "varkensschouder, in stukken",
+     "600",
+     "g"
+    ],
+    [
+     "boter",
+     "25",
+     "g"
+    ],
+    [
+     "witte ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "3",
+     "teen"
+    ],
+    [
+     "witte uien, fijngehakt (salsa)",
+     "1.5",
+     "stuk"
+    ],
+    [
+     "verse koriander, gehakt",
+     "0.5",
+     "bosje"
+    ],
+    [
+     "radijsjes, fijngehakt",
+     "3",
+     "stuk"
+    ],
+    [
+     "limoen",
+     "1",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Week de zwarte bonen een nacht in ruim water en giet ze af.",
+    "Doe de bonen met het varkensvlees, de boter, de halve ui en de knoflook in een pan, zet ruim onder water en breng aan de kook.",
+    "Laat 60-90 minuten zachtjes koken tot bonen en vlees mals zijn en het kookvocht wat is ingedikt. Breng op smaak met zout.",
+    "Meng voor de salsa de gehakte ui, koriander, radijs en het limoensap in een glazen kom en breng op smaak met zout en peper.",
+    "Verwarm de tortilla's en serveer de bonen met vlees direct, met de salsa ernaast."
+   ],
+   "photo": "photos/carrillo-778.webp"
+  },
+  {
+   "id": 779,
+   "name": "Carne de puerco en salsa verde: varkensvlees in groene saus",
+   "type": "Vlees",
+   "time": 80,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Pork in Green Sauce' (tomatillo's uit blik of groene tomaten, serrano vervangen door groene chilipeper; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "mager varkensvlees (bijv. fricandeau), in blokjes",
+     "1000",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "tomatillo's (blik) of groene tomaten",
+     "5",
+     "stuk"
+    ],
+    [
+     "groene chilipepers, zonder zaadjes",
+     "4",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "verse koriander",
+     "4",
+     "takje"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Zet het vlees met een snuf zout net onder water, breng aan de kook en laat afgedekt ongeveer 30 minuten zachtjes garen. Schep het vlees eruit en bewaar het kookvocht. Kook intussen de rijst.",
+    "Verhit 2 el olie in een pan en bak het vlees 8-10 minuten op middelhoog vuur tot het rondom goudbruin is.",
+    "Kook groene tomaten 15 minuten zachtjes in een deel van het kookvocht en schep ze eruit (tomatillo's uit blik hoef je alleen uit te laten lekken).",
+    "Pureer de tomatillo's met de chilipepers, knoflook en koriander in de blender.",
+    "Verhit de laatste el olie, voeg de groene saus toe en laat 10 minuten pruttelen. Doe het vlees erbij en laat nog enkele minuten sudderen; verdun met wat kookvocht tot een saus. Proef, breng op smaak en serveer met rijst."
+   ]
+  },
+  {
+   "id": 780,
+   "name": "Calabaza con puerco: varkensvlees met pompoen, maïs en munt",
+   "type": "Vlees",
+   "time": 75,
+   "emoji": "🎃",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Pork with Pumpkin' (serrano vervangen door groene chilipeper; aantal pepers en hoeveelheid koriander ontbraken in de OCR en zijn geschat; witte rijst als simpele rijst)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "varkensschouder zonder been, in blokjes",
+     "750",
+     "g"
+    ],
+    [
+     "ui, in vieren",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "kleine pompoen of flespompoen, geschild en in blokjes",
+     "1",
+     "stuk"
+    ],
+    [
+     "maïskolf, in 6 stukken",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaten, ontveld en grof gehakt",
+     "3",
+     "stuk"
+    ],
+    [
+     "groene chilipepers, geroosterd",
+     "2",
+     "stuk"
+    ],
+    [
+     "verse koriander, gehakt",
+     "2",
+     "el"
+    ],
+    [
+     "verse munt, gehakt",
+     "6",
+     "blad"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Doe het vlees met de ui en knoflook in een pan, zet onder water, breng aan de kook en laat 15 minuten zachtjes koken. Schep het vlees eruit en zeef en bewaar het kookvocht.",
+    "Kook de pompoenblokjes 15 minuten in het kookvocht. Kook intussen de rijst.",
+    "Voeg het vlees, de stukken maïs, de tomaten en de chilipepers toe en breng op smaak met zout en peper. Laat 20 minuten sudderen tot vlees en groenten gaar zijn; voeg wat kookvocht toe als het droog wordt.",
+    "Haal de pan van het vuur, proef en roer de koriander en munt erdoor.",
+    "Serveer direct met de rijst."
+   ]
+  },
+  {
+   "id": 781,
+   "name": "Spareribs in mango-tequilasaus met aardappelpuree",
+   "type": "Vlees",
+   "time": 75,
+   "emoji": "🍖",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Pork Ribs in Mango and Tequila Sauce' (reuzel vervangen door olie; ingrediënten voor de aardappelpuree zelf toegevoegd)",
+   "basePersons": 6,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "mango, geschild en zonder pit",
+     "1",
+     "stuk"
+    ],
+    [
+     "citroensap",
+     "2",
+     "el"
+    ],
+    [
+     "honing",
+     "2",
+     "el"
+    ],
+    [
+     "verse gember, gehakt",
+     "2",
+     "el"
+    ],
+    [
+     "ketchup",
+     "2",
+     "el"
+    ],
+    [
+     "knoflook, gehakt",
+     "1",
+     "teen"
+    ],
+    [
+     "chipotle in adobo (blik)",
+     "2",
+     "stuk"
+    ],
+    [
+     "witte tequila",
+     "2",
+     "el"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "vlezige spareribs, in losse ribben",
+     "1500",
+     "g"
+    ],
+    [
+     "verse koriander, fijngehakt",
+     "25",
+     "g"
+    ],
+    [
+     "kruimige aardappelen",
+     "1200",
+     "g"
+    ],
+    [
+     "melk",
+     "150",
+     "ml"
+    ],
+    [
+     "boter",
+     "30",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pureer mango, citroensap, honing, gember, ketchup, knoflook, chipotles en tequila glad in de blender en breng op smaak met zout en peper. Verwarm de oven voor op 190 °C.",
+    "Verhit de olie in een zware pan en schroei de ribben in porties op hoog vuur aan alle kanten bruin. Leg ze in een braadslee en meng ze met de helft van de saus.",
+    "Dek af met aluminiumfolie en zet 1 uur in de oven; bedruip de ribben een paar keer met de saus.",
+    "Kook intussen de aardappelen gaar en stamp ze met warme melk, boter, zout en peper tot een romige puree.",
+    "Leg de ribben op een schaal. Giet de rest van de saus met een paar eetlepels water in de braadslee, schraap de aanbaksels los op middelhoog vuur en zeef in een sauskom. Bestrooi de ribben met koriander en serveer met de puree en de saus."
+   ]
+  },
+  {
+   "id": 782,
+   "name": "Spareribs in sinaasappel-honingsaus uit de oven",
+   "type": "Vlees",
+   "time": 75,
+   "emoji": "🍖",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Pork Ribs in Orange Sauce' (Borracha-salsa uit het boek vervangen door pittige rode salsa uit pot; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "spareribs, in 6 porties",
+     "2000",
+     "g"
+    ],
+    [
+     "sinaasappelmarmelade",
+     "275",
+     "g"
+    ],
+    [
+     "pittige rode salsa (pot)",
+     "5",
+     "el"
+    ],
+    [
+     "licht bier",
+     "2",
+     "el"
+    ],
+    [
+     "honing",
+     "2",
+     "el"
+    ],
+    [
+     "sinaasappelrasp",
+     "1.5",
+     "tl"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 180 °C. Bestrooi de ribs royaal met zout en peper en leg ze in een grote braadslee.",
+    "Verwarm marmelade, salsa, bier, honing en sinaasappelrasp in een pan op laag vuur en roer 5 minuten tot een gladde saus.",
+    "Giet de hete saus over de ribs, dek af met aluminiumfolie en zet ongeveer 45 minuten in de oven. Kook intussen de rijst.",
+    "Haal de folie eraf en bak de ribs nog 10-15 minuten tot ze mooi bruin en geglazuurd zijn. Serveer direct met de rijst."
+   ]
+  },
+  {
+   "id": 783,
+   "name": "Calabacitas rellenas: courgettes gevuld met maïs en kaas",
+   "type": "Vegetarisch",
+   "time": 45,
+   "emoji": "🥒",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Zucchini Stuffed with Corn' (ronde courgettes of gewone courgettes, panela vervangen door mozzarella, tomatensaus van passata; rijst toegevoegd)",
+   "basePersons": 3,
+   "season": "zomer",
+   "ingredients": [
+    [
+     "ronde courgettes (of gewone courgettes)",
+     "6",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "witte uien, gesnipperd",
+     "2",
+     "stuk"
+    ],
+    [
+     "knoflook, fijngehakt",
+     "3",
+     "teen"
+    ],
+    [
+     "tomaten, ontveld, zonder zaad en gehakt",
+     "2",
+     "stuk"
+    ],
+    [
+     "maïskorrels (blik), uitgelekt",
+     "175",
+     "g"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "snuf"
+    ],
+    [
+     "gedroogde tijm",
+     "1",
+     "snuf"
+    ],
+    [
+     "gedroogd basilicum",
+     "1",
+     "snuf"
+    ],
+    [
+     "mozzarella, in blokjes",
+     "50",
+     "g"
+    ],
+    [
+     "tomatensaus (passata)",
+     "300",
+     "ml"
+    ],
+    [
+     "rijst",
+     "225",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Breng een pan water met zout aan de kook en kook de rijst apart volgens de verpakking. Snijd van elke courgette het bovenste kwart af en hol beide delen voorzichtig uit met een lepel; bewaar het vruchtvlees.",
+    "Kook de courgettes met hun kapjes 5 minuten in het kokende water, laat uitlekken en zet apart.",
+    "Verhit de olie in een koekenpan op hoog vuur en fruit ui en knoflook 2 minuten. Voeg de tomaten en ¼ tl zout toe en bak 4 minuten. Roer maïs, het gehakte courgettevlees en de gedroogde kruiden erdoor en bak nog 2 minuten.",
+    "Roer de mozzarella door de vulling, haal de pan van het vuur en laat iets afkoelen. Verwarm intussen de tomatensaus.",
+    "Vul de courgettes met het maïsmengsel en zet de kapjes erop. Schep warme tomatensaus op de borden, zet de courgettes erop en serveer direct met de rijst."
+   ],
+   "photo": "photos/carrillo-783.webp"
+  },
+  {
+   "id": 784,
+   "name": "Chile ancho relleno: met kaas gevulde ancho-pepers in zoetzure sinaasappelsaus",
+   "type": "Vegetarisch",
+   "time": 55,
+   "emoji": "🧀",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Cheese-Stuffed Ancho Chile' (gedroogde ancho-pepers zijn essentieel en online of bij de toko te koop; piloncillo vervangen door donkerbruine basterdsuiker; het boek noemt 1 kg kaas, 500 g is ruim voldoende voor 6 pepers; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "gedroogde ancho-chilipepers",
+     "6",
+     "stuk"
+    ],
+    [
+     "appelciderazijn",
+     "250",
+     "ml"
+    ],
+    [
+     "versgeperst sinaasappelsap",
+     "250",
+     "ml"
+    ],
+    [
+     "donkerbruine basterdsuiker",
+     "220",
+     "g"
+    ],
+    [
+     "knoflook",
+     "5",
+     "teen"
+    ],
+    [
+     "laurier",
+     "1",
+     "blad"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "tl"
+    ],
+    [
+     "gedroogde tijm",
+     "1",
+     "tl"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "jonge goudse kaas of mozzarella, geraspt",
+     "500",
+     "g"
+    ],
+    [
+     "avocado, in plakjes",
+     "1",
+     "stuk"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Snijd elke ancho-peper in de lengte open, laat het steeltje zitten en verwijder zaadjes en zaadlijsten.",
+    "Verwarm azijn, sinaasappelsap, basterdsuiker, knoflook, laurier, oregano en tijm in een pan op middelhoog vuur tot de suiker is opgelost. Haal van het vuur en laat de pepers er 10-15 minuten in weken tot ze zacht zijn.",
+    "Schep de pepers op keukenpapier. Zeef het weekvocht terug in de pan en laat 5 minuten inkoken tot een lichte saus; breng op smaak met zout of een scheutje azijn. Kook intussen de rijst.",
+    "Verwarm de oven voor op 180 °C en vet een ovenschaal in met de olie. Vul de pepers voorzichtig met de kaas en leg ze met de opening naar boven in de schaal.",
+    "Bak 15 minuten tot de kaas smelt. Serveer elke peper met avocadoplakjes, de warme saus ernaast en rijst."
+   ],
+   "photo": "photos/carrillo-784.webp"
+  },
+  {
+   "id": 785,
+   "name": "Lentejas con chorizo: groene linzen met chorizo en paprika",
+   "type": "Vlees",
+   "time": 55,
+   "emoji": "🥘",
+   "cuisine": "Mexicaans",
+   "source": "Carrillo",
+   "sourceRef": "Mexico: The Cookbook (Margarita Carrillo Arronte), 'Lentils with Chorizo' (rijst toegevoegd om er een hoofdgerecht van te maken)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "groene linzen",
+     "250",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "2",
+     "el"
+    ],
+    [
+     "chorizo, in plakjes",
+     "50",
+     "g"
+    ],
+    [
+     "witte ui, gesnipperd",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook, gehakt",
+     "1",
+     "teen"
+    ],
+    [
+     "paprika, in stukjes",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaat, gehakt",
+     "1",
+     "stuk"
+    ],
+    [
+     "verse peterselie, gehakt",
+     "0.5",
+     "bosje"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Zet de linzen ruim onder water en kook ze op middelhoog vuur in 20-30 minuten gaar. Breng op smaak met zout en giet af. Kook intussen de rijst.",
+    "Verhit de olie in een pan op middellaag vuur en bak de chorizo 5 minuten. Schep de chorizo eruit en zet apart.",
+    "Bak ui, knoflook, paprika, tomaat en de helft van de peterselie 10 minuten in het chorizovet.",
+    "Voeg de linzen toe, breng op smaak en laat nog 10 minuten zachtjes doorkoken.",
+    "Schep in een schaal, leg de chorizo erop, bestrooi met de rest van de peterselie en serveer direct met rijst."
+   ],
+   "photo": "photos/carrillo-785.webp"
   }
  ]
 }

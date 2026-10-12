@@ -623,3 +623,50 @@ Het boek bevat alleen tekeningen, geen foto's. Alle 15 recepten (715 tot en met 
 - Kip uit de oven in sinaasappelsap met rozijnen en ananas: https://www.pexels.com/photo/6072033/
 - Kip en saffraanrijst uit de oven met olijven en doperwten: https://www.pexels.com/photo/21822134/
 - Gegrilde kip met honing, kaneel, limoen en vermout: https://www.pexels.com/photo/33800905/
+
+## Mexico: The Cookbook (Margarita Carrillo Arronte)
+
+Zestien recepten (730, 738, 739, 745, 752, 753, 755, 756, 759, 766, 769, 773, 778, 783, 784, 785) tonen de gerechtfoto uit het boek als photos/carrillo-<id>.webp, zonder het bijschrift.
+
+De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Quesadillas met gebakken paddenstoelen en groene peper: https://www.pexels.com/photo/5836439/
+- Quesadillas met aardappel, chorizo en chipotle: https://www.pexels.com/photo/32333982/
+- Krokante taco's met pittige bonenpuree en feta: https://www.pexels.com/photo/35225167/
+- Taco's met aardappelpuree en chipotle, zure room en salsa verde: https://www.pexels.com/photo/5229775/
+- Tacos al pastor: gemarineerd varkensvlees met ananas: https://www.pexels.com/photo/14006131/
+- Carnitas: langzaam gegaard varkensvlees met sinaasappel: https://www.pexels.com/photo/9525081/
+- Tostadas met tonijn, garnalen en chipotlemayonaise: https://www.pexels.com/photo/39022457/
+- Alambre: spiesjes van rundvlees, paprika en spek met guacamole en bonen: https://www.pexels.com/photo/8890114/
+- Huevos motuleños: gebakken eieren op tortilla met tomatensaus en bakbanaan: https://www.pexels.com/photo/31823015/
+- Huevos con chorizo: roerei met pittige chorizo en bonen: https://www.pexels.com/photo/6109498/
+- Caldo de queso: kaassoep met aardappel, tomaat en jalapeño: https://www.pexels.com/photo/32912064/
+- Crema de cilantro: romige koriandersoep met walnoten en tortillareepjes: https://www.pexels.com/photo/20004982/
+- Caldo tlalpeño: Mexicaanse kippensoep met groenten, kikkererwten en avocado: https://www.pexels.com/photo/34821965/
+- Sere de pescado: vis in kokossaus met bakbanaan en achiote: https://www.pexels.com/photo/18284773/
+- Zeebaars uit de oven met kappertjes-kruidensaus en spinazie: https://www.pexels.com/photo/11282209/
+- Witte vis in fluweelzachte mangosaus met zoete aardappel: https://www.pexels.com/photo/35267289/
+- Zeebaars in kruidige marinade van wijn, azijn en knoflook (Yucatán): https://www.pexels.com/photo/5011082/
+- Pescado adobado: gegrilde vis in ancho-chilimarinade uit Oaxaca: https://www.pexels.com/photo/19615775/
+- Camarones a la diabla: pittige duivelsgarnalen in tomatensaus: https://www.pexels.com/photo/14537690/
+- Pollo en escabeche: kip in kruidig citrussap met gestoofde uien: https://www.pexels.com/photo/6210947/
+- Estofado de pollo: geurige kipstoof met tomaat, sherry en aardappel: https://www.pexels.com/photo/35156471/
+- Pollo en salsa verde: kip in groene tomatillosaus uit Campeche: https://www.pexels.com/photo/32371282/
+- Pollo almendrado: kip in rijke amandel-sesamsaus uit Oaxaca: https://www.pexels.com/photo/10692530/
+- Pollo a la yucateca: ovenkip in sinaasappelsaus met olijven: https://www.pexels.com/photo/36939708/
+- Pollo ahogado: kip in romige chili-tomatensaus met munt: https://www.pexels.com/photo/32383594/
+- Pollo en azafrán: saffraankip met boontjes, doperwten en wortel: https://www.pexels.com/photo/35358037/
+- Pollo asado al cilantro: kipfilet met koriander en citroen: https://www.pexels.com/photo/9219082/
+- Pollo en jocoque: ovenkip in romige yoghurt-pepersaus: https://www.pexels.com/photo/7439808/
+- Cordero a la sidra: lamsstoof in ciderjus met chorizo en amandel: https://www.pexels.com/photo/37309226/
+- Carne a la tampiqueña: ossenhaas met groene enchilada's en quesadilla's: https://www.pexels.com/photo/20582036/
+- Carne en su jugo: rundvlees in pittig chipotlesap met bonen en spek: https://www.pexels.com/photo/39648486/
+- Carne asada a la plancha: gemarineerde steak met guacamole en salsa: https://www.pexels.com/photo/27643039/
+- Discada: biefstuk met chorizo, spek en paprika uit de pan: https://www.pexels.com/photo/36934956/
+- Caldillo norteño: rundvleesstoof met krieltjes, courgette en doperwten: https://www.pexels.com/photo/34822475/
+- Tortitas de carne: pittige gehaktburgers met ancho en komijn: https://www.pexels.com/photo/34314421/
+- Rundvlees met ancho-saus en kikkererwten: https://www.pexels.com/photo/8321980/
+- Carne de puerco en salsa verde: varkensvlees in groene saus: https://www.pexels.com/photo/36429905/
+- Calabaza con puerco: varkensvlees met pompoen, maïs en munt: https://www.pexels.com/photo/7840650/
+- Spareribs in mango-tequilasaus met aardappelpuree: https://www.pexels.com/photo/9650087/
+- Spareribs in sinaasappel-honingsaus uit de oven: https://www.pexels.com/photo/13669074/
