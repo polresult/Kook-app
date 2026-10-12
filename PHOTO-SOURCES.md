@@ -684,3 +684,66 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 - Calabaza con puerco: varkensvlees met pompoen, maïs en munt: https://www.pexels.com/photo/7840650/
 - Spareribs in mango-tequilasaus met aardappelpuree: https://www.pexels.com/photo/9650087/
 - Spareribs in sinaasappel-honingsaus uit de oven: https://www.pexels.com/photo/13669074/
+
+## The Art of Mexican Cooking (Jan Aaron en Georgine Sachs Salom): tweede ronde (806 tot en met 849)
+
+44 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Costillas de puerco: spareribs met citroen en ui uit de oven in tomaten-chilisaus: https://www.pexels.com/photo/8862752/
+- Sopa de frijoles: gepureerde bonensoep met oregano, chili en knoflookcroutons: https://www.pexels.com/photo/30635687/
+- Cocido: Mexicaanse stoofpot van rund en lam met kikkererwten, groenten en maïs: https://www.pexels.com/photo/7189415/
+- Sopa seca con setas: ovenschotel van gebakken vermicelli met tomaat, champignons en Parmezaan: https://www.pexels.com/photo/12221428/
+- Bacalao español: gestoofde zoute kabeljauw met tomaat, paprika, olijven en sherry: https://www.pexels.com/photo/38995738/
+- Pescado mazatleco: gepocheerde witvis uit de oven met tomaat, witte wijn en kruiden: https://www.pexels.com/photo/10432702/
+- Pescado frío con guacamole: koude ovenvis met guacamole, olijven en rode paprika: https://www.pexels.com/photo/20081525/
+- Pescado de lujo: hele zeebaars gevuld met garnalen en tomaat, in bakpapier gegaard: https://www.pexels.com/photo/37255815/
+- Pescado en salsa de nuez: ovenvis onder een amandel-kaassaus met rum en kaneel: https://www.pexels.com/photo/37068829/
+- Pulpos en su tinta: inktvis gestoofd in tomaat, kaneel en eigen inkt met rijst: https://www.pexels.com/photo/32240994/
+- Aldilla rellena con chorizo: opgerolde bavette met chorizo-walnotenvulling in tomaten-rodewijnsaus: https://www.pexels.com/photo/5639742/
+- Biftec suizo: gestoofde runderlappen met tomaat, paprika, olijven en kidneybonen: https://www.pexels.com/photo/36829355/
+- Asado de lujo: gestoofde runderschouder met rauwe ham, rode wijn, aardappelen en wortel: https://www.pexels.com/photo/6545671/
+- Pierna de carnero: lamsbout met chili, oregano, komijn en rozemarijn uit de oven met geroosterde aardappelen: https://www.pexels.com/photo/31372375/
+- Costillas en camisas: lamskoteletjes in een jasje van kruidenkruim met krieltjes en salade: https://www.pexels.com/photo/29908554/
+- Ternera con crema: kalfsstoofvlees met ui, krieltjes in bouillon en room: https://www.pexels.com/photo/36863873/
+- Ternera con cebollas: kalfsstoof met sjalotjes, tomaat, kaneel en sinaasappelschil: https://www.pexels.com/photo/13065203/
+- Guiso de tres carnes: stoof van kalfsvlees, kip, ham en chorizo met doperwten en artisjok: https://www.pexels.com/photo/19526778/
+- Albondigón con ciruelas y albaricoques: gestoofd gehaktbrood in pruimen-abrikozen-wijnsaus met aardappelpuree: https://www.pexels.com/photo/2397401/
+- Puerco con chiles pasado: varkensvlees gestoofd met geroosterde gedroogde chilipepers, tomaat en ui: https://www.pexels.com/photo/36120991/
+- Lomo de puerco estilo Veracruzano: varkensfricandeau met ham, spek en jalapeño onder een chili-limoenkorst: https://www.pexels.com/photo/36673992/
+- Crepas de pollo: flensjes met kip, pecannoten en rozijnen uit de oven met tomatensaus en kaas: https://www.pexels.com/photo/13427907/
+- Pollo Tabasqueña: gestoofde kip met tomaat, ham, olijven, rozijnen, pruimen en amandelen: https://www.pexels.com/photo/9546273/
+- Mancha manteles: kip en varkensvlees in rode chili-amandelsaus met zoete aardappel, appel, ananas en banaan: https://www.pexels.com/photo/5409022/
+- Pechugas rellenas: kipfilet gevuld met ham, champignons en brood met kaneel en witte wijn: https://www.pexels.com/photo/31987728/
+- Pollo a la crema: kip in roomsaus op tagliatelle met kaas en waterkers: https://www.pexels.com/photo/37336685/
+- Pollo en nogada: kip gestoofd in walnotensaus met chili, kaneel en witte wijn: https://www.pexels.com/photo/26546974/
+- Pastel de pollo: open kippentaart met ham, tomaat, doperwten, maïs en chili: https://www.pexels.com/photo/29535632/
+- Pato a la Veracruzana: eendenbouten in een saus van gemalen amandel, knoflook en komijn: https://www.pexels.com/photo/14701403/
+- Conejo a la española: konijn gestoofd met spek, ui, tijm, witte wijn en tomaat: https://www.pexels.com/photo/38330328/
+- Carne molida con queso: hamburgers met rode wijn, gevuld met roquefort, met maïskolven en bonen: https://www.pexels.com/photo/12325012/
+- Costillas con chile: gegrilde kalfskoteletten in rode wijn-chilimarinade met maïs en krieltjes: https://www.pexels.com/photo/18861865/
+- Asado al pastor con salsa borracha: geroosterde lamsbout met knoflookboter en 'dronken' chili-tequilasaus: https://www.pexels.com/photo/16588046/
+- Tacos de rajas: krokante taco's met paprika, ui en zure room in tomaat-oreganosaus: https://www.pexels.com/photo/14383832/
+- Enchiladas a la Veracruzana: tortilla's met gebakken banaan en kaneel in mole-saus met sesam: https://www.pexels.com/photo/27960408/
+- Empanadas: krokante deegflappen met gekruid rundergehakt, olijven, amandel en rozijnen: https://www.pexels.com/photo/36898430/
+- Garbanzos en tomate: gestoofde kikkererwten met tomaat, groene paprika en geroosterde paprika: https://www.pexels.com/photo/7189421/
+- Arroz con alcachofas: rijst in zwarte-bonenbouillon met artisjokharten, doperwten, ham en amandelen: https://www.pexels.com/photo/38336089/
+- Arroz con chiles y queso: ovenschotel van rijst, groene pepers, zure room en kaas: https://www.pexels.com/photo/6163259/
+- Frijoles envinados: witte bonen gestoofd in witte wijn en tomaat met ham en kaneel: https://www.pexels.com/photo/19870149/
+- Torta de calabaza: luchtige courgette-ovenschotel met tomaat, Parmezaan en oregano: https://www.pexels.com/photo/32039641/
+- Chiles con queso: gefrituurde puntpaprika's gevuld met kaas en jalapeño, met rijst en tomatensaus: https://www.pexels.com/photo/15006867/
+- Ensalada de carnes: gemarineerde salade van rosbief, ham en kip met olijven en paprika: https://www.pexels.com/photo/34644319/
+- Tortillas de vigilia: krokante tostada's met romige tomaat-paprikasaus en cheddar: https://www.pexels.com/photo/12034629/
+
+## Korean Cooking (Soon Young Chung): tweede ronde (850 tot en met 861)
+
+10 recepten tonen de gerechtfoto uit het boek als photos/chung-<id>.webp (bijgesneden waar nodig).
+
+2 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Honghapcho: mosselen met reepjes rundvlees in soja-gembersaus met pijnboompitten: https://www.pexels.com/photo/16134545/
+- Ojingeo muchim: inktvis en komkommer in zoetzure gochujangsaus op sla: https://www.pexels.com/photo/8954082/
+
+## Persiana Easy (Sabrina Ghayour): tweede ronde (862 tot en met 884)
+
+23 recepten tonen de gerechtfoto uit het boek als photos/ghayour-<id>.webp.
+
