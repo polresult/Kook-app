@@ -41,7 +41,11 @@ const DEFAULT_STATE = { week: [], fav: [], ratings: {}, checked: {}, persons: 2,
 function cleanState(s) {
   s = s && typeof s === 'object' ? s : {};
   return {
-    week: Array.isArray(s.week) ? s.week.filter(Number.isInteger).slice(0, 14) : [],
+    week: Array.isArray(s.week) ? s.week.filter(Number.isInteger).slice(0, 100) : [],
+    // plan (recipe id -> day 0..6) and dayPersons are only stored once a client sends them, so
+    // older saved weeks are still migrated by the client (the first seven dishes keep their day).
+    ...(s.plan && typeof s.plan === 'object' && !Array.isArray(s.plan) ? { plan: Object.fromEntries(Object.entries(s.plan).filter(([k, v]) => /^\d+$/.test(k) && Number.isInteger(v) && v >= 0 && v < 7).slice(0, 100)) } : {}),
+    ...(Array.isArray(s.dayPersons) ? { dayPersons: Array.from({ length: 7 }, (_, i) => { const n = parseInt(s.dayPersons[i]); return n >= 1 && n <= 16 ? n : null; }) } : {}),
     fav: Array.isArray(s.fav) ? s.fav.filter(Number.isInteger).slice(0, 500) : [],
     ratings: s.ratings && typeof s.ratings === 'object' ? s.ratings : {},
     checked: s.checked && typeof s.checked === 'object' ? s.checked : {},
