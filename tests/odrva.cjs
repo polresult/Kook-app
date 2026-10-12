@@ -1,6 +1,6 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
 const els={};const element=id=>els[id]??=({innerHTML:'',textContent:'',style:{},classList:{add(){},remove(){},toggle(){}},value:''});
-const ctx={console,localStorage:{getItem(){return JSON.stringify({week:[268,287],fav:[268,287],ratings:{268:'lekker'},checked:{},persons:2,pantry:{}})},setItem(){}},document:{getElementById:element,querySelectorAll(){return []},querySelector(){return null}},navigator:{},scrollTo(){},setTimeout(){},clearTimeout(){},Math,Number,JSON};
+const ctx={console,localStorage:{getItem(){return JSON.stringify({week:[268,287],fav:[268,287],ratings:{268:'lekker'},checked:{},persons:2,pantry:{}})},setItem(){}},document:{getElementById:element,querySelectorAll(){return []},querySelector(){return null}},navigator:{},scrollTo(){},setTimeout(){},clearTimeout(){},Math,Number,JSON,confirm(){return true}};
 for(const id of ['suggest','cards','head','nav','filters','heading','subtitle'])ctx[id]=element(id);
 vm.createContext(ctx);vm.runInContext(fs.readFileSync(require('path').join(__dirname,'../index.html'),'utf8').match(/<script>([\s\S]*)<\/script>/)[1],ctx);
 vm.runInContext(`
@@ -53,5 +53,6 @@ dayPersons(2,2);if(shoppingTotals()['mosselen|g']!==1000)throw Error('day person
 add(287);if(dayOf(287)!==null||!S.week.includes(287))throw Error('added dish should wait without a day');
 moveW(287,'2');S.persons=6;if(personsOn(2)!==4||personsOn(3)!==6)throw Error('explicit day persons override the default only for that day');
 removeW(curry.id);if(S.plan[curry.id]!==undefined)throw Error('removed dish keeps its day');
+clearWeek();if(S.week.length||Object.keys(S.plan).length)throw Error('clearWeek should empty the week and plan');
 `,ctx);
 console.log('PASS: scaling, unknown quantities, source amounts, quick filter, details, week navigation, mixed grocery list, unique IDs');
