@@ -1055,3 +1055,153 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 - Pyeonyuk: koud geperst rundvlees in dunne plakjes met pittige zure sojadip: https://www.pexels.com/photo/35063436/
 - Hwajeon: kleefrijstpannenkoekjes met dadel, munt en honing: https://www.pexels.com/photo/16764274/
 - Maejakgwa: krokante gemberkoekjes in honing-kaneelsiroop met pijnboompitten: https://www.pexels.com/photo/31293524/
+
+## Molto Gusto (Mario Batali): voor- en nagerechten (1300 tot en met 1334)
+
+27 recepten tonen de gerechtfoto uit het boek als photos/batali-<id>.webp.
+
+8 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Bruschetta met gegrilde aubergine in dikke tomatensaus met munt en chili: https://www.pexels.com/photo/8696538/
+- Gelato van donkere karamel met vanille: https://www.pexels.com/photo/7175529/
+- Melkchocolade-gelato met smeltende ganachestukjes: https://www.pexels.com/photo/5060294/
+- Stracciatella van diep geroosterde hazelnoot: hazelnootijs met slierten pure chocolade: https://www.pexels.com/photo/5060902/
+- Zuid-Italiaanse ricottagelato met honing en citroen: https://www.pexels.com/photo/375465/
+- Olijfoliegelato met vanille, een streep olijfolie en zeezoutvlokken: https://www.pexels.com/photo/36576782/
+- Frisse crème-fraîchegelato zonder ei: https://www.pexels.com/photo/16068057/
+- Granita di frutto della passione: geschraapt ijs van passievrucht: https://www.pexels.com/photo/30648998/
+
+## Ottolenghi: The Cookbook (Yotam Ottolenghi en Sami Tamimi): voor- en nagerechten (1420 tot en met 1450)
+
+24 recepten tonen de gerechtfoto uit het boek als photos/ottolenghi-<id>.webp.
+
+7 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Geroosterde aubergine met oregano-koriandermarinade en tahinsaus: https://www.pexels.com/photo/10563268/
+- Gemarineerde puntpaprika's met buffelmozzarella, verse kruiden en rucola: https://www.pexels.com/photo/28530056/
+- Rode-linzensoep met snijbiet, koriander, komijn en knoflookboter: https://www.pexels.com/photo/29850843/
+- Pure-chocoladetaartjes met frambozenjam: https://www.pexels.com/photo/32733935/
+- Witte-chocoladetaartjes met frambozenjam en frambozencoulis: https://www.pexels.com/photo/5371405/
+- Citroen-meringuetaartjes met lemon curd: https://www.pexels.com/photo/8250696/
+- Taartjes met banaan en hazelnootfrangipane, abrikozenglazuur en chocolade: https://www.pexels.com/photo/4071959/
+
+## The Complete Plant Based Cookbook for Beginners (Angela Taylor): voor- en nagerechten (1540 tot en met 1569)
+
+30 recepten tonen de gerechtfoto uit het boek als photos/taylor-<id>.webp (bijgesneden waar nodig).
+
+
+## Passion for Seafood (Gordon Ramsay): voor- en nagerechten (1620 tot en met 1642)
+
+10 recepten tonen de gerechtfoto uit het boek als photos/ramsay-<id>.webp.
+
+13 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Chowder belle-mère: romige vissoep met gerookte schelvis, maïs, garnalen en pancetta: https://www.pexels.com/photo/16357831/
+- Romige maïssoep met krab en pittige krab-maïskoekjes: https://www.pexels.com/photo/28559504/
+- Brandade van zelfgezouten kabeljauw: luchtige kabeljauw-preimousse met warme toast: https://www.pexels.com/photo/6419393/
+- Zalmrillettes in eendenvet met koriander en geroosterd stokbrood: https://www.pexels.com/photo/29692603/
+- Terrine van kreeft en Provençaalse groenten in kruidengelei met gazpacho: https://www.pexels.com/photo/9266835/
+- Tartaar van sint-jakobsschelpen en gerookte zalm met crème fraîche, limoen en komkommer: https://www.pexels.com/photo/17988095/
+- Warme zalmmousse in een spinaziejasje met zalmeitjes en romige vissaus: https://www.pexels.com/photo/14909386/
+- Torentjes van krab en guacamole met tomaat en chili-vinaigrette: https://www.pexels.com/photo/20150544/
+- Gegrilde gemarineerde sardines op guacamole met pesto en sla: https://www.pexels.com/photo/1321124/
+- Salade van gamba's met artisjokharten, sperziebonen, veldsla en truffeldressing: https://www.pexels.com/photo/19904789/
+- Gebakken rode mul op auberginekaviaar met tomaten-kruidenvinaigrette en salade: https://www.pexels.com/photo/5605711/
+- Gerookte forel met kruidige auberginesalsa, ansjovisdressing en kwarteleitjes: https://www.pexels.com/photo/30325084/
+- Gefrituurde inktvisringen in gistbeslag met lauwe pittige linzensalade met spek: https://www.pexels.com/photo/31372402/
+
+## Mexico: The Cookbook (Margarita Carrillo Arronte): voor- en nagerechten (1740 tot en met 1779)
+
+15 recepten tonen de gerechtfoto uit het boek als photos/carrillo-<id>.webp (bijgesneden waar nodig).
+
+25 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Queso fundido: gesmolten kaas met chorizo, groene puntpaprika en tequila: https://www.pexels.com/photo/40048148/
+- Tiritas de pescado: reepjes witte vis gegaard in limoensap met groene peper en ui: https://www.pexels.com/photo/26586571/
+- Elote: maiskolf met limoen, mayonaise, verkruimelde feta en chilipoeder: https://www.pexels.com/photo/6133872/
+- Ensalada de mango: mango met gemengde sla, avocado, radijs en rode ui met kruidige korianderdressing: https://www.pexels.com/photo/3038242/
+- Tomatensalade met basilicum, limoen, citroenrasp en Kalamata- en groene olijven: https://www.pexels.com/photo/37626199/
+- Gevulde avocado met garnalen, witte bonen en geroosterde paprika: https://www.pexels.com/photo/10875293/
+- Gemarineerde feta met oregano, rozemarijn, chili en zwarte olijven: https://www.pexels.com/photo/32356160/
+- Ceviche Sinaloa-stijl: zeebaars in limoen met tomaat, komkommer en jalapeño op tostadas: https://www.pexels.com/photo/39433046/
+- Cóctel de camarón: Mexicaanse garnalencocktail met chipotle-sinaasappelsaus en avocado: https://www.pexels.com/photo/36701453/
+- Sopa fría de aguacate: koude avocadosoep met yoghurt, citroen en granaatappel: https://www.pexels.com/photo/13591552/
+- Camarones al ajillo: knoflookgarnalen op geroosterd brood met citroen: https://www.pexels.com/photo/8697543/
+- Sopa de tortilla: tomatensoep met chipotle, krokante tortillareepjes, avocado en feta: https://www.pexels.com/photo/32351957/
+- Capirotada: Mexicaanse broodpudding met kaneelsiroop, kaas, rozijnen en walnoten: https://www.pexels.com/photo/8745316/
+- Ananascake op koloniale wijze met wijnsiroop, noten en meringue: https://www.pexels.com/photo/15071191/
+- Buñuelos: knapperige gefrituurde deegschijfjes met steranijs-kaneelsiroop: https://www.pexels.com/photo/7406887/
+- Arroz con coco: romige rijstpudding met kokosmelk, kaneel en rozijnen: https://www.pexels.com/photo/37107823/
+- Helado de aguacate: romig avocado-honingijs: https://www.pexels.com/photo/27904614/
+- Mousse helada de limón: bevroren limoenmousse met tijm-citrussiroop en citrusparten: https://www.pexels.com/photo/36061351/
+- Mango-melkpudding met een wolk van luchtige meringue: https://www.pexels.com/photo/9201341/
+- Dulce de membrillo con nata: gepocheerde kweeperen gevuld met appel en mascarpone: https://www.pexels.com/photo/14765381/
+- Mango's à la canela: gepocheerde mango in kaneelsiroop met vanille-ijs: https://www.pexels.com/photo/15872274/
+- Calabaza en tacha: pompoen gekonfijt in bruine suiker, sinaasappel en kaneel: https://www.pexels.com/photo/29066270/
+- Jericalla: gebakken kaneelcustard met gekarameliseerd korstje: https://www.pexels.com/photo/7595397/
+- Amandelflan met gecondenseerde melk en goudbruine karamel: https://www.pexels.com/photo/33614670/
+- Terrina de chocolate y canela: chocolade-kaneelparfait met añejo-tequila: https://www.pexels.com/photo/34636910/
+
+## The Art of Mexican Cooking (Jan Aaron en Georgine Sachs Salom): voor- en nagerechten (1700 tot en met 1729)
+
+30 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Guacamole: romige avocadodip met tomaat, chili en limoen met tortillachips: https://www.pexels.com/photo/28525163/
+- Mejillones rellenos fríos: koude mosselen met paprika-uivinaigrette: https://www.pexels.com/photo/26586517/
+- Ceviche: witvis gegaard in citroensap met tomaat, chili, oregano en avocado: https://www.pexels.com/photo/29168410/
+- Camarón de Cortés: gemarineerde garnalen in mosterd-mierikswortelsaus met tomaat en rode ui: https://www.pexels.com/photo/10183538/
+- Albondiguitas: pittige mini-gehaktballetjes met chili en peterselie: https://www.pexels.com/photo/30335678/
+- Chalupitas: krokante tortillahapjes met bonenpuree, gesmolten kaas en avocado: https://www.pexels.com/photo/13347524/
+- Sopa de fideos: Mexicaanse vermicellisoep met tomaat, oregano en avocado: https://www.pexels.com/photo/12749065/
+- Sopa de maíz: koude zoete maïssoep met tomaat, slagroom en peterselie: https://www.pexels.com/photo/29538431/
+- Sopa de aguacate: avocadosoep met gebonden tomatenbouillon en krokante tortillablokjes: https://www.pexels.com/photo/28354403/
+- Gazpacho: koude Mexicaanse tomatensoep met komkommer, paprika en amandel-knoflookpasta: https://www.pexels.com/photo/16698356/
+- Huevos rellenos Potosí: gevulde eieren met Parmezaan en kaneel op spinazie, gegratineerd met bechamel: https://www.pexels.com/photo/39799151/
+- Tortas de camarones: krokante garnalenbeignets met gember en kaneel en limoen: https://www.pexels.com/photo/19093025/
+- Jaibas rellenas a la veracruzana: gegratineerde krab met tomaat, olijven, walnoten en pijnboompitten: https://www.pexels.com/photo/38103947/
+- Coliflor con guacamole: gemarineerde hele bloemkool onder guacamole met bietjes en geroosterde amandelen: https://www.pexels.com/photo/32726769/
+- Aguacates rellenos: halve avocado's gevuld met garnalen, ei en zwarte olijven in venkelzaadvinaigrette: https://www.pexels.com/photo/29177451/
+- Ensalada de naranja y cebolla: salade van sinaasappel, ui-ringen en avocado met dragonvinaigrette: https://www.pexels.com/photo/35552946/
+- Pastel de cognac: luchtige amandel-kaneelcake gedrenkt in cognacsiroop: https://www.pexels.com/photo/10865942/
+- Crema de Nantes: opgestijfde sinaasappel-vanillecrème met pruimensaus: https://www.pexels.com/photo/39333421/
+- Arroz con leche: Mexicaanse rijstpudding met kaneel, citroen, noten en rozijnen: https://www.pexels.com/photo/5390029/
+- Plátanos con ron: gebakken banaan onder rum-vanilleslagroom met kruidnagel: https://www.pexels.com/photo/36580451/
+- Dulce de mango: mango gepocheerd in citroensiroop, ijskoud geserveerd: https://www.pexels.com/photo/18904798/
+- Cocada: Mexicaanse kokospudding met kaneel en eidooier: https://www.pexels.com/photo/18784892/
+- Huevos moles: cake gedrenkt in sherry-kaneelsiroop met eidooiercrème, pijnboompitten en rozijnen: https://www.pexels.com/photo/19287505/
+- Flan: Mexicaanse karamelpudding met kaneel en vanille: https://www.pexels.com/photo/10918153/
+- Flan de almendras: amandelflan met karamel van bruine suiker: https://www.pexels.com/photo/33674417/
+- Manzana de Moctezuma: gepocheerde appels met aardbeienjam en brandewijn in custard uit de oven: https://www.pexels.com/photo/96582/
+- Capirotada: Mexicaanse broodpudding met kaneelsiroop, appel, walnoten en kaas: https://www.pexels.com/photo/6163261/
+- Helado de naranja y ciruela: sinaasappel-pruimenijs zonder ijsmachine: https://www.pexels.com/photo/36255413/
+- Nieve de vino: wijngranita met bruiswater en citroen: https://www.pexels.com/photo/7259047/
+- Buñuelos: dunne anijsbeignets met anijs-karamelsiroop en spikkels: https://www.pexels.com/photo/39323254/
+
+## Grenzeloos Koken (24Kitchen): voor- en nagerechten (1240 tot en met 1263)
+
+24 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Lauwwarme kwartelsalade met gekarameliseerde appel, bietjes en morilledressing: https://www.pexels.com/photo/23285772/
+- Kreeftsalade met pluksla, dille en limoenmayonaise: https://www.pexels.com/photo/17283914/
+- Steak tartare: Franse biefstuktartaar met eidooier, kappertjes, augurk en kwarteleitjes: https://www.pexels.com/photo/18437702/
+- Aspic van witte asperges en gerookte zalm met verse kruiden en kwarteleitjes: https://www.pexels.com/photo/37658754/
+- Duo van tomatensoep: heldere tomatenbouillon en romige tomatensoep met boerenbrood: https://www.pexels.com/photo/12338625/
+- Arancini con carne: Siciliaanse risottoballetjes met saffraan en gehaktragout: https://www.pexels.com/photo/5056867/
+- Vitello tonnato: dun gesneden kalfsfricandeau met romige tonijnsaus en kappertjes: https://www.pexels.com/photo/33889701/
+- Caponata: zoetzure Siciliaanse groentestoof met aubergine, olijven en rozijnen: https://www.pexels.com/photo/11999105/
+- Vietnamese loempia's met varkensvlees, taugé, munt en koriander: https://www.pexels.com/photo/38947729/
+- Krokante vlindergarnalen in panko met peterselie: https://www.pexels.com/photo/7011610/
+- Little gem-blaadjes met frisse mango-chilidip: https://www.pexels.com/photo/6419744/
+- Gemarineerde cherrytomaatjes met geroosterde sesam op prikkers: https://www.pexels.com/photo/6541561/
+- Rauwe oesters met pittige Thaise komkommersalsa: https://www.pexels.com/photo/39440887/
+- Pittige pompoen-kokossoep met krokante garnalenwontons: https://www.pexels.com/photo/9814663/
+- Kuki di cangreeuw: Curaçaose krabkoekjes met tijm en rode peper: https://www.pexels.com/photo/20184712/
+- Gevulde avocado met limoencoquilles, langosta criolla en frisse komkommersalade: https://www.pexels.com/photo/39440928/
+- Chermoula-mezze: vier Marokkaanse groentesalades van wortel, bloemkool, kool en rode biet met platbrood: https://www.pexels.com/photo/25856552/
+- Champagnesabayon met citrusfruit en knapperige sinaasappel-amandelkletskoppen: https://www.pexels.com/photo/11106830/
+- Tarte tatin van appel met zelfgemaakte chocoladetruffels: https://www.pexels.com/photo/6607415/
+- Crème brûlée: vanilleroom met een vleugje limoen en krokant karamellaagje: https://www.pexels.com/photo/39440905/
+- Franse kaasplank met kweepeercompote, portdruiven, geroosterde walnoten en vijgenbrood: https://www.pexels.com/photo/38681235/
+- Cannoli Siciliani: krokante deegrolletjes gevuld met ricotta, pure chocolade en gekonfijte sinaasappelschil: https://www.pexels.com/photo/7474117/
+- Dronken bananen: rumbananen met studentenhaver, sereh-kokossaus, kokoskoekjes en vanille-ijs: https://www.pexels.com/photo/36863085/
+- Bolo di preimu: Curaçaose pruimentaart met rum en kersenlikeur en warme kaneeldrank: https://www.pexels.com/photo/34644347/
