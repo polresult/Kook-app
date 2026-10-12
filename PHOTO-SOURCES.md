@@ -1205,3 +1205,84 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 - Cannoli Siciliani: krokante deegrolletjes gevuld met ricotta, pure chocolade en gekonfijte sinaasappelschil: https://www.pexels.com/photo/7474117/
 - Dronken bananen: rumbananen met studentenhaver, sereh-kokossaus, kokoskoekjes en vanille-ijs: https://www.pexels.com/photo/36863085/
 - Bolo di preimu: Curaçaose pruimentaart met rum en kersenlikeur en warme kaneeldrank: https://www.pexels.com/photo/34644347/
+
+## Seven Fires: fire-gerechten (1800 tot en met 1836)
+
+37 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Platgedrukte gegrilde biet met geitenkaas en knoflookchips: https://www.pexels.com/photo/3649535/
+- Zwartgeblakerde wortels met geitenkaas, rucola en knoflookchips: https://www.pexels.com/photo/11076525/
+- Gegrilde polenta met geblakerde tomaat en morcilla: https://www.pexels.com/photo/33173599/
+- Empanadas mendocinas: Argentijnse gevulde deegflapjes met rundvlees en olijven: https://www.pexels.com/photo/36905236/
+- Mosselen van de plancha met knoflook en witte wijn: https://www.pexels.com/photo/6213756/
+- Gegrilde groene asperges met eivinaigrette en geroosterd broodkruim: https://www.pexels.com/photo/36857317/
+- Rescoldo-groenteschotel uit de as met gegrilde kaas: https://www.pexels.com/photo/36183197/
+- Provoleta: gegrilde provolone met oregano en chili: https://www.pexels.com/photo/29095937/
+- Zwartgeblakerde inktvissalade met avocado: https://www.pexels.com/photo/10315698/
+- Krokant gegrilde zwezerik met salsa criolla: https://www.pexels.com/photo/8477053/
+- De perfecte steak van de parrilla met chimichurri: https://www.pexels.com/photo/7493599/
+- Churrasco: snelle dunne steak met chimichurri: https://www.pexels.com/photo/31617225/
+- Bouwvakkerssteak van de plancha met guacamole en tomatensalade: https://www.pexels.com/photo/36683006/
+- Tournedos met spek en salie van de grill: https://www.pexels.com/photo/34433608/
+- Entraña: bavette van het vuur met platbrood: https://www.pexels.com/photo/28525114/
+- Carbonada: Argentijnse rundstoof uit de pompoen: https://www.pexels.com/photo/12931100/
+- Hele rib-eye met chimichurri: https://www.pexels.com/photo/39836909/
+- 7,5-uurs lamsbout in malbec met rozemarijn en citroen: https://www.pexels.com/photo/36984986/
+- Opengeklapte lamslappen met mosterd, oregano en citroen: https://www.pexels.com/photo/36445015/
+- Platgeslagen Patagonische lamslappen met citroen en kruiden: https://www.pexels.com/photo/10821331/
+- Varkenslappen met honing-gremolata: https://www.pexels.com/photo/12473311/
+- Bife de chancho: dungeslagen varkenslap met prosciutto en salie: https://www.pexels.com/photo/34636425/
+- Varkenshaas met gebrande bruine suiker, sinaasappel en tijm: https://www.pexels.com/photo/12317993/
+- Varkensbout in zoutkorst met honing-gremolata: https://www.pexels.com/photo/38980161/
+- Kip in zoutkorst: https://www.pexels.com/photo/11414299/
+- Chicken Chimehuin: opengeklapte kip van de grill met citroen en knoflook: https://www.pexels.com/photo/28635476/
+- Kipfilet van de plancha met kappertjes en zwarte olijven: https://www.pexels.com/photo/8250430/
+- Gegrilde sint-jakobsschelpen met witlof en radicchio: https://www.pexels.com/photo/5038753/
+- Op gietijzer geschroeide octopus met paprikapoeder: https://www.pexels.com/photo/37060152/
+- Garnalen van de plancha met zelfgemaakte spaetzle: https://www.pexels.com/photo/8250276/
+- Schol met geroosterde groenten uit de gietijzeren pan: https://www.pexels.com/photo/9348477/
+- Chupin: zalmstoof met voorjaarsgroenten: https://www.pexels.com/photo/14457508/
+- Hele zalm in zoutkorst met kruidige citroensalsa: https://www.pexels.com/photo/12077942/
+- Salmon a la vara: hele zalm van het open vuur: https://www.pexels.com/photo/36734954/
+- Taart van op het vuur geblakerd steenfruit: https://www.pexels.com/photo/10601212/
+- Op het vuur geblakerde sinaasappel met rozemarijn: https://www.pexels.com/photo/36366520/
+- Appelpannenkoek van de plancha met karamel: https://www.pexels.com/photo/5419173/
+
+## Mallmann on Fire: fire-gerechten (1840 tot en met 1873)
+
+15 recepten tonen de gerechtfoto uit het boek als photos/mallmannfire-<id>.webp.
+
+19 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Op de plancha gebakken peer met Ibericoham: https://www.pexels.com/photo/10858618/
+- Dungesneden artisjok van de plancha met oude Comté: https://www.pexels.com/photo/28446154/
+- Geblakerde padrónpepertjes met gegrilde ui en citroenrasp: https://www.pexels.com/photo/30682985/
+- Jonge raapjes van de plancha met zongedroogde tomaat: https://www.pexels.com/photo/19689765/
+- Artisjok en krieltjes van de plancha met amandel en rucola: https://www.pexels.com/photo/29640883/
+- Spaanse tortilla met garnalen en gegrilde aardappel en avocado-venkelsalsa: https://www.pexels.com/photo/5041497/
+- Gaucho-broodje met gegrilde bavette, waterkers en mosterd: https://www.pexels.com/photo/36593598/
+- Gegrilde lamsbout met merguez, pompoen uit de kolen en sinaasappel-rozemarijnsalmuera: https://www.pexels.com/photo/28309049/
+- Opengesneden lamsbout van de grill met rozemarijn, tijm en geblakerde-appelsalsa: https://www.pexels.com/photo/29358857/
+- Gegrilde varkenskarbonades met tijmolie en geroosterde druiven aan de tros: https://www.pexels.com/photo/11600756/
+- Platgeslagen kipfilet in een krokante aardappelkorst met tomaat-rucolasalade: https://www.pexels.com/photo/1352270/
+- Churrasco van tonijn met gerookte-paprika-olie, tomatensalade en knoflookpuree: https://www.pexels.com/photo/6439345/
+- Rogvleugel van de plancha met gestoofde witte bonen: https://www.pexels.com/photo/7298033/
+- Gegrilde kabeljauw met geroosterde-amandelsalsa: https://www.pexels.com/photo/38268399/
+- Heekmoot van de plancha met gebakken aardappel en knoflook: https://www.pexels.com/photo/36100689/
+- Ingesneden en gevulde zeebaars van de grill met aardappel, prei en champignons: https://www.pexels.com/photo/8352785/
+- Garnalen, sardines en ansjovis van de plancha met courgette, snijbiet en muntyoghurt: https://www.pexels.com/photo/18752152/
+- Gehalveerde kreeft van de parrilla met coquilles: https://www.pexels.com/photo/13770174/
+- Gegrilde cakereepjes met amaretto en geblakerde appel: https://www.pexels.com/photo/1359323/
+
+## Big Book of BBQ: fire-gerechten (1880 tot en met 1915)
+
+36 recepten tonen de gerechtfoto uit het boek als photos/cuthbert-<id>.webp.
+
+
+## BBQ Bijbel: fire-gerechten (1920 tot en met 1973)
+
+53 recepten tonen de gerechtfoto uit het boek als photos/jaspers-<id>.webp.
+
+1 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Gegrilde makreel met soja-mirinmarinade: https://www.pexels.com/photo/8250362/
