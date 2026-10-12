@@ -549,6 +549,20 @@ Zes Ottolenghi-recepten zonder gerechtfoto in het boek hebben een Pexels-voorbee
 - Puy-linzen met zure kersen, krokant spek en gorgonzola: https://www.pexels.com/photo/8934919/
 - Zoete broccolini met tofu, sesam en koriander: https://www.pexels.com/photo/27381524/
 
+Tweede ronde: negen recepten (788, 789, 791, 792, 794, 795, 797, 798, 805) tonen de gerechtfoto uit het boek als photos/ottolenghi-<id>.webp. Bij tarwe met paddenstoelen (796) staat een hand op de boekfoto, daarom een Pexels-foto. Pexels-voorbeeldfoto's (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Lamskebabs in courgette met tomatensaus en couscous: https://www.pexels.com/photo/25463405/
+- Geroosterde ossenhaas met rokerige tomatensaus en krieltjes: https://www.pexels.com/photo/16013899/
+- Geroosterde kip met salade van drie soorten rijst: https://www.pexels.com/photo/17650171/
+- Gegrilde makreel met zoete-aardappelpickle, muntyoghurt en rijst: https://www.pexels.com/photo/37189805/
+- Parelgortsalade met champignons, bleekselderij en sjalot: https://www.pexels.com/photo/14774698/
+- Romige soep van geroosterde aubergine en citroen: https://www.pexels.com/photo/11519066/
+- Aardpeersoep met rucola, knoflook en yoghurt: https://www.pexels.com/photo/5639456/
+- Koude rodepaprikasoep met zure room en kruiden: https://www.pexels.com/photo/37273396/
+- Hartige taart met aardpeer, snijbiet en feta: https://www.pexels.com/photo/12745317/
+- Zoet-pittige taart met rundergehakt, saucijzenvlees en ei: https://www.pexels.com/photo/23285785/
+- Taartjes met butternut, wortel en geitenkaas: https://www.pexels.com/photo/10821333/
+
 ## Everyday Fresh (Donna Hay)
 
 Twintig recepten (611 tot en met 630) tonen de gerechtfoto uit het boek als photos/hayfresh-<id>.webp; in het boek staat de foto twee pagina's na het recept. De foto van de vrije lasagne is in de pdf beschadigd, daarom heeft 631 een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
