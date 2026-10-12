@@ -65,6 +65,11 @@
    "title": "Fish: The Complete Fish and Seafood Companion",
    "author": "Mitch Tonks",
    "basePersons": "volgens het boek"
+  },
+  "Aaron": {
+   "title": "The Art of Mexican Cooking",
+   "author": "Jan Aaron en Georgine Sachs Salom (1965)",
+   "basePersons": "volgens het boek (bij een bereik de laagste)"
   }
  },
  "skipped": {
@@ -80,7 +85,8 @@
   "Taylor": "salades, hapjes, dips, soepen die op bestaande lijken en desserts; Texas-pizza (gistdeeg van anderhalf uur, al genoeg pizza's); zoete-aardappelhash (bijgerecht); lijkt te veel op bestaande recepten: witte bonen met courgette (281, 293), pittige rode bonen (chili sin carne 162), vegan gehaktballetjes in tomatensaus (14), enchilada's (24), bloemkool-currysoep (86), aubergine-lasagne (243), pad thai (130), dahl (56, 518), gevulde paprika's (241), bonenburgers (173), falafel (178), pho (97), Thaise kokossoep (94), maissoep (464), one-pot pasta met kikkererwten (636)",
   "Ghayour": "ontbijt, brood, bijgerechten, salades, dips en desserts; lang of bewerkelijk (rundvlees-noedelsoep 3 uur, lamskari 2 uur, raan, kleftiko, couscous royale, sinaasappel-varkensschouder, restjes-lamsgerecht met mango); lijkt te veel op bestaande recepten: lamskofta (40), lahmacun (66), garnalenorzo (10), kokosgarnalen (26), kiptajine (490), tikka masala (139), koshari (594), biryani (369), koftacurry (221), Turkse linzensoep (467), gehaktballen uit de oven met harissa en feta (14), harissabonen (655), kuku, kippenvleugels",
   "Ramsay": "basisrecepten (fonds, sauzen, boters), voorgerechten, terrines, carpaccio en gravlax; bewerkelijk of restaurantniveau (zelfgemaakte pasta, ravioli, cannelloni, kreeft, soufflé, tulband van tarbot, brill in aardappelkorst, kabeljauw met kruidenkorst die 2 uur moet opstijven, gefrituurde inktvis in gistbeslag, Italiaanse vissoep met acht soorten vis, zeevruchtencassoulet, lasagne met fluweelsaus); lastig te krijgen (steur, mahi mahi); lijkt te veel op bestaande recepten: zalmkoekjes (213, 228), vispastei met bladerdeeg (378), paella (204), mosselen (47 en meer), risotto's (121, 380), pasta met gerookte zalm (63), chowder (93), zeeduivel in pancetta (381), gevulde zeebaars met venkel (52), gegrilde zalm met geroosterde paprika (606)",
-  "Tonks": "vissoorten- en kooktechniekhoofdstukken, voorgerechten, tartaar, carpaccio en ingelegde vis; duur, lastig te krijgen of bewerkelijk (tarbot, griet, zonnevis, megrim, rog, steur, kreeft, langoustines, inktvis in eigen inkt, zeevruchtenstoof uit de houtoven, risotto met bouillon van hele poon); lijkt te veel op bestaande recepten: viskoekjes (135, 228), lengviskoekjes, zeebaars met venkel (52), dorade uit de oven (52, 691), schelvis in pakketjes (198), sliptong (224), poon in pancetta (381), spaghetti vongole (116), spaghetti met garnalen (310), scheermessen (298), mosselen (47 en meer), sardines op toast (206), zwaardvis (693), tonijn met pepperonata (696), pollak in peterseliesaus (te veel als kabeljauw in peterseliesaus)"
+  "Tonks": "vissoorten- en kooktechniekhoofdstukken, voorgerechten, tartaar, carpaccio en ingelegde vis; duur, lastig te krijgen of bewerkelijk (tarbot, griet, zonnevis, megrim, rog, steur, kreeft, langoustines, inktvis in eigen inkt, zeevruchtenstoof uit de houtoven, risotto met bouillon van hele poon); lijkt te veel op bestaande recepten: viskoekjes (135, 228), lengviskoekjes, zeebaars met venkel (52), dorade uit de oven (52, 691), schelvis in pakketjes (198), sliptong (224), poon in pancetta (381), spaghetti vongole (116), spaghetti met garnalen (310), scheermessen (298), mosselen (47 en meer), sardines op toast (206), zwaardvis (693), tonijn met pepperonata (696), pollak in peterseliesaus (te veel als kabeljauw in peterseliesaus)",
+  "Aaron": "het boek heeft alleen tekeningen, daarom krijgen alle recepten een Pexels-voorbeeldfoto; hapjes, sauzen, desserts, dranken en feestmenu's; bewerkelijk, lang of lastig te krijgen (schildpad, tong, pens, varkenskop, mole, tamales en gorditas van masa, puchero en cocido, gevulde kalkoen, zoutevis, oesters, gevulde krab); verouderd of afhankelijk van blikproducten (tamalepie van blikjestamales, rijstring met guacamole); lijkt te veel op bestaande recepten: chili con carne en carne en salsa roja (161), taco's met gehakt (5), enchilada's (24, 505), tostadas (421), huevos rancheros (166), kikkererwten met chorizo (43), pasta met chorizo (448), gevulde paprika's (241), tortillasoep (95), gazpacho"
  },
  "recipes": [
   {
@@ -18486,6 +18492,1307 @@
     "Verhit de olie in een ovenvaste koekenpan tot hij bijna rookt. Breng de velkant van de vis op smaak, leg hem met het vel naar beneden in de pan en bak 4 tot 5 minuten tot het vel krokant en goudbruin is. Keer om en zet de pan 3 tot 4 minuten in de oven.",
     "Smelt de boter, roer de bloem erdoor tot een glad papje en schenk al roerend de melk erbij tot een saus iets dikker dan slagroom. Voeg de boerenkool, fijngehakte kappertjes, room en peterselie toe en breng op smaak met zout, peper en een kneepje citroen.",
     "Schep de romige boerenkool op de borden, leg de vis erop en serveer meteen met de krieltjes."
+   ]
+  },
+  {
+   "id": 715,
+   "name": "Vis op Veracruzaanse wijze met tomaat, olijven en kappertjes",
+   "type": "Vis",
+   "time": 55,
+   "emoji": "🐟",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Pescado a la Veracruzana' (roodbaars of kabeljauw in plaats van red snapper; aardappelen ernaast zoals het boek aanraadt)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "olijfolie",
+     "6",
+     "el"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "800",
+     "g"
+    ],
+    [
+     "suiker",
+     "1",
+     "tl"
+    ],
+    [
+     "milde chilipoeder (kruidenmix)",
+     "3",
+     "tl"
+    ],
+    [
+     "gemalen piment",
+     "0.5",
+     "tl"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "sinaasappel (rasp)",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "roodbaars- of kabeljauwfilet",
+     "1000",
+     "g"
+    ],
+    [
+     "geroosterde paprika uit pot",
+     "120",
+     "g"
+    ],
+    [
+     "kappertjes",
+     "2",
+     "el"
+    ],
+    [
+     "groene olijven zonder pit",
+     "85",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "vastkokende aardappelen",
+     "900",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Verwarm de oven voor op 175 °C en kook de aardappelen in de schil gaar.",
+    "Meng de tomaten met de suiker, chilipoeder, piment, geperste knoflook, een halve theelepel sinaasappelrasp, de fijngehakte ui en zout en peper.",
+    "Verhit 3 eetlepels olie in een zware pan en laat het tomatenmengsel afgedekt ongeveer 10 minuten zachtjes koken.",
+    "Vet een ovenschaal in met de rest van de olie en leg de vis erin. Roer de grof gehakte paprika, kappertjes en olijven door de saus en giet hem over de vis.",
+    "Bak 30 tot 35 minuten tot de vis makkelijk uit elkaar valt. Bestrooi met wat gehakte peterselie en serveer met de aardappelen in blokjes."
+   ]
+  },
+  {
+   "id": 716,
+   "name": "Vis in sinaasappelsap met tomaat, kappertjes en amandelen",
+   "type": "Vis",
+   "time": 55,
+   "emoji": "🐟",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Pescado en jugo de naranja', een gerecht uit Tamaulipas (boek: 6 tot 8 personen; rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "winter",
+   "ingredients": [
+    [
+     "witvisfilet (kabeljauw, koolvis of schol)",
+     "1000",
+     "g"
+    ],
+    [
+     "limoen",
+     "2",
+     "stuk"
+    ],
+    [
+     "olijfolie",
+     "4",
+     "el"
+    ],
+    [
+     "lente-ui",
+     "2",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "2",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "0.25",
+     "stuk"
+    ],
+    [
+     "sinaasappelsap",
+     "120",
+     "ml"
+    ],
+    [
+     "kappertjes",
+     "3",
+     "el"
+    ],
+    [
+     "sinaasappel",
+     "2",
+     "stuk"
+    ],
+    [
+     "geroosterde amandelen (optioneel)",
+     "60",
+     "g"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Bestrooi de vis met zout en peper en laat hem ongeveer 20 minuten in het limoensap staan. Verwarm de oven voor op 175 °C en kook de rijst.",
+    "Vet een ovenschaal in met de helft van de olie en leg de vis erin.",
+    "Verdeel de fijngesneden lente-ui, de ontvelde en gehakte tomaten en de fijngehakte paprika over de vis en besprenkel met de rest van de olie.",
+    "Zet de schaal in de oven. Schenk na ongeveer 15 minuten, als de vis begint te kleuren, het sinaasappelsap erbij en bak nog 15 tot 20 minuten tot de vis gaar is.",
+    "Garneer met de kappertjes, dunne plakjes sinaasappel met schil en de gehakte amandelen en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 717,
+   "name": "Biefstuk met champignons, cognac en kaneelroomsaus",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🥩",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Biftec con setas' (krieltjes toegevoegd; flamberen mag ook overgeslagen worden)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "biefstuk (ruim 1 cm dik)",
+     "900",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "tl"
+    ],
+    [
+     "bloem",
+     "4",
+     "el"
+    ],
+    [
+     "ongezouten boter",
+     "115",
+     "g"
+    ],
+    [
+     "champignons",
+     "225",
+     "g"
+    ],
+    [
+     "cognac",
+     "6",
+     "el"
+    ],
+    [
+     "kokend water",
+     "60",
+     "ml"
+    ],
+    [
+     "droge rode wijn",
+     "8",
+     "el"
+    ],
+    [
+     "gemalen kaneel",
+     "0.25",
+     "tl"
+    ],
+    [
+     "kruidnagel",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenpuree",
+     "2",
+     "el"
+    ],
+    [
+     "geraspte ui",
+     "1",
+     "tl"
+    ],
+    [
+     "suiker",
+     "0.5",
+     "tl"
+    ],
+    [
+     "slagroom",
+     "240",
+     "ml"
+    ],
+    [
+     "krieltjes",
+     "1200",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Kook de krieltjes gaar. Bestrooi de biefstukken met zout en peper en haal ze door de bloem.",
+    "Bak ze in de boter snel aan beide kanten bruin en haal ze uit de pan. Bak in dezelfde boter de champignons in plakjes gaar.",
+    "Leg het vlees terug bij de champignons. Schenk de warme cognac erover en steek hem voorzichtig aan, of laat hem kort inkoken als je liever niet flambeert. Voeg het kokende water, de wijn, kaneel en kruidnagel toe en laat afgedekt 8 tot 10 minuten zachtjes sudderen.",
+    "Roer de tomatenpuree met de geraspte ui en de suiker erdoor, verwijder de kruidnagel en laat nog 5 minuten pruttelen.",
+    "Roer de room er de laatste 2 minuten door en verwarm zonder te laten koken. Serveer met de krieltjes."
+   ]
+  },
+  {
+   "id": 718,
+   "name": "Biefstukreepjes uit Mazatlán met pittige tomatensaus",
+   "type": "Vlees",
+   "time": 45,
+   "emoji": "🥩",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Biftec estilo Mazatlán' (groene salade toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "entrecote of lendebiefstuk",
+     "900",
+     "g"
+    ],
+    [
+     "zwarte peper",
+     "1",
+     "tl"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "boter",
+     "2",
+     "el"
+    ],
+    [
+     "olijfolie",
+     "1",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "bloem",
+     "2",
+     "el"
+    ],
+    [
+     "tomatenpassata",
+     "720",
+     "ml"
+    ],
+    [
+     "milde chilipoeder (kruidenmix)",
+     "1.25",
+     "tl"
+    ],
+    [
+     "groene paprika",
+     "1",
+     "stuk"
+    ],
+    [
+     "platte peterselie",
+     "2",
+     "tl"
+    ],
+    [
+     "bieslook",
+     "4",
+     "el"
+    ],
+    [
+     "brood",
+     "6",
+     "snee"
+    ],
+    [
+     "gemengde sla",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Snijd het vlees in 6 gelijke repen, bestrooi ruim met peper en laat een halfuur staan.",
+    "Verhit voor de saus 1 eetlepel boter met de olie en de geperste knoflook. Roer de bloem erdoor en bak tot hij goudbruin is. Voeg de passata, chilipoeder, gehakte paprika en peterselie toe en laat 30 minuten zachtjes koken.",
+    "Strooi een dun laagje zout in een zware koekenpan en zet hem op hoog vuur. Leg de repen erin zodra het zout begint te kleuren.",
+    "Bak ze aan één kant mooi bruin, keer om en bak 30 seconden op hoog vuur; zet het vuur lager en bak nog ongeveer een minuut voor rosé vlees.",
+    "Roer vlak voor het opdienen de bieslook en de rest van de boter door de saus. Leg het vlees op geroosterd brood, schep de saus erover en serveer met de sla."
+   ]
+  },
+  {
+   "id": 719,
+   "name": "Kalfsstoofje in pindasaus met tomaat en kruiden",
+   "type": "Vlees",
+   "time": 70,
+   "emoji": "🥜",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Ternera en salsa de cacahuate' (rijst toegevoegd; varkensschouder kan ook, die heeft iets langer nodig)",
+   "basePersons": 5,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "ongezouten pinda's",
+     "220",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "4",
+     "takje"
+    ],
+    [
+     "kalfsvlees (stoofvlees)",
+     "900",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "kleine ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomaat",
+     "3",
+     "stuk"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "nootmuskaat",
+     "1",
+     "snuf"
+    ],
+    [
+     "gedroogde tijm",
+     "1",
+     "snuf"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "snuf"
+    ],
+    [
+     "runder- of kalfsbouillon",
+     "360",
+     "ml"
+    ],
+    [
+     "droge witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "rijst",
+     "375",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Maal de pinda's met de peterselie fijn in een keukenmachine. Kook de rijst.",
+    "Snijd het vlees in blokjes van 2,5 cm en bak ze in de olie rondom bruin.",
+    "Voeg de hele teen knoflook, de fijngehakte ui, de ontvelde en gehakte tomaten en de suiker toe en bak tot het tomatenvocht verdampt is. Verwijder de knoflook.",
+    "Roer de gemalen pinda's, nootmuskaat, tijm en oregano erdoor en laat even kleuren. Voeg de bouillon, wijn, zout en peper toe.",
+    "Laat heel zachtjes stoven tot het vlees mals is en de saus dik, minstens 30 minuten; voeg wat wijn of water toe als het te droog wordt. Serveer met de rijst."
+   ]
+  },
+  {
+   "id": 720,
+   "name": "Albóndigas in amandelsaus",
+   "type": "Vlees",
+   "time": 55,
+   "emoji": "🧆",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Albóndigas en salsa de almendra' (rijst toegevoegd)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "geblancheerde amandelen",
+     "70",
+     "g"
+    ],
+    [
+     "oud wit bolletje",
+     "1",
+     "stuk"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "olijfolie",
+     "3",
+     "el"
+    ],
+    [
+     "kippenbouillon",
+     "360",
+     "ml"
+    ],
+    [
+     "ui",
+     "0.5",
+     "stuk"
+    ],
+    [
+     "tomatenpassata",
+     "75",
+     "ml"
+    ],
+    [
+     "gemalen koriander of peterselie",
+     "0.25",
+     "tl"
+    ],
+    [
+     "oud brood",
+     "2",
+     "snee"
+    ],
+    [
+     "heet water",
+     "120",
+     "ml"
+    ],
+    [
+     "rundergehakt",
+     "340",
+     "g"
+    ],
+    [
+     "varkensgehakt",
+     "340",
+     "g"
+    ],
+    [
+     "ei",
+     "1",
+     "stuk"
+    ],
+    [
+     "gedroogde oregano",
+     "1",
+     "snuf"
+    ],
+    [
+     "paprikapoeder",
+     "0.25",
+     "tl"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Bak de amandelen, het bolletje in blokjes en de knoflook in de hete olie lichtbruin. Laat afkoelen en maal tot een pasta; verdun met 60 ml bouillon en zet apart.",
+    "Fruit de fijngehakte ui zacht in dezelfde olie. Voeg de passata en de rest van de bouillon toe, breng op smaak met zout, peper en koriander en laat 5 tot 10 minuten pruttelen. Kook intussen de rijst.",
+    "Week het brood in het hete water, knijp uit en meng met beide soorten gehakt, het ei, zout, peper, oregano en paprikapoeder. Draai er kleine balletjes van.",
+    "Leg de balletjes voorzichtig in de pruttelende saus, doe de deksel erop en laat 25 tot 30 minuten garen.",
+    "Roer de amandelpasta er de laatste 10 tot 12 minuten door. Serveer met de rijst."
+   ]
+  },
+  {
+   "id": 721,
+   "name": "Picadillo: Mexicaans gehakt met rozijnen, amandelen en olijven",
+   "type": "Vlees",
+   "time": 55,
+   "emoji": "🍲",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Picadillo' (rijst toegevoegd; ook lekker als vulling voor taco's)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "half-om-half gehakt",
+     "900",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenpassata",
+     "240",
+     "ml"
+    ],
+    [
+     "geblancheerde amandelen",
+     "35",
+     "g"
+    ],
+    [
+     "rozijnen",
+     "40",
+     "g"
+    ],
+    [
+     "sukade",
+     "40",
+     "g"
+    ],
+    [
+     "banaan (optioneel)",
+     "2",
+     "stuk"
+    ],
+    [
+     "zwarte olijven zonder pit",
+     "35",
+     "g"
+    ],
+    [
+     "milde chilipoeder (kruidenmix)",
+     "3",
+     "tl"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "kaneelstokje",
+     "1",
+     "stuk"
+    ],
+    [
+     "kruidnagel",
+     "2",
+     "stuk"
+    ],
+    [
+     "gemalen komijn",
+     "1",
+     "snuf"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Week de rozijnen in een beetje water. Bak het gehakt met de gehakte ui bruin in de olie.",
+    "Roer de passata erdoor en laat iets inkoken. Kook intussen de rijst.",
+    "Voeg de grof gehakte amandelen, uitgelekte rozijnen, gehakte sukade, eventueel de banaan in plakjes, de olijven, chilipoeder en peterselie toe.",
+    "Breng op smaak met kaneel, kruidnagel, komijn, suiker, zout en peper en breng aan de kook.",
+    "Laat 30 tot 45 minuten zachtjes koken tot het mengsel dik is; roer af en toe. Verwijder het kaneelstokje en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 722,
+   "name": "Tinga: pittig getrokken varkensvlees met tomaat en avocado",
+   "type": "Vlees",
+   "time": 95,
+   "emoji": "🌮",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Tinga' (tortilla's toegevoegd, zoals het boek als vulling noemt)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "varkensfricandeau",
+     "900",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "el"
+    ],
+    [
+     "grote ui (voor de ringen)",
+     "1",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "2.5",
+     "el"
+    ],
+    [
+     "ui",
+     "1",
+     "stuk"
+    ],
+    [
+     "rauwe ham",
+     "30",
+     "g"
+    ],
+    [
+     "tomaat",
+     "3",
+     "stuk"
+    ],
+    [
+     "chipotle in adobo (of 1 el chilipoeder)",
+     "1",
+     "stuk"
+    ],
+    [
+     "avocado",
+     "1",
+     "stuk"
+    ],
+    [
+     "maïstortilla's",
+     "12",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Kook het vlees in licht gezouten water net onder de kook in ongeveer een uur gaar. Leg intussen de uienringen in koud gezouten water.",
+    "Laat het vlees iets afkoelen en trek het met twee vorken uit elkaar. Bewaar de bouillon.",
+    "Fruit de gesneden ui in de olie langzaam glazig. Voeg de ham in reepjes toe en bak tot hij knapperig begint te worden. Voeg de gehakte tomaten toe en laat 8 tot 10 minuten pruttelen.",
+    "Voeg het getrokken vlees en 120 ml bouillon toe en laat inkoken tot het begint te binden. Roer de gehakte chipotle erdoor en laat nog 5 minuten pruttelen.",
+    "Garneer met de uitgelekte uienringen en plakjes avocado en serveer heel heet met warme tortilla's."
+   ]
+  },
+  {
+   "id": 723,
+   "name": "Varkensgebraad in bier met gestoofde peren",
+   "type": "Vlees",
+   "time": 105,
+   "emoji": "🍖",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Lomo de puerco con cerveza' (krieltjes toegevoegd)",
+   "basePersons": 6,
+   "season": "herfst",
+   "ingredients": [
+    [
+     "varkensfricandeau of -rollade",
+     "900",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.25",
+     "tl"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "zonnebloemolie",
+     "1",
+     "el"
+    ],
+    [
+     "suiker",
+     "1",
+     "el"
+    ],
+    [
+     "licht bier",
+     "240",
+     "ml"
+    ],
+    [
+     "water",
+     "180",
+     "ml"
+    ],
+    [
+     "handperen",
+     "3",
+     "stuk"
+    ],
+    [
+     "krieltjes",
+     "1200",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Bestrooi het vlees met zout en peper. Fruit de ui in dunne ringen in de olie glazig maar niet bruin en schep hem uit de pan.",
+    "Bak het vlees rondom goed bruin en doe de ui terug in de pan. Los de suiker op in het bier en schenk het bij het vlees.",
+    "Laat sudderen tot het bier goudbruin kleurt, voeg dan het water toe en laat afgedekt verder sudderen; voeg zo nodig water toe. Het hele garen duurt ongeveer anderhalf uur. Kook intussen de krieltjes.",
+    "Leg 20 tot 25 minuten voor het einde de geschilde, in vieren gesneden peren voorzichtig op het vlees en laat ze meestoven.",
+    "Snijd het vlees in plakken en leg ze met de peren op een schaal. Serveer met de krieltjes en het kookvocht."
+   ]
+  },
+  {
+   "id": 724,
+   "name": "Varkensstoof met groene pepers, tomaat en koriander",
+   "type": "Vlees",
+   "time": 65,
+   "emoji": "🌶️",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Carne de puerco en salsa de rajas' (boek: 4 tot 6 personen; rijst toegevoegd)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "mager varkensvlees in blokjes",
+     "900",
+     "g"
+    ],
+    [
+     "runderbouillon",
+     "120",
+     "ml"
+    ],
+    [
+     "knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "ui (groot)",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenblokjes uit blik",
+     "225",
+     "g"
+    ],
+    [
+     "korianderzaad",
+     "1",
+     "tl"
+    ],
+    [
+     "gedroogde rozemarijn",
+     "0.5",
+     "tl"
+    ],
+    [
+     "milde groene pepers (of jalapeño) in reepjes",
+     "120",
+     "g"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Kneus het korianderzaad en week het in 1 eetlepel water.",
+    "Laat het vlees met de bouillon, de knoflook, zout en peper sudderen tot alle bouillon is opgenomen. Verwijder de knoflook.",
+    "Bak het vlees in de droge pan lichtbruin, voeg de gehakte ui toe en bak tot hij zacht is. Kook intussen de rijst.",
+    "Voeg de tomaten, het korianderwater, de rozemarijn en de groene pepers toe en breng zo nodig op smaak met zout.",
+    "Laat afgedekt minstens 30 minuten zachtjes stoven tot het vlees mals is en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 725,
+   "name": "Kip met paprika, zure room en gesmolten cheddar",
+   "type": "Vlees",
+   "time": 35,
+   "emoji": "🍗",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Pollo con poblanos' (gegaarde kip zelf gepocheerd; rijst zoals het boek aanraadt; gebruik poblano's of pittige pepers voor meer pit)",
+   "basePersons": 6,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kipfilet",
+     "600",
+     "g"
+    ],
+    [
+     "zonnebloemolie",
+     "4",
+     "el"
+    ],
+    [
+     "ui",
+     "4",
+     "stuk"
+    ],
+    [
+     "groene paprika",
+     "4",
+     "stuk"
+    ],
+    [
+     "zure room",
+     "240",
+     "ml"
+    ],
+    [
+     "gedroogde marjolein",
+     "1",
+     "snuf"
+    ],
+    [
+     "gedroogde tijm",
+     "1",
+     "snuf"
+    ],
+    [
+     "milde cheddar",
+     "100",
+     "g"
+    ],
+    [
+     "platte peterselie",
+     "1",
+     "el"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "snuf"
+    ],
+    [
+     "rijst",
+     "450",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Pocheer de kipfilet 12 tot 15 minuten in licht gezouten water tot hij gaar is en snijd hem in blokjes. Kook de rijst.",
+    "Blancheer de paprika's 3 minuten en snijd ze in grote stukken.",
+    "Verhit de olie in een zware pan en bak de gehakte uien en de paprika zacht.",
+    "Voeg de kip, zure room, zout, peper, marjolein en tijm toe en verwarm zachtjes zonder te laten koken.",
+    "Bestrooi met de geraspte kaas, peterselie en een snuf paprikapoeder, laat de kaas even smelten en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 726,
+   "name": "Kip op Yucateekse wijze met saffraan, kaneel en zoete wijn",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍗",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Pollo estilo Yucatán' (kippenpoten in plaats van twee gehalveerde kuikens; rijst toegevoegd)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kippenpoten",
+     "4",
+     "stuk"
+    ],
+    [
+     "boter",
+     "45",
+     "g"
+    ],
+    [
+     "knoflook",
+     "2",
+     "teen"
+    ],
+    [
+     "gemalen kaneel",
+     "0.25",
+     "tl"
+    ],
+    [
+     "gemalen kruidnagel",
+     "0.25",
+     "tl"
+    ],
+    [
+     "milde chilipoeder (kruidenmix)",
+     "0.5",
+     "tl"
+    ],
+    [
+     "geroosterd wit bolletje",
+     "1",
+     "stuk"
+    ],
+    [
+     "tomatenpassata",
+     "240",
+     "ml"
+    ],
+    [
+     "geraspte ui",
+     "1",
+     "tl"
+    ],
+    [
+     "citroensap",
+     "1",
+     "tl"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "zoete witte wijn",
+     "120",
+     "ml"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ],
+    [
+     "zout en zwarte peper",
+     "1",
+     "snuf"
+    ]
+   ],
+   "steps": [
+    "Bestrijk de kip met de helft van de boter, gesmolten, breng op smaak en gril of bak hem aan beide kanten bruin. Kook de rijst.",
+    "Smelt de rest van de boter in een braadpan, bak de knoflook bruin en verwijder hem.",
+    "Maal het bolletje met de kaneel, kruidnagel en chilipoeder fijn en roer het door de boter. Voeg de passata met de geraspte ui en het citroensap toe en laat 5 minuten koken.",
+    "Leg de kip in de saus, voeg de saffraan en de wijn toe en laat 30 tot 40 minuten zachtjes stoven tot de kip gaar is en de saus dik.",
+    "Serveer heet met de rijst."
+   ]
+  },
+  {
+   "id": 727,
+   "name": "Kip uit de oven in sinaasappelsap met rozijnen en ananas",
+   "type": "Vlees",
+   "time": 60,
+   "emoji": "🍊",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Pollo en jugo de naranja' (boek: 3 tot 4 personen; rijst toegevoegd)",
+   "basePersons": 4,
+   "season": "winter",
+   "ingredients": [
+    [
+     "sinaasappelsap",
+     "240",
+     "ml"
+    ],
+    [
+     "rozijnen",
+     "75",
+     "g"
+    ],
+    [
+     "ananasstukjes uit blik (uitgelekt)",
+     "120",
+     "g"
+    ],
+    [
+     "suiker",
+     "2",
+     "el"
+    ],
+    [
+     "gemalen kaneel",
+     "1",
+     "tl"
+    ],
+    [
+     "gemalen kruidnagel",
+     "0.5",
+     "tl"
+    ],
+    [
+     "droge witte wijn",
+     "240",
+     "ml"
+    ],
+    [
+     "kippendelen met bot",
+     "1300",
+     "g"
+    ],
+    [
+     "bloem",
+     "60",
+     "g"
+    ],
+    [
+     "zout",
+     "1.5",
+     "tl"
+    ],
+    [
+     "zwarte peper",
+     "0.5",
+     "tl"
+    ],
+    [
+     "zonnebloemolie",
+     "3",
+     "el"
+    ],
+    [
+     "geroosterde gehakte noten",
+     "30",
+     "g"
+    ],
+    [
+     "rijst",
+     "300",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Meng het sinaasappelsap, de rozijnen, ananas, suiker, kaneel, kruidnagel en wijn. Verwarm de oven voor op 165 °C.",
+    "Meng de bloem met het zout en de peper en haal de kip erdoor.",
+    "Bak de kip in de olie rondom goed bruin en leg hem in een ovenschaal.",
+    "Giet de saus erover en bak 15 minuten. Zet de oven op 175 °C en bak nog ongeveer 20 minuten tot de kip gaar is. Kook intussen de rijst.",
+    "Bestrooi met de noten, breng zo nodig op smaak en serveer met de rijst."
+   ]
+  },
+  {
+   "id": 728,
+   "name": "Kip en saffraanrijst uit de oven met olijven en doperwten",
+   "type": "Vlees",
+   "time": 95,
+   "emoji": "🍚",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Chicken La Bodega' (het boek noemt 3 eetlepels saffraanpoeder; een flinke snuf is genoeg)",
+   "basePersons": 4,
+   "season": "altijd",
+   "ingredients": [
+    [
+     "kippendelen met bot (poten en borst)",
+     "1350",
+     "g"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "paprikapoeder",
+     "1",
+     "tl"
+    ],
+    [
+     "olijfolie",
+     "6",
+     "el"
+    ],
+    [
+     "boter",
+     "1",
+     "el"
+    ],
+    [
+     "saffraan",
+     "1",
+     "snuf"
+    ],
+    [
+     "rijst",
+     "200",
+     "g"
+    ],
+    [
+     "kippenbouillon",
+     "350",
+     "ml"
+    ],
+    [
+     "laurierblad",
+     "3",
+     "stuk"
+    ],
+    [
+     "geroosterde paprika uit pot",
+     "55",
+     "g"
+    ],
+    [
+     "zwarte olijven zonder pit",
+     "140",
+     "g"
+    ],
+    [
+     "doperwten",
+     "150",
+     "g"
+    ]
+   ],
+   "steps": [
+    "Bestrooi de kip met zout en paprikapoeder en bak hem langzaam lichtbruin in de olijfolie.",
+    "Smelt de boter, roer de saffraan erdoor en voeg de rijst toe. Bak 10 minuten en schep een- of tweemaal om.",
+    "Voeg de bouillon toe, doe de deksel erop en laat 15 minuten zachtjes koken. Verwarm de oven voor op 175 °C.",
+    "Leg de laurier op de bodem van een ovenschaal en verdeel de rijst, kip, gehakte paprika en gehakte olijven erover. Dek af en bak ongeveer een uur tot kip en rijst gaar zijn; voeg wat warm water toe als het te droog wordt.",
+    "Roer de doperwten er het laatste kwartier door."
+   ]
+  },
+  {
+   "id": 729,
+   "name": "Gegrilde kip met honing, kaneel, limoen en vermout",
+   "type": "Vlees",
+   "time": 50,
+   "emoji": "🍗",
+   "cuisine": "Mexicaans",
+   "source": "Aaron",
+   "sourceRef": "The Art of Mexican Cooking (1965), 'Pollo adobado' (boek: 2 tot 4 personen; maïskolven toegevoegd; oven kan ook)",
+   "basePersons": 3,
+   "season": "zomer",
+   "timeNote": "Kip 5 tot 6 uur marineren",
+   "ingredients": [
+    [
+     "droge vermout",
+     "120",
+     "ml"
+    ],
+    [
+     "gemalen kaneel",
+     "2.5",
+     "tl"
+    ],
+    [
+     "honing",
+     "80",
+     "ml"
+    ],
+    [
+     "zout",
+     "1",
+     "tl"
+    ],
+    [
+     "kip in stukken",
+     "900",
+     "g"
+    ],
+    [
+     "limoensap",
+     "2",
+     "el"
+    ],
+    [
+     "kleine teen knoflook",
+     "1",
+     "teen"
+    ],
+    [
+     "maïskolf",
+     "3",
+     "stuk"
+    ]
+   ],
+   "steps": [
+    "Meng de vermout, kaneel, honing, limoensap, geperste knoflook en zout tot een marinade.",
+    "Schep de kip erdoor zodat alle stukken bedekt zijn en laat 5 tot 6 uur in de koelkast marineren.",
+    "Laat de kip op kamertemperatuur komen en steek de barbecue aan.",
+    "Gril de kip ongeveer 40 minuten niet te dicht boven de kolen en bestrijk hem regelmatig met de marinade. Wordt de marinade te dik, verdun hem dan met wat vermout. In de oven gaat het op 200 °C in ongeveer 40 minuten.",
+    "Gril de maïskolven de laatste 15 minuten mee en serveer ze bij de kip."
    ]
   }
  ]

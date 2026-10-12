@@ -603,3 +603,23 @@ Twee recepten zonder gerechtfoto in het boek hebben een Pexels-voorbeeldfoto (li
 
 - Kabeljauw uit de oven met rucola en ansjovisvinaigrette: https://www.pexels.com/photo/3599973/
 - Heek met romige boerenkool, peterselie en kappertjes: https://www.pexels.com/photo/36009488/
+
+## The Art of Mexican Cooking (Jan Aaron en Georgine Sachs Salom)
+
+Het boek bevat alleen tekeningen, geen foto's. Alle 15 recepten (715 tot en met 729) hebben daarom een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Vis op Veracruzaanse wijze met tomaat, olijven en kappertjes: https://www.pexels.com/photo/37206697/
+- Vis in sinaasappelsap met tomaat, kappertjes en amandelen: https://www.pexels.com/photo/34636418/
+- Biefstuk met champignons, cognac en kaneelroomsaus: https://www.pexels.com/photo/36183183/
+- Biefstukreepjes uit Mazatlán met pittige tomatensaus: https://www.pexels.com/photo/2098110/
+- Kalfsstoofje in pindasaus met tomaat en kruiden: https://www.pexels.com/photo/8024112/
+- Albóndigas in amandelsaus: https://www.pexels.com/photo/36958915/
+- Picadillo: Mexicaans gehakt met rozijnen, amandelen en olijven: https://www.pexels.com/photo/7340942/
+- Tinga: pittig getrokken varkensvlees met tomaat en avocado: https://www.pexels.com/photo/28895966/
+- Varkensgebraad in bier met gestoofde peren: https://www.pexels.com/photo/37047946/
+- Varkensstoof met groene pepers, tomaat en koriander: https://www.pexels.com/photo/5531292/
+- Kip met paprika, zure room en gesmolten cheddar: https://www.pexels.com/photo/15867565/
+- Kip op Yucateekse wijze met saffraan, kaneel en zoete wijn: https://www.pexels.com/photo/37826539/
+- Kip uit de oven in sinaasappelsap met rozijnen en ananas: https://www.pexels.com/photo/6072033/
+- Kip en saffraanrijst uit de oven met olijven en doperwten: https://www.pexels.com/photo/21822134/
+- Gegrilde kip met honing, kaneel, limoen en vermout: https://www.pexels.com/photo/33800905/
