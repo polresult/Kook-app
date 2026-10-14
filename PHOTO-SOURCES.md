@@ -1286,3 +1286,129 @@ De overige 40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pe
 1 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
 
 - Gegrilde makreel met soja-mirinmarinade: https://www.pexels.com/photo/8250362/
+
+## Dalmatia: recepten (2000 tot en met 2039)
+
+24 recepten tonen de gerechtfoto uit het boek als photos/dalmatia-<id>.webp.
+
+16 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Roerei met asperges en truffel: https://www.pexels.com/photo/4020655/
+- Riblja juha: Dalmatische vissoep met rijst: https://www.pexels.com/photo/7491902/
+- Gemarineerde gegrilde sardines: https://www.pexels.com/photo/18252686/
+- Dalmatische octopussalade met aardappel en kerstomaat: https://www.pexels.com/photo/17323511/
+- Soparnik: Dalmatische hartige taart met snijbiet: https://www.pexels.com/photo/37140111/
+- Đuveč: gesmoorde zomergroenten met rijst: https://www.pexels.com/photo/33776459/
+- Dalmatische ovenschotel van aubergine, aardappel en tomaat: https://www.pexels.com/photo/5864346/
+- Rižot od jastoga: romige Dalmatische kreeftrisotto: https://www.pexels.com/photo/28446391/
+- Manistra sa srdelama: Dalmatische pasta met ansjovis: https://www.pexels.com/photo/6399819/
+- Kokoš s maslinama: gepocheerde kip met olijvensalsa: https://www.pexels.com/photo/27626308/
+- Piletina s paprikom: kippenstoof met paprikapoeder en polentaknoedels: https://www.pexels.com/photo/9567078/
+- Pržolica: Dalmatische biefstuk met snijbiet en aardappel: https://www.pexels.com/photo/38895885/
+- Arambašići: Dalmatische rolletjes van rund en varken in wijnbladeren: https://www.pexels.com/photo/32445973/
+- Ražnjići: gemarineerde varkensspiesjes van de grill: https://www.pexels.com/photo/11112699/
+- Palačinke: dunne pannenkoeken met ricotta en aardbeiencompote: https://www.pexels.com/photo/35057730/
+- Rafioli: gevulde amandelkoekjes uit Trogir: https://www.pexels.com/photo/35412273/
+
+## How to Cook Everything Vegan: recepten (2040 tot en met 2079)
+
+40 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Romige cashewspread met zout: https://www.pexels.com/photo/5085765/
+- Zoetzure koolsalade met peper en koriander: https://www.pexels.com/photo/36378880/
+- Zeewiersalade met sesam en sojasaus: https://www.pexels.com/photo/8956831/
+- Verse tomatensoep met tijm: https://www.pexels.com/photo/36430086/
+- Romige champignonsoep op plantaardige basis: https://www.pexels.com/photo/29653180/
+- Krokante falafel van kikkererwten: https://www.pexels.com/photo/6631954/
+- Zijdezachte rijstpapier-rolletjes met lente-ui: https://www.pexels.com/photo/38999224/
+- Melting Pot: alles-in-één groentestoofsoep: https://www.pexels.com/photo/30700510/
+- Geroosterde auberginesteaks met kruidenzout: https://www.pexels.com/photo/11601078/
+- Gesmoorde groenten in kokoscurry met limoen: https://www.pexels.com/photo/10810716/
+- Courgettetaart uit de springvorm: in laagjes geroosterde courgette: https://www.pexels.com/photo/9432642/
+- Hele gevulde kool met knapperige notenvulling: https://www.pexels.com/photo/32604524/
+- Grote groentepannenkoek met broccoli (okonomiyaki-stijl): https://www.pexels.com/photo/6947180/
+- Romige zoeteaardappelgratin met krokante haverkorst: https://www.pexels.com/photo/4661177/
+- Zelfgemaakte aardappelgnocchi met salie en citroen: https://www.pexels.com/photo/9249364/
+- Gekruide pilaf van zilvervliesrijst: https://www.pexels.com/photo/14286683/
+- Uit de oven gebakken polenta: romig vanbinnen, krokant vanboven: https://www.pexels.com/photo/33173598/
+- Popcorn-posole: stevige Mexicaanse bonenstoof met krokante garnituur: https://www.pexels.com/photo/14179982/
+- Omgekeerde risotto: romig zonder constant roeren: https://www.pexels.com/photo/8864543/
+- Groentepaella met saffraanrijst: https://www.pexels.com/photo/6899840/
+- Pasta met verse gebakken champignons: https://www.pexels.com/photo/11041859/
+- Pasta uit de oven in romige tomatensaus van de bakplaat: https://www.pexels.com/photo/14930719/
+- Romige misopasta uit één pan: https://www.pexels.com/photo/33133363/
+- Koude soba met groenten en dipsaus: https://www.pexels.com/photo/31318769/
+- Marks klassieke bonenburger: https://www.pexels.com/photo/15076692/
+- Hartige bonensoep met groenten: https://www.pexels.com/photo/19870150/
+- Bonensalade met olijfolie, azijn en kruiden: https://www.pexels.com/photo/5191847/
+- Zoetzure edamame uit de pan: https://www.pexels.com/photo/37099771/
+- Boston baked beans: zoete witte bonen uit de oven: https://www.pexels.com/photo/30146171/
+- Linzengehaktbrood met rode biet en walnoot: https://www.pexels.com/photo/11369845/
+- Gesmoorde tofu in zoetzure ketchup-sojasaus: https://www.pexels.com/photo/6646097/
+- Pittige tempeh-chili met kidneybonen: https://www.pexels.com/photo/36010457/
+- Taco's en burrito's met kruidige bonen en salsa: https://www.pexels.com/photo/5837196/
+- Dikke pan-pizza op half-volkorenbodem: https://www.pexels.com/photo/10802337/
+- Romige vegan chocoladepudding met zijdetofu: https://www.pexels.com/photo/17303221/
+- Omgekeerde appelcrumble met krokante havertopping: https://www.pexels.com/photo/37363601/
+- Vochtige chocoladecake met cacaoglazuur: https://www.pexels.com/photo/33312980/
+- Amandeltaart met luchtig kokosglazuur: https://www.pexels.com/photo/26812555/
+- Marshmallow-snackcake met plantaardige dulce de leche: https://www.pexels.com/photo/15598842/
+- Vegan vanille-roomijs zonder ijsmachine: https://www.pexels.com/photo/38987559/
+
+## Eat The Food You Buy: recepten (2090 tot en met 2133)
+
+44 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Melanzane: aubergine-parmigiana met geconfijte tomatensaus: https://www.pexels.com/photo/19295802/
+- Jesse's gepaneerde aubergineschnitzel met kruidensalade: https://www.pexels.com/photo/34492422/
+- Mystery quiche met broccoli en cheddar: https://www.pexels.com/photo/19964400/
+- Romige pasta met worstballetjes en broccoli: https://www.pexels.com/photo/29353004/
+- Gegrilde spitskool met zoetpittige kimchi-jam: https://www.pexels.com/photo/37332207/
+- Geroosterde bloemkoolpartjes met hot honey en pittige pindakrokant: https://www.pexels.com/photo/34722097/
+- De ultieme bloemkool met geroosterde knoflook-kaassaus: https://www.pexels.com/photo/16311288/
+- Hele bloemkoolcurry met kokos en kikkererwten: https://www.pexels.com/photo/11663143/
+- Kippenpoten met freekeh en romesco van geroosterde paprika: https://www.pexels.com/photo/37287545/
+- Shakshuka: gepocheerde eieren in pittige paprika-tomatensaus: https://www.pexels.com/photo/30892286/
+- Muhammara: dip van geroosterde paprika en granaatappelmelasse: https://www.pexels.com/photo/25856542/
+- De ultieme rösti: knapperige aardappelkoek uit de pan: https://www.pexels.com/photo/33865562/
+- Verse gnocchi met rokerige roomsaus en spek: https://www.pexels.com/photo/38431272/
+- Iedereen-kan-dit pasta met kerstomaatjes: https://www.pexels.com/photo/39853057/
+- Tomatensalade met pittige dressing: https://www.pexels.com/photo/7462845/
+- Worteltaart met roomkaasglazuur: https://www.pexels.com/photo/5121948/
+- Gekruide wortelsoep met kokosmelk: https://www.pexels.com/photo/28286209/
+- Krokante erwtenkoekjes met kerrie: https://www.pexels.com/photo/13741662/
+- Leeg-de-koelkast groenteschotel met couscous: https://www.pexels.com/photo/36367576/
+- Roerbak van zijdezachte kip: https://www.pexels.com/photo/15735597/
+- Oma's hartige taart met kip en ham: https://www.pexels.com/photo/39070795/
+- Snelle kipcurry zonder taaie kip: https://www.pexels.com/photo/29684985/
+- Kerrie-kipomelet met mozzarella: https://www.pexels.com/photo/24706514/
+- Marts Schotse rundvleesstoof met whisky: https://www.pexels.com/photo/66639/
+- Philly cheesesteak-broodje van restjes rosbief: https://www.pexels.com/photo/37624172/
+- Marts Oklahoma-smashburger met gekonfijte jalapeños: https://www.pexels.com/photo/36741809/
+- Echte Cornish pasty met rundvlees en groente: https://www.pexels.com/photo/8402684/
+- Ricks Zweedse gehaktballetjes in jus: https://www.pexels.com/photo/37184396/
+- Marts simpele carbonara met spek: https://www.pexels.com/photo/546945/
+- Griekse varkenssouvlaki met tzatziki: https://www.pexels.com/photo/38299607/
+- Britse cassoulet met worst en witte bonen: https://www.pexels.com/photo/9201962/
+- Plakkerig langzaam gebraden lam met granaatappelmelasse: https://www.pexels.com/photo/19863261/
+- Lamstagine met dadels en abrikozen: https://www.pexels.com/photo/998244/
+- Lamskoteletten met zoete-aardappelpuree van knoflook en gember: https://www.pexels.com/photo/34629960/
+- Zalm met rokerige chipotle-kokossaus: https://www.pexels.com/photo/28161749/
+- Gevulde viskoekjes met verrassing van kaassaus: https://www.pexels.com/photo/8732583/
+- Thaise rode curry met zalm, courgette en druiven: https://www.pexels.com/photo/12561892/
+- Frittata met restgroenten en cheddar: https://www.pexels.com/photo/33922142/
+- Schud-salade met tonijn, kikkererwten en paprika (niçoise-stijl): https://www.pexels.com/photo/19572488/
+- Noedels met pittige pindasaus en gebakken ei: https://www.pexels.com/photo/39415354/
+- Kippilav: kippendijen met kruidige basmatirijst: https://www.pexels.com/photo/36885731/
+- Romige risotto met garnalen en doperwten: https://www.pexels.com/photo/20182315/
+- Citroen-drizzlecake: https://www.pexels.com/photo/8478143/
+- Toad in the hole: worstjes in luchtig Yorkshire-beslag: https://www.pexels.com/photo/19119797/
+
+## Ottolenghi Simple Too: recepten (2140 tot en met 2184)
+
+43 recepten tonen de gerechtfoto uit het boek als photos/ottsimple-<id>.webp.
+
+2 recepten hebben een Pexels-voorbeeldfoto (licentie: https://www.pexels.com/legal-pages/license/):
+
+- Geroosterde bloemkool op dubbele hummus: https://www.pexels.com/photo/27556257/
+- Courgettepasta met krokante kappertjes: https://www.pexels.com/photo/10802307/

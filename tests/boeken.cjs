@@ -4,10 +4,10 @@ const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 const recipes=JSON.parse(html.match(/const R=(\[.*?\]);/s)[1]);
 const photos=JSON.parse(html.match(/const PHOTOS=(\{.*?\});/s)[1]);
 const batch=JSON.parse(fs.readFileSync(path.join(root,'BOEKEN-BATCH.json'),'utf8'));
-assert.equal(batch.recipes.length,1195);
+assert.equal(batch.recipes.length,1364);
 for(const b of batch.recipes){const r=recipes.find(x=>x.id===b.id);assert(r,b.id);assert.equal(r.name,b.name);assert(r.basePersons>0);
  const file=r.photo||(photos[r.id]?'photos/'+photos[r.id]+'.webp':null);assert(file,'geen foto voor '+r.id);assert(fs.statSync(path.join(root,file)).size>1000,file);
  assert([undefined,'hoofd','voor','na'].includes(r.course),'gang '+r.id);
- if(r.course==='voor'||r.course==='na'){assert(r.photo?r.photo==='photos/'+r.source.toLowerCase()+'-'+r.id+'.webp':photos[r.id],'foto '+r.id);continue}
+ if(r.course==='voor'||r.course==='na'){assert(r.photo?r.photo==='photos/'+({OttolenghiSimple:'ottsimple'}[r.source]||r.source.toLowerCase())+'-'+r.id+'.webp':photos[r.id],'foto '+r.id);continue}
  if(r.source==='Bekkari')assert.equal(r.photo,'photos/bekkari-'+r.id+'.webp');if(r.source==='Batali')assert.equal(r.photo,'photos/batali-'+r.id+'.webp');if(r.source==='Aaron')assert(!r.photo&&photos[r.id]);if(r.source==='Carrillo')assert(r.photo?r.photo==='photos/carrillo-'+r.id+'.webp':photos[r.id]);if(r.source==='Tonks')assert(r.photo?r.photo==='photos/tonks-'+r.id+'.webp':photos[r.id]);if(r.source==='Ramsay')assert(r.photo?r.photo==='photos/ramsay-'+r.id+'.webp':photos[r.id]);if(r.source==='Ghayour')assert.equal(r.photo,'photos/ghayour-'+r.id+'.webp');if(r.source==='Taylor')assert.equal(r.photo,'photos/taylor-'+r.id+'.webp');if(r.source==='Stephenson')assert(!r.photo&&photos[r.id]);if(r.source==='HayFresh')assert(r.photo?r.photo==='photos/hayfresh-'+r.id+'.webp':photos[r.id]);if(r.source==='Ottolenghi')assert(r.photo?r.photo==='photos/ottolenghi-'+r.id+'.webp':photos[r.id]);if(r.source==='Hay')assert.equal(r.photo,'photos/hay-'+r.id+'.webp');if(r.source==='Chung')assert(r.photo?r.photo==='photos/chung-'+r.id+'.webp':photos[r.id]);if(r.source==='24Kitchen'||r.source==='Loveland')assert(!r.photo&&photos[r.id]);}
-console.log('PASS: 1195 boekrecepten met basePersons en een foto (Bekkari eigen foto, 24Kitchen en Loveland Pexels-voorbeeld)');
+console.log('PASS: 1364 boekrecepten met basePersons en een foto (Bekkari eigen foto, 24Kitchen en Loveland Pexels-voorbeeld)');
