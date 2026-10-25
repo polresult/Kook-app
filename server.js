@@ -50,7 +50,8 @@ function cleanState(s) {
     ratings: s.ratings && typeof s.ratings === 'object' ? s.ratings : {},
     checked: s.checked && typeof s.checked === 'object' ? s.checked : {},
     persons: Math.max(1, Math.min(16, parseInt(s.persons) || 2)),
-    pantry: s.pantry && typeof s.pantry === 'object' ? s.pantry : {}
+    pantry: s.pantry && typeof s.pantry === 'object' ? s.pantry : {},
+    extra: Array.isArray(s.extra) ? s.extra.filter(x => typeof x === 'string' && x.trim()).slice(0, 100) : []
   };
 }
 
