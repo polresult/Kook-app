@@ -51,7 +51,7 @@ function cleanState(s) {
     checked: s.checked && typeof s.checked === 'object' ? s.checked : {},
     persons: Math.max(1, Math.min(16, parseInt(s.persons) || 2)),
     pantry: s.pantry && typeof s.pantry === 'object' ? s.pantry : {},
-    extra: Array.isArray(s.extra) ? s.extra.filter(x => typeof x === 'string' && x.trim()).slice(0, 100) : []
+    extra: Array.isArray(s.extra) ? s.extra.map(x => typeof x === 'string' ? {n: x, q: ''} : (x && typeof x.n === 'string' ? {n: x.n, q: typeof x.q === 'string' ? x.q : ''} : null)).filter(x => x && x.n.trim()).map(x => ({n: x.n.slice(0, 200), q: x.q.slice(0, 80)})).slice(0, 100) : []
   };
 }
 
