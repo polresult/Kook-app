@@ -1,1 +1,4 @@
 data/
+tools/__pycache__/
+tools/.venv-tiktok/
+.tiktok-work/

@@ -4,11 +4,13 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
+const https = require('https');
 
 const ROOT = __dirname;
 const PORT = process.env.PORT || 3000;
 const DATA_DIR = process.env.DATA_DIR || (fs.existsSync('/data') ? '/data' : path.join(ROOT, 'data'));
 const DB_FILE = path.join(DATA_DIR, 'users.json');
+const INBOX_FILE = path.join(DATA_DIR, 'inbox.json');
 const TYPES = {
   '.html': 'text/html; charset=utf-8',
   '.js': 'text/javascript; charset=utf-8',
@@ -55,6 +57,58 @@ function cleanState(s) {
   };
 }
 
+// ---------- TikTok inbox ----------
+// Users hand in links to TikTok cooking videos. They are turned into recipes outside the
+// server (tools/tiktok.py reads /api/inbox/pending); a link counts as done once the app
+// ships a recipe for that video, so the server never has to track a status.
+let inbox = { items: [] };
+function loadInbox() {
+  try { inbox = JSON.parse(fs.readFileSync(INBOX_FILE, 'utf8')); } catch (e) { inbox = { items: [] }; }
+  if (!Array.isArray(inbox.items)) inbox.items = [];
+}
+function saveInbox() {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  const tmp = INBOX_FILE + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(inbox));
+  fs.renameSync(tmp, INBOX_FILE);
+}
+const TIKTOK_HOST = /^([a-z0-9-]+\.)?tiktok\.com$/;
+// First TikTok link in a piece of text (a share from the TikTok app is a sentence plus the link).
+function tiktokUrl(text) {
+  for (const m of String(text || '').slice(0, 2000).matchAll(/https?:\/\/[^\s<>"']+/g)) {
+    try {
+      const u = new URL(m[0].replace(/[).,!?]+$/, ''));
+      if (TIKTOK_HOST.test(u.hostname) && u.pathname.length > 1) return 'https://' + u.hostname + u.pathname;
+    } catch (e) {}
+  }
+  return null;
+}
+function tiktokParts(url) {
+  const id = /\/(?:video|photo)\/(\d+)/.exec(url), handle = /\/@([^/?]+)/.exec(url);
+  return { videoId: id ? id[1] : '', handle: handle ? handle[1] : '' };
+}
+// Short share links (vm.tiktok.com/…, tiktok.com/t/…) redirect to the full video link.
+// Follow at most four redirects, and only within tiktok.com.
+function resolveTikTok(url, hops = 4) {
+  return new Promise(resolve => {
+    if (tiktokParts(url).videoId || hops <= 0) return resolve(url);
+    const req = https.get(url, { timeout: 6000, headers: { 'User-Agent': 'Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126 Mobile Safari/537.36' } }, res => {
+      res.resume();
+      let next = null;
+      try {
+        const u = new URL(res.headers.location || '', url);
+        if (res.statusCode >= 300 && res.statusCode < 400 && u.protocol === 'https:' && TIKTOK_HOST.test(u.hostname)) next = 'https://' + u.hostname + u.pathname;
+      } catch (e) {}
+      next ? resolveTikTok(next, hops - 1).then(resolve) : resolve(url);
+    });
+    req.on('timeout', () => req.destroy());
+    req.on('error', () => resolve(url));
+  });
+}
+function inboxFor(key) {
+  return inbox.items.filter(it => it.by.includes(key)).map(({ id, url, videoId, handle, at }) => ({ id, url, videoId, handle, at }));
+}
+
 // ---------- helpers ----------
 function send(res, code, obj) {
   res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store' });
@@ -83,6 +137,12 @@ function issueToken(key) {
 // ---------- API ----------
 async function api(req, res, urlPath) {
   if (urlPath === '/api/ping') return send(res, 200, { ok: true, users: Object.keys(db.users).length });
+
+  // Read by tools/tiktok.py. Only public video links, no user names. Set INBOX_KEY to require ?key=.
+  if (urlPath === '/api/inbox/pending' && req.method === 'GET') {
+    if (process.env.INBOX_KEY && new URL(req.url, 'http://x').searchParams.get('key') !== process.env.INBOX_KEY) return send(res, 401, { error: 'Niet toegestaan.' });
+    return send(res, 200, { items: inbox.items.map(({ url, videoId, handle, at }) => ({ url, videoId, handle, at })) });
+  }
 
   if (urlPath === '/api/register' && req.method === 'POST') {
     const b = await readBody(req);
@@ -123,6 +183,34 @@ async function api(req, res, urlPath) {
     delete db.tokens[auth.token]; saveDb();
     return send(res, 200, { ok: true });
   }
+  if (urlPath === '/api/inbox' && req.method === 'GET') return send(res, 200, { items: inboxFor(auth.key) });
+  if (urlPath === '/api/inbox' && req.method === 'POST') {
+    const b = await readBody(req);
+    const found = tiktokUrl(b.url);
+    if (!found) return send(res, 400, { error: 'Dit is geen TikTok-link. Kopieer de link via Delen in TikTok.' });
+    const url = await resolveTikTok(found), parts = tiktokParts(url);
+    let it = inbox.items.find(x => (parts.videoId && x.videoId === parts.videoId) || x.url === url || x.url === found);
+    if (it && it.by.includes(auth.key)) return send(res, 200, { items: inboxFor(auth.key), known: true });
+    if (!it) {
+      if (inbox.items.length >= 500) return send(res, 400, { error: 'De wachtrij is vol. Probeer het later opnieuw.' });
+      if (inboxFor(auth.key).length >= 60) return send(res, 400, { error: 'Je hebt al veel links doorgegeven. Verwijder er eerst een paar.' });
+      it = { id: crypto.randomBytes(6).toString('hex'), url, videoId: parts.videoId, handle: parts.handle, at: Date.now(), by: [] };
+      inbox.items.push(it);
+    }
+    it.by.push(auth.key);
+    saveInbox();
+    return send(res, 200, { items: inboxFor(auth.key) });
+  }
+  if (urlPath === '/api/inbox/remove' && req.method === 'POST') {
+    const b = await readBody(req);
+    const it = inbox.items.find(x => x.id === b.id);
+    if (it) {
+      it.by = it.by.filter(k => k !== auth.key);
+      if (!it.by.length) inbox.items = inbox.items.filter(x => x !== it);
+      saveInbox();
+    }
+    return send(res, 200, { items: inboxFor(auth.key) });
+  }
   if (urlPath === '/api/users' && req.method === 'GET') {
     return send(res, 200, { users: Object.values(db.users).map(x => x.name).sort() });
   }
@@ -134,7 +222,8 @@ function serveStatic(req, res, urlPath) {
   if (urlPath.endsWith('/')) urlPath += 'index.html';
   const filePath = path.normalize(path.join(ROOT, urlPath));
   const blocked = ['server.js', 'package.json', 'railway.json'];
-  if (!filePath.startsWith(ROOT + path.sep) || filePath.startsWith(DATA_DIR) || blocked.includes(path.basename(filePath))) {
+  const hidden = path.relative(ROOT, filePath).split(path.sep).some(part => part.startsWith('.'));
+  if (!filePath.startsWith(ROOT + path.sep) || filePath.startsWith(DATA_DIR) || hidden || blocked.includes(path.basename(filePath))) {
     res.writeHead(404); return res.end('Not found');
   }
   fs.readFile(filePath, (err, data) => {
@@ -147,6 +236,7 @@ function serveStatic(req, res, urlPath) {
 }
 
 loadDb();
+loadInbox();
 // Keep the process alive: one bad request must never take the server down.
 process.on('uncaughtException', e => console.error('uncaughtException', e));
 process.on('unhandledRejection', e => console.error('unhandledRejection', e));
