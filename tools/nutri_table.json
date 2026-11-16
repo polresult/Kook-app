@@ -17362,5 +17362,71 @@ null
 12.5,
 null,
 null
+],
+"espresso": [
+2,
+0.1,
+null,
+15
+],
+"witte chocolade met gevriesdroogde aardbei": [
+560,
+6,
+null,
+null
+],
+"gecondenseerde melk": [
+320,
+8,
+null,
+20
+],
+"koffie": [
+1,
+0.1,
+null,
+15
+],
+"ijshoorntjes": [
+390,
+8,
+10,
+null
+],
+"limoncello": [
+300,
+0,
+null,
+15
+],
+"bosbessen": [
+57,
+0.7,
+null,
+null
+],
+"pistachecrème": [
+580,
+10,
+null,
+15
+],
+"Nutella": [
+540,
+6,
+null,
+18
+],
+"chocoladekoekjes": [
+480,
+6,
+null,
+null
+],
+"gele voedingskleurstof": [
+5,
+0,
+null,
+null
 ]
 }
