@@ -17776,5 +17776,77 @@ null,
 21,
 null,
 15
+],
+"kokoskoekjes": [
+480,
+5,
+null,
+null
+],
+"patatkruiden": [
+250,
+8,
+null,
+5
+],
+"diepvriesfruit": [
+50,
+1,
+null,
+null
+],
+"furikake": [
+400,
+15,
+null,
+5
+],
+"gyoza": [
+200,
+8,
+25,
+null
+],
+"gekleurde chocoladesnoepjes": [
+480,
+5,
+null,
+null
+],
+"gezouten popcorn": [
+500,
+9,
+null,
+null
+],
+"mini-marshmallows": [
+320,
+2,
+null,
+null
+],
+"sterke espresso": [
+2,
+0,
+null,
+15
+],
+"kipschnitzel": [
+220,
+17,
+null,
+null
+],
+"stroopwafels": [
+440,
+4,
+35,
+null
+],
+"karamelsiroop": [
+300,
+0,
+null,
+20
 ]
 }
