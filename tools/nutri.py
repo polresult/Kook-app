@@ -80,6 +80,9 @@ def main():
     gaps = {}
     onbetrouwbaar = []
     for r in R:
+        if any(i[2] == 'x' for i in r['ingredients']) or r.get('basic') == "Kruidenmixen & pasta's":
+            r.pop('nutri', None)  # verhoudingen (1x, 2x): geen gewicht bekend
+            continue
         k, p, missing = portion(r, table)
         for n in missing:
             gaps[n] = gaps.get(n, 0) + 1
