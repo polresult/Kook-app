@@ -18,7 +18,7 @@ Werkwijze per filmpje:
 
 recept.json:
   {"url": "https://www.tiktok.com/@naam/video/123", "via": "<doorgegeven link, als die anders was>",
-   "name": "...", "type": "Vlees|Vis|Vegetarisch", "course": "voor|hoofd|na", "time": 25,
+   "name": "...", "type": "Vlees|Vis|Vegetarisch", "course": "voor|hoofd|na|basis", "basic": "Sauzen|Dressings & olie|Dips & smeersels|Deeg & brood|Pasta|Ingelegd & conserven|Zoet & ontbijt" (alleen bij basisrecepten), "time": 25,
    "emoji": "🍝", "cuisine": "Italiaans", "basePersons": 2, "portionsEstimated": true,
    "ingredients": [["pasta", 200, "g"], ["zout", null, ""]], "estimatedIngredients": ["pasta"],
    "steps": ["...", "..."], "frame": 31.5, "crop": [0, 0.1, 1, 0.9]}
@@ -39,7 +39,7 @@ LIVE = 'https://kook.up.railway.app'
 FIRST_ID = 3000  # TikTok-recepten krijgen id's vanaf 3000
 PACKAGES = ['yt-dlp[default,curl-cffi]', 'imageio-ffmpeg', 'pillow', 'faster-whisper']
 TYPES = {'Vlees', 'Vis', 'Vegetarisch'}
-COURSES = {'voor', 'hoofd', 'na'}
+COURSES = {'voor', 'hoofd', 'na', 'basis'}
 
 def out(*a):
     sys.stdout.write(' '.join(str(x) for x in a) + '\n')
@@ -218,7 +218,7 @@ def check_recipe(r, path):
     need(video_id(r.get('url')), 'url moet een TikTok-videolink met id zijn')
     need(isinstance(r.get('name'), str) and r['name'].strip(), 'name ontbreekt')
     need(r.get('type') in TYPES, 'type moet Vlees, Vis of Vegetarisch zijn')
-    need(r.get('course', 'hoofd') in COURSES, 'course moet voor, hoofd of na zijn')
+    need(r.get('course', 'hoofd') in COURSES, 'course moet voor, hoofd, na of basis zijn')
     need(isinstance(r.get('basePersons'), int) and r['basePersons'] > 0, 'basePersons ontbreekt')
     need(isinstance(r.get('ingredients'), list) and len(r['ingredients']) >= 2, 'ingredients ontbreekt')
     for x in r['ingredients']:
@@ -265,7 +265,7 @@ def add(paths, bump=True):
              'sourceUrl': src['url'], 'creator': src.get('creator') or ('@' + handle.group(1) if handle else ''),
              'basePersons': src['basePersons'], 'ingredients': src['ingredients'], 'steps': src['steps'],
              'photo': photo, 'screenshotTimeSeconds': src['frame']}
-        for k in ('course', 'season', 'timeNote', 'portionsEstimated', 'estimatedIngredients', 'via'):
+        for k in ('course', 'basic', 'season', 'timeNote', 'portionsEstimated', 'estimatedIngredients', 'via'):
             if src.get(k) not in (None, '', []) and not (k == 'course' and src[k] == 'hoofd') and not (k == 'via' and src[k] == src['url']):
                 r[k] = src[k]
         _, _, missing = nutri.portion(r, table)
