@@ -39,7 +39,7 @@ function hashPin(pin, salt) { return crypto.scryptSync(String(pin), salt, 32).to
 function userKey(name) { return String(name || '').trim().toLowerCase(); }
 function validName(name) { return /^[\p{L}\p{N} _.-]{1,30}$/u.test(name); }
 function validPin(pin) { return /^\d{4,8}$/.test(pin); }
-const DEFAULT_STATE = { week: [], fav: [], ratings: {}, checked: {}, persons: 2, pantry: {} };
+const DEFAULT_STATE = { week: [], fav: [], ratings: {}, checked: {}, persons: 2, pantry: {}, gone: {} };
 function cleanState(s) {
   s = s && typeof s === 'object' ? s : {};
   return {
@@ -53,6 +53,7 @@ function cleanState(s) {
     checked: s.checked && typeof s.checked === 'object' ? s.checked : {},
     persons: Math.max(1, Math.min(16, parseInt(s.persons) || 2)),
     pantry: s.pantry && typeof s.pantry === 'object' ? s.pantry : {},
+    gone: s.gone && typeof s.gone === 'object' && !Array.isArray(s.gone) ? s.gone : {},
     extra: Array.isArray(s.extra) ? s.extra.map(x => typeof x === 'string' ? {n: x, q: ''} : (x && typeof x.n === 'string' ? {n: x.n, q: typeof x.q === 'string' ? x.q : ''} : null)).filter(x => x && x.n.trim()).map(x => ({n: x.n.slice(0, 200), q: x.q.slice(0, 80)})).slice(0, 100) : []
   };
 }
